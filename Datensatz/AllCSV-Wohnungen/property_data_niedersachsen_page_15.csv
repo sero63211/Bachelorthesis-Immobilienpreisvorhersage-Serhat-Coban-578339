@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Anschauen, Kaufen, Renovieren, Einziehen ....",69.000 €,"31737 Rinteln, Schaumburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,67 m²,1.030 €/m²,Etagenwohnung,nil,kfr. beziehbar,1,1,nil,"4,165% inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+++ provisionsfrei + Großzügige 5-Zimmer-Wohnung mit Terrassen- und Gartenfläche ++,285.000 €,"Mühlenstraße XXXX,
+38176 Wendeburg, Peine (Kreis)",5,"143,22 m²",1.990 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnung mit Garage - provisionsfrei,245.000 €,"Eschenweg XXXX,
+27374 Visselhövede, Rotenburg (Wümme) (Kreis)",1,125 m²,1.960 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1-Zimmer-Wohnung mit Pkw-Abstellplatz - provisionsfrei,70.000 €,"Senator-Meier-Straße XXXX,
+31515 Wunstorf, Hannover (Kreis)",1,"38,5 m²",1.818 €/m²,nil,"7,8 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 5-Zimmer-Wohnung mit Balkon - provisionsfrei,135.000 €,"Zum Verlaat XXXX,
+26871 Papenburg, Emsland (Kreis)",5,140 m²,964 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung nebst Terrasse - provisionsfre0,140.000 €,"Greifplatz XXXX,
+38640 Goslar, Goslar (Kreis)",3,"79,3 m²",1.765 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Loggia - provisionsfrei,105.000 €,"Südstraße XXXX,
+Schinkel-Ost, 49084 Osnabrück",2,66 m²,1.591 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 nicht ausgebaute Wohnungen - provisionsfrei,181.000 €,"Im Haspelfeld XXXX,
+Südstadt, 30173 Hannover",1,101 m²,1.792 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1-Zimmer-Wohnung mit Loggia - provisionsfrei,34.000 €,"Bremer Straße XXXX,
+Heidkrug Stickgras, 27751 Delmenhorst",1,"30,4 m²",1.118 €/m²,nil,"3,1 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 miteinander verbundene Wohnungen - provisionsfrei,113.800 €,"Taubentalsweg XXXX,
+38268 Lengede, Peine (Kreis)",5,96 m²,1.185 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Gemütliche 1-Zimmer-Wohnung - provisionsfrei,32.000 €,"Bremer Straße XXXX,
+Heidkrug Stickgras, 27751 Delmenhorst",1,"30,8 m²",1.039 €/m²,nil,"3,6 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Pkw-Stellplatz - provisionsfrei,110.000 €,"Südstraße XXXX,
+Schinkel-Ost, 49084 Osnabrück",2,66 m²,1.667 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nicht ausgebaute Wohnung - provisionsfrei,115.000 €,"Im Haspelfeld XXXX,
+Südstadt, 30173 Hannover",1,62 m²,1.855 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnung mit Pkw-Stellplatz - provisionsfrei,146.000 €,"Zur Rampe XXXX,
+27299 Langwedel, Verden (Kreis)",4,"72,61 m²",2.011 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 3-Zimmer-Wohnung mit 3 Stellplätzen - provisionsfrei,695.000 €,"Lüneburger Straße XXXX,
+38518 Gifhorn, Gifhorn (Kreis)",3,"188,6 m²",3.685 €/m²,nil,76 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Loggia ++ ohne Provision ++,116.000 €,"Königsberger Straße XXXX,
+30916 Isernhagen, Hannover (Kreis)",2,61 m²,1.902 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Loggia - provisionsfrei,150.000 €,"Greifplatz XXXX,
+38640 Goslar, Goslar (Kreis)",3,"83,14 m²",1.804 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit schönem Balkon - provisionsfrei,245.000 €,"Hannoversche Straße XXXX,
+30823 Garbsen, Hannover (Kreis)",4,94 m²,2.606 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geräumige 4-Zimmer-Wohnung mit Garage - provisionsfrei,325.000 €,"Bruchgraben XXXX,
+30966 Hemmingen, Hannover (Kreis)",4,126 m²,2.579 €/m²,nil,62 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nicht ausgebaute Wohnung - provisionsfrei,115.000 €,"Im Haspelfeld XXXX,
+Südstadt, 30173 Hannover",1,62 m²,1.855 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

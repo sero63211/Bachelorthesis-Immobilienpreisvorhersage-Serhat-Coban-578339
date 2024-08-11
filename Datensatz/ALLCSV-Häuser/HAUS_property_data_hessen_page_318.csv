@@ -1,0 +1,45 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Freistehendes Wohnhaus mit Garage und Garten,170.000 €,"37276 Meinhard, Werra-Meißner-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,158 m²,702 m²,1.076 €/m²,Einfamilienhaus (freistehend),nil,sofort,nil,1,3 Garagen,"3,57 % des notariellen Kaufpreises inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Großes Wohnhaus mit Werkstatt in Meinhard,129.000 €,"37276 Meinhard, Werra-Meißner-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,176 m²,800 m²,733 €/m²,Wohnimmobilie (sonstige),nil,sofort,nil,2,3 Stellplätze,"3,57 % des notariellen Kaufpreises inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wohnhaus im Ebsdorfergrund (plus Grundstück),795.000 €,"35085 Ebsdorfergrund, Marburg-Biedenkopf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,267 m²,1.381 m²,2.978 €/m²,nil,102 m²,22.5.2024,6,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktives Einfamilienhaus in ausgezeichneter Lage in Marburg,554.000 €,"Marbach, 35041 Marburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,179 m²,628 m²,3.095 €/m²,Einfamilienhaus (freistehend),83 m²,nach Vereinbarung,nil,2,nil,"3,57 % incl. Mwst.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"FAST SCHON EIN LANDSITZ! 3-Fam Haus, barrierefrei, saniert, ca. 1422 m² GS, Feldrandlage & Stadtnah!",540.000 €,"63607 Wächtersbach, Main-Kinzig-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"251,23 m²",1.422 m²,2.149 €/m²,Mehrfamilienhaus,"153,55 m²",nil,8,3,2 Carports,"3,57 % inkl. MwSt.","{'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+"Ihr Einfamilienhaus seitlich des Nerotals, noch frei planbar",1.700.000 €,"Ruhbergstraße 14,
+Nordost, 65193 Wiesbaden",5,220 m²,490 m²,7.727 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,Garage,€ 19.062.-,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"DAS GEMACHTE NEST-HAUS IN BÜDINGEN! Bungalow mit DG, Garage, Traumgarten, Workspacegartenhaus & EBK!",375.000 €,"63654 Büdingen, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"105,54 m²",732 m²,3.553 €/m²,Bungalow,"71,21 m²",nil,4,1,1 Garage,"3,57 % inkl. MwSt.",{'is24qa-keller-label': ''}
+Großes 3-Familienhaus in ruhiger Lage von Biebesheim,698.700 €,"64584 Biebesheim am Rhein, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,318 m²,485 m²,2.197 €/m²,Mehrfamilienhaus,123 m²,nil,8,3,2 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ansprechendes und neuwertiges 5-Raum-Einfamilienhaus mit geh. Innenausstattung Baujahr 2013,1.290.000 €,"Bommersheimer Weg 120a,
+61348 Bad Homburg vor der Höhe, Hochtaunuskreis",5,160 m²,570 m²,8.063 €/m²,Einfamilienhaus (freistehend),22 m²,nil,4,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit Einliegerwohnung in Kelkheimer Bestlage,1.375.000 €,"65779 Kelkheim (Taunus), Main-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,284 m²,822 m²,4.842 €/m²,Einfamilienhaus (freistehend),67 m²,31.03.2025,nil,nil,2 Stellplätze,"2,975 % vom Kaufpreis inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Bruchköbel, 1-FH, freistehend, 6 Zimmer, 2 Bäder, Werkstattgebäude, Garagen",800.000 €,"Rosenring Nähe 00,
+63486 Bruchköbel, Main-Kinzig-Kreis",6,224 m²,1.190 m²,3.571 €/m²,Einfamilienhaus (freistehend),nil,Nach Absprache,4,2,3 Garagen,"3,57 % inkl. MwSt.",{'is24qa-gaeste-wc-label': ''}
+Jugendstilvilla,1.250.000 €,"65594 Runkel, Limburg-Weilburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","7,5",300 m²,750 m²,4.167 €/m²,Villa,nil,3.6.2024,nil,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktives 7-Zimmer-Mehrfamilienhaus in Neu-Anspach,850.000 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,190 m²,860 m²,4.474 €/m²,Mehrfamilienhaus,190 m²,nil,4,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 7.0-Zimmer Haus in Nauheim,846.000 €,"64569 Nauheim, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,174 m²,598 m²,4.862 €/m²,Bungalow,nil,nil,nil,nil,nil,nil,{}
+Geräumiges 7-Raum-Einfamilienhaus in Grünberg,560.000 €,"35305 Grünberg, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,230 m²,950 m²,2.435 €/m²,Einfamilienhaus (freistehend),nil,2.6.2024,4,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehendes Einfamilienhaus im Neubaugebiet,679.000 €,"68642 Bürstadt, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,147 m²,400 m²,4.619 €/m²,Einfamilienhaus (freistehend),0 m²,1.9.2024,4,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Rarität an der Bergstraße: Historisches Gebäude in exponierter Lage von Zwingenberg,715.000 €,"Auf dem Berg 9 - 11,
+64673 Zwingenberg, Bergstraße (Kreis)",6,220 m²,174 m²,3.250 €/m²,Einfamilienhaus (freistehend),43 m²,2.6.2024,nil,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+WRS Immobilien - Neuberg - Architekten-Villa mit Einliegerwohnung + großem Garten mit Baumbestand,668.000 €,"63543 Neuberg, Main-Kinzig-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,198 m²,975 m²,3.374 €/m²,Einfamilienhaus (freistehend),135 m²,nach Absprache,5,2,3 Garagen,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Günstiges, modernisiertes 6-Zimmer-Einfamilienhaus mit geh. Innenausstattung",449.000 €,"64686 Lautertal (Odenwald), Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,140 m²,985 m²,3.207 €/m²,Einfamilienhaus (freistehend),140 m²,1.10.2024,4,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschönes Einfamilienhaus für die Familie,785.000 €,"Mittelbuchen, 63454 Hanau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,152 m²,365 m²,5.164 €/m²,nil,nil,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Moderne Doppelhaushälfte nähe FIS,1.100.000 €,"61440 Oberursel (Taunus), Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,550 m²,7.586 €/m²,Doppelhaushälfte,nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Doppelhaustraum in Oberursel, jetzt alle Förderungen sichern",1.100.000 €,"61440 Oberursel (Taunus), Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,550 m²,6.875 €/m²,Doppelhaushälfte,nil,nil,4,3,1 Carport,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

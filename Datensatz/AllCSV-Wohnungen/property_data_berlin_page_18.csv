@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
++ 2-Zimmer-Wohnung mit Loggia +,250.000 €,"Breisgauer Straße X,
+Nikolassee, 14129 Berlin",2,"56,34 m²",4.437 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Loggia,250.000 €,"Holländerstraße X,
+Reinickendorf (Ortsteil), 13407 Berlin",2,"66,99 m²",3.732 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+IMMOBERLIN.DE - Vortreffliche Altbauwohnung mit Sonnenbalkon + Pkw-Stellplatz,499.000 €,"Karlshorst, 10318 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,111 m²,4.495 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Außenstellplatz,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Einmaliges Ausbaupotenzial über den Dächern Berlins: Dachrohling in Schöneberg,453.975 €,"Treuchtlinger Straße 3,
+Schöneberg, 10779 Berlin",8,"181,59 m²",2.500 €/m²,Sonstige,nil,nil,nil,nil,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2½-Zimmer-Wohnung + provisionsfrei +,160.000 €,"Zeppelinstraße X,
+Falkenhagener Feld, 13583 Berlin",3,56 m²,2.857 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Exklusive Wohnetage! Top-Lage in der Dorotheenstadt! Zwei Einheiten im Paket!,2.400.000 €,"Mitte (Ortsteil), 10117 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,225 m²,10.667 €/m²,Etagenwohnung,nil,nil,4,3,nil,"3,57 % Käuferprovision vom notariell beurkundeten Kaufpreis inkl. MwSt.",{}
+"Mit Blick auf dem Müggelsee + 2-Zimmer-Wohnung, Terrasse +",310.000 €,"Müggelseedamm X,
+Friedrichshagen, 12587 Berlin",2,"54,34 m²",5.705 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Notarkosten geschenkt: Saniertes Gründerzeit-Apartment - Erstbezug nach Sanierung ++ Nähe Havel ++,198.000 €,"Bismarckstraße 61 a,
+Spandau (Ortsteil), 13585 Berlin",1,"32,34 m²",6.122 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartiges Penthouse in Berlin Köpenick - Eine Oase der Emotionen,699.000 €,"Köpenick, 12557 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"121,93 m²",5.733 €/m²,Penthouse,"167,12 m²",sofort,2,1,nil,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Großzügige 3-Zimmer-Wohnung, große Dachterrasse und Stellplatz",650.000 €,"Zerkwitzer Weg X,
+Schmöckwitz, 12527 Berlin",3,"104,8 m²",6.202 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Für Familien: 7-Zimmer-Altbauwohnung! Wird bezugsfrei!,699.000 €,"Tegel, 13507 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,163 m²,4.288 €/m²,nil,nil,01.10.2024,5,2,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': ''}"
+IMMOBERLIN.DE - Adrette Altbauwohnung mit Sonnenloggia in gefragter Lage,399.000 €,"Pankow (Ortsteil), 13187 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,6.435 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"Bezugsfreie 4-Zi.-Dachgeschosswohnung mit Terrasse und ca. 124,50 m² Gesamtfläche am Lietzenseepark",659.000 €,"Charlottenburg, 14059 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"107,51 m²",6.130 €/m²,Dachgeschoss,nil,16.04.2024,2,2,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Wohnung mit Balkon,211.000 €,"Juliusstraße X,
+Neukölln (Ortsteil), 12051 Berlin",3,"77,48 m²",2.723 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartige Familienwohnung im begehrten Güntzelkiez,1.995.000 €,"Wilmersdorf, 10717 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"236,1 m²",8.450 €/m²,Etagenwohnung,nil,nil,4,1,nil,"3,57 % inkl. gesetzlicher MwSt. bezogen auf den Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+IMMOBERLIN.DE - Lichtdurchflutete Wohnung mit Südloggia in angenehmer Lage,259.000 €,"Tempelhof, 12103 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,43 m²,6.023 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Attraktives Investment nahe Volkspark Wilmersdorf: vermietete Altbauwohnung mit Balkon,595.000 €,"Isoldestraße 1,
+Friedenau, 12159 Berlin",5,"155,76 m²",3.820 €/m²,Etagenwohnung,nil,vermietet seit 15.08.2008,nil,nil,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+RARITÄT- zauberhafter Weitblick-Hansaviertel-1.Raumapartment-9.OG mit Balkon und Klimaanlage-renovi.,275.000 €,"Klopstockstraße 2,
+Hansaviertel, 10557 Berlin",1,"31,6 m²",8.703 €/m²,Etagenwohnung,2 m²,nach Vereinbarung,1,1,1 Außenstellplatz,"3,57 incl.19 % Steuer","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+"Vornehmes Residieren in Reminiszenz an die ""Goldenen Zwanziger""",6.880.000 €,"Tiergarten, 10785 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,585 m²,11.761 €/m²,Etagenwohnung,nil,nil,6,4,2 Tiefgaragen-Stellplätze,"3,57 % inkl. gesetzlicher MwSt. bezogen auf den Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Helle 4-Zimmer Wohnung mit Südbalkon zur Kapitalanlage!,348.000 €,"Badensche Straße 31,
+Wilmersdorf, 10715 Berlin",4,81 m²,4.296 €/m²,Etagenwohnung,81 m²,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

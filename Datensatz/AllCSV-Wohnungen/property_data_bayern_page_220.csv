@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Gut gelegene 2-Zimmer-Wohnung mit Balkon in Traunstein,225.000 €,"83278 Traunstein, Traunstein (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,3.750 €/m²,Etagenwohnung,nil,nil,1,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4 Zimmer Familientraum im Erdgeschoss in ruhiger Lage von Neuendettelsau,335.000 €,"91564 Neuendettelsau, Ansbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,113 m²,2.965 €/m²,Erdgeschosswohnung,nil,sofort,3,1,1 Tiefgaragen-Stellplatz,"2,38 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Lichtdurchflutete, frisch renovierte 3,5 Zimmer-Whg. Provisionsfrei",295.000 €,"84453 Mühldorf am Inn, Mühldorf am Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",83 m²,3.554 €/m²,Etagenwohnung,nil,sofort,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"1-Zi.-App. - EBK, Loggia, TG, Frei - Nähe FH/Uni, Bahnhof - ZILLIG IMMOBILIEN",109.000 €,"Prinz-Rupprecht-Str. 8,
+Kasernenviertel, 93053 Regensburg",1,18 m²,6.056 €/m²,Etagenwohnung,nil,FREI,1,1,1 Tiefgaragen-Stellplatz,"4,76 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+"""Naturverbundenes Wohnen: Ein Zuhause mit Blick auf die Berge""",269.000 €,"83088 Kiefersfelden, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",50 m²,5.380 €/m²,nil,50 m²,25.04.2024,nil,1,2 Stellplätze,3.57%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+IMMOPARTNER - Ihre Altersvorsorge,168.000 €,"Röthenbach Ost, 90449 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,56 m²,3.000 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % vom Verkaufspreis inkl. MwSt., vom Käufer zu zahlen bei notarieller Beurkundung.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+3 Zimmer Penthousewohnung mit umlaufender Dachterasse Süd-West Ausrichtung,339.000 €,"86641 Rain, Donau-Ries (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,130 m²,2.608 €/m²,Penthouse,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sofort wohlfühlen: Top sanierte 3-Zi.-ETW inkl. Balkon und Stellplatz in Fürth,280.000 €,"Hardhöhe, 90766 Fürth
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"80,28 m²",3.488 €/m²,nil,nil,nach Absprache,2,1,1 Stellplatz,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Freundliche 2-Zimmer-Wohnung in München Obersendling,Auf Anfrage,"Boschetsrieder Straße 28,
+Thalkirchen, 81379 München",2,63 m²,nil,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"1-Zimmer-Wohnung Nähe Theresienwiese mit Blick in begrünten, sonnigen Innenhof - von Privat",Auf Anfrage,"Sendlinger Feld, 81371 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"41,8 m²",nil,Etagenwohnung,"3,7 m²",1.6.2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bezugsfrei: Helle 1-Zimmer-Wohnung mit Balkon,179.000 €,"83646 Bad Tölz, Bad Tölz-Wolfratshausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"35,87 m²",4.990 €/m²,nil,nil,nil,1,nil,1 Duplex-Stellplatz,"3,57 % incl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Einzigartige Gelegenheit 4-Zimmer-Wohnung im Bamberger Karmelitenkloster - 136 QM mit Balkon,Auf Anfrage,"Karmelitenplatz 1,
+Bergstadt, 96049 Bamberg",4,"136,44 m²",nil,nil,"4,33 m²",nach Vereinbarung,2,2,1 Parkhaus-Stellplatz,"1,785% vom Kaufpreis incl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Wohnung Kempten Stadtmitte,380.000 €,"Innenstadt, 87439 Kempten (Allgäu)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,102 m²,3.725 €/m²,Etagenwohnung,102 m²,nach Absprache,3,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zi-EG-Wohnung mit eigenem Garten in zentraler Lage,680.000 €,"Saglerstr. 1,
+85635 Höhenkirchen-Siegertsbrunn, München (Kreis)",4,100 m²,6.800 €/m²,Erdgeschosswohnung,6 m²,1.8.2024,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+RESERVIERT ----- Super 1-Zi.-Appartement - ZILLIG IMMOBILIEN,138.000 €,"Prinz-Rupprecht-Str. 8,
+Kasernenviertel, 93053 Regensburg",1,40 m²,3.450 €/m²,Dachgeschoss,nil,Vermietet,nil,1,nil,"4,76 %","{'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Wohnen in Bestlage: Etagenwohnung an der begehrten Hallerwiese – direkt vom Eigentümer,285.000 €,"Lindengasse 4,
+St. Johannis, 90419 Nürnberg",2,61 m²,4.672 €/m²,Etagenwohnung,nil,nil,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Preisreduktion! sofort verfügbare, energieeffiziente 3,5 Zi. ETW, Balkon, Neubauniveau, Wärmepumpe",379.900 €,"In der Au 1,
+91330 Eggolsheim, Forchheim (Kreis)","3,5",100 m²,3.799 €/m²,Etagenwohnung,16 m²,25.5.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Renoviertes 1-Zimmer Appartement in bester Lage mit Südbalkon und Kellerabteil - provisionsfrei,139.000 €,"Dornierstraße 18,
+Westenviertel, 93049 Regensburg",1,"29,85 m²",4.657 €/m²,Etagenwohnung,nil,1.5.2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gepflegte 2,5 Zimmer Wohnung in Neuendettelsau",190.000 €,"91564 Neuendettelsau, Ansbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","65,02 m²",2.922 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"2,5%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Bezugsfrei ab Januar 2025 - Traumhafte Lage!,499.000 €,"Waldtrudering, 81827 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,7.677 €/m²,nil,nil,nil,nil,2,2 Stellplätze,3.57%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"

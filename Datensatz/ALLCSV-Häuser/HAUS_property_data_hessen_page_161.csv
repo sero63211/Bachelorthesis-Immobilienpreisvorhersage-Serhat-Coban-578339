@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus mit Doppelgarage,206.300 €,"Kleinfeldstraße XXX,
+65606 Villmar, Limburg-Weilburg (Kreis)",1,1 m²,912 m²,206.300 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Villengrundstück mit Parkanlage,475.000 €,"Rhönstraße XXX,
+63667 Nidda, Wetteraukreis",1,1 m²,6.490 m²,475.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Zweifamilienhaus mit zusätzlichem Apartment und großem Garten in schöner Lage von Oberzwehren,390.000 €,"Oberzwehren, 34132 Kassel
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,211 m²,797 m²,1.848 €/m²,Mehrfamilienhaus,nil,nil,7,5,2 Garagen,"5,95 % inkl. der gesetzl. MwSt., bezogen auf den Kaufpreis",{}
+Schönes 1-Familienhaus mit Doppelgarage,359.000 €,"35633 Lahnau, Lahn-Dill-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"118,46 m²",478 m²,3.031 €/m²,Einfamilienhaus (freistehend),123 m²,April 2024,2,2,2 Garagen,"3,57 % des Kaufpreises inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Einfamilienhaus mit Einliegerwohnung in familienfreundlicher Wohnlage - provisionsfrei,190.000 €,"Weinbergstraße XXX,
+35745 Herborn, Lahn-Dill-Kreis",7,248 m²,605 m²,766 €/m²,Wohnimmobilie (sonstige),107 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus nebst Garage - ohne Provision!,293.000 €,"Fasanenweg XXX,
+Bettenhausen, 34123 Kassel",5,130 m²,690 m²,2.254 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Reihenmittelhaus - provisionsfrei,320.000 €,"Heerstraße XXX,
+Praunheim, 60488 Frankfurt am Main",3,74 m²,180 m²,4.324 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Dachterrasse ++ provisionsfrei ++,44.900 €,"Burgstraße XXX,
+37242 Bad Sooden-Allendorf, Werra-Meißner-Kreis",12,134 m²,199 m²,335 €/m²,Wohnimmobilie (sonstige),140 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Garten und Stellplätzen + provisionsfrei +,99.000 €,"Eisenbergstraße XXX,
+37247 Großalmerode, Werra-Meißner-Kreis",8,164 m²,462 m²,604 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision! Einfamilienhaus nebst Garage,169.000 €,"Am Roßberg XXX,
+35619 Braunfels, Lahn-Dill-Kreis",4,"113,29 m²",1.196 m²,1.492 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Platz für die ganze Familie ++ großes 2-Familienhaus mit Doppelgarage ++,590.000 €,"Von-Dalberg-Straße XXX,
+63619 Bad Orb, Main-Kinzig-Kreis",7,235 m²,684 m²,2.511 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garten + provisionsfrei +,47.000 €,"Hindenburgstraße XXX,
+37284 Waldkappel, Werra-Meißner-Kreis",3,114 m²,332 m²,412 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit 2 Lagergebäuden - provisionsfrei,51.000 €,"Roppershäuser Straße XXX,
+34626 Neukirchen, Schwalm-Eder-Kreis",1,331 m²,1.054 m²,154 €/m²,Wohnimmobilie (sonstige),280 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision! Wohnhaus mit mehreren Garagen,120.000 €,"Grorotherstraße XXX,
+Frauenstein, 65201 Wiesbaden",13,"394,74 m²",2.003 m²,304 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlage + Dreifamilienhaus, Garage, Stellplatz",455.000 €,"Keplerring XXX,
+65428 Rüsselsheim am Main, Groß-Gerau (Kreis)",1,250 m²,678 m²,1.820 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Wohnhaus mit Garten und Garage,370.000 €,"Wendelinusstraße XXX,
+36039 Fulda, Fulda (Kreis)",6,189 m²,695 m²,1.958 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Terrasse, Garten + provisionsfrei +",405.000 €,"Am Kreuzberg XXX,
+35619 Braunfels, Lahn-Dill-Kreis",4,"145,16 m²",558 m²,2.790 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, 2 Garagen + provisionsfrei +",79.000 €,"Göffelshof XXX,
+35708 Haiger, Lahn-Dill-Kreis",4,150 m²,547 m²,527 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Ehem. Pension mit Betreiberwohnung, 2 Garagen, 4 Außenstellplätze",575.000 €,"Gutenbergstraße XXX,
+63110 Rodgau, Offenbach (Kreis)",1,89 m²,884 m²,6.461 €/m²,Wohnimmobilie (sonstige),354 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"+++ TOP ANGEBOT +++ Wohn & Geschäftshaus mit über 7,4 % Rendite",695.000 €,"64839 Münster, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,320 m²,335 m²,2.172 €/m²,Mehrfamilienhaus,100 m²,Absprache,10,5,nil,"3,57% inkl. Mwst vom Käufer","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"

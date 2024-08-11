@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Zu verkaufen! 3,5-Raummaisonette-Eigentumswohnung mit Balkon für Kapitalanleger oder Selbstnutzer",100.000 €,"Nebestraße 10,
+Stadtzentrum, 99817 Eisenach","3,5","80,09 m²",1.249 €/m²,Maisonette,nil,sofort zum Kauf,3,1,nil,3% zzgl. MwSt,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Genießen Sie den Sommer im neuen Zuhause! Jetzt Besichtigungstermin vereinbaren!,310.657 €,"Unter dem Pflinzhöck 0,
+Stockhausen, 99817 Eisenach",3,"80,69 m²",3.850 €/m²,Dachgeschoss,nil,2024,2,1,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"PROVISIONSFREI! Frisch renovierte 3-Zimmer-Wohnung im 3. Stock, mit Balkon",55.000 €,"04626 Schmölln, Altenburger Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"57,6 m²",955 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,nil,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"PROVISIONSFREI! Gepflegtes Apartment mit Balkon, rund 5% Rendite",46.000 €,"04626 Schmölln, Altenburger Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,30 m²,1.533 €/m²,Dachgeschoss,nil,nil,nil,1,1 Garage,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Ideal für handwerklich Begabte! 3-Raum-Eigentumswohnung mit Potenzial,85.000 €,"Am Petersberg 53a,
+Stadtzentrum, 99817 Eisenach",3,"75,46 m²",1.126 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Garage,3%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Dachgeschosswohnung mit modernisierter Heizungsanlage in Sömmerda,61.950 €,"99610 Sömmerda, Sömmerda (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,40 m²,1.549 €/m²,Dachgeschoss,nil,nil,1,1,nil,3.500 Euro Maklercourtage (Käufer) inkl. 19 Prozent MwSt.,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+BEZUGSFREI Wohnung 1.OG Stadthaus am Südpark/Steiger-Löbervorstadt,298.000 €,"Daberstedt, 99096 Erfurt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"89,8 m²",3.318 €/m²,Etagenwohnung,nil,sofort,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+BEZUGSFREI Wohnung HP Stadthaus am Südpark/Steiger-Löbervorstadt,296.000 €,"Daberstedt, 99096 Erfurt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"89,78 m²",3.297 €/m²,Erdgeschosswohnung,nil,sofort,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bezugsfreie, schöne Wohnung in ruhiger Wohngegend",95.590 €,"04600 Altenburg, Altenburger Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,85 m²,1.125 €/m²,Hochparterre,nil,01.01.2024,3,1,nil,3.570 Euro Käuferprovision inkl. 19 % MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Das Warten hat sich gelohnt - Wohnung in bester Lage,150.000 €,"Debschwitz, 07548 Gera
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,1.948 €/m²,Etagenwohnung,nil,nil,2,1,1 Duplex-Stellplatz,"3,57 % Käuferprovision (inkl. gesetzl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Moderne Zweizimmerwohnung in zentraler Lage von Jena,260.000 €,"Jena-Süd, 07745 Jena
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,75 m²,3.467 €/m²,Etagenwohnung,nil,nil,nil,1,1 Garage,"3,57 % Käuferprovision inkl. 19 % MwSt.",{'is24qa-keller-label': ''}
+individuelle 3-Raumwohnung mit Stellplatz für Kapitalanleger oder Selbstnutzer zum Kauf!!!,115.000 €,"Am Ramsberg 16,
+Stadtzentrum, 99817 Eisenach",3,"73,33 m²",1.568 €/m²,Erdgeschosswohnung,nil,sofort zum Kauf,2,1,1 Außenstellplatz,3% zzgl. geltender MwSt.,{'is24qa-vermietet-label': ''}
+Schöne Dachgeschosswohnung in ruhiger Wohngegend - zur Kapitalanlage,89.000 €,"04600 Altenburg, Altenburger Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,98 m²,908 €/m²,Dachgeschoss,nil,nil,3,1,nil,3.570 Euro Käuferprovision inkl. 19 % MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+VERKAUF: 2-Raum Idyll am Forellenbach mit direktem Wartburgblick,89.000 €,"Westplatz 15,
+Stadtzentrum, 99817 Eisenach",2,"64,72 m²",1.375 €/m²,Dachgeschoss,nil,sofort zum Kauf,nil,nil,nil,3% zzgl. geltender MwSt.,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+VERKAUF! Im Grünen gelegene 2-Raumwohnung im Erdgeschoß mit Balkon und Stellplatz,54.000 €,"Eisenacher Sraße 25,
+99848 Wutha-Farnroda, Wartburgkreis",2,60 m²,900 €/m²,Erdgeschosswohnung,60 m²,sofort zum Kauf,1,1,1 Außenstellplatz,3% zzgl. geltender MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Super zentrale 2-Zimmer-Dachgeschosswohnung - gemütlich & hell,220.000 €,"Jena-Zentrum, 07743 Jena
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,2.973 €/m²,Dachgeschoss,"96,7 m²",sofort,2,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+VERKAUF: große 4 Raumwohnung mit Balkon und Stellplatz in Hörschel,115.000 €,"Rennsteigstraße 23,
+Neuenhof-Hörschel, 99817 Eisenach",4,"82,62 m²",1.392 €/m²,Dachgeschoss,nil,sofort zum Kauf,3,1,1 Außenstellplatz,3%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+VERKAUF! Attraktiv geschnittene 3-Raumwohnung mit Balkon,99.000 €,"Ulrich-von-Hutten-Str. 1,
+Stadtzentrum, 99817 Eisenach",3,"82,16 m²",1.205 €/m²,Hochparterre,nil,sofort zum Kauf,2,1,nil,3% zzgl. MwSt,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Historische ""Villa Musculus"" - großzügige 2-Raum-Wohnung mit Loggia und Stellplatz zu verkaufen",195.000 €,"Am Schlossberg 10,
+Stadtzentrum, 99817 Eisenach",2,"97,51 m²",2.000 €/m²,nil,nil,nil,1,1,1 Außenstellplatz,3%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Penthouse allein oder mit Gewerbeeinheit zusammen erwerben?,295.000 €,"Am Gehrengraben 3,
+99885 Ohrdruf, Gotha (Kreis)",5,250 m²,1.180 €/m²,Penthouse,nil,sofort,3,2,4 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

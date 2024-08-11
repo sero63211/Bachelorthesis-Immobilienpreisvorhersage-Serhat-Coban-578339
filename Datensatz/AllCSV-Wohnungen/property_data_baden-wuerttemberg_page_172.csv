@@ -1,0 +1,275 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Viel Platz für die Familie und zum Arbeiten mit schönem Garten,824.500 €,"Silcherstraße 43,
+73614 Schorndorf, Rems-Murr-Kreis",4,"118,05 m²",6.984 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1415 - Penthouse-Wohung,353.700 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"64,31 m²",5.500 €/m²,Penthouse,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1408 - 3-Zimmer,460.800 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"92,17 m²",4.999 €/m²,Etagenwohnung,nil,nil,2,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WHG 1420 - 3-Zimmer, barrierefrei",550.600 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"114,71 m²",4.800 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen im begehrten Schorndorfer Süden,630.000 €,"Silcherstraße 43,
+73614 Schorndorf, Rems-Murr-Kreis",3,"84,51 m²",7.455 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1405 - 2-Zimmer,207.000 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"42,25 m²",4.899 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,462.500 €,"Haselallee 8,
+74653 Künzelsau, Hohenlohekreis",3,"96,35 m²",4.800 €/m²,Penthouse,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 2-Zimmer Neubauwohnung in Baienfurt,280.000 €,"Karl-Rittler-Str. 8-14,
+88255 Baienfurt, Ravensburg (Kreis)",2,"47,2 m²",5.932 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+IHRE ALTERNATIVE ZUM EINFAMILIENHAUS !,492.000 €,"Bronnwiesenweg 8/1,
+73635 Rudersberg, Rems-Murr-Kreis",4,"104,73 m²",4.698 €/m²,nil,nil,30.09.2024,3,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,369.500 €,"Wacholderweg 11,
+74653 Künzelsau, Hohenlohekreis",3,"78,92 m²",4.682 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 4-Zimmer Neubauwohnung in Baienfurt,583.000 €,"Karl-Rittler-Str. 8-14,
+88255 Baienfurt, Ravensburg (Kreis)",4,"94,06 m²",6.198 €/m²,Erdgeschosswohnung,nil,nil,3,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1450 - 2-Zimmer,287.700 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,94 m²",4.800 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahes Wohnglück in der Nähe des Schurwalds,626.000 €,"Weckherlinstraße 2/2,
+73614 Schorndorf, Rems-Murr-Kreis",3,"83,93 m²",7.459 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1412 - 2-Zimmer,248.300 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"47,75 m²",5.200 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Barrierefreie Garten-Wohnung in ruhiger Wohnlage!,425.000 €,"69151 Neckargemünd, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"83,32 m²",5.101 €/m²,Hochparterre,nil,Sommer 2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1439 - Penthouse-Wohnung (Loft),922.600 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"166,03 m²",5.557 €/m²,Penthouse,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WHG 1467 - 3-Zimmer, barrierefrei",527.200 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"101,39 m²",5.200 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Tolle 4-Zimmerwohnung im 3-Familienhaus,499.000 €,"Lutherstraße 39,
+Betzingen, 72770 Reutlingen",4,"93,31 m²",5.348 €/m²,Erdgeschosswohnung,nil,2025,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Familienfreundliche 4-Zimmer-Wohnung, Naherholung pur!",539.000 €,"Schießtalstrasse 20/3,
+73527 Schwäbisch Gmünd, Ostalbkreis",4,"111,24 m²",4.845 €/m²,Erdgeschosswohnung,nil,30.09.2023,3,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1455 - 1-Zimmer,171.000 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"34,68 m²",4.931 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,407.500 €,"Wacholderweg 13,
+74653 Künzelsau, Hohenlohekreis",3,"87,88 m²",4.637 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1424 - 2-Zimmer,148.200 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"30,24 m²",4.901 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WHG 1425 - 3-Zimmer, barrierefrei",565.700 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"115,45 m²",4.900 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne 3-Zimmer Neubauwohnung in Baienfurt,468.800 €,"Karl-Rittler-Str. 8-14,
+88255 Baienfurt, Ravensburg (Kreis)",3,"75,6 m²",6.201 €/m²,Etagenwohnung,nil,nil,2,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2-Zimmerwohnung mit EBK, TG-Stellplatz und Kellerräumen",170.000 €,"Giebel, 70499 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,2.742 €/m²,nil,nil,nil,nil,1,nil,"3,57 % inkl. MwSt. des Kaufpreises.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+WHG 1419 - 2-Zimmer,140.500 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"29,28 m²",4.798 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Barrierefreies Neubau-Apartment mit Terrasse und Garten!,298.000 €,"69151 Neckargemünd, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5","58,13 m²",5.126 €/m²,Erdgeschosswohnung,nil,Sommer 2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WHG 1446 - 2-Zimmer, barrierefrei",234.100 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"48,78 m²",4.799 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Direkt am Kurpark: Baujahr 2023, großer Balkon, Einbauküche, 2 Tageslichtbäder, stufenloser Hauszuga",563.000 €,"78126 Königsfeld im Schwarzwald, Schwarzwald-Baar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","104,28 m²",5.399 €/m²,Etagenwohnung,4 m²,31.12.2024,2,2,1 Tiefgaragen-Stellplatz,"3,213 % inkl. MwSt. aus dem Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+WHG 1421 - 2-Zimmer,284.800 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,34 m²",4.799 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,376.500 €,"Haselallee 10,
+74653 Künzelsau, Hohenlohekreis",3,"88,22 m²",4.268 €/m²,Erdgeschosswohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1472 - 3-Zimmer,681.100 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"123,83 m²",5.500 €/m²,Etagenwohnung,nil,nil,2,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1400 - 3-Zimmer,428.100 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"89,19 m²",4.800 €/m²,Etagenwohnung,nil,nil,2,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ansprechende 1-Zimmer Neubauwohnung in Baienfurt,230.500 €,"Karl-Rittler-Str. 8-14,
+88255 Baienfurt, Ravensburg (Kreis)",1,"36,19 m²",6.369 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Die Alternative zum Haus - Maisonette,769.000 €,"West, 71636 Ludwigsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,5.782 €/m²,Maisonette,nil,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1452 - 2-Zimmer,359.600 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"73,83 m²",4.871 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1465 - 2-Zimmer,345.500 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"69,09 m²",5.001 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1462 - 1-Zimmer,173.000 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"34,62 m²",4.997 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,393.500 €,"Wacholderweg 13,
+74653 Künzelsau, Hohenlohekreis",3,"87,97 m²",4.473 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1461 - 2-Zimmer,390.300 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"78,06 m²",5.000 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sanierte 3-Zimmer-Wohnung mit Balkon und Stellplatz am Feldrand,340.000 €,"70794 Filderstadt, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,4.000 €/m²,nil,nil,06/2024,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Achtung Kapitalanleger, Preisgebundene Mietwohnung !",424.500 €,"Weckherlinstraße 2/1,
+73614 Schorndorf, Rems-Murr-Kreis",2,"66,98 m²",6.338 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Familiennest das glücklich macht mit kleinem Garten,1.013.500 €,"Silcherstraße 43,
+73614 Schorndorf, Rems-Murr-Kreis",4,"145,07 m²",6.986 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1436 - 2-Zimmer,308.400 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,31 m²",5.200 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eine Traumwohnung zum Verlieben - Ideal für Paare und Singles,685.000 €,"Weckherlinstraße 2/1,
+73614 Schorndorf, Rems-Murr-Kreis",3,"91,84 m²",7.459 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familienfreundlich und zentral Wohnen in Schorndorf !,752.000 €,"Silcherstraße 43,
+73614 Schorndorf, Rems-Murr-Kreis",4,"100,85 m²",7.457 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhafte 4-Zimmer Wohnung mit kleinem Garten im Süden Schorndorfs !,685.500 €,"Weckherlinstraße 2,
+73614 Schorndorf, Rems-Murr-Kreis",4,"98,09 m²",6.988 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,357.500 €,"Wacholderweg 11,
+74653 Künzelsau, Hohenlohekreis",3,"78,63 m²",4.547 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1470 - 2-Zimmer,380.900 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"67,12 m²",5.675 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihre Traumwohnung in der Daimlerstadt,734.500 €,"Silcherstraße 45,
+73614 Schorndorf, Rems-Murr-Kreis",4,"97,19 m²",7.557 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Großzügige 4,5 Zimmer Maisonette-Wohnung mit 140 qm, 2 Bädern und Kamin",299.000 €,"73117 Wangen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",140 m²,2.136 €/m²,Etagenwohnung,nil,sofort,3,2,nil,"2,975% inkl. MwSt.",{'is24qa-gaeste-wc-label': ''}
+"WHG 1430 - 3-Zimmer, barrierefrei",578.000 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"115,6 m²",5.000 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,390.500 €,"Haselallee 10,
+74653 Künzelsau, Hohenlohekreis",3,"87,04 m²",4.486 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer Wohntraum mit Balkon & Stellplatz in gefragter Lage!,519.000 €,"69151 Neckargemünd, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","98,63 m²",5.262 €/m²,Etagenwohnung,nil,Sommer 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Familientraum als Erstbezug im A+ Neubau!,539.000 €,"69151 Neckargemünd, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"106,32 m²",5.070 €/m²,Etagenwohnung,nil,Sommer 2024,3,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1431 - 2-Zimmer,297.000 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,4 m²",5.000 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,462.500 €,"Wacholderweg 11,
+74653 Künzelsau, Hohenlohekreis",3,"96,35 m²",4.800 €/m²,Penthouse,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1403 - 2-Zimmer,189.800 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"39,03 m²",4.863 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1469 - 2-Zimmer (Maisonette),539.400 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"101,8 m²",5.299 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Um diese Dachgeschoßwohnung wird man Sie beneiden ! Großzügig Wohnen mit ca. 30 m² Loggia,1.007.000 €,"Weckherlinstraße 2/1,
+73614 Schorndorf, Rems-Murr-Kreis",4,"126,1 m²",7.986 €/m²,nil,nil,nil,nil,2,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"1,5-Zimmer-Apartment mit Süd/West-Balkon im A+ Energiesparhaus!",335.000 €,"69151 Neckargemünd, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5","67,74 m²",4.945 €/m²,Loft,nil,Sommer 2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1437 - 4-Zimmer,543.800 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"104,58 m²",5.200 €/m²,Etagenwohnung,nil,nil,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ruhig und zentral, kurze Wege in die Innenstadt !",682.500 €,"Weckherlinstraße 2,
+73614 Schorndorf, Rems-Murr-Kreis",3,"91,49 m²",7.460 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Platz zum Wohnen - Ideal für die Stadtfamliie,937.500 €,"Silcherstraße 45,
+73614 Schorndorf, Rems-Murr-Kreis",4,"134,19 m²",6.986 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familienfreundlich und zentrumsnah Wohnen in Schorndorf,704.500 €,"Silcherstraße 45,
+73614 Schorndorf, Rems-Murr-Kreis",4,"97,17 m²",7.250 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1468 - 3-Zimmer,824.900 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"158,64 m²",5.200 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1429 - 2-Zimmer,151.500 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"30,29 m²",5.002 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1401 - 2-Zimmer,296.400 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"61,75 m²",4.800 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1409 - 2-Zimmer,237.400 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"47,47 m²",5.001 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1422 - 1-Zimmer,190.900 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"39,77 m²",4.800 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Platz zum Wohlfühlen finden Sie hier !,540.000 €,"Weckherlinstraße 2/2,
+73614 Schorndorf, Rems-Murr-Kreis",2,"66,7 m²",8.096 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Für das Haus im Haus Gefühl - mit dem Aufzug direkt in die Wohnung,1.155.000 €,"Silcherstraße 43,
+73614 Schorndorf, Rems-Murr-Kreis",4,"144,8 m²",7.977 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sonnige Dachgeschoßwohnung im 3-Familienhaus,449.000 €,"Lutherstraße 39,
+Betzingen, 72770 Reutlingen",4,"77,82 m²",5.770 €/m²,Dachgeschoss,nil,2025,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1414 - Penthouse-Wohung,456.200 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"82,95 m²",5.500 €/m²,Penthouse,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,227.500 €,"Haselallee 8,
+74653 Künzelsau, Hohenlohekreis",2,"48,61 m²",4.680 €/m²,Etagenwohnung,nil,Ende 2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1438 - Penthouse-Wohung,347.700 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,21 m²",5.501 €/m²,Penthouse,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1428 - 4-Zimmer,261.000 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"52,2 m²",5.000 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Elegante Neubauwohnung mit vielen Extras in ruhiger Lage!,449.000 €,"69151 Neckargemünd, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"83,32 m²",5.389 €/m²,Etagenwohnung,nil,Sommer 2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WHG 1474 - Penthouse-Wohnung, barrierefrei",604.600 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"106,07 m²",5.700 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WHG 1435 - 3-Zimmer, barrierefrei",604.700 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"116,28 m²",5.200 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erstbezug nach Renovierung: 3-Zimmerwohnung mit Balkon im Hochparterre,269.000 €,"Neckarweihingen, 71642 Ludwigsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"66,53 m²",4.043 €/m²,Erdgeschosswohnung,nil,nach Kaufpreiszahlung,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+WHG 1451 - 2-Zimmer,332.400 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"69,25 m²",4.800 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,417.500 €,"Haselallee 8,
+74653 Künzelsau, Hohenlohekreis",3,"86,78 m²",4.811 €/m²,Penthouse,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1426 - 2-Zimmer,290.600 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,31 m²",4.900 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1448 - 1-Zimmer,164.400 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"34,26 m²",4.799 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Chic und komfortabel Wohnen in der Daimlerstadt,730.000 €,"Weckherlinstraße 2/2,
+73614 Schorndorf, Rems-Murr-Kreis",4,"97,85 m²",7.460 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1466 - 2-Zimmer,369.900 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"67,35 m²",5.492 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Die Alternative zum Haus - großzügig, familienfreundlich Wohnen",508.000 €,"Bronnwiesenweg 8/1,
+73635 Rudersberg, Rems-Murr-Kreis",4,"104,78 m²",4.848 €/m²,nil,nil,30.09.2024,3,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WHG 1453 - 2-Zimmer, barrierefrei",238.300 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"48,64 m²",4.899 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Moderne, lichtdurchflutete und hochwertig ausgestattete Wohnung in 70499 Stuttgart",475.000 €,"Weilimdorf (Ortsteil), 70499 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",104 m²,4.567 €/m²,Dachgeschoss,nil,Ab sofort bzw nach Absprache,2,1,1 Tiefgaragen-Stellplatz,"2,38%","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Lichtdurchflutet und modern Wohnen !,639.000 €,"Silcherstraße 45,
+73614 Schorndorf, Rems-Murr-Kreis",3,"84,47 m²",7.565 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1459 - 2-Zimmer,364.800 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"72,95 m²",5.001 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1432 - 4-Zimmer,518.200 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"103,63 m²",5.000 €/m²,Etagenwohnung,nil,nil,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1445 - 2-Zimmer,348.600 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"72,62 m²",4.800 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+TRAUM MIT AUSSICHT ! BARRIEREFREI UND BEQUEM LEBEN,536.000 €,"Bronnwiesenweg 8/1,
+73635 Rudersberg, Rems-Murr-Kreis",3,"98,63 m²",5.434 €/m²,Dachgeschoss,nil,30.09.2024,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1407 - 2-Zimmer,195.300 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"39,24 m²",4.977 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WOHNEN IM AUSSICHTSREICH, DAS LEBEN BEGINNT JETZT !",519.500 €,"Bronnwiesenweg 8/1,
+73635 Rudersberg, Rems-Murr-Kreis",4,"104,77 m²",4.958 €/m²,nil,nil,30.09.2024,3,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kapitalanleger aufgepasst! Preisgebundene Mietwohnung,438.500 €,"Weckherlinstraße 2/1,
+73614 Schorndorf, Rems-Murr-Kreis",2,"73,81 m²",5.941 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bevorzugt Wohnen im Schorndorfer Süden !,612.500 €,"Silcherstraße 45,
+73614 Schorndorf, Rems-Murr-Kreis",3,"84,5 m²",7.249 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1402 - 2-Zimmer,215.700 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"44,94 m²",4.800 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,401.500 €,"Haselallee 10,
+74653 Künzelsau, Hohenlohekreis",3,"86,95 m²",4.618 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WHG 1471 - 4-Zimmer, barrierefrei",558.900 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"101,62 m²",5.500 €/m²,Etagenwohnung,nil,nil,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WHG 1460 - 2-Zimmer, barrierefrei",249.400 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"49,87 m²",5.001 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Die 3-Zimmer-Maisonettewohnung, Wohnen und Arbeiten - Ideal für Jung und Alt !",691.500 €,"Weckherlinstraße 2,
+73614 Schorndorf, Rems-Murr-Kreis",3,99 m²,6.985 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1406 - 2-Zimmer,221.300 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"45,16 m²",4.900 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+**Gemütliche 2-Zimmer-Wohnung mit EBK & Balkon**,149.000 €,"75031 Eppingen, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,54 m²,2.759 €/m²,Erdgeschosswohnung,4 m²,Nach Absprache,1,1,nil,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Erlesen Wohnen im Haselcarré,343.500 €,"Haselallee 8,
+74653 Künzelsau, Hohenlohekreis",3,"79,23 m²",4.335 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau Eigentumswohnung in Nagold Preis auf Anfrage,Auf Anfrage,"Freudenstädterstraße 47,
+72202 Nagold, Calw (Kreis)",3,"101,46 m²",nil,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein absoluter Traum ! Mit dem Aufzug direkt in die Dachgeschoßwohnung !,1.007.000 €,"Weckherlinstraße 2,
+73614 Schorndorf, Rems-Murr-Kreis",4,"126,07 m²",7.988 €/m²,nil,nil,nil,nil,2,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1440 - Penthouse-Wohung,597.100 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"108,56 m²",5.500 €/m²,Penthouse,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1411 - 3-Zimmer,403.700 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"77,64 m²",5.200 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 2 Zimmer-Wohnung mit Balkon in ruhiger Lage von Asperg,157.000 €,"71679 Asperg, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,54 m²,2.907 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Helle 2-Zimmer Neubauwohnung in Baienfurt,329.000 €,"Karl-Rittler-Str. 8-14,
+88255 Baienfurt, Ravensburg (Kreis)",2,"51,4 m²",6.401 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaft Wohnen im Aussichtsreich ! Schorndorf Süd,1.155.000 €,"Silcherstraße 45,
+73614 Schorndorf, Rems-Murr-Kreis",4,"144,8 m²",7.977 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1447 - 2-Zimmer,352.100 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"73,36 m²",4.800 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wir haben Ihren Lieblingsplatz - zentrumsnahe 2-Zimmer Wohnung,577.500 €,"Weckherlinstraße 2/2,
+73614 Schorndorf, Rems-Murr-Kreis",2,"71,33 m²",8.096 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*Reserviert* Hier dürfen Sie einziehen: 2-Zimmer, Balkon, Garage, ruhig und begehrt",150.000 €,"Ost, 71640 Ludwigsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"46,63 m²",3.217 €/m²,Dachgeschoss,nil,nach Kaufpreiszahlung,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Neubau Eigentumswohnung in Nagold Preis auf Anfrage,Auf Anfrage,"Freudenstädterstraße 47,
+72202 Nagold, Calw (Kreis)",3,"98,08 m²",nil,Dachgeschoss,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,388.500 €,"Wacholderweg 13,
+74653 Künzelsau, Hohenlohekreis",3,"88,22 m²",4.404 €/m²,Erdgeschosswohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1473 - Penthouse-Wohnung,385.200 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"67,58 m²",5.700 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3,5-Zimmer-Maisonette-Wohnung in gefragter, sehr zentraler Wohnlage mit TG-Stellplatz",330.000 €,"73240 Wendlingen am Neckar, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","86,66 m²",3.808 €/m²,Maisonette,nil,Sommer 2024,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. der gesetzl. MwSt. aus dem notariellen Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+WHG 1404 - 2-Zimmer,261.800 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"53,42 m²",4.901 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive 3-Zimmer-Wohnung für die Kleinfamilie,402.500 €,"Schießtalstrasse 20/2,
+73527 Schwäbisch Gmünd, Ostalbkreis",3,"83,55 m²",4.817 €/m²,nil,nil,30.09.2023,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WOHLFÜHLEN VON ANFANG AN, AUSSICHT GENIESSEN",454.000 €,"Bronnwiesenweg 8/1,
+73635 Rudersberg, Rems-Murr-Kreis",3,"91,31 m²",4.972 €/m²,nil,nil,30.09.2024,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Obergeschoßwohnung im 3-Familienhaus,495.000 €,"Lutherstraße 39,
+Betzingen, 72770 Reutlingen",4,"89,77 m²",5.514 €/m²,Etagenwohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freundliche 4-Zimmer Neubauwohnung in Baienfurt,541.500 €,"Karl-Rittler-Str. 8-14,
+88255 Baienfurt, Ravensburg (Kreis)",4,"88,1 m²",6.146 €/m²,Etagenwohnung,nil,nil,3,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1427 - 4-Zimmer,519.000 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"105,92 m²",4.900 €/m²,Etagenwohnung,nil,nil,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Barrierefreies Neubau-Penthaus in ruhiger Lage!,779.000 €,"69151 Neckargemünd, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5","144,23 m²",5.401 €/m²,Penthouse,nil,Sommer 2024,3,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1463 - 1-Zimmer,174.300 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"34,64 m²",5.032 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,345.500 €,"Wacholderweg 11,
+74653 Künzelsau, Hohenlohekreis",3,"79,23 m²",4.361 €/m²,Erdgeschosswohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1458 - 2-Zimmer,334.900 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"67,39 m²",4.970 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,216.500 €,"Haselallee 10,
+74653 Künzelsau, Hohenlohekreis",2,"48,73 m²",4.443 €/m²,Erdgeschosswohnung,nil,Ende 2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ACHTUNG Kapitalanleger ! Preisgebundene Mietwohnung !,545.000 €,"Weckherlinstraße 2/2,
+73614 Schorndorf, Rems-Murr-Kreis",3,"91,76 m²",5.939 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Die Starterwohnung für die junge Familie mit schönem Garten,601.500 €,"Weckherlinstraße 2/1,
+73614 Schorndorf, Rems-Murr-Kreis",3,"86,01 m²",6.993 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erlesen Wohnen im Haselcarré,404.500 €,"Haselallee 10,
+74653 Künzelsau, Hohenlohekreis",3,"87,88 m²",4.603 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ACHTUNG Kapitalanleger ! Preisgebundene Mietwohnung !,543.000 €,"Weckherlinstraße 2/2,
+73614 Schorndorf, Rems-Murr-Kreis",3,"91,41 m²",5.940 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WHG 1454 - 2-Zimmer,380.500 €,"78532 Tuttlingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"77,66 m²",4.900 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Schwachhauser Heerstraße | 3-Zi.-Whg. mit GARAGE,266.400 €,"Riensberg, 28213 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,3.330 €/m²,Hochparterre,6 m²,VB,2,1,1 Tiefgaragen-Stellplatz,"Käuferprovision 3,57% inkl. der gesetzlichen 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Helle 3 Zi .- Erdgeschosswohnung mit Garten und Doppelgarage inkl. Baugrundstück,150.000 €,"Mecklenburger Weg 40,
+Leherheide, 27578 Bremerhaven",3,75 m²,2.000 €/m²,Erdgeschosswohnung,nil,nil,2,nil,2 Garagen,"3,57 % inklusive Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+St.Magnus für Kapitalanleger: Vermietete 3-Zimmer-ETW mit Garten und Carport,199.900 €,"Mahlstedtstraße 45,
+St. Magnus, 28759 Bremen",3,"84,4 m²",2.368 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,1 Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmerwohnung in Schwachhausen. Käufer provisionsfrei.,198.000 €,"Wätjenstraße 88,
+Riensberg, 28213 Bremen",3,"70,47 m²",2.810 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1 Zimmer Erdgeschosswohnung in Bremen-Buntentor,105.000 €,"Huckelriede, 28201 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,35 m²,3.000 €/m²,Erdgeschosswohnung,nil,nach Vereinbarung,nil,1,Außenstellplatz,"3,57 % incl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Großzügige 4-Zimmer-Etagenwohnung mit Balkon in Bremen-Gröpelingen,135.000 €,"Lindenhof, 28237 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,85 m²,1.588 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. gesetzlicher Mehrwertsteuer aus dem notariell beurkundeten Kaufpreis.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+* OBERVIELAND- KATTENTURM│Gepflegte 3-Zi. Whg. in ruhiger und grüner Umgebung Nähe Klinikum,142.500 €,"Kattenturm, 28277 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"64,9 m²",2.196 €/m²,nil,nil,nach Vereinbarung,2,1,nil,"2,38 % des Kaufpreises inkl. MwSt., jeweils für Käufer und Verkäufer","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Bremen - Kattenturm | Großzügige 4-Zimmer-Wohnung mit vielen Vorzügen in zentraler Lage,249.000 €,"Kattenturm, 28277 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,91 m²,2.736 €/m²,Etagenwohnung,4 m²,Nach Vereinbarung,3,1,nil,"3,57 % (inkl. 19,00 % MwSt.) jeweils vom Käufer und Verkäufer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Käufer Provisionsfreie 4-Zimmer- Erdgeschoss Wohnung in Sankt Magnus,149.000 €,"Weizenfurt 40,
+St. Magnus, 28759 Bremen",4,"73,75 m²",2.020 €/m²,Erdgeschosswohnung,nil,sofort,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Vermietete Maisonette-Eigentumswohnung mit Balkon und Einbauküche in Oberneuland,299.000 €,"Lehesterdeich, 28357 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"92,27 m²",3.240 €/m²,Maisonette,nil,01.12.2023,1,1,nil,"2,975% des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Renovierte 2-Zimmer-Wohnung mit Keller, Einbauküche und Balkon",89.000 €,"Lehe, 27576 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,74 m²",1.396 €/m²,Etagenwohnung,5 m²,nach Vereinbarung,1,1,nil,"2,38% des Kaufpreises inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"""Gepflegte 2-Zimmer-Eigentumswohnung in Bremerhaven-Lehe""",79.000 €,"Lehe, 27576 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,54 m²,1.463 €/m²,Dachgeschoss,6 m²,ab sofort,1,1,Garage,"Die Maklerprovision in Höhe von 3,57% inkl. gesetzlicher MwSt. zahlt der Käufer",{'is24qa-vermietet-label': ''}
+"Renovierte 3-Zimmer-Wohnung mit neuer Einbauküche, kleinem Wintergarten und Gartennutzung",199.800 €,"Gartenstadt Süd, 28201 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,61 m²,3.275 €/m²,Erdgeschosswohnung,10 m²,nach Vereinbarung,1,1,nil,"2,38% inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Vermietete Drei-Zimmer-Gartengeschoss-Wohnung mit Terrasse im Hulsberg,249.000 €,"Peterswerder, 28205 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"76,15 m²",3.270 €/m²,Terrassenwohnung,nil,Sofort,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte 3-Zimmer-Wohnung mit Balkon in beliebter Lage in der Vahr,159.000 €,"Neue Vahr Südost, 28327 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,65 m²,2.446 €/m²,Etagenwohnung,8 m²,nach Vereinbarung,2,1,1 Außenstellplatz,"1,95%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne 2 Zi.-ETW im Zentrum von Bremerhaven im Dachgeschoss eines 8-Fam.-Hauses,79.500 €,"Mitte, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,1.590 €/m²,Dachgeschoss,8 m²,nil,1,1,nil,"Die Maklerprovision in Höhe von 3,57% inkl. gesetzlicher MwSt. zahlt der Käufer","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Helle Drei-Zimmer Wohnung mit EBK, Loggia und Garage nahe Bürgerpark",259.000 €,"Neu-Schwachhausen, 28213 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,3.700 €/m²,Hochparterre,nil,01.09.2023,1,1,1 Garage,"2,975% des Kaufpreises inkl. Mwst.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+"tolle, neuwertige und barrierefreie Wohnung - provisionsfrei !",284.000 €,"Köhlerhof 16,
+Gröpelingen (Ortsteil), 28237 Bremen",3,79 m²,3.595 €/m²,Erdgeschosswohnung,6 m²,sofort - nach Vereinbarung,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sanierte 3-Zimmer-Eigentumswohnung mit Balkon,150.000 €,"Neue Vahr Südwest, 28329 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,62 m²,2.419 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+***Charmante 2-Zimmerwohnung in zentraler Lage von Bremen-Osterholz,130.000 €,"Ellenerbrok-Schevemoor, 28325 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,2.203 €/m²,Etagenwohnung,nil,Nach Vereinbarung,1,1,nil,"1,95%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

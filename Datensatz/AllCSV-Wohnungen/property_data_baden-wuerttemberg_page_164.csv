@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+FAMILIEN-Wohnung mit GARTEN,249.500 €,"Lindenstraße 19,
+78628 Rottweil, Rottweil (Kreis)",3,"87,12 m²",2.864 €/m²,nil,10 m²,ca. Mai 2024,2,1,1 Außenstellplatz,"3,57% inkl. MwSt v. Kaufpreis","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Komfortable 2 Zimmer Wohnung mit Garage in Herten,192.000 €,"79618 Rheinfelden (Baden), Lörrach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"64,4 m²",2.981 €/m²,Etagenwohnung,nil,sofort,1,1,nil,"3,57%","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+TOP - Apartment mit BALKON und viel LICHT,194.216 €,"Hauptstraße 1,
+70839 Gerlingen, Ludwigsburg (Kreis)",1,"22,07 m²",8.800 €/m²,Penthouse,nil,ca. April 2024,nil,1,Außenstellplatz,"3,57% inkl. MwSt vom Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"2,5-Zimmer-Wohnung (OG) in toller Lage in Waldbronn zu verkaufen-als Kapitalanlage",150.000 €,"Hans-Thoma-Str. 27,
+76337 Waldbronn, Karlsruhe (Kreis)","2,5","51,24 m²",2.927 €/m²,Etagenwohnung,7 m²,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Modernes Wohngefühl - 4-Zimmer-Neubauwohnung über den Dächern Dußlingens!,645.000 €,"72144 Dußlingen, Tübingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"107,15 m²",6.020 €/m²,Dachgeschoss,nil,Ende 2025,nil,1,nil,Provisionsfrei,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"seenahe, helle 3-Zimmer-Wohnung in Friedrichshafen",265.000 €,"88045 Friedrichshafen, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"82,5 m²",3.212 €/m²,Etagenwohnung,nil,sofort,2,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"2 Zimmer Wohnung mit Balkon in der Seniorenresidenz ""Bräuchle Park""",198.000 €,"Bräuchlepark 1,
+72555 Metzingen, Reutlingen (Kreis)",2,"51,5 m²",3.845 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+ERSTBEZUG … helle 3-Zi.-DG-Wohnung mit Balkon in Marbach-Rielingshausen,477.500 €,"71672 Marbach am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,5.618 €/m²,Dachgeschoss,15 m²,Frühjahr 2024,2,2,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte 4-Zimmer-Wohnung mit 2 Balkonen - bereit zum Bezug,295.000 €,"77815 Bühl, Rastatt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"108,05 m²",2.730 €/m²,nil,nil,Zum Bezug frei,3,1,1 Stellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Attraktive, vermietete 3-Zimmer-Eigentumswohnung mit sonnigem Balkon u. Garagenbox in der Tiefgarage",315.000 €,"72124 Pliezhausen, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"77,7 m²",4.054 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"2,38 % Käuferprovision inklusive 19 % Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gepflegte Wohnung in familienfreundlichem Mehrfamilienhaus mit großem Garten!,260.000 €,"68723 Schwetzingen, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,3.095 €/m²,Etagenwohnung,nil,vermietet,2,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Attraktive Wohnung in Stadtnähe - Horb-Mühlen,100.000 €,"72160 Horb am Neckar, Freudenstadt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"47,32 m²",2.113 €/m²,Dachgeschoss,nil,vermietet,1,1,2 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+"3,5-Zimmer-Wohnung (EG) in toller Lage in Waldbronn zu verkaufen-als Kapitalanlage",190.000 €,"Hans-Thoma-Str. 29,
+76337 Waldbronn, Karlsruhe (Kreis)","3,5","63,66 m²",2.985 €/m²,Erdgeschosswohnung,"8,5 m²",nil,2,1,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"4,5-Zimmer-Maisonette-Wohnung in Waldbronn zu verkaufen-Kapitalanlage oder Eigennutzung",243.000 €,"Hans-Thoma-Str. 27,
+76337 Waldbronn, Karlsruhe (Kreis)","4,5","78,75 m²",3.086 €/m²,Maisonette,"8,5 m²",nil,3,1,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"4,5-Zimmer-Wohnung (EG) in toller Lage in Waldbronn zu verkaufen - Kapitalanlage oder Eigennutzung",419.500 €,"76337 Waldbronn, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5","135,25 m²",3.102 €/m²,Erdgeschosswohnung,12 m²,nil,3,1,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+PENTHOUSE-FEELING - Top 2-Zi Apartment,384.472 €,"Hauptstraße 1,
+70839 Gerlingen, Ludwigsburg (Kreis)",2,"47,4 m²",8.111 €/m²,Penthouse,nil,ca. April 2024,1,1,Außenstellplatz,"3,57% inkl. MwSt vom Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Modernes Wohnen für junge Familien oder Paare: Renovierte 3-Zimmer Wohnung zum Verlieben,310.000 €,"Reutlingen, 72760 Reutlingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,76 m²,4.079 €/m²,nil,76 m²,nach Vereinbarung,1,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+***ENTSPANNT WOHNEN - NATUR GENIEßEN***,165.000 €,"69198 Schriesheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"62,6 m²",2.636 €/m²,Terrassenwohnung,"16,26 m²",nach Vereinbarung,1,1,nil,"2,98 % incl. MwSt., Annahme durch Anfrage, fällig bei notarieller Beurkundung des Kaufvertrags","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+3 Zimmer – Ein Zuhause! - FALC Immobilien,140.000 €,"74749 Rosenberg, Neckar-Odenwald-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,1.867 €/m²,Etagenwohnung,"4,86 m²",nach Vereinbarung,2,1,1 Stellplatz,"3,57 % inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"3,5-Zimmer-Maisonette-Wohnung in Waldbronn zu verkaufen - als Kapitalanlage oder Eigennutzung",203.000 €,"Hans-Thoma-Str. 29,
+76337 Waldbronn, Karlsruhe (Kreis)","3,5","65,76 m²",3.087 €/m²,Maisonette,"7,5 m²",nil,2,1,1 Garage,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

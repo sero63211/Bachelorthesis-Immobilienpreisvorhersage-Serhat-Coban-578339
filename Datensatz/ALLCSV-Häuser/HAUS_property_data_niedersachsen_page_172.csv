@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Bauernhaus (Wohn-/Wirtschaftsgebäude),16.000 €,"Alte Poststraße XX,
+21369 Nahrendorf, Lüneburg (Kreis)",1,"564,34 m²",1.700 m²,28 €/m²,Wohnimmobilie (sonstige),"146,21 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Einlieger und Garage,75.000 €,"Allenbostel XX,
+29582 Hanstedt, Uelzen (Kreis)",1,1 m²,1.322 m²,75.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wunderschön gelegender Resthof in Stadland,195.000 €,"Stadlander Straße 5,
+26936 Stadland, Wesermarsch (Kreis)",7,230 m²,14.000 m²,848 €/m²,Bauernhaus,nil,1.4.2024,1,2,nil,Nein,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus nebst Doppelgarage in guter Wohnlage - provisionsfrei,228.000 €,"Rottenkamp XX,
+Sauingen, 38239 Salzgitter",5,"128,5 m²",908 m²,1.774 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges und gepflegtes Reihenmittelhaus in bester Wohnlage – Alt Langenhagen,489.000 €,"30853 Langenhagen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,126 m²,272 m²,3.881 €/m²,Reihenmittelhaus,64 m²,24.10.2023,3,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktives 6-Zimmer-Reihenhaus in Wennigsen/Holtensen,325.000 €,"Töpferweg 3,
+30974 Wennigsen (Deister), Hannover (Kreis)","6,5","142,51 m²",246 m²,2.281 €/m²,Reihenmittelhaus,30 m²,18.10.2023,5,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exklusiver Wohnkomfort: Bestlage, am Naturschutz-/Landschaftsschutzgebiet",960.000 €,"Issendorfer Weg 16,
+21698 Harsefeld, Stade (Kreis)",9,402 m²,1.638 m²,2.388 €/m²,Einfamilienhaus (freistehend),168 m²,31.3.2024,3,2,6 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Provisionfrei !!! Neubau 6-Mehrfamilienhaus mit 6 Tiefgaragenstellplätze nach Kfw 40,Auf Anfrage,"49324 Melle, Osnabrück (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",17,553 m²,848 m²,nil,Mehrfamilienhaus,"293,78 m²",nil,nil,7,6 Tiefgaragen-Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrfamilienhaus in Cuxhaven im Lotsenviertel nähe Deich,399.000 €,"Neue Reihe 50,
+27472 Cuxhaven, Cuxhaven (Kreis)",10,220 m²,244 m²,1.814 €/m²,Mehrfamilienhaus,220 m²,nil,nil,4,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktives Haus in bester Lage (Westercelle) sucht nette Familie. Aktuell: absolut trockener Keller,425.000 €,"29227 Celle, Celle (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,171 m²,571 m²,2.485 €/m²,Einfamilienhaus (freistehend),221 m²,sofort/Einzug 2024,nil,nil,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit Einliegerwohnung und Doppelgarage ++ ohne Provision ++,500.000 €,"Herzog-Albrecht-Straße XX,
+30826 Garbsen, Hannover (Kreis)",1,"144,6 m²",1.525 m²,3.458 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision! Einfamilienhaus mit Anbau,131.000 €,"In der Hellen XX,
+26954 Nordenham, Wesermarsch (Kreis)",1,90 m²,920 m²,1.456 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ruhige Sackgassenlage mit Blick in die Natur ++ Einfamilienhaus nebst Carport ++,238.000 €,"Falkenweg XX,
+26936 Stadland, Wesermarsch (Kreis)",4,127 m²,536 m²,1.874 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit 6 Wohnungen - provisionsfrei,305.000 €,"Henkestraße XX,
+38350 Helmstedt, Helmstedt (Kreis)",20,"417,05 m²",600 m²,731 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Stilvolle Doppelhaushälfte in Isernhagen HB,595.000 €,"Haselhof 1a,
+30916 Isernhagen, Hannover (Kreis)",3,120 m²,436 m²,4.958 €/m²,Doppelhaushälfte,120 m²,28.5.2024,2,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit Doppelgarage - provisionsfrei,167.000 €,"Parkstraße XX,
+27616 Beverstedt, Cuxhaven (Kreis)",7,210 m²,1.866 m²,795 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn-/Geschäftshaus +,176.000 €,"Abzuchtstraße XX,
+38640 Goslar, Goslar (Kreis)",3,281 m²,294 m²,626 €/m²,Wohnimmobilie (sonstige),367 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision - Großzügiges Einfamilienhaus mit integrierter Garage,644.000 €,"Dinkelkamp XX,
+31228 Peine, Peine (Kreis)",4,294 m²,801 m²,2.190 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Haus mit 5 Wohneinheiten in ruhiger Lage von Schortens,320.000 €,"26419 Schortens, Friesland (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,266 m²,929 m²,1.203 €/m²,Mehrfamilienhaus,20 m²,nach Absprache,5,5,5 Stellplätze,siehe Sonstiges,{}
+Einfamilienhaus in schönster Lage von Seesen,170.000 €,"38723 Seesen, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,120 m²,860 m²,1.417 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Außenstellplatz,"3,57 inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"

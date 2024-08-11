@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Denkmal Projekt am Wildpark,Auf Anfrage,"Connewitz, 04277 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,72 m²,nil,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Historisches Erbe, moderner Komfort: Geräumige 3,5-Zimmer-Wohnung mit Aufzug & Loggia im Zentrum-Ost",425.000 €,"Zentrum-Ost, 04103 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",123 m²,3.455 €/m²,Etagenwohnung,0 m²,nil,2,1,nil,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Modernes Wohnhighlight: Renovierte 2-Zimmer-Wohnung mit Loggia und Carport,165.000 €,"04416 Markkleeberg, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"56,84 m²",2.903 €/m²,Dachgeschoss,0 m²,nil,1,1,1 Carport,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Gemütlich und lichterfüllt: 2-Zimmer-Wohnung in einem liebevoll sanierten Mehrfamilienhaus in Löbtau,129.800 €,"Löbtau-Süd, 01159 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"45,65 m²",2.843 €/m²,Etagenwohnung,0 m²,nil,1,1,nil,"2,99% vom Kaufpreis inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Behagliche 2-Zimmer-Wohnung mit eigenem Garten, Terrasse, Tiefgarage und EBK in Leubnitz-Neuostra",165.000 €,"Leubnitz-Neuostra, 01219 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"61,23 m²",2.695 €/m²,Erdgeschosswohnung,0 m²,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Attraktive Altbau-Wohnung mit 2 Zimmern, Balkon und Tageslichtbad in Dresden",185.000 €,"Leipziger Vorstadt, 01097 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,69 m²,2.681 €/m²,Etagenwohnung,0 m²,nil,1,1,nil,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Bezugsfrei ab Mai! Gut geschnittene 2-Zimmer-Wohnung mit EBK und Balkon in Dresden,123.000 €,"Pieschen-Süd, 01127 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,40 m²,3.075 €/m²,Etagenwohnung,0 m²,nil,1,1,nil,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Attraktive Maisonettewohnung mit 3 Zimmern, Garten und Dachterrasse",455.000 €,"Seevorstadt-Ost/Großer Garten, 01219 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"132,6 m²",3.431 €/m²,Dachgeschoss,0 m²,nil,2,1,nil,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Charmante und großzügige 2-Zimmer-Erdgeschosswohnung mit Wintergarten in idyllischer Lage,235.000 €,"Plagwitz, 04229 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"71,37 m²",3.293 €/m²,Erdgeschosswohnung,0 m²,nil,1,1,nil,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Wohnkomfort pur: Gepflegte 2-Zimmer-Wohnung mit Aufzug, Balkon und Tiefgarage",220.000 €,"Altlindenau, 04177 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"65,44 m²",3.362 €/m²,Etagenwohnung,0 m²,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Bezugsfreie 2-Zimmer-Wohnung in begehrter Wohnlage unweit der Elbe,179.000 €,"Blasewitz (Stadtteil), 01277 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,98 m²",2.798 €/m²,Etagenwohnung,0 m²,nil,1,1,1 Außenstellplatz,"3,57% vom Kaufpreis inkl. MwSt.",{'is24qa-keller-label': ''}
+Kapitalanlage in ruhigem Stadtteil Chemnitz,98.500 €,"Grüna, 09224 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,63 m²,1.563 €/m²,Erdgeschosswohnung,14 m²,nil,nil,nil,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stilvolle 3-Zimmer-Wohnung in denkmalgeschütztem MFH und zentraler Lage,290.000 €,"Zentrum-Ost, 04103 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"86,04 m²",3.371 €/m²,Hochparterre,0 m²,nil,2,1,nil,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Sanierter Altbau in Gohlis - 2-Zimmer-Wohnung mit Wannenbad,200.000 €,"Gohlis-Süd, 04155 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"64,98 m²",3.078 €/m²,Etagenwohnung,0 m²,nil,1,1,nil,"2,99% vom Kaufpreis inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+In Gründerzeithaus: Schöne 2-Zimmer-Wohnung mit Tageslichtbad in Top-Lage mit perfekter Anbindung,140.000 €,"Gohlis-Süd, 04155 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,57 m²,2.456 €/m²,Dachgeschoss,0 m²,nil,1,1,nil,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+3-Zimmer-Wohnung nahe der Elbe in Dresden,177.000 €,"Blasewitz (Stadtteil), 01277 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,69 m²,2.565 €/m²,Etagenwohnung,0 m²,nil,nil,nil,nil,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Großzügige 3-Zimmer-Wohnung mit EBK und Keller in beliebter Lage von Dresden,230.000 €,"Mickten, 01139 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"89,5 m²",2.570 €/m²,Etagenwohnung,0 m²,nil,2,1,nil,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Sofort bezugsfrei! Kernsanierte 4-Zimmer-Wohnung mit 2 Balkonen, Stellplatz und Tageslichtbad",141.000 €,"01796 Pirna, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"84,92 m²",1.660 €/m²,Etagenwohnung,0 m²,nil,3,1,1 Außenstellplatz,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Gepflegte 2-Zimmer-Wohnung mit Balkon und Gemeinschaftsgarten in sehr beliebter Lage,129.500 €,"Coschütz/Gittersee, 01189 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"50,3 m²",2.575 €/m²,Etagenwohnung,0 m²,nil,1,1,nil,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohnung mit 2 Zimmern im Erdgeschoss in beliebter Lage von Leipzig,179.000 €,"Südvorstadt, 04275 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,2.887 €/m²,Erdgeschosswohnung,0 m²,nil,nil,1,nil,"2,94% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

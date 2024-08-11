@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Top geschnittene, freie 4-Zimmer-Eigentumswohnung in DD zu verkaufen - 1A Grundriss+TG-Stellplatz",285.000 €,"Cotta (Stadtteil), 01157 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,2.192 €/m²,nil,nil,nil,3,2,1 Stellplatz,"3,57% inkl. ges. MwSt.",{}
+"Geräumige 4-Raumwohnung, 700 Meter vom Kulkwitzer See entfernt",235.000 €,"Lausen-Grünau, 04207 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,2.217 €/m²,Hochparterre,nil,nach Absprache,nil,2,nil,"3,57 Prozent** Käufercourtage inklusive der gesetzlichen Mehrwertsteuer",{'is24qa-keller-label': ''}
+"provisionsfreie 4,5 % Mietrendite",105.600 €,"Hainstr. 80,
+Sonnenberg, 09130 Chemnitz",2,66 m²,1.600 €/m²,Maisonette,nil,sofort,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche Dachgeschosswohnung in herrlicher Lage,53.000 €,"Schloßchemnitz, 09113 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,49 m²,1.082 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,3570 EUR,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+**2-Raumwohnung mit Terrasse und SP in sehr ruhiger Lage am Stadtrand von Leipzig**,130.000 €,"Walter-Markov-Ring 39,
+Holzhausen, 04288 Leipzig",2,60 m²,2.167 €/m²,Terrassenwohnung,nil,nil,1,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Denkmalschutzobjekt: Vermietete Erdgeschosswohnung mit Terrasse in ruhiger Lage,84.900 €,"01809 Heidenau, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,11 m²",1.436 €/m²,Erdgeschosswohnung,nil,nach Absprache,1,1,1 Außenstellplatz,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Sehr gepflegt und in beliebter Lage,68.000 €,"Gablenz, 09126 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"65,63 m²",1.036 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,2975 EUR,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+2-Raumwohnung mit Stellplatz - Kernsanierung 2022,139.000 €,"04564 Böhlen, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,63 m²,2.206 €/m²,Erdgeschosswohnung,nil,01.06.2024,1,1,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ihr Start als Kapitalanleger... möblierte 1 Zimmer Wohnung mit Balkon,32.000 €,"Dr.- Friedrich- Wolf- Straße 58,
+Reusa mit Sorga, 08529 Plauen",1,"38,96 m²",821 €/m²,Sonstige,nil,sofort,nil,nil,nil,"2975,00 € incl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Charmante 3-Zimmer-Wohnung in der Waldsiedlung,45.000 €,"09430 Venusberg, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"80,55 m²",559 €/m²,Etagenwohnung,20 m²,nil,2,1,1 Garage,2500 EUR,{'is24qa-garten-mitbenutzung-label': ''}
+Renditeobjekt im Herzen von Limbach-Oberfrohna!,39.500 €,"09212 Limbach-Oberfrohna, Zwickau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,46 m²,859 €/m²,Erdgeschosswohnung,10 m²,nil,1,1,nil,2380 EUR,{'is24qa-keller-label': ''}
+"provisionsfreie 4,5 % Mietrendite",69.333 €,"Schüffnerstr. 12,
+Sonnenberg, 09130 Chemnitz",1,"44,57 m²",1.556 €/m²,Erdgeschosswohnung,nil,sofort,nil,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 benachbarte Eigentumswohnungen im Paket provisionsfrei zu verkaufen,160.000 €,"09212 Limbach-Oberfrohna, Zwickau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,162 m²,988 €/m²,Etagenwohnung,nil,sofort,nil,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sofort bezugsfreie 2-Zimmer-Wohnung mit Balkon in zentrale Lage,149.000 €,"Neustadt-Neuschönefeld, 04315 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"60,22 m²",2.474 €/m²,Sonstige,nil,ab sofort,1,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+BARRIEREFREI WOHNEN,58.500 €,"Sonnenberg, 09130 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,49 m²,1.194 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,2975 EUR,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Attraktive und ruhig gelegene zwei Zimmer-Wohnung mit Balkon !!,129.000 €,"Wahren, 04159 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,2.345 €/m²,nil,nil,nil,nil,nil,nil,3.57% inkl. 19% MwSt.,{}
++ Erdgeschosswohnung mit Balkon und Garten in Plauen-Südvorstadt sucht neuen Besitzer! +,83.000 €,"Südvorstadt, 08527 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"74,96 m²",1.107 €/m²,Erdgeschosswohnung,nil,sofort,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Top-Invest: Gut vermietete 2-Zi.-Erdgeschosswhg. in vorteilhafter Lage,88.000 €,"Eutritzsch, 04129 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"43,83 m²",2.008 €/m²,Erdgeschosswohnung,"43,83 m²",nach Absprache,1,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Leipzig Gohlis! Sanierte 3 Zimmerwohnung! +++Fanizierung ab 0,75 % für Eigennutzer* +++",219.000 €,"Otto-Adam-Straße 20,
+Gohlis-Mitte, 04157 Leipzig",3,79 m²,2.772 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"3,57% inkl. USt. Provisionsteilung hälftige Käufer- bzw. Verkäuferprovision von je 3,57 % inkl. USt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+MIT BALKON & SANIERT IN RUHIGER LAGE,175.000 €,"Gohlis-Nord, 04157 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",66 m²,2.652 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,1.79% inkl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Zimmer-Wohnung + provisionsfrei +,17.000 €,"Heinrichstraße XXXX,
+Lehe, 27576 Bremerhaven",3,50 m²,340 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung - provisionsfrei,17.000 €,"Heinrichstraße XXXX,
+Lehe, 27576 Bremerhaven",2,"44,8 m²",379 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+BRUNE IMMOBILIEN - Bremerhaven-Mitte: Wohnen mit Weitsicht,109.000 €,"Mitte, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",52 m²,2.096 €/m²,Etagenwohnung,nil,nach Vereinbarung,nil,nil,nil,"zzgl. 3,57 % Käuferprovision (inkl. MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': ''}"
+3-Zimmer-Wohnung + provisionsfrei +,19.000 €,"Heinrichstraße XXXX,
+Lehe, 27576 Bremerhaven",3,50 m²,380 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Balkon - provisionsfrei,28.000 €,"Langener Landstraße XXXX,
+Lehe, 27580 Bremerhaven",3,"71,3 m²",393 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon - provisionsfrei,19.000 €,"Langener Landstraße XXXX,
+Lehe, 27580 Bremerhaven",2,"54,1 m²",351 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Sehr gepflegte Erdgeschosswohnung mit Loggia und KFZ-Stellplatz in der Vahr,199.000 €,"Neue Vahr Nord, 28329 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,2.689 €/m²,Erdgeschosswohnung,0 m²,Nach Vereinbarung,2,1,1 Außenstellplatz,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Bremerhaven // Traumhafte Maisonette-Eigentumswohnung mit luxuriöser Ausstattung,299.900 €,"Lehe, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"120,03 m²",2.499 €/m²,Etagenwohnung,nil,ab sofort,nil,nil,nil,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+3-Zimmer-Wohnung + provisionsfrei +,19.000 €,"Heinrichstraße XXXX,
+Lehe, 27576 Bremerhaven",3,52 m²,365 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Herrschaftliches Wohnen auf Parkgrundstück,Auf Anfrage,"Oberneuland, 28355 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,170 m²,nil,Erdgeschosswohnung,40 m²,nil,2,1,nil,"3,57% inkl. der gesetzlichen MwSt. bezogen auf den Kaufpreis",{'is24qa-balkon-terrasse-label': ''}
+2-Zimmer-Wohnung + provisionsfrei +,17.000 €,"Heinrichstraße XXXX,
+Lehe, 27576 Bremerhaven",2,"44,8 m²",379 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Balkon - provisionsfrei,12.000 €,"Uhlandstraße XXXX,
+Lehe, 27576 Bremerhaven",3,"62,95 m²",191 €/m²,nil,"6,38 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweiraumwohnung im Grünen,139.000 €,"Aschaffenburger Straße 4,
+Weidedamm, 28215 Bremen",2,47 m²,2.957 €/m²,Hochparterre,15 m²,01.06.2024,nil,1,nil,"3,57 % des Kaufpreises inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer Whg. im EG - zentrale Lage - kurzfristig verfügbar !,145.000 €,"Hohweg, 28219 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"53,91 m²",2.690 €/m²,Erdgeschosswohnung,6 m²,Kurzfristig,2,1,nil,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Bremerhaven-Mitte: Direkt einziehen! 2024 kernsanierte, barrierefreie 3-Whg., Aufzug, neue EBK, Have",119.000 €,"Mitte, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"75,12 m²",1.584 €/m²,Etagenwohnung,10 m²,Sofort,nil,1,nil,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+"Habenhausen,2 ZKB,50m²,5% Rendite,Anlage/Selbstnutzer?",95.000 €,"Habenhauser-Land-Str. -,
+Habenhausen, 28277 Bremen",2,50 m²,1.900 €/m²,Dachgeschoss,nil,nach Absprache,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bremerhaven - Geestemünde // Großzügige Wohnung mit Loggia und Weitblick,119.000 €,"Geestemünde, 27570 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"87,01 m²",1.368 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"3,57 % inkl. MwSt.",{}
+2-Zimmer-Wohnung mit Loggia - ohne Provision!,24.000 €,"Weißenburger Straße XXXX,
+Geestemünde, 27570 Bremerhaven",2,50 m²,480 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bremerhaven-Mitte//Luxuriöse Wohnung mit Hafenblick in bester Lage von Bremerhaven,749.000 €,"Mitte, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"107,23 m²",6.985 €/m²,Etagenwohnung,nil,Ende September 2024,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % zzgl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+2018 renovierte Eigentumswohnung in der Gartenstadt Vahr,180.000 €,"Gartenstadt Vahr, 28329 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"81,79 m²",2.201 €/m²,Etagenwohnung,nil,nil,3,1,nil,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

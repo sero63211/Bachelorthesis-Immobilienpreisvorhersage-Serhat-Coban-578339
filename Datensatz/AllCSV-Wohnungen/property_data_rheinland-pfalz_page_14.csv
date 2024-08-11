@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+1/2 Anteil - 3-Zimmer-Wohnung,120.000 €,"Koernickestraße XXXX,
+55543 Bad Kreuznach, Bad Kreuznach (Kreis)",3,83 m²,1.446 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung + provisionsfrei +,95.000 €,"Andreasstraße XXXX,
+Stadtzentrum, 67547 Worms",3,"61,23 m²",1.552 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Garten,85.000 €,"Neustraße XXXX,
+67304 Eisenberg (Pfalz), Donnersbergkreis",3,59 m²,1.441 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung,53.100 €,"Ortsstraße XXXX,
+56357 Reitzenhain, Rhein-Lahn-Kreis",3,"66,5 m²",798 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnung und Gaststube ++ provisionsfrei ++,142.000 €,"Hauptstraße XXXX,
+55571 Odernheim am Glan, Bad Kreuznach (Kreis)",3,55 m²,2.582 €/m²,nil,266 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Unausgebaute Wohnung mit 2 Großgaragen,37.800 €,"Ortsstraße XXXX,
+56357 Reitzenhain, Rhein-Lahn-Kreis",1,70 m²,540 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Zimmer-Wohnung, Balkon, Stellplatz",170.000 €,"Mainzer Weg XXXX,
+55288 Armsheim, Alzey-Worms (Kreis)",2,69 m²,2.464 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1/2 Anteil - 3-Zimmer-Wohnung mit Terrasse,120.000 €,"Koernickestraße XXXX,
+55543 Bad Kreuznach, Bad Kreuznach (Kreis)",3,83 m²,1.446 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Wohnung im Hinterhaus, Garten Stellplatz",235.000 €,"Starenweg XXXX,
+Kernstadt, 67227 Frankenthal (Pfalz)",1,63 m²,3.730 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,115.000 €,"Wingertstraße XXXX,
+Kernstadt, 67227 Frankenthal (Pfalz)",2,"52,19 m²",2.203 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Balkon,87.000 €,"Kaiser-Wilhelm-Straße XXXX,
+Mitte, 67059 Ludwigshafen am Rhein",2,51 m²,1.706 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Appartement mit Stellplatz,80.400 €,"Richard-Schirrmann-Straße XXXX,
+Hartenberg-Münchfeld, 55122 Mainz",1,19 m²,4.232 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Garten,70.000 €,"Neustraße XXXX,
+67304 Eisenberg (Pfalz), Donnersbergkreis",2,50 m²,1.400 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung + provisionsfrei +,115.000 €,"Wingertstraße XXXX,
+Kernstadt, 67227 Frankenthal (Pfalz)",2,"52,19 m²",2.203 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnung,170.000 €,"Eisenbahnstraße XXXX,
+55743 Idar-Oberstein, Birkenfeld (Kreis)",5,"140,2 m²",1.213 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3 Wohnungen, Balkon, Carportstellplätze",162.500 €,"Ortsstraße XXXX,
+56357 Reitzenhain, Rhein-Lahn-Kreis",1,1 m²,162.500 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 2-Zimmer-Wohnung mit Garten und Stellplatz +,178.000 €,"Medardusring XXXX,
+67112 Mutterstadt, Rhein-Pfalz-Kreis",2,"84,77 m²",2.100 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnung mit Balkon,106.000 €,"Kahrener Straße XXXX,
+54439 Saarburg, Trier-Saarburg (Kreis)",1,1 m²,106.000 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+6-Zimmer-Wohnung mit Garage ++ provisionsfrei ++,53.700 €,"Hauptstraße XXXX,
+55571 Odernheim am Glan, Bad Kreuznach (Kreis)",6,129 m²,416 €/m²,nil,49 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Balkon,71.600 €,"Ortsstraße XXXX,
+56357 Reitzenhain, Rhein-Lahn-Kreis",3,"88,5 m²",809 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

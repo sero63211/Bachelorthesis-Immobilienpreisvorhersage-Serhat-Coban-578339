@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+NEU - Leben in einer exklusiven Gründerzeitvilla mit Fernblick,259.500 €,"Werner Straße 12,
+Löbtau-Nord, 01159 Dresden",3,"76,38 m²",3.397 €/m²,Etagenwohnung,"6,77 m²",Nach Vereinbarung,2,1,nil,"3,57% (inkl. 19% gesetzlicher MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"RESERVIERT - sofort einziehen oder vermieten 4,8 % Rendite in Leipzigs mitten in Leipzig-Reudnitz",149.900 €,"Riebeckstraße 3,
+Reudnitz-Thonberg, 04317 Leipzig",2,60 m²,2.498 €/m²,Dachgeschoss,nil,nil,1,1,nil,"Die Vermittlungsprovision 3,57% inkl. gesetzlicher MwSt jeweils für Käufer und Verkäufer",{'is24qa-online-besichtigung-moeglich-label': ''}
+"++ Sofort bezugsfrei, hochwertige Einbauküche! Charmante 2-Zimmer Wohnung im Leipziger Osten ++",125.000 €,"Volkmarsdorf, 04315 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,54 m²,2.315 €/m²,Dachgeschoss,nil,ab sofort,nil,1,nil,"3,57% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Dachgeschoss Traum am Palmengarten + Zentrale Lage + Süd West Terrasse + Panoramaverglasung + Lift,180.900 €,"Endersstraße 5,
+Lindenau, 04177 Leipzig",3,"70,25 m²",2.575 €/m²,Dachgeschoss,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Frisch sanierte Wohnung in Markranstädt nahe des Kulkwitzer See´s,360.000 €,"04420 Markranstädt, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"139,39 m²",2.583 €/m²,Etagenwohnung,nil,sofort,3,2,1 Stellplatz,"4,76% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Sonnige „A+“ 4-Raum-Komfortwohnungen mit Fernsicht ins Gebirge einschl. Terrasse/Balkon, SP und Grün",259.000 €,"Dorfstraße 72,
+02829 Markersdorf, Görlitz (Kreis)",4,117 m²,2.214 €/m²,nil,nil,2. Quartal 2024,nil,1,2 Außenstellplätze,"3,57 % inkl. der gesetzl. MwSt. vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': ''}"
+"3-Raum-Whg. nahe Neumarkt, 1. OG, Laminat bzw. Fliesen, Küche mit Fenster, Balkon nach Osten",59.000 €,"Leipziger Straße 50,
+Mitte-Nord, 08056 Zwickau",3,"47,96 m²",1.230 €/m²,nil,nil,nil,2,1,nil,pauschal 2.975 EUR inkl. der gesetzlichen MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Sonniges Penthouse mit Südbalkon & Gartennutzung - Flexibles Wohnen in Markkleeberg-West,279.000 €,"04416 Markkleeberg, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","87,5 m²",3.189 €/m²,Penthouse,6 m²,nil,2,1,1 Außenstellplatz,"2,975 % Provision auf den Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+"Moderne, lichtdurchflutete 3-Raum-DG-Wohnung in Reichenbrand",69.000 €,"Reichenbrand, 09117 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"62,79 m²",1.099 €/m²,Dachgeschoss,nil,nil,2,1,nil,"3,57% inkl. 19% Ust. vom Gesamtkaufpreis 69.000€ (= 2.463€); fällig 7 Tage nach Notartermin","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohneigentum im Herzen von Chemnitz - Anlageobjekt,59.000 €,"Eulitzstraße 2,
+Kaßberg, 09112 Chemnitz",1,"42,23 m²",1.397 €/m²,Sonstige,47 m²,nil,1,1,nil,"3748,50","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+RENDITEOBJEKT IN GEPFLEGTER WOHNANLAGE - INKL. TIEFGARAGENSTELLPLATZ ...,45.000 €,"Bernsdorf, 09126 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,30 m²,1.500 €/m²,Etagenwohnung,nil,nil,1,1,nil,2975,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Preußisches Viertel: Helle 4-Zimmer Wohnung im ersten Obergeschoss mit Balkon und Lift,465.000 €,"Radeberger Vorstadt, 01099 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"113,8 m²",4.086 €/m²,Etagenwohnung,nil,nil,3,1,2 Tiefgaragen-Stellplätze,"1,79% inklusive 19% Umsatzsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Attraktives Wohnungspaket als Kapitalanlage!,269.000 €,"Haselbrunn, 08525 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"221,67 m²",1.214 €/m²,Dachgeschoss,nil,nil,nil,3,3 Garagen,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': ''}"
+"3-Zimmer Wohnung in Bestlage Stötteritz, Top-Investment (Provisionsfrei!)",180.000 €,"Melscher Straße 4,
+Stötteritz, 04299 Leipzig",3,60 m²,3.000 €/m²,Etagenwohnung,60 m²,nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 2-Zimmer Wohnung im zweiten Obergeschoss mit Balkon und Lift im Preußischen Viertel,197.500 €,"Radeberger Vorstadt, 01099 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"50,4 m²",3.919 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"1,79% inklusive 19% Umsatzsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Geschmackvoll saniert und möbliert: 3-Zimmer-Wohnung mit Altbaucharme,235.000 €,"Gohlis-Mitte, 04157 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"79,42 m²",2.959 €/m²,Etagenwohnung,0 m²,Nach Vereinbarung,2,1,nil,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Vermietete Wohung mit Tiefgaragen-Stellplatz und Loggia in Schkeuditz,81.000 €,"04435 Schkeuditz, Nordsachsen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"44,54 m²",1.819 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kleine ETW für Kapitalanleger mit Balkon und TG- Stellplatz,108.450 €,"Liebertwolkwitz, 04288 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"46,15 m²",2.350 €/m²,Etagenwohnung,nil,nil,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Luxuriöse Maisonette-Eigentumswohnung in exponierter Lage von Dresden,565.000 €,"Innere Neustadt, 01097 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,117 m²,4.829 €/m²,Maisonette,nil,nil,1,2,1 Stellplatz,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Die Sonne im eigenen Garten genießen! 3-Raum Wohnung,250.000 €,"Probstheida, 04289 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"79,36 m²",3.150 €/m²,Erdgeschosswohnung,nil,nil,nil,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"

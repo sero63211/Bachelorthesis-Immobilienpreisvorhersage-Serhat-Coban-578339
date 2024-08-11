@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Inselglück pur: Gemütliches Ferienapartment auf Langeoog,187.000 €,"26465 Langeoog, Wittmund (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,23 m²,8.130 €/m²,nil,nil,nil,1,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Erstklassige Neubauwohnungen im Lieken-Quartier,564.000 €,"28832 Achim, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"125,25 m²",4.503 €/m²,Penthouse,nil,Ende 2024,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Ein Zuhause mit Aussicht: Dachgeschosswohnung mit unverbaubarem Ausblick in Hannover-Hainholz""",195.000 €,"Hainholz, 30165 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,2.635 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,"6.961,50 € inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer EG Wohnung mit Balkon,155.000 €,"John-F.-Kennedy-Allee 15,
+Detmerode, 38444 Wolfsburg",3,84 m²,1.845 €/m²,Erdgeschosswohnung,10 m²,01.03.2022,2,1,1 Außenstellplatz,"2,38 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Erstellt nach Ihren Wünschen: Moderne Erdgeschoss-Eigentumswohnung (ca. 145m²) mit schöner Terrasse,285.000 €,"38678 Clausthal-Zellerfeld, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,145 m²,1.966 €/m²,Etagenwohnung,29 m²,nil,2,2,1 Garage,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+In exponierter Lage von Kirchrode exklusive Maisonette-Wohnung,680.000 €,"Kirchrode, 30559 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",109 m²,6.239 €/m²,nil,nil,nil,1,2,1 Stellplatz,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Gepflegte 2-Zimmer-Eigentumswohnung in zentraler Lage!,195.000 €,"Anderten, 30559 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,3.000 €/m²,Etagenwohnung,nil,nil,1,1,Garage,"3,57 % (inkl. MwSt.) vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Klein aber fein: Charmantes Ferienarpartment auf Langeoog,152.000 €,"26465 Langeoog, Wittmund (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,19 m²,8.000 €/m²,nil,nil,nil,1,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Hannover-Bemerode,295.000 €,"Bemerode, 30539 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,97 m²,3.041 €/m²,Etagenwohnung,nil,sofort,2,nil,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+*** DACHPERLE - WOHNEN IM WOLKENREICH ***,125.000 €,"Hasport/Annenheide, 27755 Delmenhorst
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,1.563 €/m²,Dachgeschoss,20 m²,nil,nil,1,1 Garage,"2,98 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Exklusive Dachgeschoss-Eigentumswohnung in Sahlenburg,299.000 €,"Nordheimstr. 103,
+27476 Cuxhaven, Cuxhaven (Kreis)",4,83 m²,3.602 €/m²,Dachgeschoss,nil,nil,nil,1,1 Garage,"3,57",{}
+Großzügige Wohnung in Toplage Langenhagens – Perfekt für Ihre Renovierungspläne!,265.000 €,"Niedersachsenstraße 14b,
+30853 Langenhagen, Hannover (Kreis)",3,"103,42 m²",2.562 €/m²,Etagenwohnung,nil,ab sofort,2,1,1 Außenstellplatz,"2,98 % des beurkundeten Kaufpreises inkl. gesetzl. USt. als Käufer- und Verkäuferprovision.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Pflegeimmobilie langfristig vermietet! Keine Eigennutzung möglich!,218.699 €,"29221 Celle, Celle (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,43 m²,5.086 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Naturverbunden erholen: Ruhige Ferienwohnung auf langeoog,178.000 €,"26465 Langeoog, Wittmund (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,22 m²,8.091 €/m²,nil,nil,nil,1,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Greetsiel-Top Lage! Neubau einer schlüsselfertigen EG-Wohnung mit Terrasse und PKW-Stellplatz in zen,355.000 €,"26736 Krummhörn, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,4.438 €/m²,Etagenwohnung,nil,Nach Fertigstellung,2,1,nil,"Die Maklerprovision beträgt für den Käufer 3,57% vom Kaufpreis inkl. ges. MwSt..",{'is24qa-balkon-terrasse-label': ''}
+Barrierefreie Erdgeschosswohnung mit einmaliger Aussicht in Nessmersiel!,239.000 €,"26553 Dornum, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,97 m²,2.464 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Charmante Dachgeschosswohnung in Traumlage in Carolinensiel!,147.000 €,"26409 Wittmund, Wittmund (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,35 m²,4.200 €/m²,Dachgeschoss,"3,23 m²",nil,1,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Seniorengerechte Wohnung im Wohnpark Concordia,209.000 €,"26759 Hinte, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,53 m²,3.943 €/m²,Erdgeschosswohnung,nil,nach Vereinbarung,1,1,1 Stellplatz,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"*H.-Gross-Buchholz* barrierefreie 3-Zi.-ETW mit EBK, Terrasse u. Garten.",320.000 €,"Misburg-Nord, 30629 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,3.721 €/m²,Erdgeschosswohnung,nil,nach Absprache,nil,nil,nil,"2,9 % inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Moderne und gepflegte 4-Zimmer Eigentumswohnung mit großem Sonnenbalkon und Pkw-Einstellplatz,239.000 €,"Lehndorf-Watenbüttel, 38112 Braunschweig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,2.390 €/m²,Etagenwohnung,nil,nach Absprache,3,1,1 Außenstellplatz,"3,57 % zzgl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

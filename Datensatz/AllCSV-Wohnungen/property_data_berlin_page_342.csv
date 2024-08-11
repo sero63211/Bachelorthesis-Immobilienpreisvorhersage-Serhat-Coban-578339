@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Vermietete, exclusive, möblierte 3-Zimmer Gartenwohnung in Berlin-Grunewald",1.350.000 €,"Menzelstraße 7,
+Grunewald, 14193 Berlin",3,110 m²,12.273 €/m²,Erdgeschosswohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+"Provisionsfreies Investment: Vermietete 2,5-Zimmerwohnung in Neukölln",266.900 €,"Silbersteinstraße 57,
+Neukölln (Ortsteil), 12051 Berlin","2,5",63 m²,4.237 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mit Balkon & Wannenbad: Vermietete 2,5-Zimmerwohnung am Schillerkiez - provisionsfrei",240.900 €,"Silbersteinstraße 55,
+Neukölln (Ortsteil), 12051 Berlin","2,5","62,45 m²",3.857 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer Appartement nur 5 Gehminuten vom Alexanderplatz,360.000 €,"Mollstrasse 3a,
+Mitte (Ortsteil), 10178 Berlin",3,"54,25 m²",6.636 €/m²,Etagenwohnung,nil,01.12.2023,2,1,nil,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Freiwerdende 2 Zimmerwohnung mit Balkon, Aufzug, nur bis 14.Jan.25 vermietet",305.000 €,"Stendaler Straße 16,
+Moabit, 10559 Berlin",2,"57,15 m²",5.337 €/m²,Etagenwohnung,"57,15 m²",14.01.2025,1,1,nil,3.00% plus MwSt,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Hinterhof-Oase im Herzen von Friedrichshain,300.000 €,"Friedrichshain, 10247 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,71 m²,4.225 €/m²,Maisonette,12 m²,nil,1,1,nil,"3,57 % inkl. ges. MwSt.",{}
+Freie 2 Zimmer-Wohnung im noblen Westend,305.000 €,"Lindenallee 52,
+Westend, 14050 Berlin",2,"54,19 m²",5.628 €/m²,Hochparterre,"54,19 m²",Juni 2024,1,1,1 Garage,3% plus 19% MwSt,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ansprechende Wohnung in der Privatstrasse mit zwei Zimmern zum Verkauf in Berlin,320.000 €,"Herschelstrasse 10589 4,
+Charlottenburg, 10437 Berlin",2,62 m²,5.161 €/m²,Etagenwohnung,62 m²,19.7.2023,nil,1,1 Stellplatz,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-Zimmerwohnung in Berlin-Schmargendorf,240.000 €,"Schmargendorf, 14199 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,44 m²,5.455 €/m²,Hochparterre,nil,sofort,nil,1,nil,"3,57%*","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Ruhige und helle bezugsfreie 3- Zimmer Maisonettewohnung,299.000 €,"Hopfenweg 22,
+Rudow, 12357 Berlin",3,"72,4 m²",4.130 €/m²,nil,nil,sofort,1,2,1 Außenstellplatz,3% des Kaufpreises zzgl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Sehr schöne Wohnung mit 3,5 Zimmer, unvermietet!",435.000 €,"Heilmannring 55,
+Charlottenburg-Nord, 13627 Berlin","3,5",77 m²,5.649 €/m²,Sonstige,77 m²,16.6.2023,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Im grünen Reuterkiez: sonnige 2-Zimmer-Investment-Wohnung mit Südbalkon,290.000 €,"Sanderstraße 21,
+Neukölln (Ortsteil), 12047 Berlin",2,"61,97 m²",4.680 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57%",{'is24qa-keller-label': ''}
+VERMIETETE 2-ZIMMER-SEITENFLÜGELWOHNUNG NAHE RICHARDPLATZ,180.000 €,"Zwiestädterstrasse 5,
+Neukölln (Ortsteil), 12055 Berlin",2,"47,98 m²",3.752 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57",{'is24qa-vermietet-label': ''}
+Helle 2-Zimmer Wohnung mit schöner Terrasse in Berlin-Prenzlauer Berg,299.000 €,"Prenzlauer Berg, 10405 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"51,34 m²",5.824 €/m²,nil,nil,nil,nil,nil,nil,"3,57 %",{}
+:: WO SONST? ::: SAMARITER VIERTEL - 2 vermietete WOHNUNGEN AUF EINER ETAGE MIT VIEL ALTBAUCHARME::,779.000 €,"Friedrichshain, 10247 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,124 m²,6.282 €/m²,Etagenwohnung,nil,nil,2,2,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Elegantes Dachgeschoss im hochwertigen Neubau.,1.190.000 €,"Buch, 13125 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,163 m²,7.301 €/m²,Dachgeschoss,nil,01.05.2024,1,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"4 Zimmer Wohnung inkl. Küche, 2 Bädern und Keller - Energieklasse B - ohne Provision",500.000 €,"Niederschöneweide, 12439 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,5.051 €/m²,Etagenwohnung,nil,nil,3,2,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+✓ Modernisiert ✓ Balkon ✓ Bezugsfrei,349.000 €,"Steglitz, 12169 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,67 m²,5.209 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57% inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+!!Bezugsfrei 1-Zimmer-Wohnung in bester Charlottenburger Lage!!,290.000 €,"schlüterstr 65,
+Charlottenburg, 10625 Berlin",1,50 m²,5.800 €/m²,Erdgeschosswohnung,50 m²,nil,1,1,nil,"3,57% Inkl MwSt",{'is24qa-als-ferienwohnung-geeignet-label': ''}
+ALTBAU-WOHNUNG MIT WEST-BALKON IN DIREKTER NÄHE ZUM KURFÜRSTENDAMM,1.099.000 €,"Charlottenburg, 10629 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,168 m²,6.542 €/m²,Etagenwohnung,nil,ab sofort,3,2,nil,"3,57% inkl. gesetzlicher MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

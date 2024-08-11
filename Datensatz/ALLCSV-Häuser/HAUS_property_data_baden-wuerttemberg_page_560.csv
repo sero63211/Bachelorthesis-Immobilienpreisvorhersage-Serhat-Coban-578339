@@ -1,0 +1,43 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"MFH mit einer Gewerbeeinheit, 600 qm Wohnfläche",675.000 €,"Hauptstraße 55,
+71540 Murrhardt, Rems-Murr-Kreis",22,600 m²,428 m²,1.125 €/m²,Mehrfamilienhaus,285 m²,nil,15,7,Garage,"4,76 % (inkl. MwSt.)",{'is24qa-keller-label': ''}
+W.O.hnfühloase für die ganze Familie,798.400 €,"Höhenstraße 10,
+71735 Eberdingen, Ludwigsburg (Kreis)",5,"132,5 m²",327 m²,6.026 €/m²,Wohnimmobilie (sonstige),63 m²,nil,nil,nil,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+W.O. Einfamilienhausträume wahr werden,859.800 €,"Höhenstraße 11,
+71735 Eberdingen, Ludwigsburg (Kreis)",6,"162,65 m²",305 m²,5.286 €/m²,Einfamilienhaus (freistehend),nil,nil,5,nil,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietetes 3-Familienhaus in bester Lage,497.500 €,"75031 Eppingen, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,165 m²,518 m²,3.015 €/m²,Mehrfamilienhaus,nil,nil,3,3,2 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Reihenmittelhaus,640.000 €,"Hedelfingen (Ortsteil), 70329 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"110,5 m²",91 m²,5.792 €/m²,Reihenmittelhaus,nil,nil,nil,nil,nil,siehe Provisionshinweis,{'is24qa-keller-label': ''}
+"Verwirklichen Sie sich auf einem bombastischen Freizeit- / Gartengrundstück, Wohnfläche inklusive !",456.000 €,"77652 Offenburg, Ortenaukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,170 m²,1.900 m²,2.682 €/m²,Wohnimmobilie (sonstige),72 m²,01.07.2024,3,2,4 Garagen,"3,57% ( inkl. 19% Mwst. ) des Kaufpreises, die",{'is24qa-keller-label': ''}
+"Villa in ruhiger Lage, 2-FamH, Mannheim-Ost",1.330.000 €,"Neuostheim/Neuhermsheim, 68163 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,255 m²,505 m²,5.216 €/m²,Mehrfamilienhaus,nil,9.6.2024,10,3,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus, mit gutgehende Sportsbar, Bistro, mit Wohnung und Parkplätze in Schwäbisch Hall.",499.000 €,"Egbertweg 1,
+74523 Schwäbisch Hall, Schwäbisch Hall (Kreis)",6,150 m²,660 m²,3.327 €/m²,Einfamilienhaus (freistehend),nil,30.11.2024,nil,1,13 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*** Vielseitiges Objekt mit Potential & großem Grundstück in schöner und ruhiger Ortslage ***,642.000 €,"76593 Gernsbach, Rastatt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,180 m²,3.408 m²,3.567 €/m²,Einfamilienhaus (freistehend),350 m²,sofort,2,2,6 Garagen,"3,57 %","{'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+"Denkmalgeschütztes Mehrfamilienhaus mit Imbissbetrieb und Lagergebäude in Neckarau, Mannheim",760.000 €,"Neckarau, 68199 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,293 m²,473 m²,2.594 €/m²,Mehrfamilienhaus,97 m²,10.3.2024,nil,4,3 Außenstellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Schönes Haus Dreifamilien-Haus als DHH mit acht Zimmern in Rot am See,570.000 €,"Alemannenweg 74/1,
+74585 Rot am See, Schwäbisch Hall (Kreis)","7,5",240 m²,400 m²,2.375 €/m²,Mehrfamilienhaus,297 m²,nil,nil,3,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienfamilienhaus mit Einliegerwohnung,1.179.000 €,"74847 Obrigheim, Neckar-Odenwald-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,250 m²,521 m²,4.716 €/m²,nil,22 m²,nil,4,2,4 Garagen,"2,975 % inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+2 FH mit traumhafter Südsicht,380.000 €,"Varnhalt, 76534 Baden-Baden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,210 m²,401 m²,1.810 €/m²,Mehrfamilienhaus,65 m²,nil,6,2,2 Garagen,"3,57 % incl. Mwst","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+3 Familienhaus mit großer Dachterrasse - ideal auch für Pferdehaltung !!,285.000 €,"74417 Gschwend, Ostalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,248 m²,5.306 m²,1.149 €/m²,Mehrfamilienhaus,nil,nil,nil,2,9 Stellplätze,"4,17 % inkl. ges. MwSt.",{}
+"Charmante Doppelhaushälfte mit vier Zimmern in Neckarsulm, Neckarsulm",510.000 €,"Steppachweg 54,
+74172 Neckarsulm, Heilbronn (Kreis)",4,90 m²,620 m²,5.667 €/m²,Doppelhaushälfte,nil,9.3.2024,2,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Der Preis ist Heiß! Einfamilienhaus in Dornhan sucht neuen Besitzer,120.000 €,"Breite 10,
+72175 Dornhan, Rottweil (Kreis)",8,160 m²,176 m²,750 €/m²,nil,nil,Sofort,nil,nil,1 Stellplatz,"3,57%",{}
+"""Arbeiten und Leben im Schloss..."" Übrigens: zum Bodensee sind es nur 25 Min.",1.590.000 €,"88605 Meßkirch, Sigmaringen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",18,490 m²,2.247 m²,3.245 €/m²,Burg/Schloss,200 m²,kurzfristig,9,2,6 Stellplätze,"62832,--","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Freistehendes Einfamilienhaus mit sonnigem Garten und Garage,465.000 €,"74357 Bönnigheim, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,135 m²,289 m²,3.444 €/m²,Einfamilienhaus (freistehend),120 m²,nil,nil,2,Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Historisches Wohn- und Geschäftshaus mitten in der Zeller Innenstadt mit viel Potential zu verkaufen,845.000 €,"77736 Zell am Harmersbach, Ortenaukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,370 m²,391 m²,2.284 €/m²,nil,541 m²,nil,6,4,2 Stellplätze,"zuzüglich 3,57 % Courtage inklusive Mehrwertsteuer",{}
+Modernes Einfamilienhaus mit 550m² Grundstück in Schemmerberg,492.000 €,"88433 Schemmerhofen, Biberach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,128 m²,550 m²,3.844 €/m²,Einfamilienhaus (freistehend),138 m²,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus in idyllischer Ortslage,480.000 €,"88457 Kirchdorf an der Iller, Biberach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,122 m²,380 m²,3.934 €/m²,Einfamilienhaus (freistehend),130 m²,2025,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

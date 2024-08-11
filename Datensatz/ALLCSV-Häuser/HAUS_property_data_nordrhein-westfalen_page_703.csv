@@ -1,0 +1,101 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Besonderes, exklusives Einfamilien-/ Fachwerkhaus mit SPA und Kamin in bester Lage von Essen Kettwig",525.000 €,"Kettwig, 45219 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,126 m²,4.038 €/m²,Doppelhaushälfte,140 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive und gepflegte Doppelhaushälfte in Duisburg Buchholz,698.000 €,"Buchholz, 47249 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,180 m²,523 m²,3.878 €/m²,Doppelhaushälfte,90 m²,nil,2,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives 3- Familienhaus mit Baugrundstück,435.000 €,"32457 Porta Westfalica, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,210 m²,1.700 m²,2.071 €/m²,Mehrfamilienhaus,nil,nil,6,4,3 Garagen,23.166,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Freistehendes Ein/Zweifamilienhaus auf Erbpachtgrundstück 806 qm -ohne Maklergebühr-,379.000 €,"53859 Niederkassel, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,130 m²,806 m²,2.915 €/m²,Einfamilienhaus (freistehend),nil,nil,5,2,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöner Bungalow mit großem Garten und Garage in Jüchen (neu-Otzenrath),600.000 €,"41363 Jüchen, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,101 m²,578 m²,5.941 €/m²,Einfamilienhaus (freistehend),108 m²,16.6.2024,2,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Günstiges EFH mit 7 Zimmern in Brüggen-Born,299.000 €,"Boisheimer Straße 36,
+41379 Brüggen, Viersen (Kreis)",7,146 m²,790 m²,2.048 €/m²,Reiheneckhaus,134 m²,16.6.2024,2,1,4 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 5-Zimmer-Doppelhaushälfte mit gehobener Innenausstattung in Solingen Wald,550.000 €,"Wald, 42719 Solingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,229 m²,4.104 €/m²,Doppelhaushälfte,"16,48 m²",16.6.2024,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaushälfte mit viel Potenzial in Arnsberg-Neheim (Moosfelde) zu verkaufen!,265.000 €,"59755 Arnsberg, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,119 m²,985 m²,2.227 €/m²,Doppelhaushälfte,nil,nach Absprache,4,3,2 Garagen,"Käuferprovision beträgt 3,57% (inkl. Mwst) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Einfamilien Reihenmittelhaus Krefeld Gartenstadt,370.000 €,"Gubener Straße 39,
+Gartenstadt, 47829 Krefeld",5,117 m²,215 m²,3.162 €/m²,Reihenmittelhaus,0 m²,nil,3,2,1 Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Mehrfamilienhaus in Mönchengladbach-Rheydt,499.000 €,"Pestalozzistr. 45,
+Rheydt, 41236 Mönchengladbach",13,313 m²,385 m²,1.594 €/m²,Mehrfamilienhaus,60 m²,16.6.2024,6,4,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Im Jägersgarten 22, 53844 Troisdorf",1.499.000 €,"53844 Troisdorf, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,225 m²,550 m²,6.662 €/m²,Doppelhaushälfte,160 m²,1.11.2024,5,3,8 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Reihenendhaus mit Garage in Köln-Worringen.,388.000 €,"Beßlen Käulchen 17c,
+Worringen, 50769 Köln",4,103 m²,221 m²,3.767 €/m²,Reiheneckhaus,nil,1.8.2024,nil,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrfamilienhaus fußläufig zur City von Geldern,2.950.000 €,"Am Bückelewall 46,
+47608 Geldern, Kleve (Kreis)",45,1.318 m²,1.435 m²,2.238 €/m²,Mehrfamilienhaus,nil,nil,nil,21,15 Tiefgaragen-Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sie können direkt einziehen - top gepflegt und gute Lage mit Blick ins Grüne!,439.000 €,"52441 Linnich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,210 m²,443 m²,2.090 €/m²,Einfamilienhaus (freistehend),nil,nil,5,3,3 Stellplätze,"3,57 % inkl. ges. MwSt.",{}
+Familien willkommen! - Großzügige Doppelhaushälfte in idyllischer Sackgassenlage,470.000 €,"Stadtmitte, 51467 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"162,95 m²",308 m²,2.884 €/m²,Doppelhaushälfte,"34,1 m²",nil,5,2,1 Garage,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+"Modernes Einfamilienhaus mit Einliegerwohnung, Garten und Garage",699.000 €,"41516 Grevenbroich, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,175 m²,1.165 m²,3.994 €/m²,Wohnimmobilie (sonstige),nil,15.6.2024,2,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Knusper-Häuschen für den Handwerker zum Selbst-Ausbau,265.000 €,"Buschstr 8,
+Bockum, 47800 Krefeld",8,137 m²,283 m²,1.934 €/m²,Doppelhaushälfte,150 m²,nil,4,1,nil,3% Provision,{}
+Historisches Anwesen mit Potenzial zur Autarkie,270.000 €,"Todtenhausen, 32425 Minden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"165,47 m²",1.352 m²,1.632 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,nil,3,nil,"4,76 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Elegante Stadtvilla mit Erweiterungspotenzial und Traumgrundstück!,599.000 €,"33813 Oerlinghausen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,260 m²,2.022 m²,2.304 €/m²,Mehrfamilienhaus,120 m²,Nach Rücksprache,8,1,2 Carports,"3,57 % inkl. MwSt. vom notariellen Kaufpreis",{'is24qa-keller-label': ''}
+Neubauprojekt: Moderne DHH als Massivhaus in Vollholz (EH 40) mit Wärmepumpe..!,399.000 €,"32816 Schieder-Schwalenberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,300 m²,3.627 €/m²,Doppelhaushälfte,nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Neubauprojekt! Stein auf Stein, Top Ausstattung, optional Förderung!!!",569.500 €,"Kirchlinde, 44379 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,600 m²,4.381 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exclusive: Moderne Architektur, DHH in Modulbauweise (EH 40) mit PV-Anlage..!",439.000 €,"Klausen, 42899 Remscheid
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,200 m²,3.817 €/m²,Doppelhaushälfte,nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Wohnen: DHH in Massivbauweise (EH 40 / QNG) mit Fußbodenheizung u. PV-Anlage..!,569.500 €,"42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,275 m²,4.952 €/m²,Doppelhaushälfte,nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauprojekt: Modernes EFH in Massivbauweise (EH 40) mit PV-Anlage..!,499.500 €,"Nette, 44359 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,390 m²,3.996 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"* TINY-HOUSE * EH 55 Effizienz (GEG), Modulbauweise, auch barrierefrei..!",279.500 €,"Hennen, 58640 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,50 m²,375 m²,5.590 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"* MODULE HOME DELUXE - TINY HOUSE * mit Galerie, kurzfristig lieferbar..!",179.500 €,"Hennen, 58640 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,58 m²,375 m²,3.095 €/m²,Einfamilienhaus (freistehend),nil,nil,1,2,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"* MODULE HOME DELUXE - TINY HOUSE * Effizienz EH 40, optional QNG..!",299.500 €,"58239 Schwerte, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,57 m²,345 m²,5.254 €/m²,Einfamilienhaus (freistehend),nil,nil,1,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"* BUNGALOW DELUXE - BARRIEREFREI * Effizienz EH 40, Massivbauweise mit PV-Anlage..!",389.900 €,"58239 Schwerte, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,575 m²,4.874 €/m²,Bungalow,nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Raumwunder: Modernes EFH in Massivbauweise (EH 40) mit PV-Anlage..!,499.500 €,"58239 Schwerte, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,315 m²,3.700 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"* BUNGALOW DELUXE - BARRIEREFREI * Effizienz EH 40, Massivbauweise mit PV-Anlage..!",249.500 €,"Stiepel, 44797 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,495 m²,3.119 €/m²,Bungalow,nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exclusiver Bungalow, Modulbauweise, Schlüsselfertig, Pult oder Satteldach...!",339.500 €,"53332 Bornheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,118 m²,480 m²,2.877 €/m²,Bungalow,nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"* TINY-HOUSE * EH 55 Effizienz (GEG), Modulbauweise, auch barrierefrei..!",175.900 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,50 m²,295 m²,3.518 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+* MODULE HOME DELUXE - EFH * Schlüsselfertig und kurzfristig lieferbar..!,174.900 €,"Hohenlimburg (Ortsteil), 58119 Hagen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,245 m²,2.499 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exklusive DHH in Modulbauweise mit Wärmepumpe und Fußbodenheizung, Top Lage..!",242.900 €,"59425 Unna, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,350 m²,2.208 €/m²,Doppelhaushälfte,nil,nil,3,1,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Neues Wohnen: Attraktive DHH in Modulbauweise (GEG) mit Infrarotheizung und Wärmepume..!,299.500 €,"58507 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,250 m²,2.852 €/m²,Doppelhaushälfte,nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exclusive: Top Lage, DHH in Modulbauweise (EH 40) mit PV-Anlage..!",499.000 €,"Dahlhausen, 44879 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,390 m²,4.339 €/m²,Doppelhaushälfte,nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Freistehende Stadtvilla, Stein auf Stein, Schlüsselfertig incl. Top Grundstück...!",479.500 €,"58507 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,500 m²,3.552 €/m²,Villa,nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauprojekt: Moderne DHH in Modulbauweise (EH 40) mit Flachdach und PV-Anlage..!,539.000 €,"Dahlhausen, 44879 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,410 m²,4.492 €/m²,Doppelhaushälfte,nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"* MODULE HOME DELUXE - EH 55/40 * mit Galerie, kurzfristig lieferbar..!",238.900 €,"58730 Fröndenberg/Ruhr, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,629 m²,3.063 €/m²,Einfamilienhaus (freistehend),nil,nil,1,2,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"* MODULE HOME DELUXE - EH 55/40 * Bungalow, kurzfristig lieferbar..!",197.900 €,"58730 Fröndenberg/Ruhr, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,63 m²,629 m²,3.141 €/m²,Einfamilienhaus (freistehend),nil,nil,1,2,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Neubau DHH in Massivbauweise mit Wärmepumpe und Fußbodenheizung, Top Lage..!",329.000 €,"59425 Unna, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,350 m²,2.742 €/m²,Doppelhaushälfte,nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauprojekt: Modernes EFH in Massivbauweise (EH 40) mit Fußbodenheizung und PV-Anlage..!,499.500 €,"58256 Ennepetal, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,650 m²,3.996 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauprojekt: Moderne DHH in Massivbauweise (EH 40) mit Fußbodenheizung und PV-Anlage..!,399.500 €,"58256 Ennepetal, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,340 m²,3.474 €/m²,Doppelhaushälfte,nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauprojekt: Modernes EFH in Massivbauweise (GEG) mit Wärmepumpe..!,399.000 €,"Iserlohn-Mitte, 58644 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,110 m²,305 m²,3.627 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Neubauprojekt: 3er Reihenhaus in Modulbauweise mit SD, Wärmepumpe & Dachterrasse (GEG)..!",389.000 €,"58507 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,275 m²,3.242 €/m²,Reiheneckhaus,nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Wohnen: DHH in Massivbauweise (GEG) mit Fußbodenheizung u. Wärmepumpe..!,379.500 €,"58507 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,250 m²,3.300 €/m²,Doppelhaushälfte,nil,nil,4,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"* TINY-HOUSE * EH 55 Effizienz (GEG), Modulbauweise, auch barrierefrei..!",150.900 €,"58802 Balve, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,57 m²,315 m²,2.647 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"* TINY-HOUSE * EH 55/40 Effizienz (GEG), Stein auf Stein, barrierefrei..!",149.000 €,"Brackel (Ortsteil), 44309 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,215 m²,2.292 €/m²,Bungalow,nil,nil,1,1,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"* BUNGALOW DELUXE - BARRIEREFREI * Effizienz EH 40, Massivbauweise mit PV-Anlage..!",289.500 €,"58332 Schwelm, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,420 m²,3.047 €/m²,Bungalow,nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Preissenkung..! Einfamilienhaus, Stein auf Stein, Top Ausstattung incl. Garage im UG..!",499.500 €,"58300 Wetter (Ruhr), Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,400 m²,3.842 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

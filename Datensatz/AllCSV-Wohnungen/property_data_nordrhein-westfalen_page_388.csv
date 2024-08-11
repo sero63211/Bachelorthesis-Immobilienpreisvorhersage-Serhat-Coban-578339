@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Individuelle Wohnung mit uneinsehbarer Terrasse und offener Küche,279.000 €,"Karlstraße 99,
+53604 Bad Honnef, Rhein-Sieg-Kreis",2,98 m²,2.847 €/m²,Erdgeschosswohnung,nil,sofort,1,1,1 Außenstellplatz,"3,57 % vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Schöne 3-Zimmer-Wohnung mit Balkon in ruhiger Lage von Baesweiler,189.000 €,"52499 Baesweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"82,19 m²",2.300 €/m²,Erdgeschosswohnung,2 m²,nil,2,1,nil,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Wohnung mit Parkplatz in der Tiefgarage,159.000 €,"47574 Goch, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"63,95 m²",2.486 €/m²,Etagenwohnung,nil,nil,2,1,Tiefgaragen-Stellplatz,"1,785% vom Kaufpreis (inkl. MwSt.)","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Exklusive Eigentumswohnung in historischem Fachwerk-Zweifamilienhaus mit Terrasse und Garage,130.000 €,"Burg/Höhscheid, 42659 Solingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,92 m²,1.413 €/m²,Terrassenwohnung,nil,nil,nil,nil,1 Garage,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmante Dachgeschosswohnung mit modernem Flair!,199.000 €,"Zentrum, 40882 Ratingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"43,81 m²",4.542 €/m²,Dachgeschoss,nil,nach Vereinbarung,1,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohnung in einer historischen Hofanlage mit Stellplatz zu erwerben,278.000 €,"Rondorf, 50997 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"68,99 m²",4.030 €/m²,Maisonette,nil,nil,1,1,1 Stellplatz,"6.616,00","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Pflegeimmobilie langfristig vermietet! Keine Eigennutzung möglich!,262.589 €,"Innenstadt, 45657 Recklinghausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,72 m²,3.647 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++++ tolle ETW mit eigenem Garten für Kapitalanleger +++,85.000 €,"Pastor-Fliedner-Weg 1A,
+Karnap, 45329 Essen",2,49 m²,1.735 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wunderschöne, renovierte Wohnung mit 3 Balkonen und Stellplatz in Nord Benrad",149.000 €,"Benrad-Süd, 47804 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,1.910 €/m²,Hochparterre,nil,nil,2,1,1 Außenstellplatz,"3,57% inkl. gesetzlicher Mwst.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Großzügige und helle 3-Zimmer-Wohnung mit zwei Loggien und Stellplatz,376.400 €,"Rath, 40472 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,110 m²,3.422 €/m²,Etagenwohnung,nil,VB,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ACHTUNG ZWANGSVERSTEIGERUNG! Eigentumswohnung in Duisburg,18.000 €,"Hochemmerich, 47226 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"67,64 m²",266 €/m²,Etagenwohnung,nil,nil,1,1,nil,provisionsfrei,{}
+Große Eigentumswohnung über zwei Etagen mit Dachterrasse in bester Lage von Bad Oeynhausen!,179.000 €,"32545 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,152 m²,1.178 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 einschließlich MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Wohnungspaket: Zwei Drei-Zimmer-Wohnungen auf einer Etage,320.000 €,"Coerde, 48157 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"147,26 m²",2.173 €/m²,nil,nil,nil,4,2,2 Stellplätze,"3,57 % (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Ihre neue Eigentumswohnung mit Weitblick!,179.900 €,"32547 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,118 m²,1.525 €/m²,nil,nil,nil,nil,nil,nil,"3,57% vom Kaufpreis inkl. MwSt.",{}
+Jetzt enddecken! Top renovierte 2- Zimmer Wohnung in Alt Erkrath,219.000 €,"40699 Erkrath, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,77 m²,2.844 €/m²,Etagenwohnung,nil,kurzfristig,1,1,nil,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Verwirklichen Sie sich jetzt Ihren Traum vom Eigenheim!,90.000 €,"Hagener Straße 430,
+58285 Hagen, Nordrhein-Westfalen",2,60 m²,1.500 €/m²,Etagenwohnung,nil,nach Absprache,1,1,1 Garage,"3,57 %","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Attraktive Neubau-Erdgeschosswohnung - ein Highlight für Kapitalanleger,310.470 €,"48712 Gescher, Borken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,6 m²",3.950 €/m²,nil,nil,sofort,1,1,1 Außenstellplatz,"2,98 % inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"SANKT AUGUSTIN in zentraler Lage, 2 Zimmer ETW, offene Küche, Diele, Bad, Balkon, 55 m² Wfl. mit TG.",94.900 €,"53757 Sankt Augustin, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,1.725 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"der Käufer zahlt 3,57 % vom Kaufpreis inkl. der gesetzl. MwSt. unbeschadet einer Verkäufercourtage","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne Zwei-Zimmer-Wohnung mit Balkon in ruhiger Lage,106.000 €,"48329 Havixbeck, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"39,15 m²",2.708 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"2,975 % (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Exklusives Apartment mit Loggia und Tiefgaragenstellplatz in Münster Gievenbeck,209.000 €,"Gievenbeck, 48161 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,37 m²,5.649 €/m²,Etagenwohnung,nil,nil,nil,1,1 Stellplatz,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"

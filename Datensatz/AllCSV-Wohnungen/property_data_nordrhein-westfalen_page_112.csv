@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wohnen im Erdgeschoss | offener Küchenbereich | kleiner Garten,245.000 €,"Am Schlagbaum 7,
+40822 Mettmann, Mettmann (Kreis)",3,80 m²,3.063 €/m²,Erdgeschosswohnung,nil,nach Absprache,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Potenzial,118.000 €,"Heepen, 33719 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,63 m²,1.873 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % Käufercourtage inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+GARTEN-WOHNUNG am Fleher Deich ++ Tolle Nachbarn inklusive,369.000 €,"Flehe, 40223 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"73,5 m²",5.020 €/m²,Erdgeschosswohnung,"6,25 m²",sofort,1,1,nil,"3,57 % vom beurkundeten Kaufpreis inkl. Mwst","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"ALBERT WOLTER 1919 IVD.! Köln-Hochkirchen, 5 Zi.- Wohnung ""Haus im Haus"" in ruhiger Wohnlage!",645.000 €,"Rondorf, 50997 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,161 m²,4.006 €/m²,Terrassenwohnung,"25,31 m²",Nach Vereinbarung,4,1,1 Außenstellplatz,"1,78 % (inkl. 19 % MwSt.) vom Kaufpreis. Fällig und zahlbar mit notariellem Kaufvertragsabschluss.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Besondere Maisonettewohnung mit Ausblick!,168.000 €,"Feldhauser Straße 333,
+45966 Gladbeck, Recklinghausen (Kreis)","3,5","79,12 m²",2.123 €/m²,Dachgeschoss,nil,nil,nil,nil,1 Garage,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Schöne 3-Raum-Wohnung mit großer süd-west Terrasse und Garten,913.500 €,"Benrath, 40579 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,101 m²,9.045 €/m²,Erdgeschosswohnung,nil,sofort!,2,2,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Die günstigste im Haus mit West-Loggia.,250.000 €,"48351 Everswinkel, Warendorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,65 m²",4.337 €/m²,Etagenwohnung,nil,Frühjahr 2026,1,1,1 Außenstellplatz,"2,75 % des Kaufpreises inkl. Mehrwertsteuer","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Ideal für Singles oder Paare: schöne 2,5 Raum-Wohnung zum Wohlfühlen in Steele",85.000 €,"Steele, 45276 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","44,18 m²",1.924 €/m²,Dachgeschoss,nil,nach Vereinbarung,nil,nil,1 Außenstellplatz,3570 EUR,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Erdgeschosswohnung mit großem Gartenbereich,310.000 €,"59192 Bergkamen, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"93,7 m²",3.308 €/m²,Erdgeschosswohnung,nil,nil,2,1,Garage,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Citywohnung in Münster-Nähe Aasee/Promenade,680.000 €,"Aegidii, 48143 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"132,59 m²",5.129 €/m²,nil,nil,14.02.2024,2,1,1 Stellplatz,"24276,00EUR",{}
+Vermietete Eigentumswohnung in Laurensberg - Gut Kullen,179.000 €,"St. Jakob, 52064 Aachen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,54 m²,3.315 €/m²,Etagenwohnung,nil,nil,1,1,1 Garage,"3,57 % inkl. der gesetzl. MwSt., bezogen auf den Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Stadtleben in zwei Etagen: Geräumige 5-Zimmer Maisonette-Wohnung mit einladender Terrasse,329.000 €,"Altstadt II, 45468 Mülheim an der Ruhr
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,169 m²,1.947 €/m²,Dachgeschoss,nil,nil,5,1,nil,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+MG 41199 Rentable 2 Raum ETW + Stellplatz als Kapitalanlage,129.500 €,"Odenkirchen-West, 41199 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,67 m²,1.933 €/m²,Etagenwohnung,15 m²,nil,1,1,1 Außenstellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Eigentumswohnung in Varbrook,350.000 €,"41372 Niederkrüchten, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,104 m²,3.365 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. der gesetzl. MwSt., bezogen auf den Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Wollen Sie auch über 25 Jahre feste Mieteinnahmen erhalten?,223.849 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,43 m²,5.206 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Neubauwohnung mit großem Balkon,310.000 €,"Pelkum, 59077 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"93,7 m²",3.308 €/m²,Etagenwohnung,nil,nil,2,1,Garage,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive lichtdurchflutete 3-Zimmer-Eigentumswohnung mit Tiefgaragenstellplatz in 1-A-City-Lage,349.000 €,"40721 Hilden, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"74,58 m²",4.680 €/m²,Etagenwohnung,nil,nach Absprache,2,1,1 Tiefgaragen-Stellplatz,"3,57% inklusive gesetzlicher MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"4 Zi.-Maisonette-Wohnung, 133 m² WFL, Balkon, Kaminofen, Garage, 58089 Hagen-Wehringhausen",255.000 €,"Wehringhausen, 58089 Hagen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,1.917 €/m²,Maisonette,nil,01.10.2024,3,1,1 Duplex-Stellplatz,"3,57 % inkl. 19 % MwSt. vom vereinbarten Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Bielefeld-West: Zukunft sichern | ca. 91 m² | 3 Zim. | Balkon & Terrasse | begehrte Lage | WOHNRECHT,219.000 €,"Mitte, 33615 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"91,27 m²",2.399 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Vermietete 3-Zimmer-ETW mit Balkon und Garage in guter Lage von Bad Sassendorf,188.500 €,"59505 Bad Sassendorf, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,79 m²,2.386 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,"2,975 % inkl. MwSt","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

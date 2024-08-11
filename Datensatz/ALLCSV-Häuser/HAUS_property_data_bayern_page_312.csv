@@ -1,0 +1,55 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Provisionsfrei: denkmalgeschütztes WGH in attraktiver Wohnlage von Nürnberg,1.590.000 €,"Galgenhof, 90459 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",29,658 m²,320 m²,2.416 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Provisionsfrei: WGH in zentraler Wohnlage von Nürnberg,3.350.000 €,"Tafelhof, 90443 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",45,1.324 m²,581 m²,2.530 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Vermietetes Haus auf Erbbaurecht,349.000 €,"85778 Haimhausen, Dachau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",120 m²,466 m²,2.908 €/m²,Doppelhaushälfte,nil,nil,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Baindlkirch: Einzigartige Traumresidenz zum Verlieben!,Auf Anfrage,"86510 Ried, Aichach-Friedberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,116 m²,360 m²,nil,nil,60 m²,nil,nil,1,4 Stellplätze,3.57%,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Rarität! Historisches Bauernhaus im Ortskern von Vogtareuth,1.300.000 €,"83569 Vogtareuth, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,200 m²,2.489 m²,6.500 €/m²,Bauernhaus,nil,sofort,nil,nil,nil,"3,57 % inkl. gesetzl. Mwst. vom Kaufpreis",{'is24qa-keller-label': ''}
+Einzigartige Doppelhaushälfte in ruhiger Lage,149.000 €,"96317 Kronach, Kronach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,160 m²,200 m²,931 €/m²,Doppelhaushälfte,"177,5 m²",nil,5,2,Außenstellplatz,"3,57%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Preisreduzierung! Wohn- und Geschäftshaus mit 2 Wohneinheiten und Gewerbe im EG in Toplage,249.000 €,"Innenstadt, 95030 Hof
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"156,9 m²",515 m²,1.587 €/m²,Mehrfamilienhaus,110 m²,nach Absprache,3,3,1 Außenstellplatz,"3,57 % inkl. MwSt.",{'is24qa-keller-label': ''}
+Renovierungsbedürftiges Einfamilienhaus mit Dachterrasse und schönem Gartengrundstück,125.000 €,"95615 Marktredwitz, Wunsiedel im Fichtelgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,100 m²,734 m²,1.250 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"3,57% inkl. Mwst.",{}
+Idyllisch wohnen fernab des Großstadttrubels - Haus auf dem Land für Handwerker,105.000 €,"95671 Bärnau, Tirschenreuth (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,852 m²,840 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,2 Außenstellplätze,"3,57% inkl. Mwst.",{'is24qa-keller-label': ''}
+"Zweiparteienhaus auf großem Grundstück mit praktischer Werkstatt, komplett renoviert. EG frei",1.100.000 €,"83128 Halfing, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"173,25 m²",1.000 m²,6.349 €/m²,Einfamilienhaus (freistehend),180 m²,nach Absprache,3,2,3 Garagen,"2,975 % inkl. 19 % MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-vermietet-label': ''}"
+"RMH mit viel Potenzial, Lage ruhig und zentral, eingewachsener Südgarten, ideal für Familien",970.000 €,"Englschalking, 81677 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",120 m²,"220,25 m²",8.083 €/m²,Reihenmittelhaus,40 m²,nach Absprache,3,1,1 Garage,"2,38 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+DHH im Herzen von Bad Birnbach,550.000 €,"84364 Bad Birnbach, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,202 m²,563 m²,2.723 €/m²,Doppelhaushälfte,239 m²,nach Absprache,2,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrgenerationen Wohnen mit Potenzial,498.000 €,"Prof-Baumgartner-Straße 11,
+94086 Bad Griesbach im Rottal, Passau (Kreis)",8,322 m²,1.400 m²,1.547 €/m²,Mehrfamilienhaus,nil,sofort,nil,nil,1 Garage,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Modernes & Luxuriöses Reihenendhaus in Eching,1.690.000 €,"85386 Eching, Freising (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5","286,95 m²",334 m²,5.890 €/m²,Wohnimmobilie (sonstige),nil,nil,5,4,5 Tiefgaragen-Stellplätze,"3,57% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Gepflegtes Einfamilienhaus mit großem Traumgrundstück in Top Lage,895.000 €,"86316 Friedberg, Aichach-Friedberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,1.580 m²,6.630 €/m²,Einfamilienhaus (freistehend),190 m²,nach Vereinbarung,4,1,7 Garagen,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Neubau | Traumhaftes Zweifamilienhaus in idyllischer Lage von Gersthofen,845.000 €,"86368 Gersthofen, Augsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"169,63 m²","283,53 m²",4.981 €/m²,Mehrfamilienhaus,nil,nil,4,2,2 Duplex-Stellplätze,"3,57 % inkl. 19 % MwSt. Käuferprovision fällig nach notariellem Kaufvertragsabschluss!","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+DOPPELHAUSHÄLFTE IN WILHERMSDORF // PERFEKTES FAMILIENDOMIZIL,367.500 €,"91452 Wilhermsdorf, Fürth (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"112,8 m²",235 m²,3.258 €/m²,Doppelhaushälfte,194 m²,01.07.2024,2,2,2 Carports,"3,57 % inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Großzügiges Haus in Pegnitz ZFH/MGH/ELW/Büro,399.000 €,"91257 Pegnitz, Bayreuth (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,280 m²,890 m²,1.425 €/m²,Mehrfamilienhaus,nil,sofort,6,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau | Traumhafte Doppelhaushälfte in idyllischer Lage von Gersthofen,830.000 €,"86368 Gersthofen, Augsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"165,19 m²","283,53 m²",5.025 €/m²,Doppelhaushälfte,nil,nil,3,2,1 Garage,"3,57 % inkl. 19 % MwSt. Käuferprovision fällig nach notariellem Kaufvertragsabschluss!","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wunderschönes Einfamilienhaus in Bad Aibling!,810.000 €,"83043 Bad Aibling, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,113 m²,440 m²,7.168 €/m²,Einfamilienhaus (freistehend),113 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Anwesen zum Bau Ihres Living Hauses - Ihr einzigartiges Grundstück erwartet Sie!,845.000 €,"83043 Bad Aibling, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,143 m²,440 m²,5.909 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schnell sein lohnt sich! Grundstück in Bad Aibling - sofort Verfügbar!,825.000 €,"83043 Bad Aibling, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,126 m²,440 m²,6.548 €/m²,Einfamilienhaus (freistehend),126 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschönes Einfamilienhaus in Bad Aibling!,814.000 €,"83043 Bad Aibling, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,113 m²,440 m²,7.204 €/m²,Einfamilienhaus (freistehend),113 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartiges Grundstück mit der Möglichkeit zum Bau deines Traumhauses,1.420.000 €,"83043 Bad Aibling, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,210 m²,880 m²,6.762 €/m²,Einfamilienhaus (freistehend),210 m²,nil,5,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Schnell sein lohnt sich! Sichere dir jetzt 1 von 2 Grundstücken in Bad Aibling,825.000 €,"83043 Bad Aibling, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,126 m²,440 m²,6.548 €/m²,Einfamilienhaus (freistehend),126 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschönes Einfamilienhaus in Bad Aibling!,814.000 €,"83043 Bad Aibling, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,113 m²,440 m²,7.204 €/m²,Einfamilienhaus (freistehend),113 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweifamilienhaus mit wunderschönem Grundstück in bester Lage!,1.600.000 €,"83043 Bad Aibling, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,242 m²,880 m²,6.612 €/m²,Mehrfamilienhaus,242 m²,nil,6,2,nil,nil,{'is24qa-gaeste-wc-label': ''}

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Geschmackvolle Wohnung mit drei Zimmern im Herzen von Düsseldorf,220.000 €,"Kölner Straße 230,
+Oberbilk, 40227 Düsseldorf",3,69 m²,3.188 €/m²,Dachgeschoss,nil,nil,nil,1,nil,"3,57%","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gepflegte Penthouse - Wohnung in bester Lage von Bad Sassendorf,291.000 €,"Wiesenstr. 11,
+59505 Bad Sassendorf, Soest (Kreis)",3,104 m²,2.798 €/m²,Penthouse,nil,nil,2,1,1 Außenstellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Neubau Penthaus Maisonettewohnung 5 mit Dachterrasse in Bad Oeynhausen,422.100 €,"32547 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"107,86 m²",3.913 €/m²,Penthouse,nil,nil,2,2,1 Garage,Provisionsfrei für Käufer,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Exklusives Wohnen in Düsseldorf-Düsseltal,690.000 €,"Düsseltal, 40237 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,142 m²,4.859 €/m²,nil,nil,sofort,2,1,1 Garage,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Rheinallee: Wohnen in bester Lage Oberkassels,695.000 €,"Oberkassel, 40545 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,7.722 €/m²,nil,nil,nil,2,1,nil,3.0 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Zwei moderne Dachgeschosswohnungen mit jeweils tollem Balkon in schöner Wohnlage zum Hammerpreis!,275.000 €,"Sterkrade-Nord, 46147 Oberhausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,2.292 €/m²,nil,nil,nil,nil,nil,nil,"4,76% inkl. 19% Mehrwertsteuer zahlbar vom Käufer",{}
+Elegante Eigentumswohnung im Zooviertel,1.050.000 €,"Düsseltal, 40237 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,184 m²,5.707 €/m²,nil,nil,nil,2,1,1 Tiefgaragen-Stellplatz,2.38 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Retro-Chic in der Friedrichstadt - Altbauwohnung mit Geschichte und Stil,625.000 €,"Friedrichstadt, 40215 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,7.353 €/m²,nil,nil,nil,1,1,nil,3.57 %,{'is24qa-balkon-terrasse-label': ''}
+Exklusive NEUBAU Erdgeschosswohnung mit gehobener Ausstattung in Hürth-Hermülheim,589.000 €,"50354 Hürth, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,120 m²,4.908 €/m²,Erdgeschosswohnung,nil,Nach Vereinbarung,2,1,1 Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Wohnen im historischen Ambiente!,2.300.000 €,"Walheim, 52076 Aachen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,800 m²,2.875 €/m²,nil,nil,Vereinbarung,nil,nil,4 Außenstellplätze,"3,57 % inkl. MwSt",{'is24qa-balkon-terrasse-label': ''}
+Neubau Penthaus Maisonettewohnung 6 mit Dachterrasse in Bad Oeynhausen,410.000 €,"32547 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"105,33 m²",3.893 €/m²,Penthouse,nil,nil,2,2,1 Garage,Provisionsfrei für Käufer,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Erstbezug! Zentrales und klimafreundliches Wohnen mit Garten & Garage,815.000 €,"40764 Langenfeld (Rheinland), Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,147 m²,5.544 €/m²,Maisonette,10 m²,nach Vereinbarung,4,2,1 Garage,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Eleganz pur: Ihr neues Zuhause im Düsseldorfer Norden,795.000 €,"Wittlaer, 40489 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,134 m²,5.933 €/m²,nil,nil,nil,2,2,nil,3.57 %,{}
+4- Zimmer Wohnung im Medienhafen mit grandiosem Blick auf den Fernsehturm,695.000 €,"Unterbilk, 40219 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,6.043 €/m²,nil,nil,nil,3,1,nil,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Exklusive Neubau- Eigentumswohnungen im Zentrum von 51570 Windeck-Dattenfeld,480.000 €,"51570 Windeck, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,129 m²,3.721 €/m²,Maisonette,8 m²,nach Vereinbarung,4,2,Außenstellplatz,"0,00","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Neubau Etagenwohnung 4 mit Balkon in Bad Oeynhausen,341.900 €,"32547 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"100,01 m²",3.419 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,Provisionsfrei für Käufer,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+3-Zimmer-Stadtwohnung mit Aufzug und Blick,289.000 €,"53840 Troisdorf, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,113 m²,2.558 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Gelegenheit in der Altstadt,155.000 €,"Mitte, 33602 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,2.583 €/m²,nil,nil,nach Vereinbarung,1,1,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Vermietete 3-Zimmer-Wohnung in direkter Rheinlage,980.000 €,"Oberkassel, 40545 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,102 m²,9.608 €/m²,nil,nil,nil,2,1,nil,3.0 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Charmante Single-Wohnung mit Balkon und Stellplatz,210.000 €,"Oberbilk, 40227 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,43 m²,4.884 €/m²,Sonstige,nil,nil,1,1,1 Stellplatz,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"

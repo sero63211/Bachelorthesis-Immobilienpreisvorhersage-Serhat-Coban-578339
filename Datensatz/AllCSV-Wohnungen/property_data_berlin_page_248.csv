@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"7.000,- € pro QM- MODERNE 5 ZI.-DESIGNER-MAISONETTE für exklusive Ansprüche- mit Gartenzugang",945.000 €,"Westend, 14050 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,7.000 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % vom KP inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Einmalig: unten Berlin, oben die Sterne, vorne der Weinbergspark",2.490.000 €,"Veteranenstr. 14,
+Mitte (Ortsteil), 10119 Berlin",3,"136,53 m²",18.238 €/m²,Dachgeschoss,nil,ab sofort,2,2,nil,"3,57% Käufercourtage inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Parkpeak am Weinbergsark: Altbauwohnungen mit Parkside-Loggien,726.000 €,"Veteranenstr. 14,
+Mitte (Ortsteil), 10119 Berlin",2,"64,32 m²",11.287 €/m²,Etagenwohnung,nil,ab sofort,1,1,nil,"3,57% Käufercourtage inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Anlage im Dachgeschoss am Gemeindepark Lankwitz!""",275.000 €,"Lankwitz, 12249 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,4.741 €/m²,Etagenwohnung,10 m²,nil,nil,nil,nil,"3,57 % inkl. gesetzl. MwSt",{'is24qa-vermietet-label': ''}
+Toplage!! Helle 2 Zimmerwohnung mit Balkon,230.000 €,"Spandau (Ortsteil), 13585 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,3.594 €/m²,nil,nil,sofort,nil,1,nil,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Ruhiges Dachgeschoss mit großer Terrasse und Blick zum Fernsehturm,1.399.000 €,"Prenzlauer Berg, 10405 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,157 m²,8.911 €/m²,Dachgeschoss,nil,nach Vereinbarung,3,2,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Ruhiges Industrie-Loft im Winskiez,545.000 €,"Prenzlauer Berg, 10405 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,69 m²,7.899 €/m²,Loft,nil,nach Vereinbarung,1,1,1 Tiefgaragen-Stellplatz,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Exklusives Wohnen mit 5-Sterne-Service im Beisheim Center,8.000.000 €,"Tiergarten, 10785 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,579 m²,13.817 €/m²,nil,nil,nach Vereinbarung,nil,3,4 Garagen,siehe Sonstiges,"{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Kreuzberg am Bergmannkiez; sanierte und bezugsfreie 2-Zimmer-Wohnung mit großem Balkon,389.000 €,"Kreuzberg, 10961 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"51,15 m²",7.605 €/m²,Etagenwohnung,nil,nil,1,nil,nil,"3,57% vom Kaufpreis (inkl. Mwst.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Gartenwohnung in Dahlem,990.000 €,"Dahlem, 14195 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,102 m²,9.706 €/m²,Erdgeschosswohnung,nil,nil,2,2,2 Tiefgaragen-Stellplätze,"3,57% vom Kaufpreis inkl. 19% gesetzliche MwSt. zahlbar vom Käufer an den Makler","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Erstklassige Investition - Vermietete Wohnung in Premiumlage,1.150.000 €,"Mitte (Ortsteil), 10179 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,8.647 €/m²,nil,nil,Vermietet,3,2,1 Tiefgaragen-Stellplatz,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Design-Juwel mit atemberaubendem Blick über Mitte und Kreuzberg,5.900.000 €,"Kreuzberg, 10969 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,480 m²,12.292 €/m²,Penthouse,nil,nach Vereinbarung,nil,2,2 Garagen,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+++ Vermietete Traumwohnung am Wasser: 3 Zimmer Altbau mit 2 Balkonen ++,377.000 €,"Friedrichshagen, 12587 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"85,89 m²",4.389 €/m²,Etagenwohnung,nil,Vermietet,2,1,1 Garage,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Hot Spot Zionskirchplatz – First Row Weinbergspark,766.000 €,"Veteranenstr. 14,
+Mitte (Ortsteil), 10119 Berlin",2,"63,85 m²",11.997 €/m²,Etagenwohnung,nil,ab sofort,1,1,nil,"3,57% Käufercourtage inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Hell und ruhig leben im Altbau am Schillerkiez,845.000 €,"Neukölln (Ortsteil), 12049 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,126 m²,6.706 €/m²,Etagenwohnung,nil,nach Vereinbarung,3,1,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Helle 3-Zimmerwohnung mit Südwest-Balkon und Tiefgarage,350.000 €,"Friedrichsfelde, 10315 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"86,34 m²",4.054 €/m²,nil,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+leer Wohnung sofort bezugsfertig / 2 Raum / 55m2 / sehr Zentral / Kita & Schule fußläufig,189.500 €,"Spandau (Ortsteil), 13585 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,3.445 €/m²,Etagenwohnung,nil,01.05.2024,2,1,Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+City West: 2-Zimmer-Wohnung nahe TU ++ Provisionsfrei ++ mit Aufzug,288.000 €,"Otto-Suhr-Allee 21,
+Charlottenburg, 10585 Berlin",2,"56,46 m²",5.101 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 3 Raum Wohnung mit Balkon zum kurzfristigen Eigenbedarf in Köpenick,461.000 €,"Friedrichshagen, 12587 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"83,58 m²",5.516 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+2-Zimmer-Wohnung in zentraler und trotzdem ruhiger Lage in Spandau zu verkaufen,210.000 €,"Sprengelstraße 10,
+Wilhelmstadt, 13595 Berlin",2,54 m²,3.889 €/m²,Etagenwohnung,54 m²,1. August,1,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

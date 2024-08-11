@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3Z Wohnung mit Loggia in Wedding,260.000 €,"Ostenderstr 12,
+Wedding, 13353 Berlin",3,"71,03 m²",3.660 €/m²,Etagenwohnung,nil,nil,2,1,nil,3%+MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"3-Zimmer-Wohnung, ideal für Familien und Home Office",875.000 €,"Luisenstraße 45,
+Mitte (Ortsteil), 10117 Berlin",3,"98,77 m²",8.859 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,2,nil,"3,57 % inkl. USt. in gesetzlicher Höhe","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+BEZUGSFREIE 4-Zimmer Dachgeschosswohnung in Niederschönhausen,440.000 €,"Niederschönhausen, 13156 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"85,67 m²",5.136 €/m²,Etagenwohnung,"85,67 m²",nil,2,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Direkt einziehen oder lukrativ vermieten: 2-Zimmer-Altbauwohnung – HTW & Spreehalle um die Ecke,319.250 €,"Wilhelminenhofstraße 35,
+Oberschöneweide, 12459 Berlin",2,"63,85 m²",5.000 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Rooms with a view: sanierte Altbauwohnung in erster Reihe am Weinbergspark,672.000 €,"Veteranenstr. 14,
+Mitte (Ortsteil), 10119 Berlin",2,"61,72 m²",10.888 €/m²,Etagenwohnung,nil,ab sofort,1,1,nil,"3,57% Käufercourtage inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+1-Zimmer-Wohnung mit viel Licht und Platz,223.773 €,"Guntherstraße 4,
+Lichtenberg (Ortsteil), 10365 Berlin",1,"37,11 m²",6.030 €/m²,Etagenwohnung,nil,sofort bezugsfertig,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zwei Ebenen im Dachgeschoss mit Blick ins Grüne von West-Terrasse,743.699 €,"Donaustraße 70B,
+Neukölln (Ortsteil), 12043 Berlin",4,"91,86 m²",8.096 €/m²,Maisonette,nil,sofort bezugsfertig,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Frisch renovierte 2-Zimmer-Wohnung mit Süd-West-Terrasse,875.000 €,"Luisenstraße 45,
+Mitte (Ortsteil), 10117 Berlin",2,"84,71 m²",10.329 €/m²,Dachgeschoss,nil,sofort bezugsfertig,1,2,nil,"3,57 % inkl. USt. in gesetzlicher Höhe","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Vermietete Altbauwohnung mit Charme dicht Esperantoplatz,475.000 €,"Neukölln (Ortsteil), 12055 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,109 m²,4.358 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57 % inkl. gesetzl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Schöne Altbauwohnung mit viel Platz, individuellem Gestaltungspotential & Süd-Balkon",1.046.519 €,"Pfalzburger Straße 33,
+Wilmersdorf, 10717 Berlin","4,5","143,99 m²",7.268 €/m²,Etagenwohnung,nil,sofort bezugsfertig,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive Souterrain-Wohnung zur Eigennutzung oder Kapitalanlage,270.000 €,"Niederschönhausen, 13156 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"68,1 m²",3.965 €/m²,Etagenwohnung,"68,1 m²",nil,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sonnige 2 Zimmer Wohnung mit Balkon und Stellplatz. Kapitalanalge oder Eigennutzung,199.000 €,"Wilhelmstadt, 13581 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"55,71 m²",3.572 €/m²,Etagenwohnung,"55,71 m²",Nach Absprache,1,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Home-Office-Traum mit 3 Zimmern,980.000 €,"Luisenstraße 45,
+Mitte (Ortsteil), 10117 Berlin",3,"98,24 m²",9.976 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,2,nil,"3,57 % inkl. USt. in gesetzlicher Höhe","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+1-Zimmer-Wohnung mit Balkon im Szenekiez,327.455 €,"Leinestraße 51,
+Neukölln (Ortsteil), 12049 Berlin",1,"41,45 m²",7.900 €/m²,Etagenwohnung,nil,sofort bezugsfertig,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau-Komfort mit 3 Zimmern und 2 Terrassen,1.220.000 €,"Luisenstraße 45,
+Mitte (Ortsteil), 10117 Berlin",3,"118,76 m²",10.273 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,"3,57 % inkl. USt. in gesetzlicher Höhe","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wohntraum verwirklichen: 4.5-Zimmer Dachgeschoss-Rohling mit Süd-Terrasse,585.324 €,"Pfalzburger Straße 33,
+Wilmersdorf, 10717 Berlin","4,5","162,59 m²",3.600 €/m²,Dachgeschoss,nil,nil,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alles andere als gewöhnlich: 3-Zimmer-Wohnung mit 2 Balkonen,1.040.000 €,"Luisenstraße 45,
+Mitte (Ortsteil), 10117 Berlin",3,"104,28 m²",9.973 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,"3,57 % inkl. USt. in gesetzlicher Höhe","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Der Blick nach Süden in die Sonne - wunderschöne Altbau-Wohnung im Bötzowviertel,975.000 €,"Prenzlauer Berg, 10407 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"97,4 m²",10.010 €/m²,nil,nil,nil,2,1,nil,"zzgl. 3,57% Käuferprovision (inkl. gesetzlicher MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+3-Zimmer-Wohnung mit 2 Balkonen und reichlich Extravaganz,940.000 €,"Luisenstraße 45,
+Mitte (Ortsteil), 10117 Berlin",3,"105,92 m²",8.875 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,"3,57 % inkl. USt. in gesetzlicher Höhe","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Hier zieht die Zukunft ein: 2-Zimmer-Altbauwohnung mit Balkon – Eigennutzung oder Kapitalanlage,335.075 €,"Wilhelminenhofstraße 35,
+Oberschöneweide, 12459 Berlin",2,"62,63 m²",5.350 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

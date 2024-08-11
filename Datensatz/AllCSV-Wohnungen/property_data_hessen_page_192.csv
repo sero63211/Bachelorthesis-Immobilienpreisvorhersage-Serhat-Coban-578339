@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Offen für Angebote: 3.0-Zimmer Wohnung in Langen (Hessen),nil,"63225 Langen (Hessen), Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,130 m²,5.192 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Eigentumswohnung mit Terrasse, Garage und Stellplatz zu verkaufen",Auf Anfrage,"35274 Kirchhain, Marburg-Biedenkopf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,nil,Terrassenwohnung,nil,nil,1,2,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 4.0-Zimmer Wohnung in Rodgau,nil,"63110 Rodgau, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,108 m²,3.056 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+Schöne 3 ZKB Wohnung mit Balkon und Tiefgaragenstellplatz zu verkaufen,215.000 €,"Kärntnerstr. 8,
+Biebrich, 65187 Wiesbaden",3,83 m²,2.590 €/m²,nil,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"2,975","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Gepflegte 2-Zimmer-Wohnung mit Balkon, Klimaanlage und Stellplatz",250.000 €,"In den Waldgärten 21,
+Hausen, 60488 Frankfurt am Main",2,46 m²,5.435 €/m²,Etagenwohnung,nil,sofort,1,1,1 Garage,"4,76","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Spezialimmobilie: Senioren- u. Behindertengerecht Wohnen,339.000 €,"63128 Dietzenbach, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"73,06 m²",4.640 €/m²,Etagenwohnung,nil,nach Absprache,nil,nil,nil,3 % inkl. ges. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Bezugsfertige 6-Zimmer Penthouse-Maisonettewohnung mit A+ Energieeffizienz,638.000 €,"Bieber, 63073 Offenbach am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,127 m²,5.024 €/m²,Maisonette,3 m²,4. Quartal 2023,5,2,1 Außenstellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"OBERURSEL, barrierefrei für Eigennutzer und Kapitalanleger",214.000 €,"Mainstrasse 26,
+61440 Oberursel (Taunus), Hochtaunuskreis",2,54 m²,3.963 €/m²,Etagenwohnung,5 m²,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Helle 3-Zimmer-Wohnung mit Concierge-Service im Architekten-Wohnturm Axis, provisionsfrei",788.000 €,"Europa-Allee 165,
+Gallus, 60486 Frankfurt am Main",3,"98,61 m²",7.991 €/m²,Etagenwohnung,nil,24.5.2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3-Zimmer-Wohnung mit Balkon, EBK und Hobbyraum in Alsbach-Hähnlein zu verkaufen",240.000 €,"Auf der Bach 11,
+64665 Alsbach-Hähnlein, Darmstadt-Dieburg (Kreis)",3,61 m²,3.934 €/m²,Dachgeschoss,27 m²,01.07.2024,nil,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bezugsfertige Neubauwohnung mit eigenem Garten für maximale Lebensqualität,464.000 €,"Bieber, 63073 Offenbach am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,5.459 €/m²,Erdgeschosswohnung,5 m²,4. Quartal 2023,2,1,1 Außenstellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schön geschnittene 2 Zimmerwohnung mit Balkon und Tiefgarage,216.000 €,"65428 Rüsselsheim am Main, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,3.323 €/m²,Etagenwohnung,8 m²,01.12.2024,1,1,1 Tiefgaragen-Stellplatz,"2,5% zzgl. MwSt. vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+VIDO | Draussen mittendrin: Helle 2-Zimmer-Wohnung mit Loggia in grünem Wohnquartier in Bockenheim,479.900 €,"Ludwig-Landmann-Straße 391,
+Rödelheim, 60487 Frankfurt am Main",2,"65,37 m²",7.341 €/m²,Etagenwohnung,nil,ab sofort,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+VIDO | Wohlfühlen auf ca. 80 m² mit Terrasse in urbaner Oase westlich Frankfurt's City,559.900 €,"Ludwig-Landmann-Straße 389,
+Bockenheim, 60487 Frankfurt am Main",3,"80,44 m²",6.960 €/m²,Etagenwohnung,nil,ab sofort,2,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"+++ Einzugsfertige Wohnung mit eigenem Garten, Kamin und Garage in exklusiver Panoramalage +++",275.000 €,"34246 Vellmar, Kassel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",105 m²,2.619 €/m²,Etagenwohnung,25 m²,nil,1,1,1 Garage,"2,975 % inkl. Mwst.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Das perfekte Zuhause für Gesundheit, Frieden und Freiheit!",197.000 €,"65388 Schlangenbad, Rheingau-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,70 m²,2.814 €/m²,Etagenwohnung,12 m²,sofort,1,1,1 Parkhaus-Stellplatz,"3,57% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Schöne und gepflegt Wohnung mitten im Frankfurt Bornheim,280.000 €,"Alt Bornheim 0,
+Bornheim, 60385 Frankfurt am Main",1,30 m²,9.333 €/m²,Etagenwohnung,nil,01.07.2024,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zentrale und ruhige Vierzimmer-Maisonette-Wohnung im Erdgeschoß mit kleinem Garten zu verkaufen,145.500 €,"Mittelgasse 1,
+34302 Guxhagen, Schwalm-Eder-Kreis",4,"85,82 m²",1.695 €/m²,Maisonette,nil,sofort,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 3.0-Zimmer Wohnung in Frankfurt am Main,nil,"Bockenheim, 60486 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,7.404 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+Eigentumswohnung HP-Weststadt - 4 Zimmer - 97 m² - 2 Loggien - TG-Stellplatz - Außenstellplatz,229.000 €,"64646 Heppenheim (Bergstraße), Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,97 m²,2.361 €/m²,Etagenwohnung,nil,sofort,nil,1,1 Tiefgaragen-Stellplatz,"3,57inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

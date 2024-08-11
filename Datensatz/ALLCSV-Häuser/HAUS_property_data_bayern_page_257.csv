@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wohnhaus mit Garten,100.000 €,"Kellerstraße XXX,
+Achdorf, 84036 Landshut",1,1 m²,174 m²,100.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Doppelgarage,359.000 €,"Buchbergstraße XXX,
+84489 Burghausen, Altötting (Kreis)",6,185 m²,765 m²,1.941 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Schönes 2-Fam.Haus in 84367 Walburgskirchen in Süd-Höhenlage,339.000 €,"84367 Tann, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,205 m²,606 m²,1.654 €/m²,Einfamilienhaus (freistehend),120 m²,sofort,5,2,4 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kleines aber feines Einfamilienhaus + provisionsfrei +,90.000 €,"Teuchatzer Straße XXX,
+96129 Strullendorf, Bamberg (Kreis)",4,70 m²,429 m²,1.286 €/m²,Wohnimmobilie (sonstige),47 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage,160.000 €,"Oettinger Straße XXX,
+86742 Fremdingen, Donau-Ries (Kreis)",5,"143,11 m²",265 m²,1.118 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Garage,450.000 €,"Lusthauser Straße XXX,
+89250 Senden, Neu-Ulm (Kreis)",1,1 m²,277 m²,450.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Doppelgarage - provisionsfrei,506.000 €,"Wiesenstraße XXX,
+84030 Ergolding, Landshut (Kreis)",6,190 m²,863 m²,2.663 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage,250.000 €,"Eichenweg XXX,
+93333 Neustadt an der Donau, Kelheim (Kreis)",1,129 m²,620 m²,1.938 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Doppelgarage,495.000 €,"Schloßberg XXX,
+94086 Bad Griesbach im Rottal, Passau (Kreis)",4,137 m²,1.402 m²,3.613 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+++ Kapitalanlage ++ Mehrfamilienhaus im Rohbau,1.800.000 €,"Türkenbundweg XXX,
+Blumenau, 80689 München",10,292 m²,469 m²,6.164 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus,464.000 €,"Zum Bildstöckle XXX,
+89257 Illertissen, Neu-Ulm (Kreis)",1,1 m²,567 m²,464.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit 3 Garagen und kleinem Weiher - provisionsfrei,500.000 €,"Römerstraße XXX,
+83308 Trostberg, Traunstein (Kreis)",6,150 m²,1.123 m²,3.333 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Vielseitig nutzbares Wohnhaus mit Abstellgebäude - provisionsfrei,367.700 €,"Hirtenweg XXX,
+96123 Litzendorf, Bamberg (Kreis)",3,180 m²,8.338 m²,2.043 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit überdachter Terrasse,420.000 €,"Fleischmannweg XXX,
+93188 Pielenhofen, Regensburg (Kreis)",6,"128,82 m²",393 m²,3.260 €/m²,Wohnimmobilie (sonstige),"40,5 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Doppelhaushälfte mit Dachterrasse,127.000 €,"Walter-Flex-Straße XXX,
+96465 Neustadt bei Coburg, Coburg (Kreis)",7,"124,94 m²",610 m²,1.016 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage,328.000 €,"Guido-Halbig-Straße XXX,
+97502 Euerbach, Schweinfurt (Kreis)",5,"138,37 m²",745 m²,2.370 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Doppelhaushälfte mit Doppelgarage,122.000 €,"Hofmannweg XXX,
+96260 Weismain, Lichtenfels (Kreis)",5,"131,73 m²",799 m²,926 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Neubau - 2 massive große DHH A+ in Grafrath/Kreis Fürstenfeldbruck *All inklusive*,1.174.000 €,"82284 Grafrath, Fürstenfeldbruck (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"152,54 m²",364 m²,7.696 €/m²,Doppelhaushälfte,59 m²,10/2024,4,2,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehendes 2-Familienhaus mit 2 Garagen,650.000 €,"Hauptstraße XXX,
+83367 Petting, Traunstein (Kreis)",7,206 m²,1.180 m²,3.155 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"+Kapitalanlage+ Mehrfamilienhaus mit 3 Wohnungen, Garage und Carport",360.000 €,"Untere Beernleite XXX,
+92660 Neustadt an der Waldnaab, Neustadt an der Waldnaab (Kreis)",1,269 m²,722 m²,1.338 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

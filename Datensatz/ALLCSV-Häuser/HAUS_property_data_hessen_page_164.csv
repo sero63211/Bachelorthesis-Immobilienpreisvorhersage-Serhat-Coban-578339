@@ -1,0 +1,141 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus ++ ohne Provision ++,25.000 €,"Blaue Pfütze XXX,
+35282 Rauschenberg, Marburg-Biedenkopf (Kreis)",1,85 m²,118 m²,294 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + provisionsfrei +,220.000 €,"Katharinenstraße XXX,
+35410 Hungen, Gießen (Kreis)",6,199 m²,140 m²,1.106 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Rohbau eines Einfamilienhauses - provisionsfrei,250.000 €,"Taunusstraße XXX,
+61276 Weilrod, Hochtaunuskreis",6,763 m²,624 m²,328 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus nebst Garage,540.000 €,"Friedrich-Ebert-Straße XXX,
+64390 Erzhausen, Darmstadt-Dieburg (Kreis)",1,120 m²,492 m²,4.500 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mediterrane Landhaus-Villa mit Büro/Praxis oder Einliegerwohnung,1.360.000 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,310 m²,650 m²,4.387 €/m²,Einfamilienhaus (freistehend),54 m²,Absprache,5,4,1 Garage,"2,975 % inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
++ Freistehendes 2-Familienhaus +,6.000 €,"Waldenserstraße XXX,
+34399 Oberweser, Kassel (Kreis)",10,277 m²,416 m²,22 €/m²,Wohnimmobilie (sonstige),30 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Traumhafter Gartenblick, Wiesbaden-Kohlheck",980.000 €,"Dotzheim, 65199 Wiesbaden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,242 m²,528 m²,4.050 €/m²,Doppelhaushälfte,80 m²,nil,3,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit Garage ++ ohne Provision ++,80.000 €,"Am Zellersbach XXX,
+36284 Hohenroda, Hersfeld-Rotenburg (Kreis)",1,"119,25 m²",545 m²,671 €/m²,Wohnimmobilie (sonstige),100 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus, Garten, Garage",610.000 €,"Hunsrückstraße XXX,
+64560 Riedstadt, Groß-Gerau (Kreis)",8,189 m²,948 m²,3.228 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Garage,482.500 €,"Mainstraße XXX,
+64546 Mörfelden-Walldorf, Groß-Gerau (Kreis)",1,1 m²,775 m²,482.500 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Schönes freistehendes Einfamilienhaus mit Garten und Garage +,545.000 €,"Schillerstraße XXX,
+64589 Stockstadt am Rhein, Groß-Gerau (Kreis)",5,142 m²,667 m²,3.838 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage + provisionsfrei +,483.000 €,"Südring XXX,
+63110 Rodgau, Offenbach (Kreis)",5,"152,98 m²",374 m²,3.157 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Mehrfamilienhaus mit 3 Wohnungen und Garten +,774.000 €,"Am Streitstein XXX,
+64646 Heppenheim (Bergstraße), Bergstraße (Kreis)",10,293 m²,803 m²,2.642 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+NEUER PREIS! Gemütliches Wohnen in Münster: Denkmalgeschütztes EFH inkl. Balkon und Terrasse,140.000 €,"65618 Selters (Taunus), Limburg-Weilburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"67,16 m²","71,16 m²",2.085 €/m²,Einfamilienhaus (freistehend),15 m²,ab sofort,1,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Gelegenheit 2-FH, zentrale Lage in Erzhausen, Mehrgenerationenhaus",569.000 €,"64390 Erzhausen, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,846 m²,2.845 €/m²,nil,60 m²,nach Vereinbarung,2,2,1 Garage,"21.027,30 €","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Schlossberg Neubauvilla - Projektiertes Baugrundstück,550.000 €,"64625 Bensheim, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,184 m²,288 m²,2.989 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,4 Garagen,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Klinkerhaus, Dämmung, Garage, Garten, Dachterrasse, Wintergarten, Kamin etc.",319.000 €,"Buchenweg 10,
+34305 Niedenstein, Schwalm-Eder-Kreis",6,140 m²,780 m²,2.279 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,nil,nil,Garage,"nur 2,5% inkl. MwSt. des Kaufpreises!",{}
+"Zwei Häuser ! Vielfältige Nutzungsmöglichkeiten für Mehrgenerationenwohnen, Arbeiten und Vermieten",950.000 €,"64319 Pfungstadt, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,250 m²,433 m²,3.800 €/m²,Einfamilienhaus (freistehend),nil,Nach Absprache,5,5,3 Carports,"3,57 % inkl. MwSt, zahlbar vom Käufer nach Beurkundung.",{'is24qa-gaeste-wc-label': ''}
+"Für Fans der frischen Luft: Gepflegtes EFH mit neuer PV-Anlage, schönem Außenbereich und Gartenhaus",199.000 €,"35708 Haiger, Lahn-Dill-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"144,23 m²","523,23 m²",1.380 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,4,1,2 Garagen,"3,57 %",{'is24qa-online-besichtigung-moeglich-label': ''}
++++ Energieeffiziente DHH mit Einbauküche+++,445.609 €,"Klein-Auheim, 63456 Hanau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,95 m²",135 m²,3.566 €/m²,Doppelhaushälfte,"124,95 m²",06/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffizienzhaus im Stadtteil von Hanau +++,496.579 €,"Klein-Auheim, 63456 Hanau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"127,49 m²",220 m²,3.895 €/m²,Doppelhaushälfte,"127,49 m²",6.2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffiziente DHH mit Einbauküche+++,593.598 €,"61273 Wehrheim, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"151,63 m²",418 m²,3.915 €/m²,Doppelhaushälfte,"151,63 m²",06/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffizienzhaus als DHH in Wehrheim 1 +++,591.579 €,"61273 Wehrheim, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"127,49 m²",428 m²,4.640 €/m²,Doppelhaushälfte,"127,49 m²",6.2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Wohnen in exponierter Lage von Oberursel +++,1.873.999 €,"61440 Oberursel (Taunus), Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"245,05 m²",1.100 m²,7.647 €/m²,Einfamilienhaus (freistehend),nil,06/2025,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"+++ Günstig wohnen im HTK, Aktionshaus Kick-Off 3 +++",399.209 €,"61276 Weilrod, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",595 m²,2.934 €/m²,Einfamilienhaus (freistehend),"136,07 m²",06.2025,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
++++ Aktionshaus Kick-Off 3 mit Top-Ausstattung in zentraler Lage +++,515.258 €,"61250 Usingen, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",480 m²,3.787 €/m²,Einfamilienhaus (freistehend),"136,07 m²",06.2025,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
++++ Wohnen in exponierter Lage von Oberursel +++,1.017.999 €,"61440 Oberursel (Taunus), Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"127,49 m²",500 m²,7.985 €/m²,Doppelhaushälfte,"127,49 m²",6.2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Aktions-Villa mit Keller + Möbelgutschein + Küche +++,"499.998,88 €","61279 Grävenwiesbach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"145,86 m²",690 m²,"3.427,94 €/m²",Villa,"146,04 m²",06/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffizienzhaus mit Vollkeller +++,455.718 €,"61279 Grävenwiesbach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,72 m²",690 m²,3.408 €/m²,Einfamilienhaus (freistehend),"133,72 m²",06/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffizienter Bungalow in ruhiger Lage +++,471.969 €,"61279 Grävenwiesbach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,37 m²",710 m²,4.056 €/m²,Bungalow,108 m²,6/2025,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
++++ allkauf Preiskracher MOVE 7 mit Markenküche für zwei Baupartner +++,636.719 €,"61276 Weilrod, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"239,85 m²",840 m²,2.655 €/m²,Mehrfamilienhaus,nil,06/2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ allkauf Preiskracher Villa HOME 4 OW mit Markenküche +++,460.184 €,"61276 Weilrod, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"143,97 m²",633 m²,3.196 €/m²,Einfamilienhaus (freistehend),"143,97 m²",06/2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffizientes Einfamilienhaus im Zentrum von Wehrheim +++,"429.259,37 €","61273 Wehrheim, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"113,38 m²",288 m²,"3.786,02 €/m²",Einfamilienhaus (freistehend),"113,38 m²",6/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Alles neu - alles auf einer Ebene - ebenes Grundstück in Schmitten +++,"496.733,21 €","61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,37 m²",720 m²,"4.268,57 €/m²",Bungalow,108 m²,6/2025,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
++++ Einfamilienhaus mit Weitblick+++,"466.829,32 €","61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"143,7 m²",670 m²,"3.248,64 €/m²",Einfamilienhaus (freistehend),"143,7 m²",06/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ +++,"595.721,23 €","61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,23 m²",820 m²,"4.188,44 €/m²",Einfamilienhaus (freistehend),"142,23 m²",04/2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffizientes EFH vom Marktführer im Fertighausbau +++,619.698 €,"61381 Friedrichsdorf, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,72 m²",400 m²,4.634 €/m²,Einfamilienhaus (freistehend),"133,72 m²",06/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Grundstück in Südausrichtung +++,519.765 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,72 m²",520 m²,3.887 €/m²,Einfamilienhaus (freistehend),"133,72 m²",06/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Ruhige Lage mit Weitblick in Neu-Anspach Westerfeld+++,487.256 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"127,49 m²",500 m²,3.822 €/m²,Doppelhaushälfte,"127,49 m²",6.2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Ruhige zentrale Lage mitten im Zentrum von Usingen +++,497.597 €,"61250 Usingen, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"137,78 m²",480 m²,3.612 €/m²,Doppelhaushälfte,nil,05/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Zentrale Lage mit fußläufiger Einkaufsmöglichkeit +++,869.948 €,"61440 Oberursel (Taunus), Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,24 m²",386 m²,7.059 €/m²,Doppelhaushälfte,124 m²,5/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Wohnen wo andere Urlaub machen +++ Aktion vollgepackt +++,617.428 €,"61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",800 m²,4.233 €/m²,Einfamilienhaus (freistehend),nil,8/2025,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
++++ Traumhaus mit Küche und Möbelgutschein +++,542.818 €,"61250 Usingen, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",550 m²,3.870 €/m²,Einfamilienhaus (freistehend),nil,04.2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Wo ist hier der Haken? Traum vom Eigenheim für zwei Baufamilien +++,898.268 €,"61273 Wehrheim, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",1.000 m²,3.424 €/m²,Mehrfamilienhaus,"262,37 m²",7/2023,6,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++++ Zwei Baupartner und somit halber Preis +++,789.803 €,"61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",800 m²,3.010 €/m²,Mehrfamilienhaus,"262,37 m²",7/2023,6,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++++ Quasi zwei DHH für zwei Baupartner zum Aktionspreis +++,791.254 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"239,85 m²",1.000 m²,3.299 €/m²,Mehrfamilienhaus,nil,04/2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Modernster Baustil in energieeffizienter Bauweise in Usingen +++,869.846 €,"61250 Usingen, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"223,38 m²",828 m²,3.894 €/m²,Einfamilienhaus (freistehend),nil,7/2024,5,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Grundstück für sonnenhungrige Bauherren +++,524.700 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,72 m²",540 m²,3.924 €/m²,Einfamilienhaus (freistehend),"133,72 m²",08/24,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Doppelhaushälfte mit ausgebautem Spitzboden in TOP Lage von Usingen +++,487.359 €,"61250 Usingen, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"137,78 m²",415 m²,3.537 €/m²,Doppelhaushälfte,nil,12.2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffizienzhaus mit viel Platz in Neu-Anspach+++,577.412 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"181,77 m²",508 m²,3.177 €/m²,Einfamilienhaus (freistehend),"181,77 m²",06/2025,5,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffiziente DHH mit Panorama Dachterrasse in Schmitten +++,519.408 €,"61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"203,73 m²",360 m²,2.549 €/m²,Doppelhaushälfte,nil,2/2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Zentral und ruhig in zweiter Reihe direkt in Usingen wohnen +++,445.820 €,"61250 Usingen, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,23 m²",415 m²,3.135 €/m²,Einfamilienhaus (freistehend),"142,23 m²",02/2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Zentrale TOP-Lage von Usingen +++,414.429 €,"61250 Usingen, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,173 m²,415 m²,2.396 €/m²,Einfamilienhaus (freistehend),"142,23 m²",2/2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffizientes Eigenheim +++ Aktion Vollgepackt +++,458.815 €,"61279 Grävenwiesbach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",700 m²,3.271 €/m²,Einfamilienhaus (freistehend),nil,04.2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Wohnen wo andere Urlaub machen +++,574.312 €,"61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",544 m²,3.159 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Stadtvilla mit Balkon am Waldrand +++,473.762 €,"61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"158,39 m²",470 m²,2.991 €/m²,Einfamilienhaus (freistehend),"158,39 m²",08/24,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"+++ Förderfähiges KFN-Effizienzhaus mit PV-Anlage und Speicher mit EUR 36.000,- Preisnachlass +++",1.089.000 €,"61476 Kronberg im Taunus, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,72 m²",600 m²,8.144 €/m²,Einfamilienhaus (freistehend),"133,72 m²",08/24,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Bezahlbares Wohnen in Weilrod +++,393.519 €,"61276 Weilrod, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"151,63 m²",400 m²,2.595 €/m²,Doppelhaushälfte,nil,11/2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Zentrales Wohnen mit Keller in Oberursel-Oberstedten +++,943.559 €,"61440 Oberursel (Taunus), Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"151,63 m²",386 m²,6.223 €/m²,Doppelhaushälfte,218 m²,03/2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Ausbauhaus mit allem Materialpaketen + Zinssubvention +++,539.169 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"143,61 m²",690 m²,3.754 €/m²,Einfamilienhaus (freistehend),143 m²,11/2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Walmdachvilla auf breitem Sonnengrundstück in Neu-Anspach +++,616.759 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"145,86 m²",690 m²,4.228 €/m²,Villa,"145,86 m²",nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffiziente DHH mit Panorama Dachterrasse in Oberursel +++,904.208 €,"61440 Oberursel (Taunus), Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"203,73 m²",383 m²,4.438 €/m²,Doppelhaushälfte,nil,2/2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Quasi 2 DHH zum Sparpreis +++,698.874 €,"61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",683 m²,2.664 €/m²,Mehrfamilienhaus,nil,3.2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Darf es etwas mehr sein ? Dachterrasse und Balkon +++,827.375 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"245,38 m²",1.020 m²,3.372 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Energieeffizienzhaus in der Nähe des Main-Taunus-Kreises +++,659.558 €,"61479 Glashütten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"147,31 m²",580 m²,4.477 €/m²,Einfamilienhaus (freistehend),"147,31 m²",02/2025,4,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++++ ruhiges Wohnen auf einer Ebene +++,558.642 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,37 m²",540 m²,4.801 €/m²,Bungalow,108 m²,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
++++ Letzte Doppelhaushälfte mit Keller in ruhiger Lage von Oberursel +++,962.520 €,"61140 Oberursel (Taunus), Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,151 m²,386 m²,6.374 €/m²,Doppelhaushälfte,nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Bezahlbares Eigenheim in Neu-Anspach +++,361.199 €,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,131 m²,"268,5 m²",2.757 €/m²,Mehrfamilienhaus,131 m²,2/2025,3,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"+++ Ein Blick, ein Traumhaus - hier passt einfach alles +++",617.541 €,"61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,173 m²,680 m²,3.570 €/m²,Einfamilienhaus (freistehend),165 m²,03/2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ allkauf Preiskracher Villa HOME 4 OW +++,524.119 €,"61389 Schmitten, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"143,97 m²",540 m²,3.640 €/m²,Einfamilienhaus (freistehend),"143,97 m²",12/2024,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

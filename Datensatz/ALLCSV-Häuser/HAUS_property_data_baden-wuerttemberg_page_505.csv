@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus mit ELW und herrlichem Garten in ruhiger Lage,349.000 €,"Friedrich-Hebbel-Straße 4,
+74219 Möckmühl, Heilbronn (Kreis)",7,150 m²,710 m²,2.327 €/m²,Einfamilienhaus (freistehend),50 m²,nil,3,2,1 Garage,"3,57 % des Kaufpreises incl. Mehrwertsteuer","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Saniertes Reiheneckhaus in guter Lage in Stuttgart Vaihingen,770.000 €,"Dürrlewang, 70565 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,200 m²,5.704 €/m²,Reiheneckhaus,80 m²,1.1.25,4,2,nil,"3,57% inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Großzügige Doppelhaushälfte in guter Wohnlage Leonberg,624.500 €,"71229 Leonberg, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,360 m²,3.674 €/m²,Doppelhaushälfte,110 m²,1.7.23,5,2,nil,"1,8% inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+667000 € - 145 m² - 5.0 Zi. Einfamilienhaus mit Einliegerwohnung,667.000 €,"72202 Nagold, Calw (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,437 m²,4.600 €/m²,Doppelhaushälfte,nil,1.10.2024,nil,2,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Haus im schönen Lautertal,280.000 €,"72525 Münsingen, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,143 m²,1.300 m²,1.958 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehendes Einfamilienhaus mit großen Garten in Haigerloch Hart,359.000 €,"72401 Haigerloch, Zollernalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,140 m²,1.000 m²,2.564 €/m²,Einfamilienhaus (freistehend),100 m²,sofort,nil,nil,4 Garagen,"3,57% inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Ansprechendes 2,5-Zimmer-Haus in Heidelberg Handschuhsheim",390.000 €,"Steckelsgasse 4,
+Handschuhsheim, 69121 Heidelberg","2,5",60 m²,150 m²,6.500 €/m²,Reihenmittelhaus,60 m²,31.12.2024,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohn- und Geschäftshaus in Stuttgart-West,1.500.000 €,"Rotebühl, 70176 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,365 m²,100 m²,4.110 €/m²,Mehrfamilienhaus,64 m²,nil,nil,nil,nil,s. sonstiges,{}
+Schönes Vierfamilienhaus in Pfullingen mit Ausbaupotenzial,700.000 €,"72793 Pfullingen, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,280 m²,490 m²,2.500 €/m²,Mehrfamilienhaus,100 m²,sofort,nil,4,3 Garagen,"4,76% inkl. MwSt",{}
+# Beste Wohnlage # bezugsfrei,990.000 €,"72108 Rottenburg am Neckar, Tübingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,294 m²,790 m²,3.367 €/m²,Mehrfamilienhaus,nil,sofort,11,3,2 Garagen,"4,76 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Bauernhaus mit angebauter Scheune,225.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"131,35 m²",549 m²,1.713 €/m²,Einfamilienhaus (freistehend),nil,sofort,nil,nil,1 Außenstellplatz,"3,57% inklusive gesetzlicher MwSt.",{}
+2-Familienhaus mit Laden in Birkenfeld-Zentrum,Auf Anfrage,"75217 Birkenfeld, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,200 m²,184 m²,nil,Mehrfamilienhaus,15 m²,nil,5,2,2 Stellplätze,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+So schön kann Wohnen sein: Herrliches Architektenhaus der Energieeffizienzklasse A+ (Erdwärme!),1.049.000 €,"71101 Schönaich, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",191 m²,540 m²,5.492 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,3,3,2 Garagen,"2,975 % vom beurkundeten Gesamtkaufpreis inkl. gesetzlicher MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Gepflegtes 3-Zimmer-Reihenmittelhaus in Mannheim Rheinau-Süd in einer ruhigen Spielstraße,455.000 €,"Brühler Ring 7,
+Rheinau, 68219 Mannheim",3,100 m²,161 m²,4.550 €/m²,Reihenmittelhaus,100 m²,1.8.2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Esslingen: Traumaussicht! Doppelhaushälfte in ruhiger Halbhöhenlage,490.000 €,"Oberesslingen, 73730 Esslingen am Neckar
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5","113,6 m²",427 m²,4.313 €/m²,Doppelhaushälfte,"25,3 m²",nil,3,2,2 Außenstellplätze,"2,00 % inkl. 19% MwSt.",{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus mit Talblick in Denkendorf zu verkaufen,528.900 €,"73770 Denkendorf, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,124 m²,376 m²,4.265 €/m²,Einfamilienhaus (freistehend),nil,01.08.2024,nil,nil,nil,"3,57 %inkl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Tolles Wohnhaus für die junge Familie!,232.000 €,"72474 Winterlingen, Zollernalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,575 m²,2.320 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{}
+TRAUMHAUS IN TOPLAGE: ENERGETISCH KERNSANIERT UND MODERNISIERT!,949.000 €,"östliche Bahnlinie, 73431 Aalen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","8,5",205 m²,763 m²,4.629 €/m²,Einfamilienhaus (freistehend),nil,September 2024,7,3,2 Garagen,"2,63% inkl. 19% MwSt.",{'is24qa-keller-label': ''}
+"!Privatverkauf, ohne Provision! - Einfamilienhaus in Jungingen",895.000 €,"Schwarzenbergstrasse 14,
+Jungingen, 89081 Ulm",6,216 m²,674 m²,4.144 €/m²,Einfamilienhaus (freistehend),72 m²,1.11.2024,4,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaushälfte in Traumlage - Neubau,490.000 €,"88422 Kanzach, Biberach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",120 m²,470 m²,4.083 €/m²,Doppelhaushälfte,nil,1.6.2024,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

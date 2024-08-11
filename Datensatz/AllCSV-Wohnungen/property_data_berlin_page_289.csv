@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Exklusive Wohnung in bester Dahlemlage,2.900.000 €,"Dahlem, 10715 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,170 m²,17.059 €/m²,Penthouse,nil,nil,nil,nil,1 Stellplatz,"3,57% inkl. MwSt.",{}
+"Überzeugende Stadtlage unweit Stadtpark, gute Ausstattung, optimaler Grundriss, Balkon!",239.000 €,"Steglitz, 12167 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,51 m²,4.686 €/m²,Etagenwohnung,51 m²,sofort,1,1,nil,"3,57 % inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Großzügige 1-Zi-Whg. im Denkmal, gr. Abstellraum, Terrasse - derzeit vermietet",199.000 €,"Buch, 13125 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,62 m²,3.210 €/m²,nil,nil,nil,nil,1,1 Außenstellplatz,"7.104,30 € inkl. der gesetzl. USt. in Höhe von aktuell 19%","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+EXKLUSIVE ARCHITEKTEN-GALERIE-HAUSHAELFTE- auf 300 qm Traumgarten dicht GRUNEWALDSEE,2.400.000 €,"Schmargendorf, 14195 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,170 m²,14.118 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"7,14% vom KP inkl. MwSt.",{}
+"MODERNE 1,5 ZI.-DACHGESCHOßWOHNUNG - in ruhiger Lage!",240.000 €,"Rudow, 12355 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",45 m²,5.333 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % vom KP inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+ENTZÜCKENDE 2-ZIMMER ALTBAUWOHNUNG IM ZENTRUM VON WILMERSDORFS | KEINE PROVISION!,370.000 €,"Wilmersdorf, 10713 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"66,45 m²",5.568 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MODERNE ARCHITEKTEN WOHNUNG MIT PARKBLICK - Spitzenlage POTSDAMER PLATZ !,1.425.600 €,"Tiergarten, 10785 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,132 m²,10.800 €/m²,Etagenwohnung,nil,nach Absprache,2,2,nil,"3,57 % vom KP inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+EXKLUSIVE ARCHITEKTEN-WOHNUNG mit 180 Grad ATRIUM-BLICK- Spitzenlage POTSDAMER PLATZ!,1.296.000 €,"Tiergarten, 10785 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,120 m²,10.800 €/m²,Etagenwohnung,130 m²,nach Absprache,2,2,Tiefgaragen-Stellplatz,"3,57 % vom KP inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+EXKLUSIVE DACH-MAISONETTE für moderne Ansprüche mit Sonnenterrasse- direkt am Grunewald!,1.690.000 €,"Grunewald, 14193 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,170 m²,9.941 €/m²,Dachgeschoss,175 m²,nach Absprache,3,2,1 Tiefgaragen-Stellplatz,"3,57 % vom KP inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Mit Terrasse: 1-Zimmerwohnung in Niederschönhausen,149.800 €,"Niederschönhausen, 13156 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"33,9 m²",4.419 €/m²,Erdgeschosswohnung,nil,nil,nil,1,nil,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Gepflegte 2-Zi-Altbauwohnung mit Einbauküche und Balkon nahe Schölerpark,360.000 €,"Wilmersdorf, 10715 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,6.102 €/m²,Etagenwohnung,10 m²,sofort,1,1,nil,"2,38 % des Kaufpreises inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+ATTRAKTIVE 2-ZIMMER EIGENTUMSWOHNUNG MIT GARTENZUGANG IN RUHIGER UND BEGEHRTER LAGE| OHNE PROVISION!,329.000 €,"Wilmersdorf, 10717 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,5.672 €/m²,Erdgeschosswohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"BERLIN-FRIEDRICHSHAIN, Bänschstraße 57 2. OG VH / Südlage / Direkt an der Samariterkirche",558.600 €,"Bänschstr. 57,
+Friedrichshain, 10247 Berlin",3,"79,79 m²",7.001 €/m²,Etagenwohnung,79 m²,sofort,2,1,nil,"4% des Kaufpreises zzgl. 19% UST (4,76%)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Familiengerechte Hochparterrewohnung mit Balkon vis-à-vis Wutzkycenter,310.000 €,"Gropiusstadt, 12353 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"82,64 m²",3.751 €/m²,Etagenwohnung,nil,sofort,3,1,nil,11.067 €,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Attraktive 3-Zimmer-Wohnung mit Drei Balkonen – Top-Lage nahe Kurfürstendamm und bezugsfrei,595.000 €,"Charlottenburg, 10711 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"103,35 m²",5.757 €/m²,Dachgeschoss,nil,nil,2,1,2 Tiefgaragen-Stellplätze,"3,57 % Käuferprovision inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"ATTRAKTIVE 2,5 - ZIMMER WOHNUNG IN PARKNÄHE MIT BALKON !PROVISIONSFREI!",360.000 €,"Durlacher Straße 23,
+Wilmersdorf, 10715 Berlin","2,5","63,69 m²",5.652 €/m²,Etagenwohnung,nil,sofort,2,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 2-Zimmer-Wohnung mit Sonnenterrasse,197.000 €,"Niederschönhausen, 13156 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,53 m²,3.717 €/m²,Erdgeschosswohnung,nil,nil,nil,1,nil,"3,57 % inkl. MwSt. vom beurkundeten Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+DACHGESCHOSSWOHNUNG MIT SEEBLICK IN TOP LAGE !,798.000 €,"Delbrückstr. 00,
+Grunewald, 14193 Berlin",4,100 m²,7.980 €/m²,Dachgeschoss,nil,nil,nil,nil,1 Garage,"2,5 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+CHARMANTES 3-ZIMMER APARTMENT IN CHARLOTTENBURG-WILMERSDORF | OHNE PROVISION!,585.000 €,"Mecklenburgische Straße 87/88,
+Wilmersdorf, 10713 Berlin",3,"97,8 m²",5.982 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"DI - Kapitalanlage, vermietete 2-Zimmer Eigentumswohnung im EG",320.000 €,"Friedrichshain, 10245 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,94 m²",5.339 €/m²,Erdgeschosswohnung,nil,nil,nil,1,nil,"3,57% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

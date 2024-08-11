@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Provisionsfrei* Wohnung in WK.Dabringhausen,125.000 €,"Habichtweg 10,
+42929 Wermelskirchen, Rheinisch-Bergischer Kreis","2,5",51 m²,2.451 €/m²,Erdgeschosswohnung,51 m²,15.06.2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne 3 Zimmer Wohnung in zentraler Lage in Bielefeld - Provisionsfrei!,159.000 €,"Mitte, 33611 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,65 m²,2.446 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau 3 Zimmer Wohnung in Köln-Flittard mit Stellplatz,387.500 €,"Flittard, 51061 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,4.844 €/m²,Erdgeschosswohnung,"6,01 m²",01.05.2025,2,1,1 Stellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Düsseldorf-Mörsenbroich: Balkonwohnung mit Weitblick + TG-Platz!,295.000 €,"Mörsenbroich, 40470 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"82,53 m²",3.574 €/m²,Etagenwohnung,nil,sofort,2,1,1 Stellplatz,"3,57% inklusive gesetzlicher MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Offen für Angebote: 3.0-Zimmer Wohnung in Leverkusen,nil,"Schlebusch, 51375 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,83 m²,4.518 €/m²,Hochparterre,nil,nil,nil,nil,nil,nil,{}
+"Helle 2,5-Zimmer-DG-Wohnung mit Balkon in Essen",128.000 €,"Haus-Horl-Straße 90,
+Gerschede, 45357 Essen","2,5",76 m²,1.684 €/m²,Dachgeschoss,76 m²,20.5.2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Attraktive 3,5 Zimmer-Dachgeschosswohnung mit Balkon in Lemgo",185.000 €,"32657 Lemgo, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,2.467 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+5-Zimmer-Wohnung mit Garage,370.000 €,"Hamberger Str. 106,
+Lützenkirchen, 51381 Leverkusen",5,137 m²,2.701 €/m²,Maisonette,nil,sofort,4,2,1 Parkhaus-Stellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Schönes 1-Zimmer-Apartment in Köln-Poll mit großem Tiefgaragen-Stellplatz (keine Maklerkosten),99.950 €,"Rolshover Kirchweg 42,
+Poll, 51105 Köln",1,24 m²,4.165 €/m²,Etagenwohnung,4 m²,20.5.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Mehrfamilienhaus 10 Wohneinheiten,3.100.000 €,"Niedernstraße 17,
+33775 Versmold, Gütersloh (Kreis)",4,950 m²,3.263 €/m²,nil,nil,nil,nil,nil,15 Tiefgaragen-Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Krefeld - Moerser Straße / Hs. Blumental, gr. 3 Zi,K,D,B,Balkon mit Aufzug",194.000 €,"Cracau, 47798 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,94 m²,2.064 €/m²,Etagenwohnung,8 m²,sofort,2,1,nil,"Courtage 2,38 % vom Kaufpreis inkl. 19 % MwSt. von Käuferseite.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Maisonette Wohnung mit offenem Kamin,195.000 €,"Neuenkamp, 47059 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,2.635 €/m²,Maisonette,nil,01.06.2024,nil,2,nil,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Köln - Zündorf - 5- Zimmer Wohnung + PKW - Stellplatz,330.000 €,"Zündorf, 51143 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,2.538 €/m²,Etagenwohnung,nil,nil,4,nil,1 Außenstellplatz,"4,76 & inkl. gesetzl. Mwst.",{'is24qa-gaeste-wc-label': ''}
+Von privat: Schöne 2-Zimmer-Wohnung in Haan Gruiten mit ausbaufähigem Dachzimmer,132.000 €,"Voisheider Weg 4,
+42781 Haan, Mettmann (Kreis)",2,44 m²,3.000 €/m²,Etagenwohnung,20 m²,nil,1,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exklusive, kernsanierte Wohnung in Ratingen Hösel zu verkaufen!",344.000 €,"Blumenstraße 7,
+Hösel, 40883 Ratingen","3,5",85 m²,4.047 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Klein aber fein! – Kompaktes Einfamilienhaus in ruhiger Lage von Lünen-Brambauer!,269.000 €,"Brambauer, 44536 Lünen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"89,2 m²",3.016 €/m²,Maisonette,"14,94 m²",nach Vereinbarung,2,2,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Gehobene Eigentumswohnung in Bad Münstereifel-Kernstadt in bevorzugter Aussichtslage,182.000 €,"Ashford 73,
+53902 Bad Münstereifel, Euskirchen (Kreis)",2,73 m²,2.493 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gemütliche Maisonette-Wohnung 2,5 Zimmer in Duisburg-Meiderich!",105.000 €,"Mittelmeiderich, 47137 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",75 m²,1.400 €/m²,Maisonette,nil,01.09.2024,1,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Stilvolle Altbauwohnung mit großen Garten direkt am Kurpark Unna,239.000 €,"59425 Unna, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,112 m²,2.134 €/m²,Erdgeschosswohnung,nil,nil,2,1,2 Carports,"3,57 % inkl. 19 % MwSt.",{'is24qa-keller-label': ''}
+Barrierefreies Appartement zum Wohlfühlen,110.000 €,"Refrath, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,35 m²,3.143 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"3,57 %","{'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"

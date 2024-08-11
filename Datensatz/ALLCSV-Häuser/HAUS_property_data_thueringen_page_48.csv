@@ -1,0 +1,61 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Niederdorla, 4 Familienhaushälfte",439.000 €,"Hopfengasse 3,
+99986 Niederdorla, Unstrut-Hainich-Kreis",7,190 m²,300 m²,2.311 €/m²,Doppelhaushälfte,nil,nach Verkauf,nil,2,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wurzbach, EFH",38.000 €,"Oßla 32,
+07343 Wurzbach, Saale-Orla-Kreis",6,140 m²,150 m²,271 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Wohnhaus- ideal für Studenten und Montagearbeiter,1.100.000 €,"Johannesplatz, 99086 Erfurt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",14,455 m²,540 m²,2.418 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"5,95 %",{}
+"Wohnanlage Betreutes Wohnen Senioren - VOLL VERMIETET, seriöser Betreiber, 6,2 % Rendite",1.699.000 €,"Alexander-Puschkin-Straße 11,
+04610 Meuselwitz, Altenburger Land (Kreis)",41,1.289 m²,2.210 m²,1.318 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,Außenstellplatz,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen wo andere Urlaub machen,155.000 €,"98593 Floh-Seligenthal, Schmalkalden-Meiningen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,108 m²,754 m²,1.435 €/m²,nil,nil,nil,nil,nil,Garage,"zzgl. 7,14% Gesamtprovision, mind. jedoch 2.000,00 EUR Gesamtbearbeitungsgebühr inkl. Mwst.",{}
+Charmantes Einfamilienhaus mit schönem Ausblick,229.000 €,"37308 Geisleden, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,173 m²,615 m²,1.324 €/m²,Einfamilienhaus (freistehend),nil,01.08.2023,nil,3,2 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Platz für wenig Geld!,59.900 €,"07349 Lehesten, Saalfeld-Rudolstadt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"174,15 m²",802 m²,344 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Schönes 4-Familienwohnhaus in Innenstadtrandlage von 99817 Eisenach,330.000 €,"Stadtzentrum, 99817 Eisenach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,327 m²,287 m²,1.009 €/m²,Mehrfamilienhaus,nil,nil,nil,4,nil,"2,975 % (incl.gesetzliche Mehrwertsteuer) jeweils für Käufer und Verkäufer",{'is24qa-vermietet-label': ''}
+Vielfältige Möglichkeiten in der Nummer 1!,544.900 €,"07356 Bad Lobenstein, Saale-Orla-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",14,"265,66 m²",372 m²,2.051 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage - zentrumsnaher Gebäudekomplex mit ca. 550 m² NF und bis zu 4 x WE und 2 x GE,329.000 €,"06567 Ichstedt, Kyffhäuserkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,300 m²,1.000 m²,1.097 €/m²,nil,250 m²,nil,nil,2,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-keller-label': ''}
+Sanierungsprojekt mit Potenzial für individuellen Wohntraum in Dermbach Stadtlengsfeld,119.000 €,"36466 Stadtlengsfeld, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"145,75 m²",1.146 m²,816 €/m²,Doppelhaushälfte,nil,nil,nil,nil,1 Außenstellplatz,"3,57% inkl. MwSt.",{'is24qa-keller-label': ''}
+Solide Kapitalanlage in ruhiger Lage,235.000 €,"07570 Wünschendorf/Elster, Greiz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,260 m²,700 m²,904 €/m²,Mehrfamilienhaus,nil,4.6.2024,4,4,nil,"3,57 % Käuferprovision (inkl. gesetzl. MwSt.)","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Hier findet jedes Familienmitglied seinen Platz,120.000 €,"07580 Ronneburg, Greiz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,140 m²,707 m²,857 €/m²,Reihenmittelhaus,30 m²,nil,nil,1,nil,"3,57 % Käuferprovision (inkl. gesetzl. MwSt.)",{'is24qa-gaeste-wc-label': ''}
+Altes Merkur-Kino in Arnstadt - Entwicklungs-/Abrissobjekt,129.000 €,"99310 Arnstadt, Ilm-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,510 m²,692 m²,253 €/m²,Mehrfamilienhaus,nil,mit Kaufpreiszahlung,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Bauernhaus mit großer ausbaufähiger Scheune direkt am Markt in Tiefenort zu verkaufen,55.000 €,"36469 Tiefenort, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,157 m²,543 m²,350 €/m²,Bauernhaus,226 m²,sofort,4,1,Außenstellplatz,"je 3,57 % inkl. 19 MwSt. vom Verkäufer und Käufer",{}
+Erfolgreich vermarktet Wohnhaus auf 4 Ebenen mit Dachterrasse und 2 Balkonen sowie Garage in Vacha,140.000 €,"36404 Vacha, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,240 m²,235 m²,583 €/m²,Einfamilienhaus (freistehend),50 m²,sofort,3,2,nil,je 3 % inkl. 19% MWSt. vom Verkäufer u. Käufer,{}
+Idyllisches Massivhaus mit weitläufigem Garten,280.000 €,"99894 Friedrichroda, Gotha (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"143,43 m²",2.222 m²,1.952 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,nil,nil,3 Stellplätze,"3,57% von Kaufpreis inkl MwSt.",{}
+Miete war gestern!*! Einzug in 12 Monate,443.847 €,"99974 Mühlhausen/Thüringen, Unstrut-Hainich-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,1.288 m²,3.170 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wenn die Oma mit muss - Platz für die ganze Familie,317.000 €,"96515 Sonneberg, Sonneberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,264 m²,1.450 m²,1.201 €/m²,Mehrfamilienhaus,nil,nil,5,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Überlassen Sie beim Hausbau Nichts dem Zufall! INFO: 0176-87820295,243.739 €,"04626 Altkirchen, Altenburger Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"107,17 m²",700 m²,2.274 €/m²,Bungalow,nil,nil,3,1,nil,Nein,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MIET NICHT MEHR KAUF DEIN HAUS.,393.472 €,"37318 Uder, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,148 m²,898 m²,2.659 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Aus der Miete raus - BAU dein Schwabenhaus!,331.837 €,"37318 Uder, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,132 m²,898 m²,2.514 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaushälfte zu mietähnlichen Konditionen abzugeben.,326.478 €,"37327 Leinefelde-Worbis, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,112 m²,1.280 m²,2.915 €/m²,Doppelhaushälfte,0 m²,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MIET NICHT MEHR KAUF DEIN HAUS.,320.947 €,"37327 Leinefelde-Worbis, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,1.435 m²,1.280 m²,224 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MIET NICHT MEHR KAUF DEIN HAUS.,309.652 €,"37355 Niederorschel, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,132 m²,1.047 m²,2.346 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MIET NICHT MEHR KAUF DEIN HAUS.,352.367 €,"37355 Niederorschel, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,148 m²,1.047 m²,2.381 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MIET NICHT MEHR KAUF DEIN HAUS.,432.736 €,"37359 Küllstedt, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,170 m²,939 m²,2.546 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Die perfekte Wohlfühloase – Modernes Einfamilienhaus von Schwabenhaus,439.826 €,"37359 Küllstedt, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,181 m²,939 m²,2.430 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wenn die Oma mit muss + Platz für die ganze Familie,359.819 €,"96515 Sonneberg, Sonneberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,232 m²,1.100 m²,1.551 €/m²,Mehrfamilienhaus,232 m²,nil,4,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Wohnen in Ihrer Stadtvilla,188.629 €,"96528 Mengersgereuth-Hämmern, Sonneberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,162 m²,1.100 m²,1.164 €/m²,Einfamilienhaus (freistehend),162 m²,nil,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

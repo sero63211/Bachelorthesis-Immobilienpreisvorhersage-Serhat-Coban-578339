@@ -1,0 +1,53 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+*Wohnen in Hausbruch* Schöne 3-Zimmer-Wohnung mit Terrasse und Garten,308.000 €,"Hausbruch, 21147 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,4.000 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hochwertige 2,5-Zimmer Wohnung in einem KfW-40 Haus mit eigener Terrasse im Stadtteil Hamburg- Meien",599.000 €,"Rahlstedt, 22145 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",71 m²,8.437 €/m²,nil,nil,nil,1,1,nil,"3,13","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Traumhafte Neubau-Erdgeschosswohnung mit schönem Garten,1.095.000 €,"Groß Flottbek, 22607 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,137 m²,7.993 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,"Die Käufercourtage i.H.v. 2,5 % inkl. MwSt. ist nach Notarvertragsabschluss verdient und fällig.","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': ''}"
+Kompakte Stadtwohnung - ideal für kleine Familien,635.000 €,"Tischbeinstraße 9,
+Barmbek-Nord, 22307 Hamburg",3,"72,4 m²",8.771 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eine Neubauwohnung im begehrten und idyllischen Gross-Flottbek,1.159.000 €,"Groß Flottbek, 22607 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,8.522 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,"Die Käufercourtage i.H.v. 2,5 % inkl. MwSt. ist nach Notarvertragsabschluss verdient und fällig.","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': ''}"
+"*** OFFENE BESICHTIGUNG AM SO, DEN 02.06.24 VON 15.30 - 16.30 UHR IN DER AVERHOFFSTR. 26 ***",859.200 €,"Averhoffstrasse 26,
+Uhlenhorst, 22085 Hamburg",2,"60,79 m²",14.134 €/m²,nil,"8,02 m²",nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"*** OFFENE BESICHTIGUNG AM SO, DEN 02.06.24 VON 15.30 - 16.30 UHR IN DER AVERHOFFSTR. 26 ***",1.470.800 €,"Averhoffstrasse 26,
+Uhlenhorst, 22085 Hamburg",2,"103,7 m²",14.183 €/m²,nil,"8,05 m²",nil,1,2,1 Tiefgaragen-Stellplatz,"3,57 % inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Zentral & Ruhig: 3-Zimmer-Neubauwohnung in Stadtparknähe,599.000 €,"Tischbeinstraße 9,
+Barmbek-Nord, 22307 Hamburg",3,"72,1 m²",8.308 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Haus im Haus! Kapitalanlage in Hamburg-Meiendorf,529.000 €,"Rahlstedt, 22145 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,118 m²,4.483 €/m²,Etagenwohnung,7 m²,nil,3,2,2 Tiefgaragen-Stellplätze,"3,57% inkl. MwSt.",{'is24qa-vermietet-label': ''}
+"Sonnige 3-Zimmer-Wohnung mit Balkon und Garten in ruhiger Lage, Hamburg",315.000 €,"Münterweg 12,
+Billstedt, 22115 Hamburg",3,"79,16 m²",3.979 €/m²,Etagenwohnung,nil,1.5.2024,2,1,Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*** OFFENE BESICHTIGUNG AM SO, DEN 02.06.24 VON 15.30 - 16.30 UHR IN DER AVERHOFFSTR. 26 ***",2.330.000 €,"Averhoffstrasse 26,
+Uhlenhorst, 22085 Hamburg",5,"164,58 m²",14.157 €/m²,nil,"11,51 m²",nil,4,3,1 Tiefgaragen-Stellplatz,"3,57 % inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Sonnige 2,5-Zimmer-Wohnung mit EBK in Hamburg-Rissen von privat",430.000 €,"Rissener Dorfstraße 31,
+Rissen, 22559 Hamburg","2,5",77 m²,5.584 €/m²,Etagenwohnung,77 m²,31.5.2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bezugsfertige Neubau 3 Zi.-ETW mit Balkon im MFH in Meiendorf,570.000 €,"Rahlstedt, 22145 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,87 m²,6.552 €/m²,Etagenwohnung,nil,sofort,2,1,10 Außenstellplätze,"2,38 % inkl. MwSt. des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Sonniges Neubau-Penthouse im Herzen von Gross-Flottbek,1.295.000 €,"Groß Flottbek, 22607 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,138 m²,9.384 €/m²,Penthouse,nil,nil,nil,nil,Tiefgaragen-Stellplatz,"Die Käufercourtage i.H.v. 2,5 % inkl. MwSt. ist nach Notarvertragsabschluss verdient und fällig.","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': ''}"
+"Garten-Maisonette-Wohnung *modern & schick* ""Haus im Haus - Charakter""",730.000 €,"Bramfeld, 22175 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"137,5 m²",5.309 €/m²,Maisonette,nil,nil,3,2,1 Außenstellplatz,"3,57 % inkl. MwSt. des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"*** INFO TAG UND PROJEKT BESICHTIGUNG AM., SO., DEN 02.06.24 VON 14 - 15 UHR VOR ORT ***",859.000 €,"Am Eichenplatz 16,
+Osdorf, 22549 Hamburg",4,"98,48 m²",8.723 €/m²,Erdgeschosswohnung,"5,88 m²",nil,3,2,1 Tiefgaragen-Stellplatz,"3,125 % inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"*** INFO TAG UND PROJEKT BESICHTIGUNG AM., SO., DEN 02.06.24 VON 14 - 15 UHR VOR ORT ***",639.000 €,"Am Eichenplatz 16,
+Osdorf, 22549 Hamburg",2,"72,55 m²",8.808 €/m²,nil,"5,89 m²",nil,1,1,1 Tiefgaragen-Stellplatz,"3,125 % inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Kernsanierte 2-Zimmer-Wohnung in Hamburg-Bahrenfeld zu verkaufen…,325.000 €,"Kopperholdtweg 2,
+Bahrenfeld, 22761 Hamburg",2,52 m²,6.250 €/m²,Hochparterre,6 m²,sofort,1,1,nil,"3,57% Käuferprovision inkl. gesetzlicher MwSt.. des beurkundeten Kaufpreises",{'is24qa-balkon-terrasse-label': ''}
+"*** OFFENE BESICHTIGUNG AM SO, DEN 02.06.24 VON 15.30 - 16.30 UHR IN DER AVERHOFFSTR. 26 ***",1.729.300 €,"Averhoffstrasse 26,
+Uhlenhorst, 22085 Hamburg",3,"128,69 m²",13.438 €/m²,Erdgeschosswohnung,"8,02 m²",nil,2,2,1 Tiefgaragen-Stellplatz,"3,57 % inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"*** OFFENE BESICHTIGUNG AM SO, DEN 02.06.24 VON 15.30 - 16.30 UHR IN DER AVERHOFFSTR. 26 ***",1.530.400 €,"Averhoffstrasse 26,
+Uhlenhorst, 22085 Hamburg",3,"103,7 m²",14.758 €/m²,nil,"8,01 m²",nil,2,2,1 Tiefgaragen-Stellplatz,"3,57 % inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Modern, nachhaltig und elbnah - eine Neubauwohnung mit allen Vorzügen",1.229.000 €,"Groß Flottbek, 22607 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,9.037 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,"Die Käufercourtage i.H.v. 2,5 % inkl. MwSt. ist nach Notarvertragsabschluss verdient und fällig.","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': ''}"
+"*** OFFENE BESICHTIGUNG AM SO, DEN 02.06.24 VON 15.30 - 16.30 UHR IN DER AVERHOFFSTR. 26 ***",2.330.000 €,"Averhoffstrasse 26,
+Uhlenhorst, 22085 Hamburg",6,"164,57 m²",14.158 €/m²,nil,"11,5 m²",nil,5,3,1 Tiefgaragen-Stellplatz,"3,57 % inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Tischbeinstraße 9 - Moderne 3-Zimmer-Neubauwohnung mit West-Balkon,615.000 €,"Tischbeinstraße 9,
+Barmbek-Nord, 22307 Hamburg",3,"72,4 m²",8.494 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bezugsfertige Neubau 5 Zi.-Maisonette ETW mit großzügiger Dachterrasse,800.000 €,"Rahlstedt, 22145 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"122,3 m²",6.541 €/m²,Maisonette,nil,sofort,3,2,10 Außenstellplätze,"2,38 % inkl. MwSt. des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Neubauwohnung in ruhiger und zugleich zentraler Lage,648.000 €,"Tischbeinstraße 9,
+Barmbek-Nord, 22307 Hamburg",3,"72,4 m²",8.950 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*** OFFENE BESICHTIGUNG AM SO, DEN 02.06.24 VON 15.30 - 16.30 UHR IN DER AVERHOFFSTR. 26 ***",1.470.800 €,"Averhoffstrasse 26,
+Uhlenhorst, 22085 Hamburg",3,"103,78 m²",14.172 €/m²,nil,"8,03 m²",nil,2,2,1 Tiefgaragen-Stellplatz,"3,57 % inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+PLATZ FÜR DIE GANZE FAMILIE IN HERAUSRAGENDER LAGE,589.000 €,"88697 Bermatingen, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"153,06 m²",862 m²,3.848 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Mehrfamilienhaus in zentraler Lage,1.300.000 €,"68766 Hockenheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,413 m²,591 m²,3.148 €/m²,Mehrfamilienhaus,150 m²,nach Vereinbarung,nil,2,1 Garage,"3,57 inkl. MwSt. vom Kaufpreis inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Voll vermietetes Mehrfamilienhaus in Leimen-St. Ilgen,790.000 €,"69181 Leimen, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,226 m²,360 m²,3.496 €/m²,Mehrfamilienhaus,20 m²,nach Vereinbarung,7,3,Außenstellplatz,"5,95% vom Kaufpreis (inkl. MwSt.)","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+charmantes Wohnhaus mit großem Grundstück in ruhiger Lage zwischen Bad Mergentheim und Boxberg,249.000 €,"97944 Boxberg, Main-Tauber-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,117 m²,2.036 m²,2.128 €/m²,Einfamilienhaus (freistehend),113 m²,nil,nil,nil,4 Garagen,"3,57 % inkl. MwSt",{}
+Lichtdurchflutetes Einfamilienhaus mit Garten und Garage inkl. PV-Anlage mit Speicher,423.400 €,"Himbergstraße 5/4,
+72417 Jungingen, Zollernalbkreis",3,"81,82 m²",172 m²,5.175 €/m²,Einfamilienhaus (freistehend),"20,02 m²",nil,1,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Idyllisches Zweifamilienhaus mit großzügigem Garten und optionaler dritter Wohneinheit im Dachgescho,529.000 €,"72663 Großbettlingen, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,204 m²,524 m²,2.593 €/m²,Mehrfamilienhaus,nil,Ab sofort,3,2,1 Außenstellplatz,3% vom Kaufpreis zzgl. MwSt.,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Hofstelle in traumhafter Alleinlage mit Fernsicht,649.000 €,"88410 Bad Wurzach, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,100 m²,2.500 m²,6.490 €/m²,Bauernhaus,170 m²,sofort,3,1,1 Garage,"3,57 % inkl. ges. MwSt.",{}
+Glücksgriff für Anleger! Gepflegtes Mehrfamilienhaus in Karlsruhe Stadtmitte,1.925.000 €,"Südstadt, 76137 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",19,517 m²,378 m²,3.723 €/m²,Mehrfamilienhaus,145 m²,nil,11,8,nil,"2,38%","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Renovierungsbedürftiges Einfamilienhaus mit sanierter und vermieteter Ladenfläche,350.000 €,"75334 Straubenhardt, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,353 m²,2.500 €/m²,Einfamilienhaus (freistehend),286 m²,nil,3,2,nil,"3,57%",{'is24qa-keller-label': ''}
+2 Fam.- Haus in traumhafter Aussichtslage,1.080.000 €,"71334 Waiblingen, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,176 m²,380 m²,6.136 €/m²,Mehrfamilienhaus,65 m²,sofort,3,2,2 Garagen,"3,57%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Traumhaftes Reihenmittelhaus in begehrter Lage inkl zwei Stellplätze,519.000 €,"71686 Remseck am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,105 m²,126 m²,4.943 €/m²,Reihenmittelhaus,12 m²,nil,3,2,2 Außenstellplätze,"3,57 % Käuferprovision inkl. MwSt.",{}
+"""Vollständig saniertes Zweifamilienhaus in Illerkirchberg/Oberkirchberg - Ruhige Wohngegend""",695.000 €,"89171 Illerkirchberg, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"185,54 m²",482 m²,3.746 €/m²,Mehrfamilienhaus,"112,8 m²",Nach Vereinbarung,4,3,1 Garage,"4,76 % inkl. MwSt.",{'is24qa-keller-label': ''}
+top gepflegtes 1 Familienhaus mit traumhaftem Garten/Park und Bauplatz in ruhiger Aussichtslage,649.000 €,"75446 Wiernsheim, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,1.075 m²,4.807 €/m²,Einfamilienhaus (freistehend),nil,sofort,nil,1,2 Garagen,3% inklusive der zum Zeitpunkt der Rechnungsstellung gültigen Mehrwertsteuer,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Marktpreisanpassung. Top gepflegtes 1 Familienhaus mit Garten, Garage und guten Energiewerten",465.000 €,"75242 Neuhausen, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,137 m²,312 m²,3.394 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,1 Garage,"1,5% vom Verkaufspreis inklusive MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+🏡✨Das erste Haus am Platz!Wohn- & Geschäftshaus in zentraler Lage-voll vermietet&viel Potential📈💼,775.000 €,"75417 Mühlacker, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",18,569 m²,399 m²,1.362 €/m²,Mehrfamilienhaus,nil,sofort,nil,7,2 Garagen,"4,76% vom beurkundeten Verkaufspreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Bungalow in ruhiger Ortsrandlage - das stilvolle Platzwunder auf zwei Ebenen,710.000 €,"88477 Schwendi, Biberach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,753 m²,5.221 €/m²,Bungalow,156 m²,06/2024,2,2,2 Garagen,"3,57%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Sympathisches Bauernhaus mit Werkstatt - Diamant in Asperg wartet auf neuen Schliff,419.000 €,"Jägerstraße 1,
+71679 Asperg, Ludwigsburg (Kreis)","5,5",192 m²,314 m²,2.182 €/m²,Einfamilienhaus (freistehend),100 m²,ab sofort,4,2,1 Garage,"3,80% inkl. MwSt. 19%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ein- bis Zweifamilienhaus mit Dachterrasse und Modernisierungs-Potential in guter Lage,345.000 €,"68723 Plankstadt, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5","154,82 m²",110 m²,2.228 €/m²,Reihenmittelhaus,nil,sofort,4,3,nil,"2,38 % inkl. 19% MwSt.",{'is24qa-keller-label': ''}
+Haus mit zwei Wohneinheiten,498.000 €,"79379 Müllheim, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,175 m²,295 m²,2.846 €/m²,Wohnimmobilie (sonstige),nil,nil,5,2,2 Garagen,"2,38 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Exklusives, neuwertiges Zweifamilienhaus in idyllischer Lage",855.000 €,"73553 Alfdorf, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,214 m²,1.004 m²,3.995 €/m²,nil,182 m²,01.08.2025,6,2,4 Garagen,"3,57 % Käufer-Provision inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"

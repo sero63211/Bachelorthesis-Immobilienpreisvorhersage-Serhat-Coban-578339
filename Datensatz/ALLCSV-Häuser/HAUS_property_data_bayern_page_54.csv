@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Schönes 5-Zi.-Reihenendhaus mit Garten in Senden-Wullenstetten,462.000 €,"89250 Senden, Neu-Ulm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,367 m²,3.300 €/m²,Reiheneckhaus,187 m²,30.4.2024,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großes Haus & großes Grundstück in 91275 Auerbach für Schnäppchen-Jäger,250.000 €,"91275 Auerbach in der Oberpfalz, Amberg-Sulzbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,209 m²,980 m²,1.196 €/m²,Reiheneckhaus,nil,31.7.2024,nil,2,3 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sonnendurchflutete Doppelhaushälfte mit toller Innenausstattung und grossen Garten in Gröbenzell,1.225.000 €,"82194 Gröbenzell, Fürstenfeldbruck (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,502 m²,10.208 €/m²,Doppelhaushälfte,178 m²,1.5.2024,nil,1,3 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Vielseitige Immobilienmöglichkeit in idyllischer Umgebung mit Vorbescheid für Bauvorhaben!""",998.000 €,"86934 Reichling, Landsberg am Lech (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,185 m²,3.950 m²,5.395 €/m²,Besondere Immobilie,477 m²,nil,3,2,3 Außenstellplätze,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Super Einfamilienhaus in zentraler und ruhiger Lage von Notzing, Gmd. Oberding, Lkr. Erding",764.000 €,"85445 Oberding, Erding (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,154 m²,570 m²,4.961 €/m²,Einfamilienhaus (freistehend),"64,35 m²",Juni 2024,2,1,4 Garagen,"3,57 % inkl. gesetzliche Mehrwertsteuer","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Wohn und Geschäftshaus 180qm Wohn/ 1300qm Nutzfläche, 4100qm Grund",4.950.000 €,"Straße 4,
+83703 Gmund am Tegernsee, Miesbach (Kreis)","3,5",180 m²,4.150 m²,27.500 €/m²,nil,1.200 m²,nil,nil,nil,32 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Rarität mit Entwicklungspotential,1.950.000 €,"83242 Reit im Winkl, Traunstein (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,254 m²,1.525 m²,7.677 €/m²,nil,578 m²,nil,8,7,23 Außenstellplätze,"3,57% einschließlich gesetzlicher Mehrwertsteuer","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"EFH Neu-Ulm im Stil der 80er, ruhige Hanglage, Süd-/Westterrasse, Garage",495.000 €,"89233 Neu-Ulm, Neu-Ulm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",162 m²,636 m²,3.056 €/m²,Einfamilienhaus (freistehend),74 m²,nach Vereinbarung,2,1,2 Stellplätze,"2,38 % inkl. 19 % MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ihr 145m² Familienglück in Nürnberg - Reihenmittelhaus,619.990 €,"Zum Birkig 0,
+Röthenbach Ost, 90451 Nürnberg",5,145 m²,"156,9 m²",4.276 €/m²,Reihenmittelhaus,32 m²,2025,4,2,1 Außenstellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr 145 m² Familienglück in Nürnberg - letzes Verfügbares ReihenENDhaus,619.990 €,"Zum Birkig 0,
+Röthenbach Ost, 90451 Nürnberg",5,145 m²,"158,21 m²",4.276 €/m²,Reiheneckhaus,32 m²,2025,4,2,2 Carports,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*KFW 40* Ihr Wohntraum in Seybothenreuth - Reihenmittelhaus mit 120 m² ab 296.990€,296.990 €,"Hauptstr. 4,
+95517 Seybothenreuth, Bayreuth (Kreis)",3,120 m²,"194,26 m²",2.475 €/m²,Reihenmittelhaus,nil,2025,2,2,2 Außenstellplätze,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*KFW 40* Ihr Familienglück in Seybothenreuth - Reihenmittelhaus mit 145m² ab,336.990 €,"Hauptstr. 4,
+95517 Seybothenreuth, Bayreuth (Kreis)",5,145 m²,"200,54 m²",2.324 €/m²,Reihenmittelhaus,nil,2025,5,3,2 Außenstellplätze,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neuwertige Doppelhaushälfte - großes Grundstück - absolut ruhig und grün!,675.000 €,"85643 Steinhöring, Ebersberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,121 m²,392 m²,5.579 €/m²,Doppelhaushälfte,nil,nach Vereinbarung,4,2,1 Außenstellplatz,"3,57% inkl. d. ges. MwSt. vom beurkundeten Kaufpreis!",{'is24qa-keller-label': ''}
+Kapitalanlage! Exclusive und lichtdurchflutete Doppelhaushälfte im Münchner Westen,885.000 €,"Obermenzing, 81247 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"189,14 m²",405 m²,4.679 €/m²,Doppelhaushälfte,"56,12 m²",nil,2,2,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Charmantes Mehrfamilienhaus mit großem Grundstück,1.650.000 €,"82229 Seefeld, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"151,81 m²",2.289 m²,10.869 €/m²,Mehrfamilienhaus,282 m²,gegen Absprache,4,nil,6 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Hier haben Ihre Kinder Platz zum Spielen!,759.800 €,"Liebigstraße 22,
+85098 Großmehring, Eichstätt (Kreis)",5,133 m²,295 m²,5.713 €/m²,Doppelhaushälfte,77 m²,01/2025,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+***Charmantes Reiheneckhaus in ruhiger Lage***,795.000 €,"82538 Geretsried, Bad Tölz-Wolfratshausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,204 m²,5.889 €/m²,Reiheneckhaus,nil,nil,4,2,1 Garage,"3,57%",{'is24qa-keller-label': ''}
+Ihr zeitloser Rückzugsort - Charmantes Einfamilienhaus - Kernsanierter Altbau im Herzen von Maisach!,930.000 €,"82216 Maisach, Fürstenfeldbruck (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"144,56 m²",334 m²,6.433 €/m²,Einfamilienhaus (freistehend),"94,65 m²",nil,3,2,1 Garage,"3,57% inkl. MwSt.",{'is24qa-keller-label': ''}
+"Ein Haus mit vielen Möglichkeiten! Für Mehrgeneration, Wohnen und Arbeiten, als Kapitalanlage...",1.390.000 €,"82343 Pöcking, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,280 m²,648 m²,4.964 €/m²,Mehrfamilienhaus,60 m²,01.10.2024,6,3,3 Garagen,"2,38 % inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Emmering - Gemütliches Wohlfühldomizil mit familienfreundlicher Aufteilung und sonnigem Garten,850.000 €,"82275 Emmering, Fürstenfeldbruck (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"129,69 m²",213 m²,6.554 €/m²,Reihenmittelhaus,"82,39 m²",nil,4,2,1 Garage,"2,38% Käuferprov. aus dem KP. inkl. 19% MwSt.",{'is24qa-gaeste-wc-label': ''}

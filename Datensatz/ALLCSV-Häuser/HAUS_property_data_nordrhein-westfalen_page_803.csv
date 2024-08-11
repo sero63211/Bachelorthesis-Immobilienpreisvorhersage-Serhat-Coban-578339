@@ -1,0 +1,49 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Solides Einfamilienhaus als Doppelhaus mit Garage in sehr schöner zentraler Wohn- und Aussichtslage,198.000 €,"51597 Morsbach, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,125 m²,259 m²,1.584 €/m²,Doppelhaushälfte,nil,nil,nil,nil,nil,"2,38 % inkl. ges. MwSt.",{}
+Großfamilienparadies in OB-Styrum,419.000 €,"Styrum, 46045 Oberhausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,142 m²,770 m²,2.951 €/m²,Einfamilienhaus (freistehend),nil,nil,5,3,2 Parkhaus-Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Rheinberg (Borth), MFH (4 WE) ca. 271 m² Wfl., ca. 242 m² Nutzfläche, 3 x Garage, TOP Kapitalanlage!",455.000 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",14,"271,04 m²",640 m²,1.679 €/m²,Mehrfamilienhaus,"241,39 m²",01.01.2024,5,7,3 Garagen,"4,76 % des Kaufpreises (inkl. 19 % MwSt.)","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Waltroper Einfamilienhaus in Toplage,280.000 €,"Finkengasse 4,
+45731 Waltrop, Recklinghausen (Kreis)",6,125 m²,585 m²,2.240 €/m²,Einfamilienhaus (freistehend),50 m²,nil,4,1,1 Garage,2.5%,{'is24qa-keller-label': ''}
+#homesweethome - idyllisches Reihenhaus in Herten Bertlich,209.000 €,"45701 Herten, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",80 m²,233 m²,2.613 €/m²,Reihenmittelhaus,35 m²,nil,2,1,1 Carport,"4,76 % inkl. ges. MwSt.",{}
+Freistehendes Einfamilienhaus in Dorsten mit viel Platz für die ganze Familie.,680.000 €,"46282 Dorsten, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,220 m²,610 m²,3.091 €/m²,Einfamilienhaus (freistehend),120 m²,nach Absprache,3,2,2 Garagen,2% zzgl.MwSt.,{'is24qa-gaeste-wc-label': ''}
+Exklusiver barrierefreier Bungalow mit Ausbaureserve und energetischer Technik,895.000 €,"Börnig/Holthausen, 44627 Herne
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"146,34 m²",1.094 m²,6.116 €/m²,Einfamilienhaus (freistehend),189 m²,Nach Absprache,3,1,2 Stellplätze,"3,57","{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Architekten- 8-Zimmer-Einfamilienhaus an den Rheinwiesen,Auf Anfrage,"Wiesenstr. 77,
+Hitdorf, 51371 Leverkusen",8,200 m²,380 m²,nil,Doppelhaushälfte,250 m²,nil,4,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Stadthaus, Effizienzklasse A+, KfW 40 mit PV.-Anlage, Fußbodenheizung und Grundstück !",499.000 €,"Heinestraße 0,
+Tiefenbroich, 40880 Ratingen",4,"143,5 m²",169 m²,3.477 €/m²,Reihenmittelhaus,nil,nil,3,1,nil,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Eckhaus, Effizienzklasse A+, KfW 40 mit PV.-Anlage, Keller, Fußbodenheizung und Grundstück !",519.000 €,"Heinestraße 0,
+Tiefenbroich, 40880 Ratingen",5,"143,5 m²",154 m²,3.617 €/m²,Reiheneckhaus,nil,nil,3,1,nil,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Eckhaus, Effizienzklasse A+, KfW 40 mit PV.-Anlage, Keller, Fußbodenheizung und Grundstück !",549.000 €,"Heinestraße 0,
+Tiefenbroich, 40880 Ratingen",4,"143,5 m²",264 m²,3.826 €/m²,Reiheneckhaus,nil,nil,3,1,nil,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+komplett ausgebaut: Reihenhaus mit großer Garage in Herten-Langenbochum,270.000 €,"Langenbochumer Str. 33b,
+45701 Herten, Recklinghausen (Kreis)","4,5",94 m²,172 m²,2.872 €/m²,Reihenmittelhaus,nil,nil,nil,nil,2 Garagen,"3,57% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+++ ON-Immobilien ++ Ein Zweifamilienhaus am Kimicker Berg!,495.000 €,"57462 Olpe, Olpe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,270 m²,748 m²,1.833 €/m²,Mehrfamilienhaus,nil,nil,2,2,5 Außenstellplätze,"4,76 inkl. MwSt.",{}
+"Energieeffizienzklasse A+, KfW 40, Mit PV Anlage, Wärmepumpe, Keller, mit Grundstück zum Festpreis",1.179.000 €,"Walsroder Weg 0,
+Unterrath, 40468 Düsseldorf",4,195 m²,800 m²,6.046 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Hübsches Reihenmittelhaus in zentraler Lage,279.000 €,"47918 Tönisvorst, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,87 m²,155 m²,3.207 €/m²,Reihenmittelhaus,28 m²,nil,2,2,nil,"3,57 % Käuferprovision inkl. MwSt.",{'is24qa-keller-label': ''}
+Wochenendhaus an der Listertalsperre,115.000 €,"58540 Meinerzhagen, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,0 m²,1.643 €/m²,nil,nil,nil,nil,nil,nil,"Die Käuferprovision beträgt 3,57% inklusive Mehrwertsteuer vom Kaufpreis",{}
+Gemischtgenutztes denkmalschützenswertes Haus sucht neue Eigentümer!,480.000 €,"Further Str. 191,
+Furth Mitte, 41462 Neuss",10,220 m²,582 m²,2.182 €/m²,Mehrfamilienhaus,50 m²,nil,nil,nil,nil,"3,57%",{'is24qa-keller-label': ''}
+Ein Haus im Haus - Exklusive 5-Zimmer-Maisonette mit Garten in Südausrichtung und Tiefgaragenzugang!,749.900 €,"Böblinger Str. 13,
+Bilderstöckchen, 50739 Köln",5,"148,31 m²",120 m²,5.056 €/m²,Reihenmittelhaus,47 m²,15.02.2024,4,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kompaktes Energiesparhaus in bester Lage !!!,455.900 €,"53909 Zülpich, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,102 m²,465 m²,4.470 €/m²,Einfamilienhaus (freistehend),nil,2024,3,1,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vollunterkellerte massive Doppelhaushälften,799.900 €,"Niederrheinstrasse 140,
+Lohausen, 40474 Düsseldorf",6,145 m²,218 m²,5.517 €/m²,Doppelhaushälfte,52 m²,nil,6,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ausbaufähiges Energiesparbungalow in Zülpich !!!,419.900 €,"53909 Zülpich, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,465 m²,5.383 €/m²,Bungalow,nil,2024,2,1,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+EH-40 Bauvorhaben 3 Häuser in Düsseldorf-Wersten,819.900 €,"Kohlrauschweg 31,
+Wersten, 40591 Düsseldorf",6,145 m²,220 m²,5.654 €/m²,nil,54 m²,nil,5,1,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mettmann: Prima, VOR DEN TOREN von Düsseldorf",769.900 €,"40822 Mettmann, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,160 m²,462 m²,4.812 €/m²,Doppelhaushälfte,35 m²,nil,3,1,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Optima(le) Doppelhaushälfte mit großem Grundstück, Vollkeller",699.900 €,"Oststr. 50,
+40724 Hilden, Mettmann (Kreis)",6,145 m²,478 m²,4.827 €/m²,Doppelhaushälfte,52 m²,nil,5,1,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

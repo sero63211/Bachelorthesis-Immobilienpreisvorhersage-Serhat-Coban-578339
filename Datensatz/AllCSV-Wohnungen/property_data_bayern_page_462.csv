@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Offen für Angebote: 1.0-Zimmer Wohnung in Augsburg,nil,"Kriegshaber, 85716 Augsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,36 m²,4.139 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Vermietete, vollmöblierte, perfekt geschnittene Wohnung in Schwabing!",469.000 €,"Rümannstr. 76,
+Am Luitpoldpark, 80804 München",2,"52,2 m²",8.985 €/m²,Erdgeschosswohnung,"54,4 m²",nil,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Mit Gartenanteil, im Moment leerstehend",128.000 €,"91719 Heidenheim, Weißenburg-Gunzenhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,72 m²,1.778 €/m²,Etagenwohnung,72 m²,nil,nil,nil,1 Außenstellplatz,1exkl. MwSt,{}
+Leerstehende 3-Zi. Whg. in Ampfing zu verkaufen! Geeignet für Kapitalanleger und Eigennutzer!,234.500 €,"84539 Ampfing, Mühldorf am Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"77,1 m²",3.042 €/m²,nil,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"1,785%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Waldschmidtstraße 39, 94034 Passau",220.000 €,"Waldschmidtstraße 39,
+Grubweg, 94034 Passau",3,72 m²,3.056 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Modernisiertes Apartment mit Balkon im Sonnenhof, Fürth!",119.000 €,"Nördliche Südstadt, 90763 Fürth
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"22,6 m²",5.265 €/m²,Etagenwohnung,nil,nil,1,1,nil,"2,38 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Bahnhofstraße 13, 83253 Rimsting",895.000 €,"Bahnhofstraße 13,
+83253 Rimsting, Rosenheim (Kreis)","4,5",110 m²,8.136 €/m²,Erdgeschosswohnung,nil,Ab sofort bezugsfrei,nil,2,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+""" VIEL FLÄCHE ZUM GÜNSTIGEN PREIS ! """,289.000 €,"83404 Ainring, Berchtesgadener Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,3.440 €/m²,Erdgeschosswohnung,nil,nach Absprache,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Exklusive 3-Zimmer-Wohnung mit Balkon und Einbauküche in Garching,680.000 €,"85748 Garching bei München, München (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,79 m²,8.608 €/m²,Etagenwohnung,nil,1.9.2024,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Top gepflegte Wohnung für Anleger oder Eigennutzer! SANIERTES MFH NEUE HEIZUNG, NEUES DACH etc.",577.600 €,"Am Luitpoldpark, 80809 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,62 m²,9.316 €/m²,Etagenwohnung,nil,3 Monate,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 3.0-Zimmer Wohnung in Rosenheim,nil,"Pang, 83026 Rosenheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,118 m²,4.949 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+Hochwertige Neubauwohnung mit Balkon in unverbauter Südlage,339.500 €,"86673 Bergheim, Neuburg-Schrobenhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"80,82 m²",4.201 €/m²,Dachgeschoss,nil,nach Absprache,2,1,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exklusive, modernisierte 1-Raum-Wohnung sofort frei ohne Provision",269.000 €,"Königswieser Straße 1,
+Fürstenried-West, 81475 München",1,"33,2 m²",8.102 €/m²,Etagenwohnung,"33,2 m²",1.7.2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""GEMÜTLICHKEIT WIRD HIER GROSS GESCHRIEBEN""",325.000 €,"83404 Ainring, Berchtesgadener Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,4.221 €/m²,Etagenwohnung,nil,nach Absprache,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Traumhafte 3ZKB-Wohnung mit Balkon in der Innenstadt︱provisionsfrei,649.000 €,"Am Schäfflerbach, 86153 Augsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,8.113 €/m²,Hochparterre,80 m²,13.5.2024,3,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche 2-Zimmer-Wohnung in Kelheim,229.000 €,"93309 Kelheim, Kelheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,57 m²,4.018 €/m²,Etagenwohnung,6 m²,nach Vereinbarung,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Attraktive 2-Zimmer-Wohnung in Seniorenwohnanlage in Illertissen - Verkauf im Bieterverfahren,Auf Anfrage,"89257 Illertissen, Neu-Ulm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"50,94 m²",nil,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2 Zi. EG-Wohnung mit Garten, Terrasse und TG-Stellplatz in Brannenburg / Inntal",240.000 €,"83098 Brannenburg, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,49 m²,4.898 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Garage,"2,38 % inkl. MwSt. Käuferprovision","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Mitten im Grünen: 3-Zimmer-Erdgeschosswohnung in bester Lage Kraillings,490.000 €,"82152 Krailling, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,5.833 €/m²,nil,18 m²,nil,2,1,nil,"2,38% inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Hochwertige Neubauwohnung mit Balkon in unverbauter Südlage,403.300 €,"86673 Bergheim, Neuburg-Schrobenhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"96,03 m²",4.200 €/m²,Etagenwohnung,nil,nach Absprache,2,1,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

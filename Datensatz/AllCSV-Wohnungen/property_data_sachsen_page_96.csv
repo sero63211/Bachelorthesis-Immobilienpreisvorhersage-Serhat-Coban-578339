@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Frisch renovierte 2-Zimmer-Altbauwohnung auf der begehrten Karl-Heine-Straße,185.000 €,"Karl-Heine-Straße 56B,
+Lindenau, 04229 Leipzig",2,"50,67 m²",3.651 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Direkt am Lene-Voigt-Park: 2-Zimmer-Altbauwohnung mit Balkon,178.000 €,"Reichpietschstraße 47,
+Reudnitz-Thonberg, 04317 Leipzig",2,"54,07 m²",3.292 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Altbau-Wohntraum: Bezugsfertige 2-Zimmer-Dachgeschoss-Wohnung in Plagwitz,278.000 €,"Karl-Heine-Straße 47,
+Plagwitz, 04229 Leipzig",2,"65,36 m²",4.253 €/m²,Dachgeschoss,nil,sofort bezugsfertig,1,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Schöne 3-Zimmer Wohnung für Paare und kleine Familien,233.100 €,"Mockauer Straße 18,
+Mockau-Süd, 04357 Leipzig",3,"65,62 m²",3.552 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Liebevoll renovierte 3-Zimmer-Altbauwohnung in begehrter Plagwitzer Lage,334.000 €,"Karl-Heine-Straße 47,
+Plagwitz, 04229 Leipzig",3,"79,51 m²",4.201 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Dachgeschoss in Stötteritz: Frisch renovierte 2-Zimmer-Altbauwohnung,217.000 €,"Ferdinand-Jost-Straße 23A,
+Stötteritz, 04299 Leipzig",2,"56,69 m²",3.828 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Renovierter Altbau im wunderschönen Stötteritz: 2-Zimmer-Wohnung mit Balkon & neuer Ausstattung,254.000 €,"Schwarzackerstraße 11,
+Stötteritz, 04299 Leipzig",2,"60,02 m²",4.232 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Altbaucharme am Lene-Voigt-Park: 3-Zimmer-Wohnung mit Balkon,200.000 €,"Reichpietschstraße 49,
+Reudnitz-Thonberg, 04317 Leipzig",3,"66,05 m²",3.028 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bereit für Ihren Einzug: 2-Zimmer-Altbauwohnung mit neuem Parkett & Wannenbad,224.000 €,"Schwarzackerstraße 11,
+Stötteritz, 04299 Leipzig",2,"53,53 m²",4.185 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 3-Zimmer-Wohnung im Erdgeschoss mit Süd-Balkon,320.000 €,"Wolfener Straße 2,
+Gohlis-Süd, 04155 Leipzig",3,"84,95 m²",3.767 €/m²,Erdgeschosswohnung,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gut geschnittene 3-Zimmer-Wohnung im 1. Obergeschoss,224.700 €,"Mockauer Straße 18,
+Mockau-Süd, 04357 Leipzig",3,"63,57 m²",3.535 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mit Balkon & Dusch-/Wannenbad: 2-Zimmer-Wohnung in direkter Parknähe,192.000 €,"Reichpietschstraße 49,
+Reudnitz-Thonberg, 04317 Leipzig",2,"54,48 m²",3.524 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung: Wohnkomfort für Paare und Familien,239.400 €,"Mockauer Straße 18,
+Mockau-Süd, 04357 Leipzig",3,"66,66 m²",3.591 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 2-Zimmer-Dachgeschoss-Wohnung im wunderschönen Stötteritz,229.500 €,"Ferdinand-Jost-Straße 23,
+Stötteritz, 04299 Leipzig",2,"60,1 m²",3.819 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Im aufstrebenden Leipziger Osten: 2-Zimmer-Raumwunder mit Wannenbad,174.500 €,"Ferdinand-Jost-Straße 23A,
+Stötteritz, 04299 Leipzig",2,"46,4 m²",3.761 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mit Balkon und Tageslichtbad: 2-Zimmer-Domizil in Stötteritz,211.000 €,"Ferdinand-Jost-Straße 23,
+Stötteritz, 04299 Leipzig",2,"58,56 m²",3.603 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Singles oder Pärchen aufgepasst: Perfekt dimensionierte 2-Zimmer-Wohnung mit Balkon,207.000 €,"Ferdinand-Jost-Straße 23A,
+Stötteritz, 04299 Leipzig",2,"55,32 m²",3.742 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sofort bezugsfrei: Frisch renoviertes 1-Zimmer-Apartment in direkter Parknähe,101.000 €,"Reichpietschstraße 47,
+Reudnitz-Thonberg, 04317 Leipzig",1,"24,4 m²",4.139 €/m²,Etagenwohnung,nil,sofort bezugsfertig,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modern ausgestattete 2-Zimmer-Dachgeschosswohnung mit Blick über Stötteritz,230.000 €,"Schwarzackerstraße 11,
+Stötteritz, 04299 Leipzig",2,"52,73 m²",4.362 €/m²,Dachgeschoss,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Min. bis zum Karl-Heine-Kanal: 3-Zimmer-Wohnung in schönem Altbau,279.000 €,"Karl-Heine-Straße 56B,
+Lindenau, 04229 Leipzig",3,"75,81 m²",3.680 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

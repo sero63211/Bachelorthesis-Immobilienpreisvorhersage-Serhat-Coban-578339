@@ -1,0 +1,85 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Neubau-Eigentumswohnung als Altersvorsorge,314.900 €,"Georg-Zapf-Straße 2a,
+Flittard, 51061 Köln",2,"55,9 m²",5.633 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gartenwohnung mit Tilgungszuschuss!,439.900 €,"Königstraße 33-35,
+Lindenplatz, 52064 Aachen",3,"78,3 m²",5.618 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöner Wohnen auf 4 Zimmern im dritten Obergeschoss # WE 231,585.000 €,"Laer, 44803 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,5.625 €/m²,Etagenwohnung,nil,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 3-Zimmer-Eigentumswohnung | WE 131 BA3,795.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",3,"139,26 m²",5.709 €/m²,Penthouse,nil,30.07.2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive 2-Zimmer-Wohnung in Rheinbach | WE 223 BA2,345.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",2,"59,36 m²",5.812 €/m²,Etagenwohnung,nil,30.07.2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer Wohlfühloase in Rheinbach | WE 121 BA3,390.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",2,64 m²,6.094 €/m²,Etagenwohnung,66 m²,30.07.2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive 4-Zimmer-Wohnung mit 2 Terrassen und großzügigem Garten in familienfreundlicher Lage,739.000 €,"Benrath, 40593 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,107 m²,6.907 €/m²,Erdgeschosswohnung,nil,Anfang 2025,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Projektvorstellung in der Musterwohnung, Sonntags 10-11.30 Uhr Balthasarstr. 32 in 50354 Hürth",469.900 €,"Berrenrather Straße 511,
+50354 Hürth, Rhein-Erft-Kreis",3,"80,12 m²",5.865 €/m²,Etagenwohnung,nil,nil,2,1,nil,"1,309 % inkl. USt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Exklusive 2-Zimmer-Dachgeschosswohnung: Urbaner Charme in Top-Lage!,420.000 €,"Namibiastr. 10 A,
+Nippes (Ortsteil), 50733 Köln",2,55 m²,7.636 €/m²,Dachgeschoss,nil,auf Anfrage,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"10 Eigentumswohnung in Gütersloh KFW 40, wir beraten Sie zu den Förderungen",255.000 €,"Innenstadt-Nordhorn, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,61 m²,4.180 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubautraum!,369.900 €,"Berrenrather Straße 511,
+50354 Hürth, Rhein-Erft-Kreis",2,"59,27 m²",6.241 €/m²,Dachgeschoss,nil,nil,1,1,nil,"1,309 % inkl. USt.","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer Wohlfühloase in Rheinbach | WE 202 BA2,485.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",3,"84,19 m²",5.761 €/m²,Erdgeschosswohnung,nil,30.07.2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"10 Eigentumswohnung in Gütersloh KFW 40, wir beraten Sie zu den Förderungen",258.000 €,"Innenstadt-Nordhorn, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,4.161 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kleine Penthouse-Wohnung mit großer Terrasse,194.900 €,"41836 Hückelhoven, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,47 m²",3.391 €/m²,Penthouse,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"4,76% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Neubau Eigentumswohnung im Erdgeschoss mit Sondernutzungsrecht am Garten!,347.451 €,"Bismarckstraße 86,
+59558 Lippstadt, Soest (Kreis)",3,"91,7 m²",3.789 €/m²,Dachgeschoss,0 m²,Sommer 2025,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stilvolle 2-Zimmer-Wohnung mit geschützter Loggia # WE 111,280.000 €,"Laer, 44803 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,51 m²,5.490 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive 3-Zimmer-Eigentumswohnung mit Garten | WE 101 BA3,470.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",3,"83,2 m²",5.649 €/m²,Erdgeschosswohnung,nil,30.07.2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Premium-Apartment mit hochwertiger Ausstattung in Düsseldorf-Bilk,880.000 €,"Bilk, 40225 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,155 m²,5.677 €/m²,Etagenwohnung,nil,nil,3,2,1 Tiefgaragen-Stellplatz,"3,1% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+ETW Nr. 1 // Erdgeschosswohnung mit 2 Zimmer und grosser Terrasse im Luftkurort Wassenberg,256.600 €,"41849 Wassenberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"83,01 m²",3.091 €/m²,Erdgeschosswohnung,6 m²,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Exklusive 2-Zimmer-Wohnung mit Garten | WE 103 BA2,400.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",2,80 m²,5.000 €/m²,Erdgeschosswohnung,86 m²,30.07.2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Perfekte Kapitalanlage: mitten in der Stadt, mitten im Grünen | WE 114 BA3",370.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",2,64 m²,5.781 €/m²,Etagenwohnung,66 m²,30.07.2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Platz für die ganze Familie - Ihr Eigenheim auf 113 m² | WE 111 BA2,595.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",4,113 m²,5.265 €/m²,Etagenwohnung,119 m²,30.07.2025,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Eigentum zum Greifen nah!,333.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",3,"65,07 m²",5.131 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"10 Eigentumswohnung in Gütersloh KFW 40, wir beraten Sie zu den Förderungen",258.000 €,"Innenstadt-Nordhorn, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,4.161 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ETW Nr. 6 // Hochwertige Neubauwohnung mit optimalem Platzangebot im Luftkurort Wassenberg,223.300 €,"41849 Wassenberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"70,73 m²",3.157 €/m²,Etagenwohnung,nil,12/2024,1,1,1 Tiefgaragen-Stellplatz,"3,57% Inkl. 19% MWST Käuferprovision","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wohnparadies mit herrlichem Blick in Seenähe,1.106.000 €,"Bredeney, 45133 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"146,6 m²",7.544 €/m²,Etagenwohnung,nil,2025,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Penthouse mit Ausblick: Barrierefrei und 2 Terrassen,1.510.000 €,"Bredeney, 45133 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"164,4 m²",9.185 €/m²,Penthouse,nil,2025,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Platz für die ganze Familie auf 4 Zimmern # WE 132,585.000 €,"Laer, 44803 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,5.519 €/m²,Etagenwohnung,nil,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche 2-Zimmer Wohnung mitten im Herzen Rheinbachs | WE 124 BA3,380.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",2,64 m²,5.938 €/m²,Etagenwohnung,66 m²,30.07.2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+NEUBAU im Zentrum! Tolle neue Wohnung mit Aufzug und Sonnenterrasse (WE7),345.200 €,"Erkensmühle 15,
+52134 Herzogenrath, Aachen (Kreis)",3,"83,18 m²",4.150 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"10 Eigentumswohnung in Gütersloh KFW 40, wir beraten Sie zu den Förderungen",399.000 €,"Innenstadt-Nordhorn, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,3.837 €/m²,Erdgeschosswohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Perfekt für Sie zugeschnitten! 2 Zimmer im zweiten Obergeschoss # WE 221,285.000 €,"Laer, 44803 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,51 m²,5.588 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"10 Eigentumswohnung in Gütersloh KFW 40, wir beraten Sie zu den Förderungen",390.000 €,"Innenstadt-Nordhorn, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,102 m²,3.824 €/m²,Etagenwohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer mit großem Garten und Süd-Terrasse # WE 103,390.000 €,"Laer, 44803 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,73 m²,5.342 €/m²,Terrassenwohnung,144 m²,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jeden Sonntag offene Baustellenbesichtigung von 11– 13 Uhr,319.900 €,"Walter-Gropius-Str. 8,
+51503 Rösrath, Rheinisch-Bergischer Kreis",2,"55,87 m²",5.726 €/m²,Erdgeschosswohnung,nil,Herbst 2025,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne Penthouse-Wohnung mit 3 Zimmern # WE 142,495.000 €,"Laer, 44803 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,5.824 €/m²,Penthouse,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jetzt attraktive Abschreibungsmöglichkeiten für Kapitalanleger sichern!,244.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",2,"45,02 m²",5.440 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer mit Loggia in der ersten Etage # WE 113,455.000 €,"Laer, 44803 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,83 m²,5.482 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer Wohlfühloase in Rheinbach | WE 123 BA3,540.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",3,"92,01 m²",5.869 €/m²,Etagenwohnung,nil,30.07.2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Eigentumswohnung in Rheinbach | WE 304 BA2,515.000 €,"Pallottistraße 0,
+53359 Rheinbach, Rhein-Sieg-Kreis",3,"93,63 m²",5.500 €/m²,Erdgeschosswohnung,nil,30.07.2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmante 2-Zimmer-Wohnung auf der 1. Etage # WE 211,285.000 €,"Laer, 44803 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,51 m²,5.588 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Maisonette Leon 6"" mit großer Sonnen Terrasse",1.200.000 €,"Hans-Josef-Michels Weg 21,
+Stammheim, 51061 Köln",4,"147,8 m²",8.119 €/m²,Maisonette,nil,nil,3,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

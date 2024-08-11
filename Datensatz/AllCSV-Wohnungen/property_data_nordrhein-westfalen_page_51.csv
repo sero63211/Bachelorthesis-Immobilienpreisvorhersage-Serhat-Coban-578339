@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Zimmer-Wohnung mit Balkon,100.000 €,"Op de Fleet XXXX,
+Wickrath-Mitte, 41189 Mönchengladbach",3,"70,5 m²",1.418 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung nebst Stellplatz,56.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",3,67 m²,836 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Terrassen- und Gartenfläche - provisionsfrei,144.000 €,"Liegnitzer Straße XXXX,
+41564 Kaarst, Neuss (Rhein-Kreis)",3,74 m²,1.946 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Pkw-Stellplatz - provisionsfrei,81.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",3,91 m²,890 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-Zimmer-Wohnung,71.100 €,"Am Hohen Weg XXXX,
+Weißenberg, 41462 Neuss",1,37 m²,1.922 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 4-Zimmer-Wohnung mit Loggia +,115.000 €,"Lehnhofstraße XXXX,
+Beeck, 47139 Duisburg",4,97 m²,1.186 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon,94.500 €,"Kaarster Straße XXXX,
+Vogelsang, 41462 Neuss",2,51 m²,1.853 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1-Zimmer-Wohnung mit Terrasse in Seniorenwohnanlage,140.000 €,"Kriegerstraße XXXX,
+53359 Rheinbach, Rhein-Sieg-Kreis",1,41 m²,3.415 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Loggia und Garten,133.000 €,"Am Hohen Weg XXXX,
+Weißenberg, 41462 Neuss",2,58 m²,2.293 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+5-Zimmer-Wohnung mit Terrasse und Garten,303.000 €,"Am Hohen Weg XXXX,
+Weißenberg, 41462 Neuss",5,163 m²,1.859 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Solide 3-Zimmer-Wohnung - provisionsfrei,115.000 €,"Augustastraße XXXX,
+Mittelstadt, 58089 Hagen",3,"81,21 m²",1.416 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"4-Zimmer-Wohnung, Balkon und Dachterrasse",176.000 €,"Lönsweg XXXX,
+32139 Spenge, Herford (Kreis)",4,"116,39 m²",1.512 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Loggia + provisionsfrei +,115.000 €,"Am Hohen Weg XXXX,
+Weißenberg, 41462 Neuss",2,58 m²,1.983 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung nebst Balkon,101.000 €,"Otto-Keller-Straße XXXX,
+Neudorf-Süd, 47057 Duisburg",2,"59,79 m²",1.689 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,136.000 €,"Am Hohen Weg XXXX,
+Weißenberg, 41462 Neuss",2,68 m²,2.000 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung - provisionsfrei,98.800 €,"Augustastraße XXXX,
+Mittelstadt, 58089 Hagen",3,"82,95 m²",1.191 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+++ 3-Zimmer-Wohnung mit Balkon und Stellplatz ++,158.000 €,"Südring XXXX,
+51647 Gummersbach, Oberbergischer Kreis",3,91 m²,1.736 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2-Zimmer-Wohnung, Balkon, Stellplatz",77.600 €,"Otto-Keller-Straße XXXX,
+Neudorf-Süd, 47057 Duisburg",2,"46,14 m²",1.682 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Loggia - provisionsfrei,69.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",3,91 m²,758 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Klein, aber Fein + 1-Zimmer-Wohnung +",205.000 €,"Vor den Siebenburgen XXXX,
+Altstadt/Süd, 50676 Köln",1,37 m²,5.541 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

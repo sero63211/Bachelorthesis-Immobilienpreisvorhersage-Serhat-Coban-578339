@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Große, vermietete Erdgeschosswohnung mit Terrasse, Kamin und Garten",459.000 €,"Stromstraße 41a,
+Bohnsdorf, 12526 Berlin",3,"101,77 m²",4.510 €/m²,Erdgeschosswohnung,"57,63 m²",nil,2,2,1 Außenstellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete Eigentumswohnung in Berliner Kiezlage,299.000 €,"Kreuzberg, 10997 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,4.271 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,"3,57 % inkl. MwSt.",{'is24qa-vermietet-label': ''}
+AfA! Schönes 3-Zi-DACHGESCHOSS! Kernsaniert! Jugenstil ALTBAU am Kulturdenkmal! FERNWÄRE!,290.000 €,"Lichtenberg (Ortsteil), 10365 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"74,8 m²",3.877 €/m²,Dachgeschoss,nil,nil,2,1,nil,"3,57% Provision inklusive 19% MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne 2-Zimmer-Luxuswohnung mit Terrasse,690.000 €,"Schöneberg, 10781 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,76 m²,9.079 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+- Eigentumswohnung im Grünen für Anleger und Selbstnutzer -,550.000 €,"Zehlendorf, 14167 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",107 m²,5.140 €/m²,Etagenwohnung,nil,z.Zt.vermietet,nil,1,nil,"Käuferprovision 3,57 % inkl. MwSt. inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"HELLE, SEHR RUHIGE WOHNUNG - NÄHE LUDWIGKIRCHPLATZ & KU'DAMM - SONNIGER BALKON",389.000 €,"Zähringer Str. 39b,
+Wilmersdorf, 10707 Berlin",2,60 m²,6.483 €/m²,Etagenwohnung,nil,nach Absprache,1,1,nil,"3,57% des Kaufpreises inkl. 19% MwSt., zahlbar vom Käufer.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Attraktive Kapitalanlage in gepflegter Wohnanlage nahe Brosepark!,250.000 €,"Niederschönhausen, 13156 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"56,94 m²",4.391 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Luxus-Penthous mit 3-Zimmern und Terrasse,1.990.000 €,"Hitzingerallee .,
+Tiergarten, 10785 Berlin",3,160 m²,12.438 €/m²,Penthouse,nil,nil,2,2,nil,"3,57 % Käuferprovision inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Moderne 2-Zimmer-Wohnung in zentraler Top-Lage,780.000 €,"Friedrichshain, 10243 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,90 m²,8.667 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 2-Zimmer-Luxus-Wohnung in Zehlendorf-Dahlem,840.000 €,"Dahlem, 14165 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,70 m²,12.000 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ETW-BERLIN-DAHLEM== DG-MAISONETTE== FAHRSTUHL==EBK==NEUBAU (1997)==2 x BALKON==TG-PLATZ==,690.000 €,"Lichterfelde, 14195 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,96 m²,7.188 €/m²,Etagenwohnung,96 m²,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MWSt. vom Verkaufspreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"""Am Ritterholz - Wannsee Sports & Country Club"": Komfortable Wohnung mit Süd-Balkon (vermietet)",309.000 €,"Ferdinand-Magellan-Straße 36,
+Kladow, 14089 Berlin",3,72 m²,4.292 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. gesetzlicher MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"MAISONETTE MIT HAUSGEFÜHL - MODERNE KÜCHE & MODERNES BAD - TERRASSE, GARTEN & PKW-STELLPLATZ",420.000 €,"Am Forstacker 14E__i,
+Hakenfelde, 13587 Berlin",5,102 m²,4.118 €/m²,nil,nil,nil,4,1,1 Außenstellplatz,"3,57% des Kaufpreises inkl. 19% MwSt., zahlbar vom Käufer.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Stilvolle und ruhige Maisonette-Wohnung im Altbau nähe Platz am Wilden Eber,1.790.000 €,"Schmargendorf, 14199 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",195 m²,9.179 €/m²,Maisonette,nil,nil,4,2,1 Stellplatz,"3,57 % Käuferprovision inkl. 19% MwSt.,",{'is24qa-balkon-terrasse-label': ''}
+"Lietzensee, Altbau, 4.OG, Lift, 2 Balkone, leer",995.000 €,"Charlottenburg, 14057 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",146 m²,6.815 €/m²,Etagenwohnung,nil,nil,nil,2,nil,"3,57% (41.055€)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Vermietete 1-Zimmer-Wohnung in unmittelbarer Nähe zum Tegeler See,129.000 €,"Tegel, 13507 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,39 m²,3.308 €/m²,Etagenwohnung,nil,vermietet,1,1,nil,"3,57 % inkl. gesetzlicher MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Klassisch, charmante Eigentumswohnung mit Süd - Balkon in Berlin - Wilmersdorf",503.000 €,"Wilmersdorf, 10707 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,10.060 €/m²,nil,nil,nil,nil,1,nil,3.57% inkl. 19% MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+moderne Wohnung,4.200.000 €,"Schöneberg, 10777 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,260 m²,16.154 €/m²,Penthouse,300 m²,nil,3,3,1 Stellplatz,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Beeindruckende 4 Zimmer-Luxus-Wohnung in Zehlendorf-Dahlem,1.150.000 €,"Dahlem, 14165 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,10.455 €/m²,Etagenwohnung,nil,nil,3,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmante 2-Zimmer-Wohnung im Souterrain - Erstbezug nach Sanierung,199.000 €,"Mariendorf, 12107 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,46 m²,4.326 €/m²,Souterrain,nil,sofort,2,1,nil,"3,57% inkl. gesetzlicher MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"

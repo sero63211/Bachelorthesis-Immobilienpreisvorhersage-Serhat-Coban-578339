@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+++ sofort bezugsfertig ++ Attraktive Erdgeschosswohnung mit 105 m² Privatgarten!,570.000 €,"Lavaterstraße 4,
+Waldperlach, 81739 München",2,72 m²,7.917 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familienfreundliche 3-Zimmer-Wohnung im EG Links,377.200 €,"Kirchweg 12,
+82467 Garmisch-Partenkirchen, Garmisch-Partenkirchen (Kreis)",3,"75,44 m²",5.000 €/m²,Erdgeschosswohnung,nil,Sofort,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bahnhofsnahe 3-Raum-Wohnung in Schwabach inkl. TG-Stellplatz, Garage und Stellplatz",265.000 €,"Bahnhofstraße 39,
+Forsthof, 91126 Schwabach",3,78 m²,3.397 €/m²,Etagenwohnung,80 m²,nil,2,1,3 Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2,5-Zimmer-OG-Wohnung mit gehobener Innenausstattung und Balkon in Markt Erlbach",369.800 €,"Am Zimmerplatz 2,
+91459 Markt Erlbach, Neustadt an der Aisch-Bad Windsheim (Kreis)","2,5",86 m²,4.300 €/m²,Etagenwohnung,nil,15.5.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ruhig gelegene 3-Zimmer-Wohnung mit Terrasse in Wendelstein zu verkaufen,330.000 €,"90530 Wendelstein, Roth (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,3.667 €/m²,Etagenwohnung,nil,01.06.2024,1,1,1 Garage,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Exklusive Dachterrassenwohnung in Bestlage an der Hallerwiese,315.000 €,"Lindengasse 4,
+St. Johannis, 90419 Nürnberg",2,61 m²,5.164 €/m²,Penthouse,nil,5.5.2024,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Maisonette Kapitalanlage mit Dachterrasse in Traunreut,169.000 €,"Munastraße 10a,
+83301 Traunreut, Traunstein (Kreis)",3,"65,22 m²",2.591 €/m²,Maisonette,nil,nil,2,1,nil,"7,14 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Rohdiamant zum Schleifen - Herzogpark a. d. Isar,2.700.000 €,"Herzogpark, 81925 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,180 m²,15.000 €/m²,Terrassenwohnung,8 m²,sofort,2,2,2 Tiefgaragen-Stellplätze,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Familienfreundliche 4-Zimmer-Wohnung im 2.OG Rechts,393.750 €,"Kirchweg 9,
+82467 Garmisch-Partenkirchen, Garmisch-Partenkirchen (Kreis)",4,"78,75 m²",5.000 €/m²,Etagenwohnung,nil,Sofort,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Außergewöhnliche 4 Zimmer Gartenwohnung in Haar,832.000 €,"85540 Haar, München (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,134 m²,6.209 €/m²,Erdgeschosswohnung,134 m²,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""FREIHEIT ERLEBEN ÜBER DEN DÄCHERN""-Helle, gepflegte Penthousewohnung mit Garage in Hirschau",229.000 €,"92242 Hirschau, Amberg-Sulzbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",87 m²,2.632 €/m²,Penthouse,15 m²,bereits frei,2,1,1 Garage,"Die Käufercourtage beträgt 3,57 % vom Kaufpreis incl.. MwST","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Gepflegte 3-Zimmer-Wohnung mit großzügiger Südloggia,340.000 €,"90518 Altdorf bei Nürnberg, Nürnberger Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,3.400 €/m²,Etagenwohnung,nil,nil,nil,2,Garage,"2 % Maklercourtage zzgl, 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Familienfreundliche 3-Zimmer-Wohnung im 1.OG Rechts,351.750 €,"Kirchweg 12,
+82467 Garmisch-Partenkirchen, Garmisch-Partenkirchen (Kreis)",3,"70,35 m²",5.000 €/m²,Etagenwohnung,nil,Sofort,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 Zimmer mit Aussicht – ins ruhige und grüne Ottobrunn!,310.000 €,"An der Ottosäule 6,
+85521 Ottobrunn, München (Kreis)",2,"55,9 m²",5.546 €/m²,Etagenwohnung,"60,2 m²",sofort,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Gepflegte moderne 3-Raum-Wohnung mit EBK im Münchner Norden,560.000 €,"Graslilienanger 39,
+Am Hart, 80937 München",3,"74,51 m²",7.516 €/m²,Sonstige,nil,6.5.2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+++ sofort bezugsfertig ++ Attraktive Dachgeschosswohnung mit Tiefgaragen-Stellplatz,510.000 €,"Lavaterstraße 4,
+Waldperlach, 81739 München",2,59 m²,8.644 €/m²,Dachgeschoss,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familienfreundliche 3-Zimmer-Wohnung im 2.OG Links,332.500 €,"Kirchweg 9,
+82467 Garmisch-Partenkirchen, Garmisch-Partenkirchen (Kreis)",3,"66,5 m²",5.000 €/m²,Etagenwohnung,nil,Sofort,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 5.0-Zimmer Wohnung in Unterneukirchen,nil,"84579 Unterneukirchen, Altötting (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,3.000 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Idyllisches Wohnjuwel: Gemütliche 1-Zimmer-Oase mit Traumgarten - Sofort bezugsbereit!,465.000 €,"Uhdestraße 14d,
+Solln, 81477 München",1,"41,9 m²",11.098 €/m²,nil,nil,sofort,nil,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+4-Zi-Neubau-Wohnung-Karlshuld-KfW-Förderung! ***ROHBAU-BESICHTIGUNG MÖGLICH !!,498.000 €,"Augsburger Straße 41,
+86668 Karlshuld, Neuburg-Schrobenhausen (Kreis)",4,"106,82 m²",4.662 €/m²,Terrassenwohnung,20 m²,nil,3,1,2 Garagen,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

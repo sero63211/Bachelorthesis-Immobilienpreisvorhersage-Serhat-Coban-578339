@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"""Herrliche unverbaubare Aussichtslage""",425.000 €,"73102 Birenbach, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"126,43 m²",702 m²,3.362 €/m²,Einfamilienhaus (freistehend),nil,Mittelfristig,nil,nil,2 Garagen,"3,57 % inkl. MwSt",{}
+"Sofort frei! 2- bis 3-Familienhaus in schöner Wohnlage mit Terrasse, Balkon, Pergola & zwei Garagen",525.000 €,"73265 Dettingen unter Teck, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","8,5",185 m²,367 m²,2.838 €/m²,Mehrfamilienhaus,140 m²,kurzfr. n. Absprache,nil,nil,2 Garagen,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Freistehendes Einfamilienhaus mit schönem Garten!,325.000 €,"73642 Welzheim, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,111 m²,483 m²,2.928 €/m²,Einfamilienhaus (freistehend),77 m²,sofort,3,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wunderschönes Einfamilienhaus mit ELW in familiärer Lage am Ortsrand in Steinheim a.d. Murr,580.000 €,"71711 Steinheim an der Murr, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"167,03 m²",480 m²,3.472 €/m²,Einfamilienhaus (freistehend),nil,sofort,5,2,1 Garage,"3,57 % inkl. gesetzl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Naturnah und großzügig!,650.000 €,"74343 Sachsenheim, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,165 m²,805 m²,3.939 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,4,2,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Freistehendes Einfamilienhaus, modern und neuwertig",820.000 €,"79410 Badenweiler, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"196,8 m²",624 m²,4.167 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,4 Stellplätze,"Die Käuferprovision beträgt 2,38 % inkl. 19% MwSt.",{}
+Interessante Doppelhaushälfte in Ehningen,429.000 €,"71139 Ehningen, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",80 m²,110 m²,5.363 €/m²,Doppelhaushälfte,15 m²,nach Vereinbarung,4,2,nil,"3,57% inkl. 19% MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wohnen und Arbeiten unter einem Dach!,295.000 €,"72293 Glatten, Freudenstadt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,209 m²,964 m²,1.411 €/m²,Wohnimmobilie (sonstige),100 m²,nach Vereinbarung,nil,nil,1 Garage,"4,76 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Wohnen auf der Sonnenseite,570.000 €,"74193 Schwaigern, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","7,5",215 m²,655 m²,2.651 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,3,4 Stellplätze,"4,165 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Grundstück für EFH und DHH,579.000 €,"Frankenbach, 74078 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,160 m²,1.109 m²,3.619 €/m²,Einfamilienhaus (freistehend),nil,sofort,nil,1,1 Garage,"4,165 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Doppelhaushälfte in Neuhausen auf den Fildern,961.975 €,"73765 Neuhausen auf den Fildern, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",141 m²,404 m²,6.823 €/m²,Doppelhaushälfte,39 m²,8 Mon. n. Baubeginn,nil,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau-DHH in KA Grünwinkel mit klimafreundlichem Effizienzhaus 40-Standard!,809.000 €,"Grünwinkel, 76185 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,119 m²,200 m²,6.798 €/m²,Doppelhaushälfte,56 m²,nil,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiger Neubau zum Fertigstellen,445.000 €,"75378 Bad Liebenzell, Calw (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"141,5 m²",232 m²,3.145 €/m²,Reiheneckhaus,"67,45 m²",sofort,4,2,2 Garagen,"2,38% inkl. MwSt.",{'is24qa-gaeste-wc-label': ''}
+"Großes, flexibles 2-Familienhaus in Südhanglage in Altensteig",460.000 €,"72213 Altensteig, Calw (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",13,265 m²,855 m²,1.736 €/m²,Mehrfamilienhaus,nil,nach Absprache,nil,nil,nil,"3,87 % inkl. MwSt",{}
+Tolles Einfamilienhaus in Karlsruhe-Bulach sucht neue Eigentümer,539.000 €,"Beiertheim-Bulach, 76135 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,128 m²,3.963 €/m²,Einfamilienhaus (freistehend),85 m²,nach Absprache,2,1,nil,"2,38 %",{'is24qa-keller-label': ''}
+Zweifamilienhaus Königsbronn,345.000 €,"89551 Königsbronn, Heidenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,176 m²,794 m²,1.960 €/m²,Mehrfamilienhaus,nil,nach Vereinbarung,nil,2,2 Garagen,"3,57 % inkl. ges. MwSt.",{}
+Freistehendes Einfamilienhaus mit Potential,395.000 €,"71093 Weil im Schönbuch, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,497 m²,4.389 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,"2,75 % zzgl. ges. MwSt.",{'is24qa-keller-label': ''}
+Kapitalanleger gesucht!,420.000 €,"88371 Ebersbach-Musbach, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,237 m²,865 m²,1.772 €/m²,Mehrfamilienhaus,nil,vermietet,2,2,1 Garage,"4,76 % inkl. MwSt",{'is24qa-gaeste-wc-label': ''}
+"TOP-LAGE + TOP-WOHNHAUS: 3-Fam.-Haus, Ebingen",395.000 €,"72458 Albstadt, Zollernalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,274 m²,865 m²,1.442 €/m²,Mehrfamilienhaus,nil,ab sofort,4,4,2 Garagen,"3,57% inklusive MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Zweifamilienhaus auf großem Grundstück,279.000 €,"68766 Hockenheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,104 m²,543 m²,2.683 €/m²,Mehrfamilienhaus,nil,Bereits frei.,2,2,2 Garagen,"3,57 % inkl. ges. MwSt.",{}

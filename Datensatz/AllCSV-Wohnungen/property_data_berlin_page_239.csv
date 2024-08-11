@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Helle 2Z Wohnung mit Balkon am Wasser,380.000 €,"Lehmbruckstr 22,
+Friedrichshain, 10245 Berlin",2,"71,98 m²",5.279 €/m²,nil,nil,sofort,1,1,nil,3%+MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Provisionsfreie Eigentumswohnung mit Balkon und Aufzug,240.000 €,"Alt-Hohenschönhausen, 13055 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"70,4 m²",3.409 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 1. Zimmer Wohnung - in Westend - als Kapitalanlage,129.000 €,"Heerstrasse 22-22a,
+Westend, 14052 Berlin",1,"28,77 m²",4.484 €/m²,Etagenwohnung,"30,9 m²",nil,1,nil,nil,"4.605,30 €","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+PROVISIONSFREI: Hausartige Maisonettewohnung vom Architekten mit Energieeffizienzklasse A+,1.299.000 €,"Am Rollberg 12,
+Rosenthal, 13158 Berlin",4,145 m²,8.959 €/m²,nil,nil,Nach Absprache,3,2,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bezugsfreie Single-Wohnung Sonntagstraße Friedrichshain,235.000 €,"Böcklinstraße 6,
+Friedrichshain, 10245 Berlin",1,39 m²,6.026 €/m²,Etagenwohnung,39 m²,01.07.2024,1,1,nil,"8.389,50","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+TOP CITYLAGE - TOP WOHNUNG - TOP PREIS - 4 ZIMMER WE IM KERNSANIERTEN ALTBAUKLASSIKER - VERMIETET,710.000 €,"Wilmersdorf, 10717 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"146,72 m²",4.839 €/m²,nil,nil,nil,nil,1,nil,"Für den Käufer: 3,57% des Kaufpreises inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Großzügiger Altbautraum nach Sanierung ++ Gartenwohnung am Wasser im Erstbezug,658.000 €,"Friedrichshagen, 12587 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"89,45 m²",7.356 €/m²,Erdgeschosswohnung,nil,Sofort verfügbar,2,1,1 Garage,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+PROVISIONSFREI: Wohnungspaket aus 2 ETW inkl. Maisonette & TG-Stellplatz unweit von Prenzlauer Berg,645.000 €,"Niederschönhausen, 13156 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,4.962 €/m²,Etagenwohnung,nil,nil,3,3,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschöne neu sanierte Altbauwohnung mit West-Balkon und komplett Möbliert,480.000 €,"Charlottenburg, 10627 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,8.000 €/m²,Etagenwohnung,nil,nil,1,1,nil,"zzgl. 3,57% Käuferprovision (inkl. gesetzlicher MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Stylische Altbauwohnung Friedrichshain/Mitte,580.000 €,"Friedrichshain, 10249 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"82,31 m²",7.047 €/m²,Etagenwohnung,"82,31 m²",15.05.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+PROVISIONSFREI: Helle Maisonette Wohnung mit zwei Balkonen nahe Prenzlauer Berg mit Tiefgaragenplatz,435.000 €,"Niederschönhausen, 13158 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,4.833 €/m²,Maisonette,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"**KAPITALANLAGE** Moderne Wohnung im Loft-Stil, EBK, Außenstellplatz",225.000 €,"Billy-Wilder-Promenade 45,
+Lichterfelde, 14167 Berlin",1,"53,67 m²",4.192 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnungspaket aus 2 ETW inkl. einer Maisonette Whg mit TG-Stellplatz im schönen grünen Pankow,769.000 €,"Niederschönhausen, 13158 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,155 m²,4.961 €/m²,Maisonette,nil,nil,3,3,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"ruhige Zwei-Zimmer-Wohnung mit ca. 3,5 % Rendite",295.000 €,"Steglitz, 12169 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"55,65 m²",5.301 €/m²,nil,nil,nil,nil,nil,nil,2 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Vermietete 2-Zimmer-Wohnung in ruhiger Seitenstraße mit Balkon, Dielen und Wannenbad",314.000 €,"Gaillardstraße xx,
+Pankow (Ortsteil), 13187 Berlin",2,"66,47 m²",4.724 €/m²,nil,nil,nil,nil,nil,nil,"3,57% inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kapitalanlage in Rudow - nahe U-Bahnhof,180.000 €,"Rudow, 12355 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","67,4 m²",2.671 €/m²,nil,nil,nil,nil,1,nil,"3,57 % inkl. 19 % MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+",,F07"" Garten, Aufzug sowie Garage mitten im Westend",899.000 €,"Westend, 14055 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,6.421 €/m²,Etagenwohnung,nil,nil,4,2,1 Parkhaus-Stellplatz,"3,57% inkl. gesetzlicher MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Nur 500m zum Wasser: gepflegte Wohnung mit Dachterrasse & Stellplatz,300.000 €,"Köpenick, 12557 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"78,53 m²",3.820 €/m²,Etagenwohnung,nil,nil,1,1,1 Carport,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Wertstabiles Investment in Südberlin mit Terrasse und Privatgarten,431.000 €,"Ringstraße 50,
+Lichterfelde, 12205 Berlin",4,"96,18 m²",4.481 €/m²,Erdgeschosswohnung,nil,nil,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Erstbezug: 3 Zimmer Gartenwohnung mit Tageslichtbad, Terrasse nach Vollsanierung",658.000 €,"Friedrichshagen, 12587 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"89,45 m²",7.356 €/m²,Erdgeschosswohnung,nil,Sofort verfügbar,2,1,1 Garage,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"

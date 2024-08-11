@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Charmantes Zweifamilienhaus in ruhiger Lage mit schönem Grundstück,525.000 €,"77948 Friesenheim, Ortenaukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,240 m²,686 m²,2.188 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,3.57 %,{'is24qa-keller-label': ''}
+Hübsches Dorfhaus mit viel Platz und Werkstatt,345.000 €,"Lichtental mit Oberbeuern und Geroldsau, 76534 Baden-Baden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,120 m²,423 m²,2.875 €/m²,Wohnimmobilie (sonstige),316 m²,nil,3,1,2 Stellplätze,siehe Sonstiges,{}
+Zweifamilienhaus auf großem Grundstück in erstklassiger Lage,949.000 €,"Innenstadt, 76530 Baden-Baden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,209 m²,961 m²,4.541 €/m²,Mehrfamilienhaus,nil,nach Absprache,nil,3,4 Stellplätze,3.57 %,"{'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Exklusiv wohnen in idyllischer Randlage!,1.200.000 €,"79215 Elzach, Emmendingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","7,5","349,44 m²",1.475 m²,3.434 €/m²,Einfamilienhaus (freistehend),"53,82 m²",Nach Absprache,4,3,2 Garagen,"3,57% inkl. 19 % Mwst.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Neue Perspektiven für Individualisten,395.000 €,"74855 Haßmersheim, Neckar-Odenwald-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,167 m²,671 m²,2.365 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,4,2,7 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Attraktives Haus mit Scheune,269.000 €,"75045 Walzbachtal, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,81 m²,340 m²,3.321 €/m²,Doppelhaushälfte,60 m²,sofort,3,1,3 Außenstellplätze,"2,8%",{'is24qa-keller-label': ''}
+Spitzenlage Reutlingen - älteres freistehendes Einfamilienhaus,695.000 €,"Reutlingen, 72762 Reutlingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,144 m²,1.300 m²,4.826 €/m²,Einfamilienhaus (freistehend),31 m²,sofort,4,2,1 Stellplatz,"4,76% incl. gesetzl. MWSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Großzügiges Einfamilienhaus in ruhiger Lage von Steißlingen,1.090.000 €,"78256 Steißlingen, Konstanz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,227 m²,626 m²,4.802 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,4 Stellplätze,4.17 %,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Sofort einziehen - Wohnhaus mit 3 Einheiten nahe Ortskern,549.000 €,"Herrenbergerstr. 3,
+71157 Hildrizhausen, Böblingen (Kreis)",8,209 m²,347 m²,2.627 €/m²,Mehrfamilienhaus,114 m²,sofort,5,3,2 Garagen,"26132,40€","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Familie willkommen - Hier können Kinder spielen,450.000 €,"71134 Aidlingen, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,180 m²,529 m²,2.500 €/m²,Einfamilienhaus (freistehend),25 m²,sofort,3,2,2 Garagen,"3,57% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Modern und nachhaltig Wohnen!,599.000 €,"71686 Remseck am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,112 m²,131 m²,5.348 €/m²,Reihenmittelhaus,34 m²,nach Vereinbarung,4,1,1 Garage,"2,975% inkl. MwSt",{'is24qa-keller-label': ''}
+"""Platz für die gesamte Familie - großzügiges Stadthaus ohne Garten in Freiberg a. N.""",619.000 €,"71691 Freiberg am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","8,5",196 m²,203 m²,3.158 €/m²,Doppelhaushälfte,"19,58 m²",nach Vereinbarung,6,3,1 Carport,"1,79 % inkl. MwSt.",{'is24qa-keller-label': ''}
+Gepflegtes und charmantes Mehrfamilienhaus - 6 Einheiten - mit guter Anbindung in Weil der Stadt - v,1.100.000 €,"71263 Weil der Stadt, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,"359,58 m²",611 m²,3.059 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung,6,6,1 Garage,6% auf den Kaufpreis zzgl. MwSt.,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Interessante Liegenschaft mit vielen Möglichkeiten, großer Scheune und Garten in Stutensee-Spöck",645.000 €,"76297 Stutensee, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,118 m²,936 m²,5.466 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,"2,38%",{}
+Neckarblick in Heidelberg-Schlierbach - Saniertes Mittelhaus,425.000 €,"Schlierbach, 69118 Heidelberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,127 m²,250 m²,3.346 €/m²,Reihenmittelhaus,nil,Juni 2024,3,1,1 Außenstellplatz,"2,38% inkl. MwSt.",{}
+Charmantes Einfamilienhaus mit großer Einliegerwohnung in Dürrmenz,670.000 €,"75417 Mühlacker, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,240 m²,391 m²,2.792 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,5,2,2 Garagen,"3,57 % inklusive 19 % MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+//Villa Nüssle Calw //Chalet //Refugium //Altstadtblick //Sonder-AfA //§7i //KfW //Denkmalsanierung,595.000 €,"Schillerstraße 19,
+75365 Calw, Calw (Kreis)","3,5",134 m²,250 m²,4.440 €/m²,Einfamilienhaus (freistehend),nil,31.12.2025,1,1,2 Stellplätze,"2,38 % inkl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Super Lage Neubaugebiet Grossbottwar - tolle Nachbarn - Baubeginn sofort,835.000 €,"71723 Großbottwar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,170 m²,400 m²,4.912 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,"3,57% auf das Grundstück inkl. gesetzlicher Mwst.",{'is24qa-gaeste-wc-label': ''}
+Moderne Doppelhaushälfte mit gehobener Ausstattung und Sauna!,1.085.000 €,"Schlierbach, 69118 Heidelberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,200 m²,283 m²,5.425 €/m²,Doppelhaushälfte,nil,nil,4,3,2 Garagen,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Traumhaftes Reihenmittelhaus,848.000 €,"69493 Hirschberg an der Bergstraße, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,157 m²,278 m²,5.401 €/m²,Reihenmittelhaus,nil,nil,4,1,2 Außenstellplätze,"Käuferprovision beträgt 3,00 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"

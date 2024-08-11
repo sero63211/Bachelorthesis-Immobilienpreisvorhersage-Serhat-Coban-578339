@@ -1,0 +1,55 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Wohnung zu verkaufen (55,1 qm Wohnfläche)",337.000 €,"Pasewalker str. 72,
+Französisch Buchholz, 13127 Berlin",2,"55,1 m²",6.116 €/m²,Etagenwohnung,"55,1 m²",nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle Leerwohnung in zentraler Lage,295.000 €,"Genterstraße 12,
+Wedding, 13355 Berlin","2,5","69,17 m²",4.265 €/m²,Etagenwohnung,"69,17 m²",01.09.2024,1,1,nil,"3,57 % inkl. der gesetzlichen Umsatzsteuer",{'is24qa-keller-label': ''}
+"Neubau 2022 in Oberschöneweide: Modernes Wohnen mit Tiefgarage, großem Balkon und Vollmöblierung!",365.000 €,"Fritz-Kirsch-Zeile 15,
+Oberschöneweide, 12459 Berlin",2,"54,38 m²",6.712 €/m²,Etagenwohnung,nil,Sofort,1,1,Tiefgaragen-Stellplatz,"3,57 % des beurkundeten Kaufpreises inkl. gesetzl. USt. als Käufer- und Verkäuferprovision.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+🏡🌳Ready-to-move-in new maisonette House-in-house with private garden,Auf Anfrage,"waldowstrasse 9,
+Niederschönhausen, 13156 Berlin",4,142 m²,nil,nil,nil,nil,3,3,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Penthouse neu, elegant und umwerfend im historischen Altbau / New, elegant and stunning in a histori",999.000 €,"Reinickendorf (Ortsteil), 13409 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,149 m²,6.705 €/m²,Penthouse,168 m²,1.07.2024,5,2,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stielvolle 3-Raum-Altbau-Wohnung mit gehobener Innenausstattung mit Einbauküche in Berlin Steglitz,649.900 €,"Ahornstraße 25,
+Steglitz, 12163 Berlin",3,"90,42 m²",7.188 €/m²,Etagenwohnung,"90,42 m²",27.5.2024,2,1,nil,2%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Sofort Bezugsfrei: Renovierte Einraumwohnung im beschaulichen Lichtenrade,175.000 €,"Lichtenrade, 12307 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,36 m²,4.861 €/m²,Etagenwohnung,nil,sofort,nil,1,nil,"2,80 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+frisch sanierte Gartenwohnung nähe Torstr.,565.000 €,"Mitte (Ortsteil), 10115 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","70,34 m²",8.032 €/m²,Erdgeschosswohnung,nil,sofort,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wohnung zu verkaufen (72,89 qm Wohnfläche)",444.350 €,"Pasewalker str 72,
+Französisch Buchholz, 13127 Berlin",3,"72,89 m²",6.096 €/m²,nil,"72,89 m²",sofort,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung in ruhiger Lage,149.999 €,"Baumschulenweg, 12437 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,54 m²,2.778 €/m²,Etagenwohnung,54 m²,nil,2,1,nil,"3,57 % inkl. der gesetzlichen Umsatzsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"PROVISIONSFREI: Bezugsfreie große Eigentumswohnung mit Süd-Westterrasse,Wintergarten und Einbauküche",449.000 €,"Grünau, 12527 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,4.490 €/m²,Etagenwohnung,12 m²,sofort,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wohnung zu verkaufen (78,71 m² Wohnfläche)",509.000 €,"Pasewalker Straße 72,
+Französisch Buchholz, 13127 Berlin",3,"78,71 m²",6.467 €/m²,Etagenwohnung,"78,71 m²",nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 3-Zimmer Eigentumswohnung mit Balkon Nähe Maybachufer ohne Sperrfrist,330.000 €,"Neukölln (Ortsteil), 12059 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"77,25 m²",4.272 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kapitalanlage: 3-Zimmer-Wohnung mit Balkon in familienfreundlicher Lage von Wilhelmsruh,250.000 €,"Wilhelmsruh, 13158 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,94 m²,2.660 €/m²,Etagenwohnung,nil,nil,nil,2,nil,3.57 % inkl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Dachgeschosswohnung zu verkaufen (96,38 m² Wohnfläche)",661.700 €,"Pasewalker str 72,
+Französisch Buchholz, 13127 Berlin",3,"96,38 m²",6.866 €/m²,Dachgeschoss,"96,38 m²",nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Klein, aber Mein + 1-Zimmer-Wohnung mit Balkon+",162.000 €,"Markgraf-Albrecht-Straße XXXX,
+Halensee, 01071 Berlin",1,"33,79 m²",4.794 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exklusive kernsanierte ETW in Zehlendorf, mit Balkon, Garage und Keller!",369.990 €,"Himbeersteig 2,
+Nikolassee, 14129 Berlin","2,5",76 m²,4.868 €/m²,Terrassenwohnung,10 m²,Ab sofort bezugsfrei/Available for occupancy as of,1,1,1 Garage,"13.208,643","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Eigentumswohnung an den Kienhorster Gärten,189.000 €,"Reinickendorf (Ortsteil), 13403 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"42,9 m²",4.406 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,"3,57% inkl. gesetzlicher MwSt. auf den notariell beurkundeten Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+PROVISIONSFREI: Ihr Wohntraum zwischen Wasser und Natur,515.000 €,"Regattastraße 128,
+Grünau, 12527 Berlin",5,135 m²,3.815 €/m²,Erdgeschosswohnung,nil,sofort,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+READY FOR IMMEDIATE OCCUPANCY: Penthouse apartment with 360° terrace,Auf Anfrage,"waldowstrasse 9,
+Niederschönhausen, 13156 Berlin",3,96 m²,nil,Penthouse,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gepflegte vermietete 2,5-Zimmer-Wohnung mit Balkon in Steglitz, Berlin",239.000 €,"Steglitz, 12157 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",67 m²,3.567 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Elegante Gründerzeitwohnung in hochherrschaftlichem, denkmalgeschütztem Gebäude nahe KaDeWe",2.365.000 €,"Marburger Strasse 5,
+Charlottenburg, 10789 Berlin","6,5",240 m²,9.854 €/m²,Etagenwohnung,nil,nach Vereinbarung,3,2,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Elegante 3-Zimmer-Hochparterrewohnung * 97 m² Wohnfläche + 147 m² Nutzfläche * Top-Lage Nikolassee,699.000 €,"Nikolassee, 14129 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"97,34 m²",7.181 €/m²,Erdgeschosswohnung,"146,62 m²",nil,2,2,1 Tiefgaragen-Stellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+Bezugsfrei: Dachgeschosswohnung in Naturnähe,265.000 €,"Köpenick, 12555 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"50,5 m²",5.248 €/m²,Dachgeschoss,59 m²,sofort,1,1,1 Garage,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+READY FOR IMMEDIATE OCCUPANCY: Penthouse apartment with 360° terrace,Auf Anfrage,"waldowstrasse 9,
+Niederschönhausen, 13156 Berlin",3,96 m²,nil,Penthouse,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wohnung zu verkaufen (57,87 qm Wohnfläche)",375.000 €,"Pasewalker str 72,
+Französisch Buchholz, 13127 Berlin",2,"57,87 m²",6.480 €/m²,nil,"57,87 m²",nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+🏡🌳Ready-to-move-in new maisonette House-in-house with private garden,Auf Anfrage,"waldowstrasse 9,
+Niederschönhausen, 13156 Berlin",4,142 m²,nil,nil,nil,nil,3,3,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Neuwertige, barrierefreie Wohnung im Erdgeschoss",159.000 €,"76857 Ramberg, Südliche Weinstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,1.767 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Charmantes 1,5-Zimmer Apartment mit hochwertiger Ausstattung und Grachtenblick",275.000 €,"Neustadt, 55120 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",39 m²,7.051 €/m²,Sonstige,nil,nil,1,1,nil,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+"Attraktive 3,5-Zimmer-Wohnung im 9. Stock mit herrlichem Ausblick",339.000 €,"Oberstadt, 55131 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",91 m²,3.725 €/m²,nil,nil,nil,nil,1,1 Garage,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Stadtnahes Wohnen mit kurzen Wegen,195.000 €,"Süd, 67061 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"60,77 m²",3.209 €/m²,Etagenwohnung,nil,sofort,1,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Charmantes 1,5-Zimmer Apartment mit hochwertiger Ausstattung und Grachtenblick",270.000 €,"Neustadt, 55120 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",39 m²,6.923 €/m²,Sonstige,nil,nil,1,1,nil,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Neuwertige 3-Zi. ETW mit 3 Terrassen und Stellplatz in begehrter Lage,353.000 €,"56154 Boppard, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,105 m²,3.362 €/m²,Etagenwohnung,nil,nil,2,nil,1 Außenstellplatz,"3,57% inkl. gesetz. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Maisonette in beliebter Lage nahe dem BwZK,265.000 €,"Rübenach, 56072 Koblenz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,103 m²,2.573 €/m²,Maisonette,nil,sofort,nil,nil,2 Stellplätze,"3,57% inkl. gesetz. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Energieeffiziente Eigentumswohnung in Top Lage von KH,489.000 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,4.657 €/m²,Maisonette,16 m²,Nach Vereinbarung,2,nil,2 Außenstellplätze,"3,57% inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Eigentumswohnung/ Gewerbe elegant & reizvoll,179.000 €,"55545 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,110 m²,1.627 €/m²,Etagenwohnung,nil,Nach Vereinbarung,nil,2,nil,"3,57% inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Moderne ETW in beliebter Lage nahe dem BwZK,249.000 €,"Rübenach, 56072 Koblenz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,2.798 €/m²,Etagenwohnung,nil,nil,2,nil,1 Außenstellplatz,"3,57 % inkl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Schöne, gepflegte Eigentumswohnung",139.000 €,"76857 Ramberg, Südliche Weinstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,1.463 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Gemütliche DG-Wohnung im 3-Parteienhaus,118.000 €,"76857 Ramberg, Südliche Weinstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,69 m²,1.710 €/m²,Dachgeschoss,nil,nil,nil,nil,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Gut geschnittene vermietete ETW in ruhiger Lage,205.000 €,"Landau, 76829 Landau in der Pfalz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,78 m²,2.628 €/m²,Etagenwohnung,nil,nil,3,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Maisonette in beliebter Lage nahe dem BwZK,269.000 €,"Moselweiß, 56072 Koblenz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,2.690 €/m²,Maisonette,nil,sofort,3,nil,1 Stellplatz,"3,57% inkl. gesetz. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+2-Zimmer Wohnung in Innenstadtlage,185.000 €,"53474 Bad Neuenahr-Ahrweiler, Ahrweiler (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,3.700 €/m²,Etagenwohnung,nil,Nach Vereinbarung,1,1,1 Duplex-Stellplatz,"3,57 % inkl. gesetz. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Sehr gepflegt und gut geschnitten ETW im Herzen von Landau,290.000 €,"Landau, 76829 Landau in der Pfalz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,96 m²,3.021 €/m²,Etagenwohnung,nil,nil,3,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+W O H N G L Ü C K - Großzügige 3 - Zimmerwohnung mit Loggia & Garten,229.000 €,"76744 Wörth am Rhein, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,2.602 €/m²,Etagenwohnung,nil,Sofort,2,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Moderne ETW in beliebter Lage nahe dem BwZK,175.000 €,"Rübenach, 56072 Koblenz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,2.692 €/m²,Souterrain,nil,nil,nil,nil,1 Stellplatz,"3,57% inkl. gesetz. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+City-Wohnung mit Blick ins Grüne,259.000 €,"Gonsenheim, 55129 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,68 m²,3.809 €/m²,nil,8 m²,nil,1,1,1 Stellplatz,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Dreizimmerwohnung in Innenstadtlage,369.000 €,"53474 Bad Neuenahr-Ahrweiler, Ahrweiler (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,4.100 €/m²,Etagenwohnung,nil,ab sofort,2,1,nil,"3,57 % inkl. gesetz. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"

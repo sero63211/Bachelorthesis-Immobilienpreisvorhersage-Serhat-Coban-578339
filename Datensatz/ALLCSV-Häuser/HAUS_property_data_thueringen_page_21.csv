@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Freistehendes Einfamilienhaus in ruhiger Lage,170.000 €,"An der Quelle XXX,
+99518 Saaleplatte, Weimarer Land (Kreis)",1,80 m²,570 m²,2.125 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einseitig angeb. Einfamilienhaus + provisionsfrei +,52.000 €,"Im Dorfe XXX,
+07338 Kaulsdorf, Saalfeld-Rudolstadt (Kreis)",4,126 m²,624 m²,413 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Geschäftshaus ++ provisionsfrei ++,37.300 €,"Geraer Straße XXX,
+07570 Weida, Greiz (Kreis)",1,356 m²,234 m²,105 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ehem. Gutshaus - Rittergut zu Liebschwitz,10.000 €,"Nach der Wipse XXX,
+Zwötzen/Liebschwitz, 07551 Gera",1,650 m²,3.102 m²,15 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Nebengebäude,87.000 €,"Am Fronweg XXX,
+07950 Zeulenroda-Triebes, Greiz (Kreis)",1,115 m²,447 m²,757 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus - provisionsfrei,74.000 €,"Thomas-Müntzer-Straße XXX,
+99837 Berka/Werra, Wartburgkreis",6,191 m²,1.013 m²,387 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Nebengebäude,142.000 €,"Friedrichsanfang XXX,
+99885 Crawinkel, Gotha (Kreis)",1,132 m²,772 m²,1.076 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Reihenmittelhaus ++provisionsfrei++,59.000 €,"Berggasse XXX,
+Stadtmitte, 07545 Gera",1,"121,8 m²",90 m²,484 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, Terrasse, Garten + provisionsfrei +",174.500 €,"Carl-Grübel-Straße XXX,
+99994 Obermehler, Unstrut-Hainich-Kreis",1,206 m²,700 m²,847 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garagenanbau,77.005 €,"Bahnhofstraße XXX,
+98746 Katzhütte, Saalfeld-Rudolstadt (Kreis)",8,"154,84 m²",1.970 m²,497 €/m²,Wohnimmobilie (sonstige),"102,5 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2 Wohnhäuser ++ provisionsfrei ++,2 €,"An der Chaussee XXX,
+37308 Bernterode (bei Heilbad Heiligenstadt), Eichsfeld (Kreis)",14,430 m²,1.679 m²,0 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit überdachtem Freisitz,51.000 €,"Wörth XXX,
+99947 Bad Langensalza, Unstrut-Hainich-Kreis",9,150 m²,360 m²,340 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Ehemaliger Vierseitenhof +,2 €,"Hauptstraße XXX,
+99955 Urleben, Unstrut-Hainich-Kreis",7,"146,71 m²",2.500 m²,0 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Geschäftshaus + provisionsfrei +,46.100 €,"Ludwigstraße XXX,
+07407 Rudolstadt, Saalfeld-Rudolstadt (Kreis)",1,118 m²,77 m²,391 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + provisionsfrei +,5.500 €,"Lehesten XXX,
+07927 Hirschberg, Saale-Orla-Kreis",1,1 m²,1.342 m²,5.500 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Mehrfamilienhaus - provisionsfrei,70.000 €,"Am Steinborn XXX,
+07426 Dröbischau, Saalfeld-Rudolstadt (Kreis)",1,"436,1 m²",1.251 m²,161 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit 3 Wohnungen in guter Lage,285.000 €,"Georg-Büchner-Straße XXX,
+Debschwitz, 07548 Gera",8,261 m²,168 m²,1.092 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus in guter Lage + provisionsfrei +,632.000 €,"Thälmannstraße XXX,
+Krämpfervorstadt, 99085 Erfurt",15,400 m²,563 m²,1.580 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ehemalige Hofstelle + provisionsfrei +,81.800 €,"Unterkoskau XXX,
+07922 Tanna, Saale-Orla-Kreis",1,306 m²,1.635 m²,267 €/m²,Wohnimmobilie (sonstige),728 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit Stellplätzen,581.000 €,"Kirchgasse XXX,
+07407 Rudolstadt, Saalfeld-Rudolstadt (Kreis)",1,"479,86 m²",511 m²,1.211 €/m²,Wohnimmobilie (sonstige),48 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

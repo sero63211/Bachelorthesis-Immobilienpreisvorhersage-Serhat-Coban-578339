@@ -1,0 +1,31 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+alter Gutshof mit Wohn- und Lagerräumen und Garagen,495.000 €,"Walter-Schneider-Straße 15,
+06198 Schochwitz, Saalekreis",10,300 m²,17.248 m²,1.650 €/m²,Besondere Immobilie,nil,sofort,nil,nil,39 Garagen,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Exklusives Grundstück mit Bestandsgebäude und einzigartigem Blick zum Hufeisensee,390.000 €,"Büschdorf, 06112 Halle (Saale)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,75 m²,1.298 m²,5.200 €/m²,Bungalow,nil,sofort,1,1,2 Außenstellplätze,7.14 Prozent,{}
+Mehrfamilienhaus- Fachwerkhaus,89.000 €,"38836 Huy, Harz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,132 m²,3.475 m²,674 €/m²,Mehrfamilienhaus,nil,Sofort,3,3,1 Außenstellplatz,"Maklerprovision (Käuferprovision) 7,14% inkl. gesetzlicher Mehrwertsteuer","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Stadthaus auf der Insel,530.000 €,"39539 Havelberg, Stendal (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,230 m²,353 m²,2.304 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"5,95 %",{}
+Fertigteilhaus im Bungalowstil,79.000 €,"39638 Zichtau, Altmarkkreis Salzwedel
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,60 m²,0 m²,1.317 €/m²,Bungalow,nil,nil,nil,nil,nil,"5,95 %",{}
+3-Familienhaus in ruhiger indylischer Ortslage in Glebitzsch zur Kapitalanlage,145.000 €,"Kirchstraße 15-16,
+06794 Glebitzsch, Anhalt-Bitterfeld (Kreis)",7,137 m²,950 m²,1.058 €/m²,Mehrfamilienhaus,70 m²,nil,nil,nil,4 Stellplätze,"10.710,00",{}
+Denkmalgeschütztes Haus im Ortskern mit hoher AfA-Möglichkeit,45.000 €,"Marktstraße 1a,
+06279 Schraplau, Saalekreis",20,300 m²,750 m²,150 €/m²,Mehrfamilienhaus,250 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit Gartengrundstück,125.000 €,"Karl-Marx-Straße 17,
+06317 Stedten, Mansfeld-Südharz (Kreis)",12,300 m²,6.755 m²,417 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus in ruhiger Lage,149.000 €,"Am Mühlberg 12,
+06343 Mansfeld, Mansfeld-Südharz (Kreis)",15,442 m²,1.558 m²,337 €/m²,Mehrfamilienhaus,442 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Nebengelass in Elsteraue,70.000 €,"06729 Elsteraue, Burgenlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,305 m²,636 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"7,14 %, mind. 2.975,00 EUR Gebühr (abweichende Provisionsregelungen n. §§ 656 a-d siehe ""Sonstiges"")",{}
+Ein Viertel eines Vierseitenhofes mit Wohnhaus und Scheune,75.000 €,"39264 Steutz, Anhalt-Bitterfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,92 m²,1.117 m²,815 €/m²,Einfamilienhaus (freistehend),nil,ab sofort,nil,1,1 Garage,Nein,"{'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Einfamilienhaus in den Stover Gärten - Haustyp 3 (145,30 m²) - fertiggestellt und provisionsfrei",585.000 €,"Stover Straße 24a,
+21423 Drage, Harburg (Kreis)",5,"145,3 m²",467 m²,4.026 €/m²,Einfamilienhaus (freistehend),nil,November 2023,nil,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaushälfte in den Stover Gärten - Haustyp 4 (127 m²) - fertiggestellt und provisionsfrei,510.000 €,"Stover Straße 24a,
+21423 Drage, Harburg (Kreis)",4,"127,2 m²",329 m²,4.009 €/m²,Doppelhaushälfte,nil,November 2023,nil,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Einfamilienhaus in den Stover Gärten - Haustyp 1 (137,30 m²) - fertiggestellt und provisionsfrei",540.000 €,"Stover Straße 24a,
+21423 Drage, Harburg (Kreis)",4,"137,3 m²",430 m²,3.933 €/m²,Einfamilienhaus (freistehend),nil,November 2023,nil,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus in den Stover Gärten - Haustyp 2 (151 m²) - fertiggestellt und provisionsfrei,610.000 €,"Stover Straße 24a,
+21423 Drage, Harburg (Kreis)",7,"151,2 m²",500 m²,4.034 €/m²,Einfamilienhaus (freistehend),nil,November 2023,nil,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"""Gepflegte Dachgeschosswohnung am Ortsrand",196.000 €,"73312 Geislingen an der Steige, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,31 m²",2.503 €/m²,nil,nil,sofort,nil,nil,1 Außenstellplatz,"3,57 % inkl. MwSt",{'is24qa-balkon-terrasse-label': ''}
+Wannweil: grosse EG-Wohnung (mit üppigen Nebenräumen) zum Ausbau,412.000 €,"72827 Wannweil, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,151 m²,2.728 €/m²,Erdgeschosswohnung,143 m²,n.V.,4,2,4 Außenstellplätze,"2,38 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+GROSSZÜGIGES WOHNEN IN GUTER INFRASTRUKTURELLER LAGE,329.000 €,"Heumaden, 70619 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",93 m²,3.538 €/m²,Etagenwohnung,15 m²,vermietet,2,1,1 Garage,"3,57 % incl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"4,5 Zi.-Wohnung mit EBK, Balkon und Garage in Freiberg",340.000 €,"71691 Freiberg am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",90 m²,3.778 €/m²,Etagenwohnung,nil,sofort,1,1,1 Garage,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Aalen- sonnige 2- Zimmer Wohnung in begehrter Wohnlage,125.000 €,"Stadtmitte, 73430 Aalen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,48 m²,2.604 €/m²,Dachgeschoss,nil,nach Absprache,1,1,1 Garage,"3,57 % inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Exklusive Eigentumswohnungen in Waghäusel-Kirrlach!,286.500 €,"68753 Waghäusel, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"68,21 m²",4.200 €/m²,Erdgeschosswohnung,nil,Juni 2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen in der Neckarstadt: Umnutzbare Praxisfläche + Stellplätze,399.000 €,"Neckarstadt-West, 68169 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,170 m²,2.347 €/m²,Erdgeschosswohnung,nil,01.01.2024,nil,nil,2 Stellplätze,"2,98 % inkl. 19,00 % MwSt. vom Kaufpreis",{'is24qa-keller-label': ''}
+Vermietete 2-Zimmer-DG-Wohnung im Zentrum von Wannweil,149.000 €,"72827 Wannweil, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,34 m²,4.382 €/m²,Dachgeschoss,nil,vermietet,1,1,2 Außenstellplätze,"2,38 % inkl. MwSt.",{'is24qa-vermietet-label': ''}
+Seltene 4-Zimmer-DG-Whg mit 3 Loggien und TG-Stellplatz,435.000 €,"71154 Nufringen, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,3.625 €/m²,Dachgeschoss,nil,nil,3,1,Tiefgaragen-Stellplatz,"3,57",{'is24qa-einbaukueche-label': ''}
+Seniorengerechtes Wohnen in schöner und zentral gelegener Anlage! Helle 3 Zimmer-Wohnung mit Balkon!,348.000 €,"74211 Leingarten, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,92 m²,3.783 €/m²,Etagenwohnung,nil,01.03.2024,2,1,1 Außenstellplatz,"Die Provision beträgt 2,97 % inkl. 19% Mwst. des Verkaufspreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Sofort verfügbare 4-Zimmer-Wohnung mit TG-Stellplatz in Mössingen- Bästenhardt,295.000 €,"72116 Mössingen, Tübingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,88 m²,3.352 €/m²,Etagenwohnung,40 m²,sofort möglich,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.",{'is24qa-einbaukueche-label': ''}
+"Vermietete 3,5 Zimmer Etagenwohnung in Sasbachwalden",275.000 €,"77887 Sasbachwalden, Ortenaukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","134,31 m²",2.048 €/m²,Etagenwohnung,nil,vermietet,2,1,1 Außenstellplatz,"2,38% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Schöne 2 Zimmer-Wohnung (Betreutes Wohnen) in zentraler Lage!,220.000 €,"75417 Mühlacker, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,53 m²,4.151 €/m²,Etagenwohnung,nil,sofort,1,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Hier möchte Ich wohnen, 4 Zimmer Maisonette mit Charakter!",249.000 €,"Grabenstr. 14,
+71540 Murrhardt, Rems-Murr-Kreis",4,82 m²,3.037 €/m²,Maisonette,82 m²,sofort,4,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 2-Zimmer-Wohnung im Zentrum Wannweils,175.000 €,"72827 Wannweil, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,44 m²,3.977 €/m²,Souterrain,nil,vermietet,nil,1,2 Außenstellplätze,"2,38 % inkl. MwSt.",{'is24qa-vermietet-label': ''}
+Einzigartige Maisonette-Wohnung mit großem Balkon!,439.000 €,"73527 Schwäbisch Gmünd, Ostalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",151 m²,2.907 €/m²,Dachgeschoss,nil,nil,1,1,2 Außenstellplätze,"Käuferprovision beträgt 2,38 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-balkon-terrasse-label': ''}
+Kleine Oase in Aussichtslage: Ihr 2-Zimmer-Penthouse mit Einzelgarage,159.000 €,"89564 Nattheim, Heidenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,52 m²,3.058 €/m²,Penthouse,nil,sofort,1,1,1 Garage,"2,97% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Traumhafte Dachgeschosswohnung in Königsbach-Stein,260.000 €,"75203 Königsbach-Stein, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,83 m²,3.133 €/m²,Dachgeschoss,nil,vermietet,2,1,1 Tiefgaragen-Stellplatz,"4,76 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+4-Zi. Maisonette Wohnung mit Ausbaupotential,236.000 €,"Au, 75175 Pforzheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"91,62 m²",2.576 €/m²,Maisonette,nil,nil,3,1,nil,"1,79% inkl. 19 % MWSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Wohnen im ""Quellenhof""– Moderne und Komfort",298.000 €,"79410 Badenweiler, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"87,44 m²",3.408 €/m²,nil,nil,nil,nil,nil,1 Stellplatz,"Die Käuferprovision beträgt 3,57% inkl. 19% MwSt.",{}

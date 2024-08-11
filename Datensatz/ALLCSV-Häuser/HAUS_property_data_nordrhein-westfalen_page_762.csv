@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Sanierungsbedürftiges Wohn- und Geschäftshaus mit separatem Garagengrundstück,249.000 €,"Auf dem Kreuzberg 17+23,
+50374 Erftstadt, Rhein-Erft-Kreis",13,335 m²,616 m²,743 €/m²,Mehrfamilienhaus,400 m²,n.V.,7,5,2 Garagen,"1,785 % inkl. gesetzl. MwSt.vom beurkundeten Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+":::PLATZ FÜR DIE FAMILIE:::RMH + GARAGE, KELLER + GARTEN:::",390.000 €,"Grüner Weg 10,
+53340 Meckenheim, Rhein-Sieg-Kreis",4,133 m²,309 m²,2.932 €/m²,Reihenmittelhaus,60 m²,kurzfristig,3,1,1 Garage,"3,57% vom Kaufpreis (inkl. 19% MwSt.)",{'is24qa-keller-label': ''}
+Doppelhaushälfte in Bad Laasphe zu verkaufen.,145.000 €,"57334 Bad Laasphe, Siegen-Wittgenstein (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,90 m²,333 m²,1.611 €/m²,Doppelhaushälfte,nil,nil,nil,nil,nil,"3,57 %inkl. MwSt",{}
+Gepflegtes Familienhaus in beliebter Wohnlage von Meckenheim,385.000 €,"53340 Meckenheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,334 m²,3.632 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,3,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hochwertige DHH in Oerlinghausen inkl. Grundstück,432.000 €,"33813 Oerlinghausen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,473 m²,3.757 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+NEUBAU St. IDA! Wohnen in der Resser Mark,464.950 €,"Im Emscherbruch 65,
+Resser Mark, 45892 Gelsenkirchen",4,"143,77 m²",288 m²,3.234 €/m²,Doppelhaushälfte,nil,2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegtes Wohnhaus mit grenzenloser Wiese,245.000 €,"32469 Petershagen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,186 m²,7.547 m²,1.317 €/m²,Einfamilienhaus (freistehend),30 m²,sofort,4,3,4 Garagen,"3,57% vom Kaufpreis, inkl. 19% MWST, zahlbar nach Vertragsabschluss","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Stop ! Hier wartet Ihre Kapitanlage,1.990.000 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",42,1.189 m²,2.666 m²,1.674 €/m²,Mehrfamilienhaus,nil,nach Vereinbarung,nil,19,26 Stellplätze,"4,76 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+Einfamilienhaus am Hexbachtal,489.000 €,"Bedingrade, 45359 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,217 m²,4.075 €/m²,Reihenmittelhaus,25 m²,nach Absprache,nil,nil,Garage,"1,95 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Familienhaus mit optimaler Lage: Vielseitiges Raumangebot, Nutzungsmöglichkeiten und Garten""",299.000 €,"47608 Geldern, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,131 m²,350 m²,2.282 €/m²,Doppelhaushälfte,nil,nach Absprache,4,2,2 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Provisionsfrei: Doppelhaus mit insgesamt 8 Wohnungen in bester Lage!,468.000 €,"Hinterm Graben 28,
+37688 Beverungen, Höxter (Kreis)",19,"434,5 m²",706 m²,1.077 €/m²,Mehrfamilienhaus,nil,Sofort,nil,nil,8 Außenstellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehender Bungalow mit Traumgarten in gefragter Lage Bornheims,798.000 €,"53332 Bornheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,265 m²,1.372 m²,3.011 €/m²,Bungalow,nil,ab Sofort,4,2,1 Garage,"3,57 % inkl. MwSt. des beurkundeten Kaufpreises","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+MG-Venn: Reiheneckhaus mit 2 Tiefgaragenplätzen unter dem Haus,379.000 €,"Poethenberg 24,
+Venn, 41068 Mönchengladbach",5,137 m²,190 m²,2.766 €/m²,Reiheneckhaus,145 m²,nil,4,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweifamilienhaus - der leichte Weg zur eigenen Immobilie,299.800 €,"33378 Rheda-Wiedenbrück, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,162 m²,601 m²,1.851 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,1 Garage,"3,57 %",{'is24qa-einliegerwohnung-label': ''}
+Freundliches und modernisiertes 4-Zimmer-Reihenhaus in Krefeld Inrath/Kliedbruch,400.000 €,"Inrath/Kliedbruch, 47803 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,250 m²,3.333 €/m²,Reihenmittelhaus,92 m²,nil,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ ZENTRUMSNAH UND DOCH SEHR RUHIG +++,435.000 €,"52152 Simmerath, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,230 m²,1.427 m²,1.891 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,1 Garage,"3,57 % v. Brutto-VKPreis (inkl. MwSt)","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"220.000,00 € unter Bodenrichtwert! Qm-Preis von 433,46 €! Über 1.900,00 m² realisierbar!",570.000 €,"53840 Meckenheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",30,1.900 m²,2.193 m²,300 €/m²,Einfamilienhaus (freistehend),1.315 m²,Ab sofort,nil,nil,nil,Siehe unter Sonstiges,{}
+TOP-Chance: Freistehendes Einfamilienhaus mit großem Garten,389.000 €,"Am Inselweiher 29,
+50321 Brühl, Rhein-Erft-Kreis",3,105 m²,532 m²,3.705 €/m²,Einfamilienhaus (freistehend),50 m²,nil,2,1,2 Garagen,"2,98% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Einzigartiges Traumhaus zum Verlieben,750.000 €,"46459 Rees, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,293 m²,1.649 m²,2.560 €/m²,Besondere Immobilie,43 m²,nach Vereinbarung,4,3,2 Garagen,"3,57%inkl. MwSt.",{}
+Charmantes und großzügiges Reihenhaus in attraktiver Wohnlage!,575.000 €,"Reisholz, 40599 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,187 m²,4.259 €/m²,Reihenmittelhaus,60 m²,nil,3,2,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"

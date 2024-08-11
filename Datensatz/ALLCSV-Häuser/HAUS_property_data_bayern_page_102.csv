@@ -1,0 +1,51 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Viel Platz - Großes Grundstück - Ohne Käuferprovision,649.000 €,"Hammerschmiede, 86169 Augsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,193 m²,910 m²,3.363 €/m²,Doppelhaushälfte,nil,sofort,nil,2,1 Garage,ohne Käuferprovision,{}
+"""ein Stück vom Paradies"" Villa mit großem Grund in einzigartiger Lage bei Regensburg",1.225.000 €,"93309 Kelheim, Kelheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,191 m²,4.657 m²,6.414 €/m²,Villa,nil,nil,4,2,2 Garagen,"3,57 %inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Außergewöhnliche Villa mit Einliegerwohnung in Bad Gögging,810.000 €,"93333 Neustadt an der Donau, Kelheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",21,"275,85 m²",780 m²,2.936 €/m²,Villa,"273,58 m²",sofort,4,3,2 Garagen,"3,57","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Verkauf im Angebotsverfahren - Schnuckliges Einfamilienhaus am Stadtrand von Immenstadt,420.000 €,"87509 Immenstadt im Allgäu, Oberallgäu (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"132,1 m²",475 m²,3.179 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Ehem. Hofstelle m. Nebengebäuden in ruhiger Ortsrandlage Nähe Bad Füssing im Bäderdreieck,790.000 €,"94149 Kößlarn, Passau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,267 m²,2.634 m²,2.959 €/m²,Bauernhaus,nil,umgehend,nil,nil,4 Garagen,"3,57 % inkl. Mehrwertsteuer",{'is24qa-keller-label': ''}
+Energieeffizienter Familientraum in Neuötting mit genehmigtem Vorbescheid für weiteres Wohnhaus,950.000 €,"84524 Neuötting, Altötting (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,246 m²,1.060 m²,3.862 €/m²,Einfamilienhaus (freistehend),114 m²,nach Vereinbarung,4,2,1 Garage,"3,57 % Courtage jeweils für Verkäufer und Käufer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+"Mehrgenerationenhaus, EFH oder Kapitalanlage? Frei verfügbare Doppelhaushälfte, nahe U-Bahn",1.090.000 €,"Berg am Laim Ost, 81825 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,170 m²,300 m²,6.412 €/m²,Doppelhaushälfte,130 m²,Kurzfristig möglich,5,3,1 Garage,"Die Käuferprovision beträgt 3,57% inkl. 19% Mehrwertsteuer auf den notariell beurkundeten Kaufpreis.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Reihenmittelhaus für die ganze Familie,449.000 €,"86492 Egling an der Paar, Landsberg am Lech (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,118 m²,204 m²,3.805 €/m²,Reihenmittelhaus,133 m²,2025,4,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+NEUBAUTRAUM: Geräumiges EFH mit Einliegerwohnung und großem Grundstück,839.000 €,"86869 Oberostendorf, Ostallgäu (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"261,11 m²","1.471,11 m²",3.213 €/m²,Einfamilienhaus (freistehend),nil,ab sofort,4,2,2 Garagen,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Charmantes EFH: Bayerischer Charme, großzügiger Wohnraum und Garten sowie PV-Anlage",1.199.999 €,"83730 Fischbachau, Miesbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"205,66 m²","774,17 m²",5.835 €/m²,Einfamilienhaus (freistehend),nil,ab sofort,4,2,3 Garagen,"2,38 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Seltenheit! Architektonisch schönes Einfamilienhaus mit großem Garten und viel Platz!,1.675.000 €,"83624 Otterfing, Miesbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"326,81 m²","891,29 m²",5.125 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,4,2,2 Garagen,"2,38 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wunderschönes geräumiges Einfamilienhaus mit großzügigem Grundstück und tollem Ausblick,1.490.000 €,"84424 Isen, Erding (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,225 m²,2.234 m²,6.622 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,2 Garagen,"Käuferprovision beträgt 1,79 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-gaeste-wc-label': ''}
+Doppelhaushälfte mit schönem Garten,720.000 €,"84424 Isen, Erding (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,763 m²,5.414 €/m²,Doppelhaushälfte,63 m²,nil,3,1,1 Carport,"Käuferprovision beträgt 1,79 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+767 €/m² - Geräumiges Zuhause für die Ihre Familie,184.000 €,"97355 Castell, Kitzingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,126 m²,229 m²,1.460 €/m²,Einfamilienhaus (freistehend),38 m²,nil,4,2,2 Garagen,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-keller-label': ''}
+Attraktives Mehrfamilienhaus mit Potenzial für 6 Wohneinheiten,549.000 €,"91438 Bad Windsheim, Neustadt an der Aisch-Bad Windsheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,308 m²,1.253 m²,1.782 €/m²,Mehrfamilienhaus,nil,nil,8,5,2 Garagen,"Käuferprovision beträgt 4,76 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Saniertes Wohnhaus + drei Garagen + extra Baugrundstück zu einem Preis,799.000 €,"97294 Unterpleichfeld, Würzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,1.190 m²,7.264 €/m²,Einfamilienhaus (freistehend),52 m²,nil,4,2,3 Garagen,"Käuferprovision beträgt 2,38 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Großzügiges Zweifamilienhaus in ruhiger Wohnlage von Obernbreit,349.000 €,"97342 Obernbreit, Kitzingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,194 m²,570 m²,1.799 €/m²,Mehrfamilienhaus,118 m²,nil,6,2,4 Garagen,"Käuferprovision beträgt 4,76 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Kernsaniertes Mehrfamilienhaus mit vier Wohneinheiten in Marktsteft,849.000 €,"97342 Marktsteft, Kitzingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,382 m²,1.006 m²,2.223 €/m²,Mehrfamilienhaus,nil,nil,6,4,7 Außenstellplätze,"Käuferprovision beträgt 4,76 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Gepflegtes Einfamilienhaus in Oberscheinfeld mit Traumgarten,419.000 €,"91483 Oberscheinfeld, Neustadt an der Aisch-Bad Windsheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"116,85 m²",640 m²,3.586 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,2 Außenstellplätze,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Exklusiv für Sie – Verwirklichen Sie Ihren Traum vom Eigenheim mit Schwabenhaus,779.000 €,"86381 Krumbach (Schwaben), Günzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,153 m²,960 m²,5.092 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Die perfekte Wohlfühloase – Modernes Einfamilienhaus von Schwabenhaus,739.000 €,"86381 Krumbach (Schwaben), Günzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,960 m²,5.279 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusiv für Sie – Verwirklichen Sie Ihren Traum vom Eigenheim mit Schwabenhaus,1.000.357 €,"86381 Krumbach (Schwaben), Günzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,217 m²,"1.088,48 m²",4.610 €/m²,Mehrfamilienhaus,0 m²,nil,6,2,1 Stellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Eigenes Homeoffice und gleichzeitig im Grünen wohnen....,478.638 €,"86381 Krumbach (Schwaben), Günzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,136 m²,460 m²,3.519 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Entspanntes Wohnen,396.862 €,"86381 Krumbach (Schwaben), Günzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,112 m²,"314,24 m²",3.543 €/m²,Doppelhaushälfte,0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bungalow zum geniessen,401.543 €,"93449 Waldmünchen, Cham (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,1.000 m²,3.492 €/m²,Bungalow,0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

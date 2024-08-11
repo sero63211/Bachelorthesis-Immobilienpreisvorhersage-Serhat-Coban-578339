@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2-Familienhaus in ruhiger Lage im Hinterland,335.000 €,"Zum Grind XX,
+Mündelheim, 47259 Duisburg",5,131 m²,499 m²,2.557 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber mein ++ Einfamilienhaus mit Garten ++",410.000 €,"Karl-Kaulen-Straße XX,
+Lövenich, 50859 Köln",3,62 m²,401 m²,6.613 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Wohnhaus mit Garagen,2.008.000 €,"Leipziger Straße XX,
+42579 Heiligenhaus, Mettmann (Kreis)",1,"473,67 m²",1.586 m²,4.239 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Aus Alt mach Neu + Mehrfamilienhaus mit 7 Wohnungen +,38.900 €,"Schulstraße XX,
+Alt-Hamborn, 47166 Duisburg",1,"538,45 m²",303 m²,72 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlage + Wohn-/Geschäftshaus (7 Wohnungen, 2 Läden)",70.333 €,"Reinerstraße XX,
+Bruckhausen, 47166 Duisburg",1,"400,7 m²",276 m²,176 €/m²,Wohnimmobilie (sonstige),"113,26 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Reihenendhaus mit Garage + provisionsfrei +,362.000 €,"Schulstraße XX,
+Baerl, 47199 Duisburg",4,"112,69 m²",371 m²,3.212 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Einfamilienhaus + provisionsfrei +,537.000 €,"Fürst-Pückler-Straße XX,
+Alt-Hamborn, 47166 Duisburg",11,274 m²,721 m²,1.960 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus ++ provisionsfrei ++,126.000 €,"Karl-Lehr-Straße XX,
+Dellviertel, 47057 Duisburg",4,82 m²,408 m²,1.537 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Verkaufsstart: Gemütliches Reihenmittelhaus mit Garage, optimal für die kleine Familie!",355.000 €,"Steinbüchel, 51377 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,254 m²,3.550 €/m²,Reihenmittelhaus,48 m²,01.07.2024,3,1,1 Garage,"3,57% inklusive gesetzlicher MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Wunderschönes Einfamilienhaus, 2 Balkone, Garten, Terrasse, 1 Garage, Fernwärme",349.000 €,"Rheinlandstr. 11,
+Ostviertel, 45665 Recklinghausen",6,"130,74 m²",273 m²,2.669 €/m²,Reihenmittelhaus,60 m²,sofort,4,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöner und gepflegter Bungalow in Straelen,330.000 €,"Römerstraße 18,
+47638 Straelen, Kleve (Kreis)",3,110 m²,774 m²,3.000 €/m²,nil,110 m²,22.1.2024,nil,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Energieeffizientes (A+) und ökologisch hochwertiges Reihenendhaus in Rheinberg-Orsoy,360.000 €,"Am Fullacker 42,
+47495 Rheinberg, Wesel (Kreis)",3,91 m²,327 m²,3.956 €/m²,Reiheneckhaus,nil,22.1.2024,nil,1,3 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"SOMMERTRAUM! 1A-Lage von Nideggen - Bungalow auf 1.111 m² Grundstück, inkl. Reservebauplatz",549.000 €,"52385 Nideggen, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,1.111 m²,3.229 €/m²,Bungalow,140 m²,nach Absprache,2,2,2 Garagen,"3,57 % inkl. gesetzlicher MwSt. vom notariell beurkundeten Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+MODERNER NEUBAU - Doppelhaushälfte mit Solaranlage im Neubaugebiet von Meckenheim!,499.000 €,"53340 Meckenheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,111 m²,260 m²,4.495 €/m²,Doppelhaushälfte,nil,nach Absprache,3,2,3 Stellplätze,"3,57 % inkl. MwSt.",{'is24qa-gaeste-wc-label': ''}
+Die Südstadt ruft,585.000 €,"Kernstadt, 33098 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,133 m²,664 m²,4.398 €/m²,Bungalow,88 m²,nil,2,2,nil,"3,57%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ankommen und Wohlfühlen Einfamilienhaus in Moers-Asberg +Provisionsfrei,580.000 €,"Asberg, 47441 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,180 m²,330 m²,3.222 €/m²,Reiheneckhaus,70 m²,nil,4,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Reihenendhaus im Grünen mit Süd-Ost Ausrichtung,218.000 €,"Lockhauser Straße 55e,
+32052 Herford, Herford (Kreis)",9,182 m²,419 m²,1.198 €/m²,Reiheneckhaus,nil,nil,nil,2,3 Parkhaus-Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Luxuriöses Einfamilienhaus,Auf Anfrage,"41812 Erkelenz, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,390 m²,3.770 m²,nil,Villa,100 m²,nil,7,3,6 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schönes und gepflegtes 8-Zimmer-Mehrfamilienhaus zum Kauf in Gütersloh,550.000 €,"Dessauer Straße 89,
+Innenstadt-Blankenhagen, 33330 Gütersloh",8,197 m²,1.072 m²,2.792 €/m²,Mehrfamilienhaus,nil,1.7.2024,6,2,3 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Preiswerte Doppelhaushälfte mit 148 m² Wohnfläche im Grünen,230.000 €,"Eintrachtstraße 21a,
+Wanne-Süd, 44651 Herne",8,148 m²,806 m²,1.554 €/m²,Doppelhaushälfte,74 m²,2.6.2024,2,2,2 Garagen,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

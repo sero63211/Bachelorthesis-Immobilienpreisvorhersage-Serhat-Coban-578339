@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Stark! 3-Raum-Wohnung in Plauen - frisch modernisiert und vermietet!,59.000 €,"Stöckigter Str. 03,
+Ostvorstadt, 08529 Plauen",3,"55,71 m²",1.059 €/m²,nil,nil,nil,2,1,nil,"5,95% inkl. USt vom notariellen Kaufpreis",{'is24qa-einbaukueche-label': ''}
+"Klein, aber mein: 2-Raum-Wohnung zum Schnäppchenpreis",25.000 €,"09306 Erlau, Mittelsachsen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,48 m²,521 €/m²,Etagenwohnung,nil,nil,1,1,nil,"4,76 % inkl. ges. MwSt.",{}
+"PROVISIONSFREI | Sichere Anlage, kleine Wohnung + Stellplatz",137.760 €,"Connewitz, 04277 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"43,05 m²",3.200 €/m²,Etagenwohnung,"43,05 m²",nil,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöne Erdgeschosswohnung in ruhiger, durchgrünter Lage",27.000 €,"An der Brauerei 36f,
+08412 Werdau, Zwickau (Kreis)",1,26 m²,1.038 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"6 Zimmer Etagen- Wohnung 2 Bäder, mit Gartengrundstück , Denkmalschutz, 2 x Stellplatz",299.000 €,"04446 Zwenkau, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,131 m²,2.282 €/m²,nil,nil,sofort,nil,2,2 Außenstellplätze,"3,57 % inkl MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+RUHIGE 2- RAUM WOHNUNG IN BELIEBTER LAGE,185.000 €,"Laubegast, 01279 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"71,8 m²",2.577 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Außenstellplatz,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Vermietete 2-Raum ETW in exklusiver Wohnlage,106.000 €,"Löbtau-Süd, 01159 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,42 m²,2.524 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Eigentumswohnung als Renditeobjekt,59.000 €,"Neundorfer Vorstadt, 08523 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"57,5 m²",1.026 €/m²,Erdgeschosswohnung,nil,nil,nil,1,nil,2.975 Euro inkl. ges. MwSt.,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Ruhige top Lage in Bannewitz! 3 Balkone und Tiefgaragenstellplatz!,295.000 €,"01728 Bannewitz, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,93 m²,3.172 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Stellplatz,"3,57% des Kaufpreises",{'is24qa-balkon-terrasse-label': ''}
+"Anleger! Top aufgestellt: 3 Zimmer, Aufzug, Balkon, Fernwärme, solides Denkmalobjekt!",327.000 €,"Johannstadt-Nord, 01307 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,3.847 €/m²,Etagenwohnung,nil,nil,2,1,nil,"2,5 % inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Dachgeschoß mit Aufzug und Balkon von privat ab 01.09. bezugsfertig,118.000 €,"Schloßchemnitz, 09113 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,1.475 €/m²,Dachgeschoss,8 m²,01.09.2024,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+BEZUGSFREIE WOHNUNG MIT BALKON IN ZENTRALER LAGE,210.000 €,"Anger-Crottendorf, 04318 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"67,41 m²",3.115 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,"3,57% des Kaufpreises","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+großzügige 3-Zimmer-Wohnung mit Balkon in Parknähe,238.500 €,"Eilenburger Straße 27,
+Reudnitz-Thonberg, 04317 Leipzig",3,"82,71 m²",2.884 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Mehrfamilienhaus mit 5 ETW zu verkaufen,135.000 €,"08468 Reichenbach im Vogtland, Vogtlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,265 m²,509 €/m²,nil,nil,nach Vereinbarung,nil,nil,nil,"1785,00 EURO (incl. Mwst.) pro ETW","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': ''}"
+PROVISIONSFREI | Attraktives Investment im beliebten Leipziger Süden,182.478 €,"Connewitz, 04277 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"53,67 m²",3.400 €/m²,Etagenwohnung,"53,67 m²",nil,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete Wohnung mit Loggia in Top-Lage,342.000 €,"Löhrstraße 23,
+Zentrum-Nord, 04105 Leipzig",3,"80,98 m²",4.223 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne vermietete 3-Zimmer-ETW mit Wanne und Balkon in Denkmalschutzobjekt in Plauen,95.000 €,"Ostvorstadt, 08527 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"67,63 m²",1.405 €/m²,nil,nil,nil,nil,nil,nil,"4,76 % incl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+PROVISIONSFREI | Gemütliche Single-Wohnung im beliebten Leipziger Süden,73.952 €,"Connewitz, 04277 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"21,11 m²",3.503 €/m²,Erdgeschosswohnung,"21,11 m²",nil,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sehr schöne, helle 3-Raum-Altbauwohnung in Leipzig-Connewitz",202.000 €,"Frohburger Straße 35,
+Connewitz, 04277 Leipzig",3,"62,1 m²",3.253 €/m²,Etagenwohnung,nil,nil,1,1,nil,"7782,60 inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne Dreiraumwohnung mit Südbalkon und tollem Erzgebirgsblick,60.000 €,"Dresdner Straße 30,
+09337 Hohenstein-Ernstthal, Zwickau (Kreis)",3,74 m²,811 €/m²,nil,nil,nil,1,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

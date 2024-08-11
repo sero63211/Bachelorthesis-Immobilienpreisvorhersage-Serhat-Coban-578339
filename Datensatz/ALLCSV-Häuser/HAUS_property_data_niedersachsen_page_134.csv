@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Ein Sonnenplatz zum Verlieben in begehrter Lage von Nienhagen!,300.000 €,"29336 Nienhagen, Celle (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,992 m²,2.400 €/m²,Bungalow,125 m²,nil,3,1,1 Carport,"3,57% inkl. gesetzl. MwSt.",{}
+Neuharlingersiel! Für alle die es etwas größer wollen,1.599.000 €,"26427 Neuharlingersiel, Wittmund (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",17,411 m²,1.275 m²,3.891 €/m²,Mehrfamilienhaus,100 m²,nach Vereinbarung,12,10,13 Außenstellplätze,"3,57%",{'is24qa-einliegerwohnung-label': ''}
+Ein Zuhause mit Persönlichkeit: Entdecken Sie dieses charmante Einfamilienhaus mit Einliegerwohnung,479.000 €,"21224 Rosengarten, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,200 m²,740 m²,2.395 €/m²,Einfamilienhaus (freistehend),80 m²,nach Vereinbarung,5,2,1 Carport,"3,57 %",{'is24qa-online-besichtigung-moeglich-label': ''}
+"Attraktives, teilvermietetes ZFH mit 3 Stellplätzen in Barsinghausen-Egestorf",325.000 €,"30890 Barsinghausen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,148 m²,686 m²,2.196 €/m²,Mehrfamilienhaus,70 m²,vermietet,6,2,3 Außenstellplätze,"5,95 %, inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Attraktives, gehoben ausgestattetes EFH mit EL-WHG und Garage in beliebter Wohnlage (OT Redderse)",585.000 €,"30989 Gehrden, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,255 m²,807 m²,2.294 €/m²,Einfamilienhaus (freistehend),49 m²,01.10.2023,6,3,1 Garage,"2,975 %, inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Gepflegtes, renovierungsbedürftiges EFH mit EL-WHG von Okal + 2 Garagen, in beliebter Lage (Gehrden)",425.000 €,"30989 Gehrden, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,203 m²,605 m²,2.094 €/m²,Einfamilienhaus (freistehend),125 m²,01.10.2023,4,2,2 Garagen,"2,975 %, inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Sanierungsbedürftiges EFH mit EL-WHG und Stellplatz in toller Wohnlage (OT Kirchdorf),199.500 €,"30890 Barsinghausen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,130 m²,784 m²,1.535 €/m²,Einfamilienhaus (freistehend),85 m²,Nach Vereinbarung,5,2,1 Außenstellplatz,"2,975 %, inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Helle, gepflegte und renovierungsbedürftige Haushälfte -Anbau- in 3-FH (Barsinghausen-Langreder)",139.000 €,"30890 Barsinghausen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,92 m²,827 m²,1.511 €/m²,Doppelhaushälfte,40 m²,Nach Vereinbarung,2,2,nil,"2,975 %, inkl. MwSt.",{'is24qa-keller-label': ''}
+"Attraktives EFH -""Amerikanisches Holzhaus""- mit Stellplatz in beliebter Wohnlage (OT Egestorf)",290.000 €,"30890 Barsinghausen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,138 m²,998 m²,2.101 €/m²,Einfamilienhaus (freistehend),6 m²,Nach Vereinbarung,3,1,1 Außenstellplatz,"2,975 %, inkl. MwSt.",{'is24qa-keller-label': ''}
+Vermietetes 3-Familienhaus mit Anbau und Garage in zentraler Lage von Barsinghausen,279.000 €,"30890 Barsinghausen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,209 m²,601 m²,1.335 €/m²,Mehrfamilienhaus,180 m²,Nach Abschluss KVT,5,3,2 Garagen,"5,95 %, inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Attraktives, gehoben ausgestattetes EFH mit Anbau (Schwimmbad) und Doppelgarage in Egestorf",525.000 €,"30890 Barsinghausen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,201 m²,792 m²,2.612 €/m²,Einfamilienhaus (freistehend),77 m²,Nach Vereinbarung,3,1,2 Garagen,"2,975 %, inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""PERLE im DORF"" Saniertes Fachwerkhaus Doppelhaus",189.000 €,"An der Schule 1,
+37170 Uslar, Northeim (Kreis)",7,200 m²,600 m²,945 €/m²,nil,nil,01.08.2024,nil,nil,nil,"2,38%",{'is24qa-als-ferienhaus-geeignet-label': ''}
+Margaretenhöhe - Exklusive Wohnlage,599.000 €,"Wabe-Schunter-Beberbach, 38108 Braunschweig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,853 m²,4.248 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.",{}
+Traumhaftes Anwesen in der Wingst mit vielen Nutzungsmöglichkeiten,359.000 €,"21789 Wingst, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,"184,44 m²",4.456 m²,1.946 €/m²,Einfamilienhaus (freistehend),215 m²,Nach Absprache,4,2,1 Carport,"2,0% zzgl. MwSt",{'is24qa-keller-label': ''}
+Direkt am Deister! 405m² Wohn- und Geschäftsgebäude in Barsinghausen,669.500 €,"30890 Barsinghausen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",18,230 m²,6.206 m²,2.911 €/m²,nil,153 m²,nil,nil,nil,1 Garage,"5,95","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+**Einfamilienhaus in beliebter Wohnsiedlung zu verkaufen**,259.000 €,"29633 Munster, Heidekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,129 m²,945 m²,2.008 €/m²,Einfamilienhaus (freistehend),150 m²,sofort,4,2,3 Garagen,"3,57 %",{'is24qa-keller-label': ''}
+Familienfreundliches Wohnen auf ca. 100 m² Wohn- und Nutzfläche,265.000 €,"Weststadt, 37079 Göttingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",100 m²,530 m²,2.650 €/m²,Doppelhaushälfte,nil,nach Absprache,3,2,1 Garage,"3,57 % inkl. ges. MwSt.",{}
+Satteldachhaus mit toller Raumaufteilung,334.900 €,"27801 Dötlingen, Oldenburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,580 m²,3.159 €/m²,Einfamilienhaus (freistehend),8 m²,2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehendes EFH in bevorzugter Wohnlage,465.000 €,"Voxtrup, 49086 Osnabrück
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,137 m²,486 m²,3.394 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.",{}
+In Duingen wohnen auf einer Ebene! Baubeginn individuell möglich!,225.546 €,"31089 Duingen, Hildesheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,92 m²,436 m²,2.452 €/m²,Bungalow,nil,nil,3,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

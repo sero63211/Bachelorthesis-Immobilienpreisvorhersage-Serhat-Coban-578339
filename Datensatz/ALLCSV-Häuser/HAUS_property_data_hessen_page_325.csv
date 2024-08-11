@@ -1,0 +1,49 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Reihenmittelhaus Neubau mit Garantie, Erbbauzins max 118€/Monat Froschhäuser Straße, 65933 Frankfurt",670.000 €,"Froschhäuser Straße 10,
+Griesheim, 65933 Frankfurt am Main",5,138 m²,121 m²,4.855 €/m²,Reihenmittelhaus,nil,01.02.2024,nil,1,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Wundervolles 1-2 Familienhaus auf traumhaftem Gartengrundstück in Bestwohnlage HARLESHAUSEN +++,349.000 €,"Harleshausen, 34128 Kassel
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,175 m²,635 m²,1.994 €/m²,Mehrfamilienhaus,105 m²,nil,4,3,1 Garage,"2,975 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Charmantes 2-Familienhaus in Dietzenbach mit viel Potenzial,699.000 €,"63128 Dietzenbach, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,185 m²,849 m²,3.778 €/m²,Mehrfamilienhaus,80 m²,sofort,4,2,4 Garagen,"5,95","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Außergewöhnliches, hochwertiges Einfamilienhaus mit Panoramblick und bester Verkehrsanbindung",585.000 €,"34292 Ahnatal, Kassel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,230 m²,1.119 m²,2.543 €/m²,Einfamilienhaus (freistehend),50 m²,nil,nil,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche Doppelhaushälfte im Landhausstil mit großem Garten und herrlichem Weitblick ins Grüne,570.000 €,"Einsiedelweg 15,
+61184 Karben, Wetteraukreis",4,134 m²,344 m²,4.254 €/m²,Doppelhaushälfte,20 m²,01.10.24,2,2,3 Außenstellplätze,"3,57 % des Kaufpreises inkl. 19% der gesetzl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Offen für Angebote: 5.0-Zimmer Haus in Rödermark,799.000 €,"63322 Rödermark, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,200 m²,600 m²,3.995 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Gepflegtes 3-Familienhaus auf großem grünen Grundstück,975.000 €,"61118 Bad Vilbel, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,276 m²,670 m²,3.533 €/m²,Mehrfamilienhaus,136 m²,nach Vereinbarung,6,3,3 Garagen,"5,95 % inkl. 19 % MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Preiswertes Stadthaus in ruhiger Wohnlage,398.000 €,"Darmstadt-Nord, 64293 Darmstadt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,101 m²,131 m²,3.941 €/m²,Reihenmittelhaus,nil,Sofort,3,1,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamllienhaus# gr. Terrasse# Garage# Garten# Goddelau - Goethestr. 20,395.000 €,"64560 Riedstadt, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"137,98 m²",538 m²,2.863 €/m²,Wohnimmobilie (sonstige),nil,nach Vereinbarung / sofort,3,2,4 Außenstellplätze,"3,57 % vom Kaufpreis inkl. 19% MwSt",{'is24qa-keller-label': ''}
+Gepflegtes Einfamilienhaus mit fünf Zimmern in Wartenberg,392.000 €,"36367 Wartenberg, Vogelsbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",160 m²,815 m²,2.450 €/m²,Einfamilienhaus (freistehend),160 m²,1.10.2024,3,1,4 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""PROVISIONSFREI""Hofreite mit Wohnhaus und Nebengebäuden in Hofheim/Wallau""""",590.000 €,"65719 Hofheim am Taunus, Main-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,175 m²,324 m²,3.371 €/m²,Mehrfamilienhaus,nil,nil,3,1,3 Außenstellplätze,Keine Käuferprovision!,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Historische Schönheit: Einmalig in Groß-Zimmern,419.000 €,"64846 Groß-Zimmern, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",206 m²,370 m²,2.034 €/m²,Besondere Immobilie,nil,nach Absprache,1,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ruhig gelegenes Zweifamilienhaus inkl. Scheune sowie großem Baugrundstück zu verkaufen,480.000 €,"35435 Wettenberg, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,895 m²,3.556 €/m²,Mehrfamilienhaus,nil,01.06.2024,4,2,3 Außenstellplätze,"5,95 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Großzügiges Landhaus mit großem Garten, Carport und Garage in ruhiger Lage nahe größeren Städten",608.000 €,"64395 Brensbach, Odenwaldkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,223 m²,649 m²,2.726 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmantes Einfamilienhaus in idyllischer Kleinstadt,188.500 €,"35279 Neustadt (Hessen), Marburg-Biedenkopf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"92,5 m²",447 m²,2.038 €/m²,Einfamilienhaus (freistehend),168 m²,sofort,2,2,1 Carport,"2,98%","{'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Sachsenhausen-Nord: Einmaliges Mehrfamilienhaus im Malerviertel!,2.100.000 €,"Sachsenhausen-Nord, 60596 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",17,"424,52 m²",329 m²,4.947 €/m²,Mehrfamilienhaus,"206,95 m²",nil,7,6,2 Stellplätze,"5,95 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+**VORANKÜNDIGUNG** Einfamilienhaus in moderner Bauweise mit eigenem Garten und 2 -PKW-Stellplätzen,550.000 €,"64380 Roßdorf, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,113 m²,236 m²,4.867 €/m²,Einfamilienhaus (freistehend),nil,2025,2,1,2 Stellplätze,"3,57 % inkl. MwSt, zahlbar vom Käufer nach Beurkundung.",{}
+"**VISTA Immobilien** Kernsaniert-Modernisiert-DHH mit Parkettböden, Offenem Wohnbereich und Terrasse",530.000 €,"64342 Seeheim-Jugenheim, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",109 m²,211 m²,4.862 €/m²,Doppelhaushälfte,nil,Sofort,1,1,1 Außenstellplatz,"3,57 % inkl. MwSt, zahlbar vom Käufer nach Beurkundung.",{'is24qa-gaeste-wc-label': ''}
+Offen für Angebote: Haus in Wiesbaden,570.000 €,"Dotzheim, 65197 Wiesbaden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,148 m²,200 m²,3.851 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Streif wird 95 - Aktion vom Energiespar-Spezialisten!,1.190.000 €,"61118 Bad Vilbel, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,146 m²,450 m²,8.151 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus vom Energiespar Spezialisten - passt!,1.190.000 €,"65812 Bad Soden am Taunus, Main-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,211 m²,550 m²,5.640 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+95 Jahre Streif + vom Energiespar Spezialisten - passt!,465.000 €,"63691 Ranstadt, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,121 m²,480 m²,3.843 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+95 Jahre Streif + Top Neubau Aktion von Streif - das passt!,497.000 €,"61197 Florstadt, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,147 m²,450 m²,3.381 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klein aber fein + 95 Jahre Aktion von Streif - das passt!,525.000 €,"35410 Hungen, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,6 m²,3.671 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}

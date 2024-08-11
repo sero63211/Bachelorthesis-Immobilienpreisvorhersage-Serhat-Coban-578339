@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+ETW in Possenhain,30.000 €,"06618 Schönburg, Burgenlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"46,54 m²",645 €/m²,nil,nil,nil,nil,nil,nil,7 % inkl. MwSt,{'is24qa-balkon-terrasse-label': ''}
+2 Raum Wohnung,93.500 €,"Lutherstr. 15,
+Sudenburg, 39112 Magdeburg",2,"58,17 m²",1.607 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Altbauwohnung mit Balkon in zentrums- und naturnaher Lage,148.000 €,"Sudenburg, 39112 Magdeburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,1.663 €/m²,Etagenwohnung,6 m²,derzeit vermietet,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Hochwertig sanierte 3-Zimmer-Eigentumswohnung nahe Halle (Saale) inklusive Stellplatz, bezugsfrei",79.000 €,"Wanslebener Weg 3,
+06179 Langenbogen, Saalekreis",3,64 m²,1.234 €/m²,Etagenwohnung,15 m²,sofort,2,1,1 Außenstellplatz,3.57 Prozent,{'is24qa-keller-label': ''}
+4-Zimmer-Maisonette Eigentumswohnung in Blankenburg,108.000 €,"38889 Blankenburg (Harz), Harz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,79 m²,1.367 €/m²,Maisonette,nil,sofort,1,1,1 Außenstellplatz,"4.005,50","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Traumhaftes Wohnen in Magdeburg: Exklusive Eigentumswohnung in Bestlage!,95.000 €,"Sudenburg, 39112 Magdeburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"47,59 m²",1.996 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,81 inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+*Vermietete 2-Raum-Wohnung mit Stellplatz!*,98.000 €,"Giebichenstein, 06114 Halle (Saale)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"52,63 m²",1.862 €/m²,nil,nil,nil,nil,1,1 Stellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gemütliche 1,5-Raumwohnung mit Balkon - Ihr perfektes Eigenheim in Magdeburg!",63.000 €,"Neue Neustadt, 39124 Magdeburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",42 m²,1.500 €/m²,Etagenwohnung,nil,nach Vereinbarung,1,1,1 Tiefgaragen-Stellplatz,"2.500,00 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Attraktive Kapitalanlage: Charmante Etagenwohnung in Magdeburg!,63.000 €,"Neue Neustadt, 39124 Magdeburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",42 m²,1.500 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"2500,00 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+"Sanierte 3,5-Zimmer-Erdgeschosswohnung mit Balkon und Einbauküche in Magdeburg",269.000 €,"An der Enckekaserne 126,
+Stadtfeld West, 39110 Magdeburg","3,5","94,8 m²",2.838 €/m²,Erdgeschosswohnung,"94,8 m²",1.4.2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sachwertanlage mit 5,92 % Mietrendite - 3 Zi., Vollbad + Einbauküche.",79.000 €,"38820 Halberstadt, Harz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,71 m²,1.113 €/m²,Etagenwohnung,nil,nil,2,1,nil,0 % inkl. MwSt.,{}
+*Drei vermiete Wohnungen im Paket*,249.000 €,"Giebichenstein, 06114 Halle (Saale)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"133,2 m²",1.869 €/m²,nil,nil,nil,3,3,1 Stellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ETW in Schönburg -Possenhain,30.000 €,"06618 Schönburg, Burgenlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"46,54 m²",645 €/m²,nil,nil,nil,nil,nil,nil,7 % inkl. MwSt,{'is24qa-balkon-terrasse-label': ''}
+2 Raum Wohnung,94.000 €,"Lutherstr. 15,
+Sudenburg, 39112 Magdeburg",2,"58,1 m²",1.618 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon und TG-Stellplatz in gepfleger Wohnanlage in Landsberg bei Halle (Saale),80.000 €,"Vogelweide 2,
+06188 Landsberg, Saalekreis",2,"47,1 m²",1.699 €/m²,Etagenwohnung,47 m²,sofort,1,1,1 Tiefgaragen-Stellplatz,3.57 Prozent,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Liebhaber des Industriestils aufgepasst! Einzigartige Loftwohnung zu verkaufen.,296.000 €,"Alte Neustadt, 39106 Magdeburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,131 m²,2.260 €/m²,Erdgeschosswohnung,nil,nil,nil,1,2 Außenstellplätze,"2,38 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+4-Zimmer-Wohnung mit neuer EBK in Magdeburg,299.000 €,"Mittelstraße 47,
+Werder, 39108 Magdeburg",4,136 m²,2.199 €/m²,Etagenwohnung,136 m²,19.3.2024,3,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigentumswohnung in Glindenberg,99.000 €,"39326 Glindenberg, Börde (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,1.547 €/m²,Hochparterre,nil,nach Vereinbarung,1,1,1 Außenstellplatz,"3,57% inkl. gesetztl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Attraktives Wohnungspaket am Rande von Halle (Saale) mit erheblichem Potenzial,190.000 €,"Wanslebener Weg 1,
+06179 Langenbogen, Saalekreis",9,192 m²,990 €/m²,Etagenwohnung,30 m²,sofort,6,3,3 Außenstellplätze,3.57 Prozent,{'is24qa-balkon-terrasse-label': ''}
+Wohnkomfort pur in Magdeburg,87.000 €,"Stadtfeld West, 39110 Magdeburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"47,13 m²",1.846 €/m²,Erdgeschosswohnung,nil,sofort,nil,1,1 Außenstellplatz,"3,81 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"

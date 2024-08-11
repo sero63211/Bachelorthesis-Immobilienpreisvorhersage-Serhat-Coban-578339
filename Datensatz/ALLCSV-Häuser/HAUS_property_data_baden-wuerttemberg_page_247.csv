@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus mit Doppelcarport mit gutem Wohnwert - provisionsfrei,396.000 €,"Dorfstraße XXX,
+77656 Offenburg, Ortenaukreis",5,122 m²,654 m²,3.246 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familien-Reihenendhaus mit 2 Garagen - provisionsfrei,320.000 €,"Elzstraße XXX,
+79331 Teningen, Emmendingen (Kreis)",5,128 m²,373 m²,2.500 €/m²,Wohnimmobilie (sonstige),50 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus nebst Werkstatt mit Garage - provisionsfrei,151.000 €,"Pfeffinger Straße XXX,
+72461 Albstadt, Zollernalbkreis",6,200 m²,959 m²,755 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus - provisionsfrei,238.100 €,"Kirchgasse XXX,
+78580 Bärenthal, Tuttlingen (Kreis)",9,170 m²,759 m²,1.401 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Achtung Heimwerker! 2-Familienhaus - provisionsfrei,70.000 €,"Rudelberg XXX,
+89129 Langenau, Alb-Donau-Kreis",5,160 m²,174 m²,438 €/m²,Wohnimmobilie (sonstige),39 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit 3 Wohnungen als Investitionsanlage - provisionsfrei,367.000 €,"Falltorweg XXX,
+69181 Leimen, Rhein-Neckar-Kreis",6,156 m²,449 m²,2.353 €/m²,Wohnimmobilie (sonstige),70 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Einliegerwohnung - provisionsfrei,615.000 €,"Horrenberger Straße XXX,
+69168 Wiesloch, Rhein-Neckar-Kreis",5,221 m²,662 m²,2.783 €/m²,Wohnimmobilie (sonstige),199 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wunderschönes Haus mit Einlieger-WG in Vaihingen/Enz!,839.000 €,"71665 Vaihingen an der Enz, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"208,61 m²",440 m²,4.022 €/m²,Einfamilienhaus (freistehend),nil,01.09.2025,5,3,2 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Einfamilienhaus mit Einliegerwohnung in familienfreundlicher Lage,531.000 €,"Riegeler Straße XXX,
+79346 Endingen am Kaiserstuhl, Emmendingen (Kreis)",6,181 m²,400 m²,2.934 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte mit großer Dachterrasse in der Voithsiedlung,275.000 €,"89522 Heidenheim an der Brenz, Heidenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"126,57 m²",263 m²,2.173 €/m²,Doppelhaushälfte,nil,nach Vereinbarung,nil,nil,nil,"3,57% inkl. MwSt.",{'is24qa-online-besichtigung-moeglich-label': ''}
+Einfamilienhaus mit Garagen-/Carportgebäude in ruhiger Wohnlage - provisionsfrei,550.000 €,"Mondweg XXX,
+89143 Blaubeuren, Alb-Donau-Kreis",5,135 m²,608 m²,4.074 €/m²,Wohnimmobilie (sonstige),79 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Doppelgarage - provisionsfrei,1.200.000 €,"Malteserordensstraße XXX,
+St. Georgen-Nord, 79111 Freiburg im Breisgau",5,"124,65 m²",646 m²,9.627 €/m²,Wohnimmobilie (sonstige),39 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision! - Wohnhaus mit Garage,200.000 €,"Königsberger Straße XXX,
+74564 Crailsheim, Schwäbisch Hall (Kreis)",4,"133,09 m²",658 m²,1.503 €/m²,Wohnimmobilie (sonstige),"16,41 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Renovierungsbedürftiges Einfamilienhaus mit Doppelgarage und toller Aussicht.,219.000 €,"Heufeldstraße 33,
+72178 Waldachtal, Freudenstadt (Kreis)","4,5","94,65 m²",377 m²,2.314 €/m²,Einfamilienhaus (freistehend),"34,11 m²",sofort,3,1,2 Duplex-Stellplätze,"3,57","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Einfamilienhaus mit Einliegerwohnung - provisionsfrei,185.000 €,"Finkenweg XXX,
+74585 Rot am See, Schwäbisch Hall (Kreis)",8,"148,2 m²",751 m²,1.248 €/m²,Wohnimmobilie (sonstige),49 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage ++ Mehrfamilienhaus mit 13 Wohnungen und 8 Stellplätze ++,1.640.000 €,"Silcherstr. XXX,
+75038 Oberderdingen, Karlsruhe (Kreis)",1,"1.015,62 m²",1.547 m²,1.615 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit 4 Garagen - provisionsfrei,173.300 €,"Im Gässle XXX,
+78598 Königsheim, Tuttlingen (Kreis)",1,"150,2 m²",3.258 m²,1.154 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus nebst Garage mit Pergola-Anbau - provisionsfrei,249.500 €,"Friedrich-Voith-Straße XXX,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",4,116 m²,281 m²,2.151 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Gewerbeflächen ++ ohne Provision +,396.000 €,"Martin-Luther-Straße XXX,
+Grötzingen, 76229 Karlsruhe",4,142 m²,508 m²,2.789 €/m²,Wohnimmobilie (sonstige),70 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Garage - provisionsfrei,165.000 €,"Schloßstraße XXX,
+78573 Wurmlingen, Tuttlingen (Kreis)",7,190 m²,682 m²,868 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

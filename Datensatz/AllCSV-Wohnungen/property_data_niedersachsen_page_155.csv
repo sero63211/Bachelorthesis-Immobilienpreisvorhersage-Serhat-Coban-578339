@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Ein Haus im Haus! Top geschnittene und helle 2-Zimmerwohnung samt Terrasse, Garten und großem Bad!",99.000 €,"Sandkamp, 38442 Wolfsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,1.597 €/m²,Etagenwohnung,10 m²,Sofort,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne 3-Zimmer-Wohnung mit Doppelbalkon,199.000 €,"Oststadt / Stadtfeld, 31135 Hildesheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,117 m²,1.701 €/m²,Hochparterre,nil,nach Absprache,3,1,nil,"3,57 % auf den Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Mittendrin statt nur zentral: Vermietete Etagenwohnung mit Fahrstuhl am Marktplatz von Haren,219.000 €,"49733 Haren (Ems), Emsland (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,2.190 €/m²,Etagenwohnung,nil,sofort,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3,5 Zimmer mit Blick auf den ""Garten der Nationen"" in WOB",120.000 €,"Westhagen, 38444 Wolfsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","76,13 m²",1.576 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+"Hannover - Wietzegraben: Herrliche, renovierte Wohnung mit Balkon & Parkplatz!",225.000 €,"Sahlkamp, 30179 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,12 m²",3.939 €/m²,Etagenwohnung,6 m²,nil,1,1,1 Außenstellplatz,"3,57 % inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Weyhausen: ruhige EG-Wohnung, 100m², 3 Zimmer im 2FamHS mit Grundstück",215.000 €,"38554 Weyhausen, Gifhorn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,2.150 €/m²,Erdgeschosswohnung,nil,sofort,2,1,1 Außenstellplatz,"2,98% vom Kaufpreis (inkl. 19% MwSt.), Erläuterungen siehe Sonstige Angaben",{'is24qa-einbaukueche-label': ''}
+Gemütliche 2-Zimmer Dachgeschoss-Wohnung in Hannover,139.000 €,"Badenstedt, 30455 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"52,7 m²",2.638 €/m²,Dachgeschoss,"8,44 m²",nach Absprache,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Weyhe - Kirchweyhe | Moderne, zukunftssichere Maisonettewohnung in Niedrigenergiebauweise mit superg",259.000 €,"28844 Weyhe, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"64,82 m²",3.996 €/m²,Maisonette,nil,September 2024,2,1,1 Außenstellplatz,- PROVISIONSFREI -,{}
+Schöne Penthouse-ETW + 1 TG-Platz in Laatzen-Mitte,235.000 €,"Albert-Schweitzer-Str. 8,
+30880 Laatzen, Hannover (Kreis)",5,131 m²,1.794 €/m²,Penthouse,nil,nil,3,2,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Provisionsfrei: Sanierte 3-Zimmer-Wohnung (1OG) in Holzminden,109.152 €,"Pollmannsgrund 8,
+37603 Holzminden, Holzminden (Kreis)",3,"60,3 m²",1.810 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erdgeschosswohnung mit Flair auf Langeoog,429.000 €,"26465 Langeoog, Wittmund (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,51 m²,8.412 €/m²,Erdgeschosswohnung,5 m²,nil,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Großzügige 3-Zimmer Erdgeschoss-Wohnung mit Terrasse in Hannover,199.000 €,"Davenstedt, 30455 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,2.653 €/m²,Terrassenwohnung,"11,25 m²",nach Absprache,2,1,2 Außenstellplätze,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+RÖNPAGEL IMMOBILIEN: Top Maschseelage 350 m hinter dem NDR - 3 Zi. ETW + HP + Sondernutzung Garten,360.000 €,"Auf dem Emmerberge 11,
+Südstadt, 30169 Hannover",3,"75,28 m²",4.782 €/m²,Hochparterre,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wunderschöne Wohnung am Hospizplatz, Langeoog",420.000 €,"Willrath-Dreesen-Straße 7,
+26465 Langeoog, Wittmund (Kreis)",3,50 m²,8.400 €/m²,nil,4 m²,nil,2,1,nil,"5,95 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Gepflegte Wohnung mit viel Platz in gefragter Lage von Lüneburg.,259.000 €,"Kreideberg, 21339 Lüneburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,2.590 €/m²,Etagenwohnung,nil,nach Absprache,2,1,nil,"3,57% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Weyhe - Kirchweyhe | Moderne, zukunftssichere 2-Zimmer-Wohnung in Niedrigenergiebauweise mit supergü",249.000 €,"28844 Weyhe, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"64,82 m²",3.841 €/m²,Maisonette,nil,September 2024,2,1,1 Außenstellplatz,- PROVISIONSFREI -,{}
+"Nach Reservierung wieder verfügbar--Große & gepflegte 3 Zimmer mit Balkon in begehrter, zentraler La",138.000 €,"28832 Achim, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"74,5 m²",1.852 €/m²,nil,6 m²,nach Absprache,2,1,1 Außenstellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Ebenerdige Eigentumswohnung mit Garten in beliebter Lage von Norden!,227.500 €,"26506 Norden, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,2.774 €/m²,nil,nil,nil,nil,nil,1 Außenstellplatz,"3,57 % inkl. MwSt",{}
+"Luxus pur: 3 Zimmer mit Terrasse, Sauna + Fitness-Area in Hellwinkel! Meine Wohnung = mein Makler!",329.000 €,"Hellwinkel, 38446 Wolfsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,3.739 €/m²,Erdgeschosswohnung,30 m²,nach Absprache,2,1,1 Stellplatz,"Je 2,58 % inkl. USt.Die Provision ist mit der Beurkundung verdient & vom Käufer+Verkäufer zu zahlen.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Stilvolles Wohnen mit Extras: 4-Zimmer-Wohnung mit ausbaubarem Dachboden und Garage,239.000 €,"30827 Garbsen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,2.298 €/m²,Etagenwohnung,nil,nach Absprache,4,2,1 Garage,"3,57 % auf den Kaufpreis",{'is24qa-einbaukueche-label': ''}

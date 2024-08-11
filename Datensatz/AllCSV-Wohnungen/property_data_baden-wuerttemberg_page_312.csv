@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Großzügige sonnige 3,5 ZKB mit Balkon",259.000 €,"Moldaustr. 14,
+Grünbühl, 71638 Ludwigsburg","3,5","73,33 m²",3.532 €/m²,Etagenwohnung,15 m²,nil,2,1,nil,"2,38 % vom Kaufpreis inkl. der gesetzlichen Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Modernisierte & vermietete 4 Zimmerwohnung mit Wohlfühlcharakter in Zarten/Kirchzarten,469.000 €,"79199 Kirchzarten, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,4.467 €/m²,Etagenwohnung,nil,vermietet!,3,1,3 Stellplätze,"Käuferprovision: 3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Wohnen in der Schillerstadt - helle 3 Zimmerwohnung mit schöner Aussicht & TG-Stellplatz,292.000 €,"71672 Marbach am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,3.893 €/m²,Etagenwohnung,nil,November 2024,2,1,1 Duplex-Stellplatz,"2,38 % des Kaufpreises inkl. ges. MwSt. Bezugsgröße ist der notariell beurkundete Kaufpreis.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Hell und luftig - Wohnen mit toller Aussicht!,225.000 €,"75335 Dobel, Calw (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"75,27 m²",2.989 €/m²,Etagenwohnung,20 m²,nil,1,1,1 Garage,"4,76 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"RSI Invest bietet an: 3 ZKB, Balkon in besonderer Lage Mannheim-Oststadt",259.000 €,"Schwetzingerstadt/Oststadt, 68165 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"63,3 m²",4.092 €/m²,Etagenwohnung,7 m²,vermietet,2,1,nil,"3,57 % incl. 19 % MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+"SOFORT BEZUGSFREI! Großzügige 4,5-Erdgeschosswohnung mit eigenem Gartenanteil",307.500 €,"88400 Biberach an der Riß, Biberach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"106,19 m²",2.896 €/m²,Erdgeschosswohnung,nil,ab sofort,3,1,2 Garagen,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Einladende 3,5-Zimmer-Oase mit Garage und Sonnenterrasse!",269.000 €,"73635 Rudersberg, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",88 m²,3.057 €/m²,Erdgeschosswohnung,10 m²,nil,2,1,1 Garage,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Exklusive 2,5 Zimmerwohnung mit einmaliger Dachterrasse",375.000 €,"89186 Illerrieden, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",78 m²,4.808 €/m²,Dachgeschoss,nil,nach Vereinbarung,1,nil,1 Außenstellplatz,"3,57% des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Kapitalanlage - 2 Zimmer Wohnung mit Balkon in Leonberg,179.000 €,"71229 Leonberg, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,3.255 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"6.390,30","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Großzügiges 3-Zimmer Wohndomizil in Wangen,433.000 €,"88239 Wangen im Allgäu, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,113 m²,3.832 €/m²,Erdgeschosswohnung,nil,nil,nil,1,1 Stellplatz,"3,57 %",{'is24qa-gaeste-wc-label': ''}
+Schöne 3-Zimmer-Wohnung mit Terrasse und Garten in Auenwald!,224.000 €,"71549 Auenwald, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,68 m²,3.294 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,2 Stellplätze,"3,927 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"3,5-Zimmer Erdgeschoss und 1-Zimmer-Einliegerwohnung",395.000 €,"73099 Adelberg, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,14 m²",2.967 €/m²,Erdgeschosswohnung,nil,01.06.2024,3,2,1 Garage,"3,57 % inkl. MwSt. inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Traumhafte 3-Zimmer-Obergeschoss-Wohnung mit zwei versetzten Ebenen und zwei Balkonen!,349.000 €,"71229 Leonberg, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"86,34 m²",4.042 €/m²,Maisonette,nil,sofort frei,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Komfortable 1,5-Zi-Wohnung mit Loggia in ruhige Lage in HD-Rohrbach",168.000 €,"Rohrbach, 69126 Heidelberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5","40,6 m²",4.138 €/m²,Etagenwohnung,"40,61 m²",nil,1,1,1 Außenstellplatz,"6.354,60","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gepflegte 3-Zimmerwohnung mit Balkon in der March bei Freiburg,280.000 €,"79232 March, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"80,28 m²",3.488 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"Die Käufercourtage beträgt 2,975 % des Kaufpreises inkl. 19 % MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Gute Lage - Hübsche Dreizimmer-Maisonettewohnung mit Terrasse,255.000 €,"79540 Lörrach, Lörrach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,69 m²,3.696 €/m²,Maisonette,nil,nil,2,1,nil,"3,57 % inkl. MwSt. 19%",{}
+"73776 Altbach: 3,5-Zimmer-EG-Wohnung mit Balkon in MFH + Tiefgaragenstellplatz, freiwerdend",290.000 €,"73776 Altbach, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","80,8 m²",3.589 €/m²,Erdgeschosswohnung,nil,freiwerdend,2,2,1 Tiefgaragen-Stellplatz,"3,57% (inkl. 19% MwSt.) aus dem notariell beurkundeten Verkaufspreis",{'is24qa-balkon-terrasse-label': ''}
+3-Zimmer-Wohnung in Stuttgart-Möhringen! Bereit für Ihren Einzug!,285.000 €,"Möhringen-Ost, 70567 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,79 m²,3.608 €/m²,Etagenwohnung,nil,5amt5.5n5Contramct,nil,1,1 Stellplatz,"1,75%","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Exklusives Wohnvergnügen in Illerrieden: Charmante 3-Zimmeroase mit grünem Garten,549.000 €,"89186 Illerrieden, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",115 m²,4.774 €/m²,Erdgeschosswohnung,nil,nach Vereinbarung,2,nil,1 Außenstellplatz,"3,57% des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Gut geschnittene 3,5-Zimmer Wohnung in Lichtenwald",340.000 €,"Hauptstrasse 6,
+73669 Lichtenwald, Esslingen (Kreis)","3,5","86,82 m²",3.916 €/m²,Etagenwohnung,nil,01.06.2024,1,1,1 Tiefgaragen-Stellplatz,"2,38","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

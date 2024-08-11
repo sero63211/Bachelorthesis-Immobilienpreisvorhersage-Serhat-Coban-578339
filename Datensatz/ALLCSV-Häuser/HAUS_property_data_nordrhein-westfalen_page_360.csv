@@ -1,0 +1,565 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Charmantes Reihenmittelhaus im Herzen von Kevelaer!,219.000 €,"47623 Kevelaer, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,103 m²,100 m²,2.126 €/m²,Reihenmittelhaus,20 m²,Nach Vereinbarung,nil,1,nil,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.",{'is24qa-keller-label': ''}
+Außergewöhnliches Anwesen 11 Zimmer in Top Lage am Naturschutzgebiet Zonser Grind/Rhein,1.190.000 €,"41541 Dormagen, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,500 m²,1.527 m²,2.380 €/m²,Besondere Immobilie,nil,nil,nil,4,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaftes Haus mit idyllischem Garten und in bester Nachbarschaft,285.000 €,"41751 Viersen, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,126 m²,265 m²,2.262 €/m²,Doppelhaushälfte,nil,01.06.2024,1,2,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-gaeste-wc-label': ''}
+Attraktives Einfamilienhaus mit drei Garagen auf traumhaften Grundstück in idyllischer Lage von Much,628.000 €,"53804 Much, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",130 m²,1.916 m²,4.831 €/m²,Einfamilienhaus (freistehend),113 m²,1.7.2024,3,2,7 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*Provisionsfrei!* Junges Ein-/Zweifamilienhaus mit PV und Wärmepumpe, Südlage, Top Ausstattung",769.000 €,"53881 Euskirchen, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,260 m²,775 m²,2.958 €/m²,Einfamilienhaus (freistehend),10 m²,nil,4,3,3 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Fit für die Zukunft! - modernisiertes Zweifamilienhaus mit Garage in Stadtlohn,286.700 €,"48703 Stadtlohn, Borken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"207,37 m²",394 m²,1.383 €/m²,Mehrfamilienhaus,nil,nil,nil,2,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Einfamilienhaus mit kleinem Park - Ein Glücksgriff in Rheine,340.000 €,"Dreierwalder Straße 18,
+48429 Rheine, Steinfurt (Kreis)",5,122 m²,1.080 m²,2.787 €/m²,Einfamilienhaus (freistehend),nil,13.6.2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit Entwicklungspotential in guter und kinderfreundlicher Lage,440.000 €,"50389 Wesseling, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,"329,7 m²",2.750 €/m²,Einfamilienhaus (freistehend),nil,15.6.2024,nil,2,1 Stellplatz,"käuferseitig 3 % vom Kaufpreis + MwSt. = 3,57 % fällig bei Beurkundung gemäß Vereinbarung",{'is24qa-keller-label': ''}
+Top saniertes 8-Familienhaus von privat zu verkaufen von Handwerksmeister in Remscheid,525.000 €,"Nordstadt, 42855 Remscheid
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,389 m²,320 m²,1.350 €/m²,Mehrfamilienhaus,nil,2.4.2024,8,8,4 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Essen: Mehrfamilienhaus als TOP-Kapitalanlage!,899.000 €,"Altenessen-Nord, 45329 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",19,534 m²,518 m²,1.684 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung,10,7,1 Garage,"5,95% vom Kaufpreis inkl. gesetzl. MwSt.",{'is24qa-keller-label': ''}
+Herne: Gepflegtes Mehrfamilienhaus mit 7 Wohneinheiten in beliebter Lage!,599.000 €,"Röhlinghausen, 44651 Herne
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",21,417 m²,282 m²,1.436 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung,7,7,nil,"5,95% vom Kaufpreis inkl. gesetzl. MwSt.",{}
+Bergkamen: Gepflegtes MFH mit 7 Wohneinheiten!,859.000 €,"59192 Bergkamen, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",21,620 m²,1.540 m²,1.385 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung,14,7,2 Garagen,"5,95% vom Kaufpreis inkl. gesetzl. MwSt.",{'is24qa-vermietet-label': ''}
+Oberhausen: Stilvolles 5-Familienhaus als TOP-Kapitalanlage!,611.637 €,"Tackenberg, 46145 Oberhausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,397 m²,625 m²,1.541 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung,10,5,1 Garage,"5,95% vom Kaufpreis inkl. gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Charmantes Einfamilienhaus in Monschau Höfen!,269.000 €,"52156 Monschau, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,126 m²,595 m²,2.135 €/m²,Einfamilienhaus (freistehend),nil,ab sofort,4,2,1 Garage,"3,57 % inkl. MwSt.",{}
+Herne: Gepflegtes Mehrfamilienhaus - als TOP-Kapitalanlage!,326.387 €,"Baukau-Ost, 44629 Herne
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,268 m²,304 m²,1.218 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung,6,6,nil,"5,95% vom Kaufpreis inkl. gesetzl. MwSt.",{'is24qa-keller-label': ''}
+Bochum-Werne: Renoviertes Vierfamilienhaus als TOP-Kapitalanlage!,435.265 €,"Werne, 44894 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,"270,49 m²",337 m²,1.609 €/m²,Mehrfamilienhaus,"359,6 m²",Nach Vereinbarung,4,4,4 Garagen,"5,95% vom Kaufpreis inkl. gesetzl. MwSt.",{'is24qa-keller-label': ''}
+Noch 3 Häuser verfügbar! 8 Doppelhaushälften mit individuellen Leistungsstufen,"375.855,53 €","Peter-Schütz-Weg 7,
+50169 Elsdorf, Rhein-Erft-Kreis",5,186 m²,257 m²,"2.020,73 €/m²",Doppelhaushälfte,18 m²,ca. Juli 2024,4,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EXKLUSIV UND HOCHWERTIG - Das ist BIEN ZENKER - jetzt ins Traumhaus,765.504 €,"Spexard, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,600 m²,4.503 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Leben wie im Urlaub, in Ihrem allkauf haus!",463.799 €,"48317 Drensteinfurt, Warendorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",490 m²,2.782 €/m²,Villa,nil,nil,3,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Miete ist... Schnee von gestern! Schalten Sie auf Zukunft,445.999 €,"Sümmern, 58640 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",0 m²,2.281 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Die Zeiten der Miete sind vorbei: Willkommen in der Ära des Eigenbesitzes!,425.999 €,"Hennen, 58640 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",515 m²,2.179 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Miete ist... Schnee von gestern! Schalten Sie auf Zukunft,420.999 €,"58708 Menden (Sauerland), Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",552 m²,2.153 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Hemer: Individuell gestaltbar, energieeffizient und komfortabel!",299.500 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,137 m²,0 m²,2.186 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Ihr Traumhaus in Hemer: Individuell, nachhaltig und energieeffizient",298.500 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,0 m²,2.228 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Maximale Sicherheit und kurze Lieferzeiten - Ihr Traumhaus mit allkauf Haus,269.999 €,"Sümmern, 58640 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"144,14 m²",0 m²,1.873 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Iserlohn: Ihr maßgeschneidertes Zuhause wartet!,298.700 €,"Sümmern, 58640 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"163,45 m²",0 m²,1.827 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Ihr Traumhaus in Iserlohn: Individuell gestaltbare Doppelhaushälfte mit höchstem Komfort,299.500 €,"Sümmern, 58640 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",0 m²,2.290 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Modernes Einfamilienhaus in Hamm: Ihr maßgeschneidertes Traumhaus wartet auf Sie!,439.500 €,"Herringen, 59067 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",0 m²,2.248 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Bauen Sie mit allkauf Haus - garantiertes Preis-Leistungs-Verhältnis und professioneller Service,389.900 €,"Herringen, 59067 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"218,32 m²",0 m²,1.786 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Ihr Traum vom maßgeschneiderten Zweifamilienhaus in Hamm - Nachhaltig und individuell!,440.900 €,"Heessen, 59065 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,237 m²,5.100 m²,1.860 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Komfortables Wohnen im stilvollen Newline 6 - Ihr Traumhaus wird Realität,339.500 €,"Heessen, 59065 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"144,14 m²",445 m²,2.355 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Einfamilienhaus in Hamm: Ihr maßgeschneidertes Traumhaus auf 3900 m² Grundstück,245.000 €,"Heessen, 59065 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"153,7 m²",3.900 m²,1.594 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaus bauen mit allkauf Haus: Profis seit über 37 Jahren, kurze Lieferzeiten und Festpreisgarant",395.900 €,"Bockum-Hövel, 59075 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",552 m²,2.025 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individuelles Traumhaus in Hamm: Komfort und Nachhaltigkeit in Perfektion!,389.500 €,"Bockum-Hövel, 59075 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,142 m²,625 m²,2.743 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Zweifamilienhaus in Werl - 237 m² pure Lebensqualität,3.959.500 €,"59457 Werl, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,237 m²,600 m²,16.707 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Ihr Traumhaus in Werl: Individualität und Nachhaltigkeit perfekt vereint,365.900 €,"59457 Werl, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,142 m²,625 m²,2.577 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Werl: Individuell geplant, energieeffizient und luxuriös ausgestattet",389.900 €,"59457 Werl, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"144,14 m²",650 m²,2.705 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr neues Zuhause mit allkauf Haus - Qualität, Professionalität und Sicherheit",283.900 €,"59457 Werl, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,34 m²",0 m²,1.995 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Werl: Modernes Einfamilienhaus nach Ihren Wünschen,399.900 €,"59457 Werl, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",0 m²,2.046 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihre maßgeschneiderte Doppelhaushälfte in Werl: Komfort und Effizienz vereint,288.999 €,"59457 Werl, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",0 m²,2.210 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhaftes Einfamilienhaus in Menden: Individuelle Planung und höchste Energieeffizienz,329.999 €,"58708 Menden (Sauerland), Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,34 m²",472.000 m²,2.318 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Meschede: Individuell geplant und nachhaltig gebaut!,"399,90 €","59872 Meschede, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",640 m²,2 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"59457 Werl, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"59192 Bergkamen, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"46282 Dorsten, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"Mittelstadt, 58095 Hagen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"58636 Iserlohn, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"58636 Iserlohn, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"58239 Schwerte, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"45525 Hattingen, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"59379 Selm, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"45739 Oer-Erkenschwick, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"45711 Datteln, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"45657 Recklinghausen, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"Stadtmitte, 46236 Bottrop
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"Altstadt, 45879 Gelsenkirchen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"44579 Castrop-Rauxel, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"Herne-Mitte, 44623 Herne
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"59469 Ense, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"59457 Werl, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"Dahlhausen, 44879 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"Brechten, 44030 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"45731 Waltrop, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"59199 Bönen, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Nur für kurze Zeit - 24.000 EUR Actions Rabatt,296.000 €,"58730 Fröndenberg/Ruhr, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Minus 24.000 EUR Actions Rabatt,296.000 €,"44536 Lünen, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Minus 24.000 EUR Actions Rabatt,296.000 €,"Schüren, 44287 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Minus 24.000 EUR Actions Rabatt,296.000 €,"Brackel (Ortsteil), 44309 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Minus 24.000 EUR Actions Rabatt,296.000 €,"Lanstrop, 44329 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+KICK-OFF 3 Preis Hammer Minus 24.000 EUR Actions Rabatt,296.000 €,"Lanstrop, 44329 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",580 m²,2.175 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Miete ist... Schnee von gestern! Schalten Sie auf Zukunft,372.659 €,"58762 Altena, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",536 m²,1.906 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhafte Aussichten! Mit der ganzen Familie wohlfühlen!,272.290 €,"58791 Werdohl, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"184,18 m²",609 m²,1.478 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,nil,{'is24qa-einliegerwohnung-label': ''}
+***So geht modernes Wohnen heute-Platz für die ganze Familie!***,265.290 €,"58791 Werdohl, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",609 m²,1.892 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Leben wie im Urlaub, in Ihrem allkauf haus!",380.599 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",815 m²,2.283 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhafte Aussichten! Mit der ganzen Familie wohlfühlen!,307.599 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"184,18 m²",815 m²,1.670 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,nil,{'is24qa-einliegerwohnung-label': ''}
+Willkommen in Ihrem neuen Traumhaus!,310.599 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",815 m²,2.129 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{}
+Miete ist... Schnee von gestern! Schalten Sie auf Zukunft,502.999 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",2.650 m²,2.573 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+***So geht modernes Wohnen heute-Platz für die ganze Familie!***,300.599 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",815 m²,2.143 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Willkommen in Ihrem neuen Traumhaus!,413.999 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",2.650 m²,2.838 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{}
+***So geht modernes Wohnen heute-Platz für die ganze Familie!***,403.999 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",2.650 m²,2.881 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhafte Aussichten! Mit der ganzen Familie wohlfühlen!,410.999 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"184,18 m²",2.650 m²,2.232 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,nil,{'is24qa-einliegerwohnung-label': ''}
+"Leben wie im Urlaub, in Ihrem allkauf haus!",483.999 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",2.650 m²,2.904 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Leben wie im Urlaub, in Ihrem allkauf haus!",363.999 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",500 m²,2.184 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhafte Aussichten! Mit der ganzen Familie wohlfühlen!,290.999 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"184,18 m²",500 m²,1.580 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,nil,{'is24qa-einliegerwohnung-label': ''}
+***So geht modernes Wohnen heute-Platz für die ganze Familie!***,283.999 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",500 m²,2.025 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Willkommen in Ihrem neuen Traumhaus!,293.999 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",500 m²,2.016 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{}
+Miete ist... Schnee von gestern! Schalten Sie auf Zukunft,382.999 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",500 m²,1.959 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Jung und Alt: Gemeinsam wohlfühlen!,351.999 €,"58840 Plettenberg, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",236 m²,1.342 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Mit Eigenleistung in das neue Traumhaus!,291.999 €,"58840 Plettenberg, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",236 m²,2.233 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Ab ins Eigenheim, clever von Mieter zum Vermieter!",353.999 €,"58802 Balve, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,237 m²,600 m²,1.494 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Mit Eigenleistung in das neue Traumhaus!,328.999 €,"58802 Balve, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",600 m²,2.516 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Mit Eigenleistung in das neue Traumhaus!,288.999 €,"Herringen, 59067 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",0 m²,2.210 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Jung und Alt: Gemeinsam wohlfühlen!,443.999 €,"58710 Menden (Sauerland), Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",582 m²,1.692 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Ab ins Eigenheim, clever von Mieter zum Vermieter!",408.999 €,"58710 Menden (Sauerland), Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,237 m²,582 m²,1.726 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Wohnen mit Generationen! Clever vom Mieter zum Vermieter,440.999 €,"58579 Schalksmühle, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"218,32 m²",967 m²,2.020 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Jung und Alt: Gemeinsam wohlfühlen!,425.849 €,"58579 Schalksmühle, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",967 m²,1.623 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Jung und Alt-Gemeinsam wohlfühlen!,397.499 €,"58566 Kierspe, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,237 m²,2.132 m²,1.677 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Jung und Alt: Gemeinsam wohlfühlen!,432.499 €,"58566 Kierspe, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",2.132 m²,1.648 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Wohnen mit Generationen! Clever vom Mieter zum Vermieter,595.999 €,"58533 Halver, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"218,32 m²",1.500 m²,2.730 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Ab ins Eigenheim, clever von Mieter zum Vermieter!",597.999 €,"58553 Halver, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,237 m²,1.500 m²,2.523 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Jung und Alt: Gemeinsam wohlfühlen!,632.999 €,"58553 Halver, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",1.500 m²,2.413 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Jung und Alt: Gemeinsam wohlfühlen!,532.999 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",2.650 m²,2.031 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Ab ins Eigenheim, clever von Mieter zum Vermieter!",497.999 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,237 m²,2.650 m²,2.101 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Wohnen mit Generationen! Clever vom Mieter zum Vermieter,495.999 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"218,32 m²",2.650 m²,2.272 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Wohnen mit Generationen! Clever vom Mieter zum Vermieter,411.999 €,"58511 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"218,32 m²",800 m²,1.887 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Ab ins Eigenheim, clever von Mieter zum Vermieter!",413.999 €,"58511 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,237 m²,800 m²,1.747 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Jung und Alt: Gemeinsam wohlfühlen!,448.999 €,"58511 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",800 m²,1.711 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Mit Eigenleistung in das neue Traumhaus!,388.999 €,"58511 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",800 m²,2.975 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Ab ins Eigenheim, clever von Mieter zum Vermieter!",378.499 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,237 m²,500 m²,1.597 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Jung und Alt: Gemeinsam wohlfühlen!,413.499 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",500 m²,1.576 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Mit Eigenleistung in das neue Traumhaus!,353.499 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",500 m²,2.703 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Mit Eigenleistung in das neue Traumhaus!,353.499 €,"58675 Hemer, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",500 m²,2.703 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Mit Eigenleistung in das neue Traumhaus!,369.599 €,"Letmathe, 58642 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",815 m²,2.827 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Mit Eigenleistung in das neue Traumhaus!,348.899 €,"58762 Altena, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",886 m²,2.668 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Jetzt ins eigene Heim,411.999 €,"59872 Meschede, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,182 m²,700 m²,2.264 €/m²,Einfamilienhaus (freistehend),nil,nil,5,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Mit Eigenleistung in das neue Traumhaus!,348.899 €,"58762 Altena, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,76 m²",886 m²,2.668 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Jetzt ins eigene Heim,411.999 €,"59872 Meschede, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,182 m²,700 m²,2.264 €/m²,Einfamilienhaus (freistehend),nil,nil,5,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Willkommen in Ihrem neuen Traumhaus!,275.290 €,"58791 Werdohl, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",609 m²,1.887 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{}
+Miete ist... Schnee von gestern! Schalten Sie auf Zukunft,364.290 €,"58791 Werdohl, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",609 m²,1.863 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau Bungalow mit 99 m² Wohnfläche,208.999 €,"46514 Schermbeck, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,73 m²",1 m²,2.117 €/m²,Einfamilienhaus (freistehend),"98,73 m²",nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau Bungalow mit 99 m² Wohnfläche,208.999 €,"46499 Hamminkeln, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,73 m²",1 m²,2.117 €/m²,Einfamilienhaus (freistehend),"98,73 m²",nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau Bungalow mit 99 m² Wohnfläche,208.999 €,"47665 Sonsbeck, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,73 m²",1 m²,2.117 €/m²,Einfamilienhaus (freistehend),"98,73 m²",nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau Bungalow mit 99 m² Wohnfläche,208.999 €,"47475 Kamp-Lintfort, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,73 m²",1 m²,2.117 €/m²,Einfamilienhaus (freistehend),"98,73 m²",nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau Bungalow mit 99 m² Wohnfläche,208.999 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,73 m²",1 m²,2.117 €/m²,Einfamilienhaus (freistehend),"98,73 m²",nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau Bungalow mit 99 m² Wohnfläche,208.999 €,"Meerfeld, 47445 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,73 m²",1 m²,2.117 €/m²,Einfamilienhaus (freistehend),"98,73 m²",nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Niedrigenergiehaus mit 125 m² Wohnfläche,435.000 €,"46519 Alpen, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,62 m²",1.541 m²,3.637 €/m²,Einfamilienhaus (freistehend),"119,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus - Ihr Traumhaus nach Ihren Vorstellungen,214.999 €,"46483 Wesel, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,62 m²",1 m²,1.797 €/m²,Einfamilienhaus (freistehend),"119,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau Bungalow mit 99 m² Wohnfläche,208.999 €,"Eick, 47447 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,74 m²",1 m²,2.117 €/m²,Einfamilienhaus (freistehend),"98,74 m²",nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 125 qm Wohnfläche,214.999 €,"47665 Sonsbeck, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,62 m²",1 m²,1.797 €/m²,Einfamilienhaus (freistehend),"119,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 125 qm Wohnfläche,214.999 €,"46499 Hamminkeln, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,62 m²",1 m²,1.797 €/m²,Einfamilienhaus (freistehend),"119,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 125 qm Wohnfläche,214.999 €,"46569 Hünxe, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,62 m²",1 m²,1.797 €/m²,Einfamilienhaus (freistehend),"119,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Einfamilienhaus in Xanten,214.999 €,"46509 Xanten, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"119,62 m²",1 m²,1.797 €/m²,Einfamilienhaus (freistehend),"119,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Niedrigenergiehaus mit 125 m² Wohnfläche,214.999 €,"47475 Kamp-Lintfort, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,62 m²",1 m²,1.797 €/m²,Einfamilienhaus (freistehend),"119,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Moderne Traumimmobilie - Ihr individuelles Einfamilienhaus zum Wohlfühlen,214.999 €,"46487 Wesel, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,62 m²",1 m²,1.797 €/m²,Einfamilienhaus (freistehend),"119,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Niedrigenergiehaus mit 125 m² Wohnfläche,214.999 €,"47475 Kamp-Lintfort, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,62 m²",1 m²,1.725 €/m²,Einfamilienhaus (freistehend),"124,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau Traumhaus in Neukirchen Vluyn,549.000 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,62 m²",810 m²,4.590 €/m²,Einfamilienhaus (freistehend),"119,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 125 qm Wohnfläche,516.998 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,62 m²",505 m²,4.149 €/m²,Einfamilienhaus (freistehend),"124,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Energiesparendes Traumhaus mit 125 qm Wohnfläche,514.949 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,62 m²",505 m²,4.132 €/m²,Einfamilienhaus (freistehend),"124,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Energiesparhaus mit 125,00 m²",445.000 €,"46514 Schermbeck, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,62 m²",934 m²,3.571 €/m²,Einfamilienhaus (freistehend),"124,62 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus City Villa in Neukirchen Vluyn,649.998 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"195,5 m²",810 m²,3.325 €/m²,Einfamilienhaus (freistehend),"195,5 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau in Neukirchen Vluyn,529.000 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",810 m²,3.772 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Einfamilienhaus mit 123,32 m²",468.000 €,"Baerl, 47199 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",500 m²,3.795 €/m²,Einfamilienhaus (freistehend),"123,32 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Kleve - individuell gestaltbar!,375.000 €,"47533 Kleve, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"150,29 m²",589 m²,2.495 €/m²,Einfamilienhaus (freistehend),"150,29 m²",nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhaus mit 125 qm Wohnfläche,419.999 €,"46483 Wesel, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",293 m²,3.363 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Moers - Gestalten Sie Ihr Zuhause nach Ihren Wünschen!,594.999 €,"Schwafheim, 47447 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",705 m²,4.764 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Behagliches Zuhause mit individuellen Gestaltungsmöglichkeiten in natürlicher Umgebung,519.999 €,"Kapellen, 47447 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",500 m²,4.163 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau mit Sonderaktion,469.999 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",1.088 m²,3.763 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Neukirchen Vluyn,419.999 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",800 m²,3.363 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Gestalten Sie Ihr helles und lebendiges Zuhause nach Ihren Wünschen!,819.999 €,"Utfort, 47445 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",1.325 m²,6.565 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Neubau mit 124,00 m²",419.999 €,"46487 Wesel, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",356 m²,3.363 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau mit 125 m² Wohnfläche,479.999 €,"Schwafheim, 47447 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",320 m²,3.843 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus - Gestalten Sie Ihr behagliches Heim nach Ihren Vorstellungen!,419.999 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",500 m²,3.363 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 125 qm Wohnfläche,419.999 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",500 m²,3.363 €/m²,Einfamilienhaus (freistehend),"124,9 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Energiesparhaus Traumhaus mit 142,00 m²",390.249 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,142 m²,500 m²,2.748 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaus KFW 40 mit 133,70 qm Wohnfläche Home 2",279.999 €,"47533 Kleve, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",1 m²,2.094 €/m²,Einfamilienhaus (freistehend),"133,7 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Mehrgenerationenhaus mit 2 Wohneinheiten und 239 qm Wohnfläche,697.950 €,"Meerbeck, 47443 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,239 m²,510 m²,2.920 €/m²,Einfamilienhaus (freistehend),"238,57 m²",nil,5,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Mehrfamilienhaus mit 2 Wohneinheiten und 239 qm Wohnfläche,697.950 €,"Meerbeck, 47443 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,239 m²,510 m²,2.920 €/m²,Einfamilienhaus (freistehend),"238,57 m²",nil,5,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Mehrgenerationenhaus mit 2 Wohneinheiten und 239 qm Wohnfläche,697.950 €,"Meerbeck, 47443 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,239 m²,510 m²,2.920 €/m²,Einfamilienhaus (freistehend),"238,57 m²",nil,5,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 160 qm Wohnfläche,620.249 €,"Meerbeck, 47443 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"158,39 m²",500 m²,3.916 €/m²,Einfamilienhaus (freistehend),"158,39 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 125 qm Wohnfläche,403.999 €,"46485 Wesel, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,585 m²,3.232 €/m²,Einfamilienhaus (freistehend),125 m²,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Sonderpreis 142,23 qm Wohnfläche",489.999 €,"Baerl, 47199 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,23 m²",500 m²,3.445 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus im Grünen,419.999 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,23 m²",500 m²,3.408 €/m²,Einfamilienhaus (freistehend),"123,23 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus mit individuellen Gestaltungsmöglichkeiten,419.999 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,23 m²",500 m²,3.408 €/m²,Einfamilienhaus (freistehend),"123,23 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Modernes Traumhaus in Rheinberg - Ihre Wünsche, unser Projekt!",649.000 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"263,3 m²",500 m²,2.465 €/m²,Einfamilienhaus (freistehend),"239,3 m²",nil,6,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Alpen: Individuelles Einfamilienhaus nach Ihren Wünschen,379.999 €,"46519 Alpen, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,23 m²",500 m²,2.672 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,5,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Voerde,499.949 €,"46562 Voerde (Niederrhein), Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",700 m²,3.565 €/m²,Einfamilienhaus (freistehend),"140,25 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Einfamilienhaus in Voerde,499.949 €,"46562 Voerde (Niederrhein), Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,34 m²",700 m²,3.512 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Niedrigenergie Einfamilienhaus in Wesel - maßgeschneidert nach Ihren Vorstellungen,495.000 €,"46485 Wesel, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"146,04 m²",800 m²,3.389 €/m²,Mehrfamilienhaus,"146,04 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Niedrigenergie Einfamilienhaus in Neukirchen Vluyn - maßgeschneidert nach Ihren Vorstellungen,495.000 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"146,04 m²",800 m²,3.389 €/m²,Mehrfamilienhaus,"146,04 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Niedrigenergiehaus Move Aktion,339.999 €,"47533 Kleve, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",1 m²,2.543 €/m²,Einfamilienhaus (freistehend),"133,7 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus in Moers - Ihr individuelles Zweifamilienhaus wartet auf Sie!,995.000 €,"Utfort, 47445 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"263,3 m²",500 m²,3.779 €/m²,Mehrfamilienhaus,"263,3 m²",nil,6,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Niedrigenergie Einfamilienhaus in Neukirchen Vluyn - maßgeschneidert nach Ihren Vorstellungen,469.000 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"151,22 m²",800 m²,3.101 €/m²,Mehrfamilienhaus,"151,22 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaftes, projektiertes Einfamilienhaus in Rheinberg - Ihre Wünsche werden Realität!",419.999 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,23 m²",500 m²,2.953 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus Villa in Moers: Gestalten Sie Ihr Traumhaus nach Ihren Wünschen!,779.998 €,"47447 Moers, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"249,5 m²",705 m²,3.126 €/m²,Einfamilienhaus (freistehend),"249,5 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus in Neukirchen Vluyn - Nach Ihren Wünschen gefertigt!,649.950 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,239 m²,810 m²,2.719 €/m²,Einfamilienhaus (freistehend),"238,57 m²",nil,5,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus nach Ihren Wünschen: Einfamilienhaus in Tönisforst,550.998 €,"47918 Tönisvorst, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"140,25 m²",450 m²,3.929 €/m²,Einfamilienhaus (freistehend),"140,25 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Moers,499.000 €,"Hochstraß, 47447 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",500 m²,2.745 €/m²,Einfamilienhaus (freistehend),"181,79 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Niedrigenergie Einfamilienhaus in Neukirchen Vluyn - maßgeschneidert nach Ihren Vorstellungen,469.000 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"151,22 m²",800 m²,3.101 €/m²,Mehrfamilienhaus,"151,22 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Sonderpreis 142,23 qm Wohnfläche",489.999 €,"Baerl, 47199 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,23 m²",500 m²,3.445 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Wunderschönes Traumhaus mit 249,50 qm Wohnfläche City Villa",680.998 €,"Hüls, 47807 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"249,5 m²",500 m²,2.729 €/m²,Einfamilienhaus (freistehend),"249,5 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaus zum Sonderpreis 150,29 m² Wohnfläche",385.000 €,"46485 Wesel, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"150,29 m²",585 m²,2.562 €/m²,Einfamilienhaus (freistehend),"150,29 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Eigentum statt Miete 142,23 qm Wohnfläche",430.000 €,"Hochstraß, 47441 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,23 m²",500 m²,3.023 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,5,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Traumhaus mit 172 qm Wohnfläche,641.998 €,"Meerbeck, 47443 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,600 m²,3.733 €/m²,Einfamilienhaus (freistehend),172 m²,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Mehrgenerationenhaus mit Einliegerwohnung 263,30 qm Wohnfläche",995.000 €,"Utfort, 47445 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"263,3 m²",500 m²,3.779 €/m²,Mehrfamilienhaus,"263,3 m²",nil,6,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Neubau statt Altbau 142,23 qm Wohnfläche",330.000 €,"47661 Issum, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,23 m²",500 m²,2.320 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,5,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaus KFW 40 mit 133,70 qm Wohnfläche Home 2",279.999 €,"Hüls, 47807 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",1 m²,2.094 €/m²,Einfamilienhaus (freistehend),"133,7 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaus statt Altbau 142,00 m² Wohnfläche",389.999 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,23 m²",500 m²,2.742 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Traumhaus mit 172 qm Wohnfläche,591.998 €,"Meerbeck, 47443 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,500 m²,3.442 €/m²,Einfamilienhaus (freistehend),172 m²,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Traumhaus mit 2 Wohneinheiten und 239 qm Wohnfläche,697.950 €,"Meerbeck, 47443 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,239 m²,510 m²,2.920 €/m²,Einfamilienhaus (freistehend),"238,57 m²",nil,5,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Traumhaus mit 172 qm Wohnfläche,390.249 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,172 m²,500 m²,2.269 €/m²,Einfamilienhaus (freistehend),172 m²,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 140 qm Wohnfläche,511.998 €,"Hüls, 47807 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,1.200 m²,3.580 €/m²,Einfamilienhaus (freistehend),"143,61 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 212 qm Wohnfläche,550.998 €,"47918 Tönisvorst, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,212 m²,467 m²,2.599 €/m²,Einfamilienhaus (freistehend),212 m²,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaus mit 171,77 qm Wohnfläche",390.249 €,"52525 Heinsberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"171,77 m²",500 m²,2.272 €/m²,Einfamilienhaus (freistehend),"171,77 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Neubau KFW 40 150,29 m² Wohnfläche",805.000 €,"Utfort, 47445 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"150,29 m²",1.325 m²,5.356 €/m²,Einfamilienhaus (freistehend),"150,29 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 143 qm Wohnfläche,410.249 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,500 m²,2.869 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Niedrigenergiehaus KFW 40 mit 133,70 qm Wohnfläche Home 2",279.999 €,"Baerl, 47199 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",1 m²,2.094 €/m²,Einfamilienhaus (freistehend),"133,7 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Traumhaus mit 172qm Wohnfläche,372.249 €,"52525 Heinsberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,172 m²,500 m²,2.164 €/m²,Einfamilienhaus (freistehend),172 m²,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 160 qm Wohnfläche,360.249 €,"47533 Kleve, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,160 m²,500 m²,2.252 €/m²,Einfamilienhaus (freistehend),160 m²,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Zweifamilienhaus in Neukirchen Vluyn - maßgeschneidert nach Ihren Vorstellungen,595.000 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"263,3 m²",1.100 m²,2.260 €/m²,Mehrfamilienhaus,"263,3 m²",nil,6,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 212 qm Wohnfläche,691.998 €,"Repelen, 47445 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,212 m²,650 m²,3.264 €/m²,Einfamilienhaus (freistehend),212 m²,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Traumhaus mit 140 qm Wohnfläche,511.998 €,"Hüls, 47807 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,500 m²,3.580 €/m²,Einfamilienhaus (freistehend),"143,61 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Mehrgenerationenhaus mit Einliegerwohnung 237,19 qm Wohnfläche",609.995 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"237,19 m²",500 m²,2.572 €/m²,Einfamilienhaus (freistehend),"237,19 m²",nil,6,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Energiesparhaus HOME 4 Angebot Traumhaus mit 142,00 m²",342.249 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,142 m²,500 m²,2.410 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus nach Ihren Wünschen - Einfamilienhaus in,399.000 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"150,29 m²",585 m²,2.655 €/m²,Einfamilienhaus (freistehend),"150,29 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 212 qm Wohnfläche,691.998 €,"Meerbeck, 47443 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,212 m²,1.000 m²,3.264 €/m²,Einfamilienhaus (freistehend),212 m²,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wunderschönes Traumhaus mit 125 qm Wohnfläche,389.995 €,"47553 Kleve, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,500 m²,3.120 €/m²,Einfamilienhaus (freistehend),125 m²,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Wesel - Ihr individueller Wohntraum!,385.000 €,"46485 Wesel, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"150,29 m²",585 m²,2.562 €/m²,Einfamilienhaus (freistehend),"150,29 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Niedrigenergiehaus Sonderaktion Home 2 DS - KFN WIRKLICH FÖRDERFÄHIG!,279.999 €,"47533 Kleve, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",1 m²,2.094 €/m²,Einfamilienhaus (freistehend),"133,7 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Niedrigenergiehaus KFW 40 mit 133,70 qm Wohnfläche Home 2",279.999 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",1 m²,2.094 €/m²,Einfamilienhaus (freistehend),"133,7 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaus KFW 40 mit 133,70 qm Wohnfläche Home 2",279.999 €,"Meerbeck, 47443 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",1 m²,2.094 €/m²,Einfamilienhaus (freistehend),"133,7 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individuelles Traumhaus in Moers - Leben Sie nach Ihren Wünschen!,805.000 €,"Utfort, 47445 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"150,29 m²",1.325 m²,5.356 €/m²,Einfamilienhaus (freistehend),"150,29 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 125 qm Wohnfläche,389.995 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,500 m²,3.120 €/m²,Einfamilienhaus (freistehend),125 m²,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaus KFW 40 mit 133,70 qm Wohnfläche Home 2",279.999 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",1 m²,2.094 €/m²,Einfamilienhaus (freistehend),"133,7 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Energiesparhaus Traumhaus mit 142,00 m²",390.249 €,"52525 Heinsberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,142 m²,500 m²,2.748 €/m²,Einfamilienhaus (freistehend),"142,23 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Mehrgenerationenhaus mit Einliegerwohnung 237,19 qm Wohnfläche",609.995 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"237,19 m²",500 m²,2.572 €/m²,Einfamilienhaus (freistehend),"237,19 m²",nil,6,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 172 qm Wohnfläche,440.249 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,172 m²,500 m²,2.560 €/m²,Einfamilienhaus (freistehend),172 m²,nil,5,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 140 qm Wohnfläche,360.249 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,500 m²,2.502 €/m²,Einfamilienhaus (freistehend),"143,61 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 140 qm Wohnfläche,360.249 €,"47533 Kleve, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,500 m²,2.502 €/m²,Einfamilienhaus (freistehend),"143,61 m²",nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit 125 qm Wohnfläche,389.995 €,"47495 Rheinberg, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,500 m²,3.120 €/m²,Einfamilienhaus (freistehend),125 m²,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Wunderschönes Traumhaus mit 249,50 qm Wohnfläche City Villa",680.998 €,"Hüls, 47807 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"249,5 m²",500 m²,2.729 €/m²,Einfamilienhaus (freistehend),"249,5 m²",nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumgrundstück in MEGA-Wohnlage - nur kurze Zeit - schnell sein lohnt sich,713.161 €,"Spexard, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,179 m²,600 m²,3.984 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+schickes wohnen mit großzügigen Garten,523.937 €,"32791 Lage, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,670 m²,3.613 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+jetzt ins Traumhaus und dicke Förderung mitnehmen - Rufen Sie mich an!!!,435.215 €,"32791 Lage, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,107 m²,687 m²,4.067 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+elegantes Haus in TOP-Lage - modernste Technik - fast fertig ausgebaut,520.003 €,"32602 Vlotho, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,770 m²,3.467 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+LUXUS pur - endlich WOHNEN!!! inkl. PV-Anlage & Batterie,699.813 €,"32602 Vlotho, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,222 m²,770 m²,3.152 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Klein aber fein - inkl. PV-Anlage & Speicher - TOP Wohnlage,447.538 €,"32602 Vlotho, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,770 m²,3.580 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Alles auf einer Ebene - Traumhaus - jetzt anrufen!!!,448.983 €,"32602 Vlotho, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,107 m²,770 m²,4.196 €/m²,Bungalow,nil,nil,2,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Schickes Design trifft auf innovative Technik - und das noch in ruhiger Lage,487.196 €,"32602 Vlotho, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,133 m²,770 m²,3.663 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Doppelte Förderung erhalten - zusätzlich für die Rente vorsorgen - mit Einliegerwohnung,651.732 €,"32602 Vlotho, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,220 m²,770 m²,2.962 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+schnell sein lohnt sich - sichern Sie sich jetzt noch beste Fördermöglichkeiten,709.748 €,"33378 Rheda-Wiedenbrück, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,177 m²,400 m²,4.010 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Schickes Wohnen in begehrter Lage in Wiedenbrück,644.946 €,"33378 Rheda-Wiedenbrück, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,138 m²,400 m²,4.674 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Top Lage in Wiedenbrück - Exklusives Bauvorhaben in exklusiver Lage,676.492 €,"33378 Rheda-Wiedenbrück, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,400 m²,4.228 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klein aber fein - inkl. PV-Anlage & Speicher - TOP Wohnlage,523.732 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,93 m²,420 m²,5.632 €/m²,Bungalow,nil,nil,1,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+jetzt ins Eigenheim und Förderung mitnehmen - PV-Anlage inkl. Speicher geschenkt,541.538 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,420 m²,4.332 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Die Gelegenheit - Wenn bauen, dann jetzt!!!",649.200 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,156 m²,420 m²,4.162 €/m²,Einfamilienhaus (freistehend),nil,nil,3,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Werte schaffen mit 2. Wohneinheit - gleichzeitig für die Rente vorsorgen,999.492 €,"32758 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,282 m²,1.000 m²,3.544 €/m²,Mehrfamilienhaus,nil,nil,6,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Alle Lieben unter einem Dach - Mit ELW doppelte Förderung mitnehmen,781.732 €,"32758 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,220 m²,1.000 m²,3.553 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+tolle Doppelhaushälfte mit Top Ausrichtung,473.799 €,"32758 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,490 m²,3.884 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Alles auf einer Ebene - Traumhaus - jetzt anrufen!!!,496.002 €,"33758 Schloß Holte-Stukenbrock, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,85 m²,510 m²,5.835 €/m²,nil,nil,nil,1,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+schickes Eigenheim? Der Traum kann wahr werden! BIEN ZENKER - Das Haus,534.568 €,"33758 Schloß Holte-Stukenbrock, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,510 m²,3.341 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+elegantes Eigenheim - ein Traum wird wahr!!! nur kurze Zeit - jetzt zuschlagen,508.138 €,"33758 Schloß Holte-Stukenbrock, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,131 m²,510 m²,3.879 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Elegantes Wohnen mit netten Nachbarn - inkl. QNG und KFW Förderung,455.799 €,"33818 Leopoldshöhe, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,253 m²,3.736 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Top Lage mit optimaler Südausrichtung - jetzt noch Förderungen mitnehmen,473.799 €,"32758 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,250 m²,3.884 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Grundstück mit Weitblick und wahnsinnig viel Platz!!!,492.002 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,140 m²,760 m²,3.514 €/m²,Bungalow,nil,nil,2,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Tolle zentrale Lage - mit vielen Entfaltungsmöglichkeiten,478.598 €,"Bahnhofstraße 63,
+33142 Büren, Paderborn (Kreis)",5,147 m²,760 m²,3.256 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Erfüllen Sie sich JETZT Ihrem Traum vom Haus - mit interessanten Fördermöglichkeiten,462.963 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,110 m²,760 m²,4.209 €/m²,Bungalow,nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Extravaganz + Luxus + Komfort = Traumhaus! Wir haben es für Sie,641.196 €,"Innenstadt-Nordhorn, 33330 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,133 m²,680 m²,4.821 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+ebenerdiges Wohnen in exklusiver Wohnlage nähe Mohns Park,629.495 €,"Innenstadt-Nordhorn, 33330 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,126 m²,680 m²,4.996 €/m²,Bungalow,nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+schicke Doppelhaushälfte wie ein Einfamilienhaus auf großzügigen Grundstück,600.799 €,"Innenstadt-Kattenstroth, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,650 m²,4.925 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+LUXUS pur - endlich WOHNEN!!! inkl. PV-Anlage & Batterie,649.748 €,"32107 Bad Salzuflen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,177 m²,610 m²,3.671 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+traumhaus inkl. Einliegerwohnung oder Bürotrakt für das luxuriöse HomeOffice,997.853 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,220 m²,1.050 m²,4.536 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus auf großen Grundstück - PV-Anlage inkl. Speicher - modernste Technik,951.615 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,201 m²,1.050 m²,4.734 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaus mit TOP-Ausstattung inkl. PV-Anlage und Stromspeicher,527.371 €,"33397 Rietberg, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,370 m²,4.323 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+schickes Eigenheim? Der Traum kann wahr werden! BIEN ZENKER - Das Haus,610.902 €,"Innenstadt-Nordhorn, 33330 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,690 m²,3.967 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+LUXUS pur - endlich WOHNEN!!! inkl. PV-Anlage & Batterie,1.083.813 €,"Innenstadt-Kattenstroth, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,222 m²,1.300 m²,4.882 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+schickes Eigenheim? Der Traum kann wahr werden! BIEN ZENKER - Das Haus,751.615 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,201 m²,500 m²,3.739 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+elegantes Wohnen in gehobener Wohnlage in Sürenheide,638.197 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,156 m²,500 m²,4.091 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Pflegeleichtes Grundstück in TOP-Lage - modernste Technik - niedrigste Heizkosten,631.329 €,"33378 Rheda-Wiedenbrück, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,172 m²,340 m²,3.671 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klein aber fein - inkl. PV-Anlage & Speicher - TOP Wohnlage,555.598 €,"Heidbrinkstraße 64,
+33378 Rheda-Wiedenbrück, Gütersloh (Kreis)",5,147 m²,340 m²,3.780 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klein aber fein - inkl. PV-Anlage & Speicher - TOP Wohnlage,531.913 €,"32107 Bad Salzuflen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,126 m²,610 m²,4.222 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+schickes Eigenheim? Der Traum kann wahr werden! BIEN ZENKER - Das Haus,465.538 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,330 m²,3.724 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klein aber fein - inkl. PV-Anlage & Speicher - TOP Wohnlage,431.215 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,107 m²,330 m²,4.030 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Perfektes Zuhause: Fertighaus von Bien Zenker mit Top-Energieeffizienz,489.655 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,114 m²,300 m²,4.295 €/m²,nil,nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Nachhaltig Wohnen: Energieeffiziente Bien Zenker Häuser auf attraktiven Grundstücken,715.200 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,156 m²,610 m²,4.585 €/m²,Einfamilienhaus (freistehend),nil,nil,3,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Wohnen: Hochwertiges Fertighaus von Bien Zenker auf erstklassigem Grundstück,763.504 €,"33415 Verl, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,600 m²,4.491 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Wohnen: Hochwertiges Fertighaus von Bien Zenker auf erstklassigem Grundstück,618.200 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,156 m²,700 m²,3.963 €/m²,Einfamilienhaus (freistehend),nil,nil,3,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+elegenates WOHNEN mit modernster Technik inkl. PV-Anlage & Speicher,735.504 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,630 m²,4.326 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+moderne Architektur trifft auf nachhaltige Bauweise - inkl. PV-Anlage & Speicher,559.748 €,"33790 Halle (Westfalen), Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,177 m²,450 m²,3.162 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+jetzt ins Eigenheim und Förderung mitnehmen - sprechen Sie uns an!!!,459.684 €,"33790 Halle (Westfalen), Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,138 m²,450 m²,3.331 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+klassische Architektur trifft auf effiziente Bauweise,471.684 €,"32257 Bünde, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,138 m²,518 m²,3.418 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+endlich in die eigenen 4 Wände - ein Traum kann wahr werden - rufen Sie mich an,483.598 €,"Huchzerstraße 6,
+32257 Bünde, Herford (Kreis)",5,147 m²,518 m²,3.290 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klein aber fein - inkl. PV-Anlage & Speicher - TOP Wohnlage,478.002 €,"Sennestadt, 33689 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,85 m²,520 m²,5.624 €/m²,nil,nil,nil,1,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+LUXUS pur - endlich WOHNEN!!! inkl. PV-Anlage & Batterie,648.197 €,"Sennestadt, 33689 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,156 m²,575 m²,4.155 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+pure Eleganz - suchen Sie das Außergewähnliche? BIEN ZENKER - hier sind Sie richtig,636.504 €,"Sennestadt, 33689 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,520 m²,3.744 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+moderne Architektur trifft auf nachhaltige Bauweise - inkl. PV-Anlage & Speicher,568.492 €,"Sennestadt, 33689 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,520 m²,3.553 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+2 Generationen unter einem Dach - oder ideal für die große Familie - großes Grundstück,839.001 €,"Brackwede, 33649 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,211 m²,900 m²,3.976 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Energie sparen, Komfort genießen: Ihr neues Bien Zenker Haus wartet auf Sie!",640.902 €,"Brackwede, 33649 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,900 m²,4.162 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Wohnen: Hochwertiges Fertighaus von Bien Zenker auf erstklassigem Grundstück,659.495 €,"33397 Rietberg, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,126 m²,600 m²,5.234 €/m²,Bungalow,nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Eigenheim: Energieeffizientes Fertighaus von Bien Zenker auf Traumgrundstück!,653.132 €,"Isselhorst, 33334 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,540 m²,4.082 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wohlfühl-Oase: Energieeffizientes Fertighaus von Bien Zenker für die ganze Familie,787.255 €,"Isselhorst, 33334 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,201 m²,540 m²,3.917 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Lebensqualität trifft Nachhaltigkeit: Bien Zenker Fertighaus auf idyllischem Grundstück,722.144 €,"Isselhorst, 33334 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,550 m²,4.248 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumlage in Westerwiehe - enegieeffizient und nachhaltig - jetzt anfragen,786.504 €,"33397 Rietberg, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,600 m²,4.626 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}

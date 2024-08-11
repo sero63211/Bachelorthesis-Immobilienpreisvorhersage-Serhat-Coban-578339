@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Schön gelegene 2-Raum-Wohnung mit Balkon und EBK in Berlin-Britz,210.000 €,"Am Mickelbruch 7,
+Britz, 12347 Berlin",2,58 m²,3.621 €/m²,Etagenwohnung,nil,24.3.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freie 3-Zimmer-Wohnung mit Balkon in Berlin-Pankow!,315.000 €,"Pankow (Ortsteil), 13189 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,57 m²,5.526 €/m²,Etagenwohnung,nil,Winter 2024,2,1,nil,"3,57% inkl. 19% USt. vom Kaufpreis, zahlbar vom Käufer an Klaue Immobilien.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+WOHNEN DIREKT AN DER SPREE MIT WASSERBLICK IN DENKMALGESCHÜTZTEM LOFTGEBÄUDE,999.000 €,"Kreuzberg, 10997 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,114 m²,8.763 €/m²,Terrassenwohnung,nil,nil,2,1,nil,"3,57% inkl. gesetzlicher MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+"Himmlische Aussichten: Skyline-Flair in einmaliger Lage von Mitte, 10. OG mit kl. Dachterrasse!",224.000 €,"Mitte (Ortsteil), 10178 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,21 m²,10.667 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+freies möbliertes Apartment mit Balkon in Friedenau,198.000 €,"Friedenau, 12161 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,36 m²,5.500 €/m²,Hochparterre,nil,sofort,nil,1,nil,"3,57 % inkl. Mwst. auf den Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+bezugsfrei: Altbauwohnung mit Balkon im Günzelkiez,490.000 €,"Holsteinische Straße 53,
+Wilmersdorf, 10717 Berlin",3,82 m²,5.976 €/m²,Etagenwohnung,nil,sofort,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 2-Zimmerwohnung mit Balkon im beliebten und ruhigen Zehlendorf,290.000 €,"Zehlendorf, 14169 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,56 m²,5.179 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Exklusives Wohnen in Berlin-Reinickendorf – Hochwertige 4-Zimmer-Eigentumswohnung mit Dachterrasse,890.000 €,"Waidmannsluster Damm 161/163,
+Waidmannslust, 13469 Berlin",4,140 m²,6.357 €/m²,Dachgeschoss,"140,31 m²",nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Die schönste 1 Zimmerwohnung der Stadt im beliebten Güntzelkietz,325.000 €,"Holsteinische Straße 43,
+Wilmersdorf, 10717 Berlin",1,38 m²,8.553 €/m²,Etagenwohnung,38 m²,24.3.2024,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmante 2-Zimmerwohnung im Herzen von Rudow: Wohnen mit Stil,270.000 €,"Rudow, 12355 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,4.219 €/m²,Etagenwohnung,nil,Ab sofort,1,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+3 Zimmerwohnung mit Sonnenbalkon und Tiefgarage zum sofort Bezug,265.000 €,"Staaken, 13591 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"67,54 m²",3.924 €/m²,Etagenwohnung,nil,sofort,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neuer Preis !! Berlin Lichterfelde - schöne ETW -3 Zimmer und Tiefgarage-zuverlässig vermietet,299.000 €,"Lichterfelde, 12207 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,3.833 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. MwSt., fällig nach Beurkundung","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Three-room apartment in TOP location, negotiable price & commission-free",670.000 €,"Wittelsbacher Straße 31,
+Wilmersdorf, 10707 Berlin",3,89 m²,7.528 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ANGEBOT! Jetzt -provisionsfrei- kaufen und Geld sparen,117.000 €,"Körnerstraße 22,
+Tiergarten, 10785 Berlin",1,"26,55 m²",4.407 €/m²,nil,nil,nil,nil,1,nil,keine Provision fällig,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Eigentumswohnung in beliebter Lage,203.000 €,"Beusselstraße 18,
+Moabit, 10553 Berlin",1,"41,46 m²",4.896 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57 %","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"provisionsfrei - Ferienwohnung - ""Immer einen Koffer in Berlin""",399.900 €,"Mitte (Ortsteil), 10117 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,47 m²,8.509 €/m²,Etagenwohnung,47 m²,sofort,1,1,nil,provisionsfrei,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Altbauklassiker mit Top Ausstattung von privat - ab Mai verfügbar,659.000 €,"Steglitz, 12163 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,98 m²,6.724 €/m²,Etagenwohnung,nil,1.5.2024,nil,2,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+provisionsfrei - Komplett eingerichtet - nur einziehen,399.900 €,"Mitte (Ortsteil), 10117 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,47 m²,8.509 €/m²,Etagenwohnung,47 m²,sofort,1,1,nil,provisionsfrei,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Helle Aussichten: Einladende 2-Zimmer-Wohnung zum Wohlfühlen,289.000 €,"Wilmersdorf, 10715 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,5.255 €/m²,Hochparterre,nil,nil,1,1,nil,"3,57 % (3% zzgl. MwSt)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Sofort bezugsfreie Gelegenheit im nördlichen Mariendorf!,240.000 €,"Mariendorf, 12109 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,4.364 €/m²,Etagenwohnung,nil,sofort möglich,1,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"

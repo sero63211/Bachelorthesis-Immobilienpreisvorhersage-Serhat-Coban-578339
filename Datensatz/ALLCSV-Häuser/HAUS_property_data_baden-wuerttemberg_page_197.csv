@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus mit Einliegerwohnung in Erligheim,498.000 €,"74391 Erligheim, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"158,44 m²",191 m²,3.143 €/m²,Einfamilienhaus (freistehend),"93,49 m²",nach Absprache,3,1,2 Garagen,"3,57 % (inkl. MwSt)","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Heumaden - solides MFH mit Gewerbeeinheit, zentrale und ruhige Lage - 2 Wohnungen frei",825.000 €,"Heumaden, 70619 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,220 m²,359 m²,3.750 €/m²,Mehrfamilienhaus,154 m²,sofort,nil,5,3 Garagen,"3,57% inkl. Mwst.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Sehr gepflegt!,285.000 €,"89176 Asselfingen, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,102 m²,105 m²,2.794 €/m²,Reiheneckhaus,nil,Nach Vereinbarung,3,nil,3 Außenstellplätze,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Viel Platz, Garten, Scheune, Doppelgarage,....",280.000 €,"89547 Gerstetten, Heidenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,127 m²,675 m²,2.205 €/m²,Einfamilienhaus (freistehend),nil,nil,9,nil,1 Außenstellplatz,"4,76% des Kaufpreises inkl. MwSt.",{'is24qa-keller-label': ''}
+"Modernisierungswürdiges EFH zum kleinen Preis. Schönes Grundstück, viel Wohnfläche",298.000 €,"69198 Schriesheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"141,41 m²",407 m²,2.107 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,4,1,1 Garage,"3,57 % inkl. ges. MwSt.",{}
+"Ruhig, idyllisch und zentral! Willkommen in Weinsberg! - FALC Immobilien Heilbronn",350.000 €,"74189 Weinsberg, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,119 m²,240 m²,2.941 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,3,2,nil,"3,57 % inkl. MwSt. vom Kaufpreis durch Abwälzung, weitere Info unter ""sonstige Angaben"" im Exposé.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
++ Tolle Gelegenheit mit Potenzial +,479.500 €,"Plieningen (Ortsteil), 70599 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,112 m²,140 m²,4.281 €/m²,Reiheneckhaus,37 m²,nil,4,1,1 Garage,"3,57 % vom Verkauspreis inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+"""Lebensqualität neu definiert: Moderne DHH in Rust mit nachhaltigem Konzept!""",889.800 €,"Beethofenstr. 2,
+77977 Rust, Ortenaukreis","5,5","169,63 m²",375 m²,5.246 €/m²,Doppelhaushälfte,nil,nil,3,2,4 Außenstellplätze,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehendes Einfamilienhaus in traumhafter Aussichtslage 👀,698.000 €,"71573 Allmersbach im Tal, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,193 m²,1.202 m²,3.617 €/m²,Einfamilienhaus (freistehend),142 m²,Nach Absprache,nil,nil,4 Garagen,"2,38 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Vielseitiges Zweifamilienhaus mit Ferienapartment,550.000 €,"79365 Rheinhausen, Emmendingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"248,51 m²",382 m²,2.213 €/m²,Mehrfamilienhaus,nil,nach Vereinbarung,5,3,3 Stellplätze,"2,38 %",{'is24qa-gaeste-wc-label': ''}
+Sehr gepflegtes Zweifamilienhaus mit Einliegerwohnung in March-Neuershausen,950.000 €,"79232 March, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,287 m²,442 m²,3.310 €/m²,Mehrfamilienhaus,"87,8 m²",August 2024,nil,4,Garage,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Vermietetes Mehrfamilienhaus mit Garagen auf Erbbaugrundstück,300.000 €,"69226 Nußloch, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,180 m²,542 m²,1.667 €/m²,Mehrfamilienhaus,nil,nach Vereinbarung,4,4,Außenstellplatz,"4,76% vom Kaufpreis (inkl. MwSt.)",{'is24qa-vermietet-label': ''}
+Charmantes Ein- bis Zweifamilienhaus im Herzen von Leimen!,448.000 €,"69181 Leimen, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,146 m²,163 m²,3.068 €/m²,Einfamilienhaus (freistehend),20 m²,Nach Absprache,6,2,2 Stellplätze,"2,38% inkl. der ges. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Investitionsmöglichkeit für Kapitalanleger! Mehrfamilienhaus mit 10 Wohneinheiten in Bad Krozingen,998.000 €,"79189 Bad Krozingen, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,398 m²,770 m²,2.508 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,3 Außenstellplätze,"3,57% inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"MfH in Stgt.-West, *LEERSTAND*, Altbau, Garagen, Baugesuch, Erweiterungs- & Entwicklungspotenzial",3.350.000 €,"Vogelsang, 70193 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",41,980 m²,376 m²,3.418 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"4,76 % inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': ''}"
+"MFH, Leerstände vorhanden, Pkw-Stellplätze, genehmigte Baugesuche, TOP INVESTMENT",3.250.000 €,"Neckarvorstadt, 70376 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",38,1.014 m²,368 m²,3.205 €/m²,Mehrfamilienhaus,nil,sofort,nil,nil,nil,"4,76 % inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': ''}"
+Erleben Sie Ihren Wohntraum: NEUBAU! Zweifamilienhaus mit Eleganz und Komfort in Birkenfeld,Auf Anfrage,"75217 Birkenfeld, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,"234,7 m²",287 m²,nil,Wohnimmobilie (sonstige),"292,3 m²",ab sofort,5,2,2 Stellplätze,"3,57% inkl.MwSt. Fällig und berechtigt nach notarieller Beurkundung",{'is24qa-gaeste-wc-label': ''}
+Großes Einfamilienhaus auf herrlichem Eckgrundstück in Tübinger Bestlage,1.240.000 €,"Wanne, 72076 Tübingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,205 m²,1.015 m²,6.049 €/m²,Einfamilienhaus (freistehend),125 m²,nil,5,2,2 Garagen,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Alt oder doch lieber Neu? Sie entscheiden!,1.069.000 €,"72622 Nürtingen, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,194 m²,459 m²,5.510 €/m²,Einfamilienhaus (freistehend),33 m²,nil,5,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gute Kapitalanlage in Kirchzarten: vermietetes Zweifamilienhaus in ruhiger und zentraler Lage,970.000 €,"79199 Kirchzarten, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"253,96 m²",477 m²,3.819 €/m²,Einfamilienhaus (freistehend),"103,68 m²",vermietet,nil,3,4 Stellplätze,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

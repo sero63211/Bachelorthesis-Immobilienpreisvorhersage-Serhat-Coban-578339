@@ -1,0 +1,67 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+PROBE-WOHNEN am 30.06. im Musterhaus - Nachhaltig Wohnen im rechtsrheinischen Köln,675.378 €,"Am Krausbaum 34b,
+Wahn, 51147 Köln",5,"142,61 m²",198 m²,4.736 €/m²,Doppelhaushälfte,"42,84 m²",Sommer 2024,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Platz für die ganze Familie in sehr guter Wohnlage in Alsdorf!,438.500 €,"Robert-Koch-Straße 63,
+52477 Alsdorf, Aachen (Kreis)",5,"131,97 m²",186 m²,3.323 €/m²,Reihenmittelhaus,"50,55 m²",Mitte 2025,3,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Altbaucharme sticht!,339.000 €,"Mittelstraße 2,
+50374 Erftstadt, Rhein-Erft-Kreis",6,"143,3 m²",135 m²,2.366 €/m²,Doppelhaushälfte,"31,81 m²",nil,5,2,nil,"2,95 % des beurkundeten Kaufpreis inkl. der gesetzlichen MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-vermietet-label': ''}"
+Wohnen auf 202m² in der City! Großzügiges und solides Familiendomizil mit viel Potenzial,459.000 €,"53359 Rheinbach, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,202 m²,665 m²,2.272 €/m²,Einfamilienhaus (freistehend),nil,sofort,4,2,1 Garage,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+VIERSEN-HAUSEN WEITLÄUFIGER BUNGALOW NEBST PKW-GARAGEN IN IDYLLISCHER-FELDRANDLAGE!,689.000 €,"41751 Viersen, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,199 m²,1.936 m²,3.462 €/m²,Bungalow,nil,nach Vereinbarung,3,1,2 Garagen,"3,57% Käufercourtage inkl. 19% Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Schönes Mehrgenerationenhaus in Toplage mit vielen Gestaltungsmöglichkeiten!,350.000 €,"42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,151 m²,298 m²,2.318 €/m²,Doppelhaushälfte,nil,ab sofort,3,2,1 Garage,"3,57%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Traumhaftes Eigenheim in 1. Reihe am Rhein - Leben wie im Urlaub in Niederkassel,785.000 €,"53859 Niederkassel, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,140 m²,800 m²,5.607 €/m²,Doppelhaushälfte,65 m²,01.10.2024,3,2,2 Garagen,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Investoren und Kapitalanleger aufgepasst!,799.000 €,"53721 Siegburg, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",13,234 m²,345 m²,3.415 €/m²,Wohnimmobilie (sonstige),"83,5 m²",nil,nil,3,nil,"3,57 % inkl. 19 % MwSt. vom notariellen Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"""Großzügiges Wohnen mit Ausbaupotential!"" Freistehendes Einfamilienhaus in ruhiger Lage",490.000 €,"52441 Linnich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"168,92 m²",972 m²,2.901 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,2,2,2 Garagen,"3,57 % inkl. ges. MwSt vom beurkundeten Kaufpreis",{}
+Jetzt KfW-Förderung sichern! - Förderfähige KFW-40-Doppelhaushälfte in Hückelhoven-Doveren!,492.900 €,"Dammweg 14,
+41836 Hückelhoven, Heinsberg (Kreis)",4,126 m²,364 m²,3.912 €/m²,Doppelhaushälfte,7 m²,15.12.2025,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrgenerationenhaus mit drei Wohnungen in Neukirchen zu kaufen!,349.231 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,163 m²,715 m²,2.143 €/m²,Mehrfamilienhaus,nil,nach Vereinbarung,nil,3,2 Garagen,"5,95 % inkl. MwSt.",{'is24qa-keller-label': ''}
+Fröndenberg: Altbau mit grüner Gartenoase nahe der City!,198.000 €,"58730 Fröndenberg/Ruhr, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"167,23 m²",544 m²,1.184 €/m²,Einfamilienhaus (freistehend),"61,25 m²",nach Absprache,nil,2,nil,"zzgl. 3,570 % (inkl. 19,0 % MwSt.)",{'is24qa-keller-label': ''}
+Exklusiv und direkt bezugsfertig: Neubau-Doppelhaushälfte,469.000 €,"32107 Bad Salzuflen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"188,52 m²",275 m²,2.488 €/m²,Doppelhaushälfte,10 m²,nil,5,2,2 Außenstellplätze,"3,57 % vom Kaufpreis inkl. MwSt.,",{'is24qa-gaeste-wc-label': ''}
+KFW-40-Neubau - Jetzt attraktive Förderung sichern!,452.900 €,"Dammweg 14,
+41836 Hückelhoven, Heinsberg (Kreis)",5,142 m²,233 m²,3.189 €/m²,Reihenmittelhaus,2 m²,30.06.2025,4,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+PROBE-WOHNEN am 23.06 - jetzt Eigenheim mit nachhaltigem Energiekonzept sichern!,397.900 €,"Am Auenpark 40 b,
+59379 Selm, Unna (Kreis)",5,134 m²,346 m²,2.969 €/m²,Reihenmittelhaus,7 m²,12/25,3,1,2 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehendes Ein-/Zweifamilienhaus im Landhausstil,2.480.000 €,"Hahnwald, 50996 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,330 m²,1.080 m²,7.515 €/m²,Wohnimmobilie (sonstige),110 m²,nil,nil,nil,1 Stellplatz,"2,38% des Kaufpreises",{}
+"mit QNG+, Rendite nutzen",854.369 €,"53909 Zülpich, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,360 m²,650 m²,2.373 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Exclusives Reihenendhaus auf traumhaftem Grundstück in Essen-Kettwig,Auf Anfrage,"Kettwig, 45219 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,0 m²,0 m²,nil,Reiheneckhaus,nil,nil,nil,nil,nil,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Exclusives Reihenmittelhaus auf traumhaftem Grundstück in Essen-Kettwig,Auf Anfrage,"Kettwig, 45219 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,0 m²,0 m²,nil,Reihenmittelhaus,nil,nil,nil,nil,nil,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Exclusives Reihenendhaus auf traumhaftem Grundstück in Essen-Kettwig,825.500 €,"Kettwig, 45219 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"152,55 m²",238 m²,5.411 €/m²,Einfamilienhaus (freistehend),"19,86 m²",nil,4,2,nil,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Exclusives Reihenendhaus auf traumhaftem Grundstück in Essen-Kettwig,835.500 €,"Kettwig, 45219 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"152,55 m²",278 m²,5.477 €/m²,Einfamilienhaus (freistehend),"19,86 m²",nil,4,2,nil,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Exclusives Reihenmittelhaus auf traumhaftem Grundstück in Essen-Kettwig,752.500 €,"Kettwig, 45219 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,168 m²,4.375 €/m²,Reihenmittelhaus,nil,nil,nil,2,nil,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Exclusives Reihenmittelhaus auf traumhaftem Grundstück in Essen-Kettwig,744.500 €,"Kettwig, 45219 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"157,08 m²",135 m²,4.740 €/m²,Einfamilienhaus (freistehend),"20,84 m²",nil,4,2,nil,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Exclusives Reihenendhaus auf traumhaftem Grundstück in Essen-Kettwig,Auf Anfrage,"Kettwig, 45219 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,0 m²,0 m²,nil,Reiheneckhaus,nil,nil,nil,nil,nil,"3,57%",{'is24qa-online-besichtigung-moeglich-label': ''}
+129m² Wohnfläche 4-6 Zimmer Haus mit Südausrichtung zum Feld,414.500 €,"Franzstraße 0,
+47475 Kamp-Lintfort, Wesel (Kreis)",5,129 m²,235 m²,3.213 €/m²,Reiheneckhaus,nil,2025,3,1,1 Garage,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*Fertigstellung 2024* Moderne Doppelhaushälfte mit Dachstudio, Garten und Garage",383.500 €,"Franzstraße 0,
+47475 Kamp-Lintfort, Wesel (Kreis)",4,110 m²,204 m²,3.486 €/m²,Doppelhaushälfte,nil,2024,3,1,1 Garage,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Lebensqualität auf 110 m² plus großem Garten umgeben von reizvoller Natur mit guter Anbindung,374.500 €,"Franzstraße 0,
+47475 Kamp-Lintfort, Wesel (Kreis)",4,110 m²,200 m²,3.405 €/m²,Doppelhaushälfte,nil,2024,3,1,1 Garage,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Energieeffizientes Reihenhaus mit offenem Wohn-/Ess-/Kochbereich, Dachstudio und Garten",344.500 €,"Franzstraße 0,
+47475 Kamp-Lintfort, Wesel (Kreis)",4,110 m²,193 m²,3.132 €/m²,Reihenmittelhaus,nil,2024,3,1,1 Garage,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Komfortables Reiheneckhaus mit ausgebautem Dachgeschoss, Garten und Garage in Wohlfühl-Lage",354.500 €,"Franzstraße 0,
+47475 Kamp-Lintfort, Wesel (Kreis)",4,110 m²,208 m²,3.223 €/m²,Reiheneckhaus,nil,2024,3,1,1 Garage,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hell & freundlich: Reihenhaus mit ausgeklügeltem Raumkonzept und Garten,359.000 €,"Franzstraße 0,
+47475 Kamp-Lintfort, Wesel (Kreis)",4,110 m²,147 m²,3.264 €/m²,Reihenmittelhaus,nil,2024,3,1,1 Außenstellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzug ins Glück: Reiheneckhaus mit Dachstudio und Garten im familienfreundlichen Kamp-Lintfort,364.500 €,"Franzstraße 0,
+47475 Kamp-Lintfort, Wesel (Kreis)",4,110 m²,228 m²,3.314 €/m²,Reiheneckhaus,nil,2024,3,1,1 Garage,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartiges Wohnerlebnis: Luxus-Neubau-Einfamilienhaus in idyllischer Umge: Castle-Homes Rhineview,1.000.000 €,"Hauptstraße 40,
+Rodenkirchen (Ortsteil), 50996 Köln",3,"95,3 m²",100 m²,10.493 €/m²,nil,"8,3 m²",Q3 2025,2,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau Stadthaus in direkter Rheinlage: Castle-Homes Rhineview,900.000 €,"Hauptstraße 40,
+Rodenkirchen (Ortsteil), 50996 Köln",3,"95,33 m²",80 m²,9.441 €/m²,nil,"8,3 m²",Q3 2025,2,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

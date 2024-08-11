@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+++ Schöne Doppelhaushälfte mit Garage und Stellplatz ++,340.000 €,"Johannes-Hessen-Straße XX,
+41334 Nettetal, Viersen (Kreis)",3,105 m²,305 m²,3.238 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 2-Familien-Doppelhaushälfte mit Garten +,420.000 €,"Achter de Hoef XX,
+47608 Geldern, Kleve (Kreis)",63,173 m²,444 m²,2.428 €/m²,Wohnimmobilie (sonstige),70 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes 2-Familienhaus, Doppelgarage + provisionsfrei +",375.000 €,"Wertheimer Straße XX,
+Jöllenbeck, 33739 Bielefeld",7,138 m²,936 m²,2.717 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenmittelhaus, Garten, Stellplatz + provisionsfrei +",450.000 €,"Max-Cohen-Straße XX,
+Endenich, 53121 Bonn",1,129 m²,193 m²,3.488 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Bungalow + provisionsfrei +",520.000 €,"Von-Quadt-Straße XX,
+Dellbrück, 51069 Köln",1,1 m²,698 m²,520.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlage + Wohn-/Geschäftshaus (6 Wohnungen, Gewerbe)",502.000 €,"Lambertistraße XX,
+45964 Gladbeck, Recklinghausen (Kreis)",1,456 m²,254 m²,1.101 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Fünffamilienhaus +,212.230 €,"Legienstraße XX,
+Uentrop, 59071 Hamm",1,"202,16 m²",437 m²,1.050 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Villa mit Schwimmbad, Garagen und Carport",5.730.000 €,"Zum Osterfeld XX,
+59425 Unna, Unna (Kreis)",1,"1.364,67 m²",15.781 m²,4.199 €/m²,Wohnimmobilie (sonstige),"3.164,67 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Gewerbegebäudekomplex,895.000 €,"Papenberger Straße XX,
+Blumental, 42859 Remscheid",1,5.133 m²,12.214 m²,174 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus mit Gewerbeeinheit, Garten und 2 Garagen",300.000 €,"Sandufergasse XX,
+48282 Emsdetten, Steinfurt (Kreis)",8,180 m²,450 m²,1.667 €/m²,Wohnimmobilie (sonstige),80 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Anbau - provisionsfrei,170.000 €,"Mitteldorfer Straße XX,
+53819 Neunkirchen-Seelscheid, Rhein-Sieg-Kreis",4,135 m²,908 m²,1.259 €/m²,Wohnimmobilie (sonstige),141 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenmittelhaus, Terrasse, Garage",304.000 €,"Siegstraße XX,
+41540 Dormagen, Neuss (Rhein-Kreis)",4,100 m²,259 m²,3.040 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Anbauten,834.000 €,"Berghovener Straße XX,
+Oberkassel, 53227 Bonn",4,110 m²,1.377 m²,7.582 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Mehrfamilienhaus/6 Wohnungen +,335.000 €,"Strucker Straße XX,
+Struck, 42859 Remscheid",1,424 m²,457 m²,790 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenmittelhaus, Terrasse, Stellplatz",350.000 €,"Richard-Wagner-Straße XX,
+40724 Hilden, Mettmann (Kreis)",4,96 m²,139 m²,3.646 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage ++ Mehrfamilienhaus mit 6 Wohnungen ++,1.615.000 €,"Gänsestraße XX,
+Urdenbach, 40593 Düsseldorf",12,414 m²,524 m²,3.901 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garten,140.000 €,"Bergamtsstraße XX,
+59229 Ahlen, Warendorf (Kreis)",6,"158,83 m²",852 m²,881 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus, Bungalow, 3 Stellplätze + provisionsfrei +",490.000 €,"Mittelstraße XX,
+41849 Wassenberg, Heinsberg (Kreis)",10,272 m²,1.087 m²,1.801 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Geschäftshaus als Kapitalanlage - provisionsfrei,547.000 €,"Lange Straße XX,
+Mitte, 44532 Lünen",5,100 m²,250 m²,5.470 €/m²,Wohnimmobilie (sonstige),181 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familien-Doppelhaushälfte mit Garage - provisionsfrei,179.000 €,"Herderstraße XX,
+47495 Rheinberg, Wesel (Kreis)",5,148 m²,525 m²,1.209 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

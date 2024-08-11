@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Charmantes Reihenhaus in Worms-Horchheim,390.000 €,"Horchheimer Bahnhofstr. 9B,
+Horchheim, 67551 Worms",6,142 m²,236 m²,2.746 €/m²,nil,64 m²,nil,5,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+7-Zimmer-Einfamilienhaus inklusive Einliegerwohnung,319.000 €,"Unterer Kurweg 26,
+67316 Carlsberg, Bad Dürkheim (Kreis)",7,170 m²,728 m²,1.876 €/m²,Einfamilienhaus (freistehend),50 m²,nil,4,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturidylle: freistehender Bungalow mit Garten,250.000 €,"55442 Stromberg, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,65 m²,376 m²,3.846 €/m²,Bungalow,"3,5 m²",sofort,3,1,1 Außenstellplatz,"3,57",{'is24qa-als-ferienhaus-geeignet-label': ''}
+"Viel, viel Platz in diesem geräumigen 1-2 Familienhaus.",399.000 €,"67122 Altrip, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,161 m²,449 m²,2.478 €/m²,Mehrfamilienhaus,80 m²,nil,4,2,Garage,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Attraktives 6,5-Zimmer-Einfamilienhaus in Volxheim",394.000 €,"Friedhofsweg 1,
+55546 Volxheim, Bad Kreuznach (Kreis)","6,5",182 m²,740 m²,2.165 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,Garage,nil,{'is24qa-keller-label': ''}
+Einfamilienhaus mit Einliegerwohnung,330.000 €,"55627 Martinstein, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,180 m²,662 m²,1.833 €/m²,Einfamilienhaus (freistehend),nil,Ab sofort bezugsfrei,nil,2,3 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+**Reserviert** Charmantes großes Haus mit traumhaftem Garten in Kördorf,176.000 €,"56370 Kördorf, Rhein-Lahn-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,204 m²,644 m²,863 €/m²,nil,nil,sofort,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive Stadtvilla mit Wohlfühlgarantie: Ruhiges Wohnen mit digitalem Rundgang in Orenhofen,549.000 €,"54298 Orenhofen, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,148 m²,784 m²,3.709 €/m²,Einfamilienhaus (freistehend),nil,nil,2,2,4 Stellplätze,"3,57 % inkl. ges. MwSt.",{}
+Exklusives und gepflegtes 4-Zimmer-Reihenhaus in Obrigheim (Pfalz),375.000 €,"67283 Obrigheim (Pfalz), Bad Dürkheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,280 m²,3.125 €/m²,Reihenmittelhaus,nil,nil,nil,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartiges Zweifamilienhaus mit Charme und Raum für Träume in Wahnwegen,348.000 €,"66909 Wahnwegen, Kusel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"322,71 m²",2.672 m²,1.078 €/m²,Mehrfamilienhaus,nil,nil,6,3,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Handwerker aufgepasst: Charmantes Einfamilienhaus mit viel Potenzial,249.000 €,"Oppau, 67069 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",105 m²,205 m²,2.371 €/m²,Einfamilienhaus (freistehend),40 m²,ab sofort,3,1,Garage,"3,57 %",{'is24qa-keller-label': ''}
+Charmantes Kleinod !,369.000 €,"Süd, 67061 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"128,6 m²",232 m²,2.869 €/m²,Einfamilienhaus (freistehend),nil,sofort,3,2,2 Außenstellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+# Idyllisch wohnen für wenig Geld #,165.000 €,"66919 Obernheim-Kirchenarnbach, Südwestpfalz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,1.030 m²,1.667 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus,145.000 €,"Burgstr. 23,
+55585 Altenbamberg, Bad Kreuznach (Kreis)",8,105 m²,200 m²,1.381 €/m²,Einfamilienhaus (freistehend),35 m²,nil,3,1,nil,"2,98",{}
+"Vermietet, gepflegt, naturnah! Harmonisches Zweifamilienhaus in bester Lage.",429.000 €,"67473 Lindenberg, Bad Dürkheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,174 m²,664 m²,2.466 €/m²,Mehrfamilienhaus,40 m²,Nach Absprache.,4,2,1 Garage,"Die Provision beträgt 3,57% des Kaufpreises inkl. 19% MwSt. und ist vom Käufer zu tragen.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+WEINGUT*LUXUS*3-L-Eck*D/F/L+WALD*ORTSRAND,1.795.000 €,"Auf der Lay 1,
+54439 Saarburg, Trier-Saarburg (Kreis)",10,400 m²,3.489 m²,4.488 €/m²,Besondere Immobilie,nil,13.3.2024,nil,3,10 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegtes Wohnhaus in ruhiger Wohnlage,295.000 €,"66914 Waldmohr, Kusel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,620 m²,1.916 €/m²,Einfamilienhaus (freistehend),nil,sofort,4,1,1 Garage,"3,57 inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Toplage - Tolles Einfamilienhaus mit 3 Garagen und großem, sehr gepflegtem Garten",549.000 €,"67141 Neuhofen, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5","198,13 m²",641 m²,2.771 €/m²,Einfamilienhaus (freistehend),nil,sofort,nil,3,5 Garagen,"3,57 inkl. MwSt. für den Käufer auf den notariellen Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+*** Gutshof in Alleinlage mit Blick über das Rheintal ***,1.990.000 €,"53545 Linz am Rhein, Neuwied (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,1.040 m²,16.800 m²,1.913 €/m²,nil,1.200 m²,nil,8,6,nil,"3,57% Käuferprovision inklusive MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Großzügiges Anwesen mit Wellnessbereich und großer Gartenfläche in Koblenz-Arenberg,1.200.000 €,"Arenberg, 56077 Koblenz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"194,58 m²",1.758 m²,6.167 €/m²,Einfamilienhaus (freistehend),125 m²,sofort,4,2,3 Außenstellplätze,"2,38",{'is24qa-keller-label': ''}

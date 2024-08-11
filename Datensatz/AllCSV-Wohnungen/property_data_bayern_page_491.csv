@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Moderne Eigentumswohnung in der Nähe von Schloss Blutenburg,730.000 €,"Obermenzing, 81247 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,8.488 €/m²,Etagenwohnung,99 m²,nil,2,1,nil,"1,5% zzgl. MwSt.*","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Perfekte Wohnung für Immobilieneinsteiger und/oder Kapitalanleger!,218.000 €,"83435 Bad Reichenhall, Berchtesgadener Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,3.695 €/m²,Etagenwohnung,nil,sofort,1,1,1 Tiefgaragen-Stellplatz,"2,98 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Exklusive, neuwertige 2-Zimmer-Wohnung mit Balkon und Einbauküche in Landshut",285.000 €,"Nikola, 84034 Landshut
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,5.182 €/m²,Etagenwohnung,nil,nil,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne und geräumige 4-Zimmer Eigentumswohnung mit Balkon im Herzen der Altstadt,230.000 €,"94065 Waldkirchen, Freyung-Grafenau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,72 m²",1.844 €/m²,Etagenwohnung,"10,95 m²",sofort,3,1,nil,"3,57 % inkl. MwSt. vom beurkundeten Kaufpreis - Käuferprovision","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+4-Zimmer Erdgeschoss Wohnung mit eigenem Gartenanteil,379.000 €,"Peter-Meier-Str. 8,
+83352 Altenmarkt an der Alz, Traunstein (Kreis)",4,84 m²,4.512 €/m²,Erdgeschosswohnung,nil,1.8.2024,1,1,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne 3 Zimmer Wohnung zur Kapitalanlage in Ismaning,470.000 €,"85737 Ismaning, München (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,6.026 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"2,38 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Absolut neuwertige 4-Zimmer-Wohnung in Nürnbergs Südstadt inkl. überdachtem Stellplatz,389.000 €,"Gugelstraße, 90459 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,4.095 €/m²,nil,nil,nil,nil,nil,nil,"2,945 % für den Käufer inkl. MwSt.",{}
+"""LIEBHABERSTÜCK IN ORTSRANDLAGE""",399.000 €,"83317 Teisendorf, Berchtesgadener Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,96 m²,4.156 €/m²,Maisonette,nil,sofort,3,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"***Wohnen wie im Penthouse"" Dachterrassenwohnung in Metten ****",255.000 €,"94526 Metten, Deggendorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,72 m²,3.542 €/m²,Penthouse,nil,vermietet,2,1,Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt",{'is24qa-vermietet-label': ''}
+Top Studentenapartement (W 1.4) mit Steuervorteil in der Altstadt Regenburg,293.000 €,"Obere Bachgasse 19,
+Innenstadt, 93047 Regensburg",1,"27,16 m²",10.788 €/m²,nil,"2,5 m²",Herbst 2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Top Studentenapartement (W 1.3) mit Steuervorteil in der Altstadt Regenburg,212.000 €,"Obere Bachgasse 19,
+Innenstadt, 93047 Regensburg",1,"19,26 m²",11.007 €/m²,nil,"2,36 m²",Herbst 2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+In luftiger Höhe! Über den Dächern Schwabachs.,389.000 €,"Innenstadt, 91126 Schwabach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,119 m²,3.269 €/m²,Penthouse,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': ''}"
+"Sonnige 4-Zimmer Erdgeschosswohnung mit Südterasse, Souterrain und Tiefgarage",1.079.000 €,"Waldperlach, 81739 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"102,92 m²",10.484 €/m²,Erdgeschosswohnung,36 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erstbezug nach Sanierung mit Terrasse: hochwertige 4-Zimmer-Wohnung in Ebersberg,635.000 €,"85560 Ebersberg, Ebersberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,5.292 €/m²,Erdgeschosswohnung,nil,nil,nil,2,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EXKLUSIVE 3-ZI. WOHNUNG AM FESTSPIELHÜGEL - TOPLAGE IN BAYREUTH,659.392 €,"Gartenstadt/Wendelhöfen, 95445 Bayreuth
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,103 m²,6.402 €/m²,nil,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartige 4-Zimmer Wohnung mit Südbalkon und Tiefgarage,959.000 €,"Waldperlach, 81739 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"91,41 m²",10.491 €/m²,Etagenwohnung,"5,5 m²",nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Traumhafte 4-Zimmer Erdgeschosswohnung mit Südterasse, Souterrain und Tiefgarage",948.000 €,"Waldperlach, 81739 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"85,91 m²",11.035 €/m²,Erdgeschosswohnung,"27,6 m²",nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"WEIGERT: Gepflegte, ruhig und doch zentral gelegene 2-Zimmer-Wohnung mit TG & Balkon in Germering",315.000 €,"82110 Germering, Fürstenfeldbruck (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"54,59 m²",5.770 €/m²,Etagenwohnung,nil,Vermietet,1,1,1 Tiefgaragen-Stellplatz,"2,38inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Zentrale 4-Zimmer-City Wohnung mit Balkon und Aufzug,199.000 €,"Königsallee/Eichelberg, 95448 Bayreuth
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,94 m²,2.117 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"3,57 inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Hübsche 3,5 Zimmerwohnung mit sonnigem Westbalkon ****",233.000 €,"Innenstadt, 87700 Memmingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",77 m²,3.026 €/m²,nil,nil,nach Absprache,2,1,2 Stellplätze,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"

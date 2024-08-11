@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Mehrfamilienhaus mit 3 Wohneinheiten in Jesbergs Stadtmitte,135.000 €,"Schloßstraße 2,
+34632 Jesberg, Schwalm-Eder-Kreis",3,291 m²,420 m²,464 €/m²,nil,291 m²,nil,3,3,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+WRS Immobilien - Riedstadt-Goddelau - Einfamilienhaus mit Dachterrasse + Pkw-Stellplatz,349.000 €,"64560 Riedstadt, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,127 m²,198 m²,2.748 €/m²,Einfamilienhaus (freistehend),"44,14 m²",nach Absprache,2,nil,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WRS Immobilien - Butzbach - MFH mit Hinterhaus im Altstadtkern - EG als Pension nutzbar,1.450.000 €,"35510 Butzbach, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",20,325 m²,546 m²,4.462 €/m²,Mehrfamilienhaus,127 m²,nach Absprache,16,nil,7 Stellplätze,"5,95% des Kaufpreises","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Reihenhaus mit Süd-Garten inkl. Grdst.,529.500 €,"63512 Hainburg, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,132 m²,235 m²,4.011 €/m²,Reihenmittelhaus,nil,nil,4,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit 9 Wohnungen für den handwerklich geschickten mit zwei sanierten Wohnung,1.200.000 €,"Mühlbachstraße 48-50,
+63486 Bruchköbel, Main-Kinzig-Kreis",18,470 m²,995 m²,2.553 €/m²,nil,85 m²,nil,9,9,6 Garagen,"3,57 % als Käuferprovision inklusiv gesetzlicher Mehrwertsteuer","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Entwicklungsobjekt in 1A-Stadtlage,Auf Anfrage,"35708 Haiger, Lahn-Dill-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",20,1.000 m²,2.000 m²,nil,Besondere Immobilie,1.280 m²,nil,nil,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Projekt mit Lust auf Wohnen,582.225 €,"63517 Rodenbach, Main-Kinzig-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,438 m²,3.781 €/m²,nil,nil,nil,3,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Denkmalgeschützte Doppelhaushälfte in ruhigem Wohngebiet,750.000 €,"Zeilsheim, 65931 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,360 m²,7.895 €/m²,Doppelhaushälfte,50 m²,01.11.2021,nil,nil,1 Garage,"3,57inkl. MwSt",{'is24qa-online-besichtigung-moeglich-label': ''}
+"Vollvermietetes Haus mit 3 Einheiten, saniert, als Kapitalanlage",540.000 €,"Hauptstraße 48,
+63526 Erlensee, Main-Kinzig-Kreis",6,195 m²,220 m²,2.769 €/m²,Mehrfamilienhaus,nil,nach Erledigung der Formalitäten,3,3,Außenstellplatz,"3,57 % als Käuferprovision inklusiv gesetzlicher Mehrwertsteuer",{'is24qa-vermietet-label': ''}
+3-Familienhaus (170m²)mit einer freien Wohnung und Nebengebäude mit Ausbaupotential (ca. 200 m² Wfl),745.000 €,"Spessartstraße 11,
+Groß-Auheim, 63457 Hanau",6,170 m²,545 m²,4.382 €/m²,Mehrfamilienhaus,40 m²,nach Erledigung der Formalitäten,3,3,4 Garagen,"3,57 % als Käuferprovision inklusiv gesetzlicher Mehrwertsteuer","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gräumiges Zweifamilienhaus mit 3 Garagen!,699.000 €,"Kirlenring 2,
+35460 Staufenberg, Gießen (Kreis)",11,296 m²,607 m²,2.361 €/m²,nil,70 m²,Nach Vereinbarung,9,3,3 Tiefgaragen-Stellplätze,"5,95% inkl. der gesetzlichen Mehrwertsteuer","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Musikerviertel, sanierte zweigeschossige Einfamilienhaus Doppelhaushälfte",650.000 €,"Gluckstraße 2,
+Nordwest, 62352 Hanau",6,167 m²,223 m²,3.892 €/m²,Doppelhaushälfte,55 m²,nach Erledigung der Formalitäten,4,3,2 Außenstellplätze,"2,975 % als Käuferprovsion","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+REH (links) in gewachsenem Gebiet,679.500 €,"64347 Griesheim, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,224 m²,5.071 €/m²,Reiheneckhaus,nil,nil,4,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrgenerationenhaus plus XL-Nebengebäude.,330.000 €,"36358 Herbstein, Vogelsbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,273 m²,2.872 m²,1.209 €/m²,Bauernhaus,78 m²,sofort,7,2,1 Garage,5.95% inklusive gesetzlicher MwSt.,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"4 % Rendite, vollvermietetes kernsaniertes Mehrfamilienhaus in Bestlage",2.200.000 €,"Alte Hauptstraße 1,
+63579 Freigericht, Main-Kinzig-Kreis",31,900 m²,700 m²,2.444 €/m²,Mehrfamilienhaus,180 m²,nil,22,11,2 Garagen,"3,57 % Käufer-Maklerprovision inkl. Mehrwertsteuer",{'is24qa-keller-label': ''}
+Landhaus mit dem gewissen Flair,550.000 €,"36205 Sontra, Werra-Meißner-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,250 m²,3.250 m²,2.200 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"3,57 %",{}
+"Verschiefertes Fachwerkhaus im Rheingau, Denkmalschutz",185.000 €,"65391 Lorch, Rheingau-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,300 m²,150 m²,617 €/m²,Besondere Immobilie,nil,nil,nil,nil,nil,"2,38 %",{}
+Ein Haus mit viel Flair !,305.000 €,"64653 Lorsch, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,346 m²,2.179 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,1,1,nil,"3,57% inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
+Energetisch saniertes 3-Familienhaus in guter Lage,625.000 €,"Steinheim, 63456 Hanau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,217 m²,204 m²,2.880 €/m²,Mehrfamilienhaus,60 m²,nil,3,3,2 Carports,"2,98 % Käufer-Maklerprovision inkl. Mehrwertsteuer","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+**Denkmalgeschütztes Anwesen in der Gelnhäuser Altstadt**,1.495.000 €,"63571 Gelnhausen, Main-Kinzig-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",23,1.200 m²,783 m²,1.246 €/m²,Besondere Immobilie,nil,nil,nil,nil,12 Stellplätze,"5,95 % inkl. MwSt.",{'is24qa-keller-label': ''}

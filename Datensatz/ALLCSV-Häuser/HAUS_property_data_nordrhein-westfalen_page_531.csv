@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Großzügiges Einfamilienhaus mit Einliegerwohnung mit einer Gesamtfläche von etwa 289 m²,360.000 €,"Ehringhausen, 42859 Remscheid
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,194 m²,1.030 m²,1.856 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,1 Garage,"3,57 inkl. MwSt.",{'is24qa-keller-label': ''}
+Wunderschönes Fachwerkhaus mitten in der Innenstadt mit 4 Tiefgaragenstellplätzen - provisionsfrei,399.000 €,"Telegrafenstraße 15,
+42929 Wermelskirchen, Rheinisch-Bergischer Kreis",7,185 m²,372 m²,2.157 €/m²,Einfamilienhaus (freistehend),60 m²,nach Vereinbarung,3,2,4 Tiefgaragen-Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eitorf-Zentrum - Voll vermietetes Wohn- und Geschäftshaus mitten im Zentrum!,598.000 €,"53783 Eitorf, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"190,68 m²",145 m²,3.136 €/m²,Mehrfamilienhaus,nil,nil,nil,4,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+Gepflegtes Gebäudeensemble mit eigennutzfähigen Wohneinheiten in Quadrath-Ichendorf,800.000 €,"50127 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",14,"385,68 m²",601 m²,2.074 €/m²,Mehrfamilienhaus,nil,nach Absprache,nil,6,nil,"3,57% des Kaufpreises.",{'is24qa-vermietet-label': ''}
+"""Das Familienhaus"" Großzügig, zentral und mit großem Grundstück",392.000 €,"53783 Eitorf, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,155 m²,832 m²,2.529 €/m²,Einfamilienhaus (freistehend),100 m²,nach Absprache,3,2,6 Stellplätze,"2,975% inkl. 19% MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Gemütliches Reihenmittelhaus mit Garten und Balkon,299.000 €,"58313 Herdecke, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"119,36 m²",184 m²,2.505 €/m²,Reihenmittelhaus,nil,sofort,nil,2,1 Garage,"3,57 % inkl. ges. MwSt.",{'is24qa-gaeste-wc-label': ''}
+Luxuriöses Einfamilienhaus mit besonderer Architektur und allen Vorzügen in Rhede,795.000 €,"46414 Rhede, Borken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5","192,32 m²",608 m²,4.134 €/m²,Villa,"30,49 m²",nil,3,1,4 Garagen,"2,38 % inkl. MwSt",{'is24qa-gaeste-wc-label': ''}
+Klassische Eleganz trifft auf herrschaftlichen Luxus: Einzigartige Chance auf ein historisches Juwel,2.250.000 €,"40667 Meerbusch, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",13,430 m²,1.545 m²,5.233 €/m²,Villa,205 m²,nil,6,2,2 Tiefgaragen-Stellplätze,"3,57","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+**Exklusives Einfamilienhaus mit Bürogebäude und Halle lässt keine Wünsche offen**,1.390.000 €,"41334 Nettetal, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,234 m²,2.192 m²,5.940 €/m²,Einfamilienhaus (freistehend),"52,29 m²",nil,nil,nil,8 Garagen,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Platz für die ganze Familie: denkmalgeschützte Zechenhaushälfte mit 5 Zimmern und g,339.900 €,"Katernberg, 45327 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,112 m²,733 m²,3.035 €/m²,Doppelhaushälfte,76 m²,nach Vereinbarung,3,2,3 Garagen,"2,975% inklusive gesetzlicher MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Bungalow mit potenizeller Ausbaureserve in Düsseldorf,425.000 €,"Wilhelm-Schmidtbonn-Str 7,
+Garath, 40595 Düsseldorf",4,115 m²,283 m²,3.696 €/m²,Bungalow,nil,nil,3,2,1 Stellplatz,"11.065,00€",{}
+Neuwertiges Mehrfamilienhaus mit 5 Wohneinheiten in HS-Oberbruch!,862.000 €,"52525 Heinsberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,315 m²,497 m²,2.737 €/m²,Mehrfamilienhaus,60 m²,vermietet,5,5,3 Garagen,"3,57 %","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Anleger und Selbstnutzer aufgepasst: Mehrfamilienhaus in der Remscheider Innenstadt!,585.000 €,"Scheid, 42853 Remscheid
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,345 m²,207 m²,1.696 €/m²,Mehrfamilienhaus,160 m²,sofort,nil,6,nil,"3,57 % inkl. gesetzl. MwSt. vom Kaufpreis fällig nach notarieller Beurkundung","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Rundum stimmiges kleines MFH in einer ordentlicher Lage mit langfristigen netten Mietern,339.000 €,"58507 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",14,272 m²,313 m²,1.246 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"4,76 %exkl. MwSt","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Zweifamilienhaus in beliebter Lage von Werdohl-Pungelscheid,262.000 €,"58791 Werdohl, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,172 m²,858 m²,1.523 €/m²,Mehrfamilienhaus,nil,n. Absprache,4,2,3 Garagen,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Mehrfamilienhaus in Bonn mit Ausbau- und Entwicklungspotenzial,1.350.000 €,"Monkemöller Str. 40-42,
+Dottendorf, 53129 Bonn",16,398 m²,1.098 m²,3.392 €/m²,Mehrfamilienhaus,550 m²,nil,10,6,2 Garagen,"3,57","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Seniorengerecht mit Aufzug ! Freistehendes Einfamilienhaus mit Wintergarten und Garage,399.000 €,"41751 Viersen, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",129 m²,298 m²,3.093 €/m²,Einfamilienhaus (freistehend),18 m²,sofort,2,1,1 Garage,"3,57 % (inkl. 19 % MwSt.) Käuferprovision","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"TOP! Charmantes, sehr helles Einfamilienstadthaus mit tollem Grundriss",319.000 €,"42579 Heiligenhaus, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,227 m²,2.552 €/m²,Reiheneckhaus,nil,nach Vereinbarung,nil,nil,nil,"3,57% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Idyllisches Reihenmittelhaus in traumhafter Lage.,485.000 €,"Eichendorffstr 13,
+Grengel, 51147 Köln",5,152 m²,460 m²,3.191 €/m²,Reihenmittelhaus,"53,2 m²",Nach Vereinbarung,3,2,2 Garagen,"2,38%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+modernes Geschäftshaus - Toplage Zentrum - Toprendite,850.000 €,"Altstadt-Mitte, 45045 Oberhausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",20,584 m²,530 m²,1.455 €/m²,Mehrfamilienhaus,80 m²,nil,nil,4,4 Garagen,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

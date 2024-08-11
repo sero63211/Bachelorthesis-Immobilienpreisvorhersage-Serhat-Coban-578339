@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Freistehende Villa mit Einliegerwohnung in Köln-Müngerdorf,1.800.000 €,"Maisweg 13,
+Müngersdorf, 50933 Köln",7,240 m²,930 m²,7.500 €/m²,Einfamilienhaus (freistehend),140 m²,5.5.2024,5,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Charmantes Reihenmittelhaus, provisionsfrei, mit idyllischem Garten",520.000 €,"Hassels, 40599 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,160 m²,4.160 €/m²,Reihenmittelhaus,nil,nil,3,1,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Villa im Grünen - mit Einliegerwohnung,1.280.000 €,"Dellbrück, 51069 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,205 m²,1.448 m²,6.244 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,Carport,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen und Arbeiten in einem Haus mit Möglichkeiten zum Ausbau,1.150.000 €,"52159 Roetgen, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,200 m²,1.200 m²,5.750 €/m²,Mehrfamilienhaus,200 m²,5.5.2024,3,2,4 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schönes Chalet in Ferienanlage,102.500 €,"Hoppeckerstrasse 75,
+59929 Brilon, Hochsauerlandkreis",3,45 m²,210 m²,2.278 €/m²,Bungalow,210 m²,5.5.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Quality - Time, Ihr Wohntraum kann bald Wirklichkeit werden!",399.000 €,"59597 Erwitte, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,200 m²,212 m²,1.995 €/m²,Einfamilienhaus (freistehend),nil,nil,4,3,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Modernes, großes Einfamilienhaus in ruhiger Lage, zentrumsnah Coesfeld-Stadt",695.000 €,"48653 Coesfeld, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,168 m²,391 m²,4.137 €/m²,Einfamilienhaus (freistehend),50 m²,01.08.2024,3,3,2 Garagen,"4,76 % incl. MWSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Großzügige Hofstelle in absoluter Alleinlage,1.150.000 €,"48301 Nottuln, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,360 m²,25.000 m²,3.194 €/m²,Bauernhaus,1.500 m²,nach Vereinbarung,12,4,25 Carports,"5,95","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Modernes Reihenmittelhaus mit Garage, Stellplatz und gepflegtem Ambiente",435.000 €,"Reuschenberg, 41466 Neuss
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,185 m²,3.480 €/m²,Reihenmittelhaus,45 m²,nil,3,1,2 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+█ INFLATIONSSCHUTZ (WR) - EINFAMILIENHAUS (DHH) 6 ZKB ca. 135 m² mit Garten und Garage in guter Lage,319.900 €,"40668 Meerbusch, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,135 m²,357 m²,2.370 €/m²,Doppelhaushälfte,70 m²,nil,3,2,nil,"3,57 % inkl. MwSt. Käuferprovision vom Kaufpreis bei Kauf","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+█ TOP-LAGE - GRUND ca. 939 m² mit EINFAMILIENHAUS (DHH) ca. 155 m² und Garage ggf. An-/Neubau,629.900 €,"47906 Kempen, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,155 m²,939 m²,4.064 €/m²,Einfamilienhaus (freistehend),75 m²,nil,4,2,1 Garage,"4,76 % inkl. MwSt. Käuferprovision vom Kaufpreis bei Kauf","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+"Energieeffizienzklasse A+, KfW 40, Mit PV Anlage, Wärmepumpe, Keller, mit Grundstück zum Festpreis",1.699.000 €,"Fasanenweg 0,
+Unterrath, 40468 Düsseldorf",4,240 m²,800 m²,7.079 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,2 Stellplätze,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Großzügiges Ein- bzw. Zweifamilienhaus mit schönem Garten (Erbpacht),295.000 €,"47652 Weeze, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,179 m²,469 m²,1.648 €/m²,Mehrfamilienhaus,nil,nach Absprache,nil,nil,nil,"3,75%",{'is24qa-keller-label': ''}
+Gemütlich und ruhig - junges Einfamilienhaus in Bergkamen-Rünthe wartet auf frischen Wind,369.000 €,"59192 Bergkamen, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"113,33 m²",364 m²,3.256 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,3,1,nil,"3,57 % inkl. MwSt.",{}
+Doppelhaushälfte mit Garage in Gellershagen!,349.900 €,"Schildesche, 33613 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,135 m²,375 m²,2.592 €/m²,Doppelhaushälfte,nil,nil,6,2,1 Stellplatz,"3,57% (inkl. 19% MwSt.)","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Doppelhaushälfte mit Garage in Gellershagen!,349.900 €,"Schildesche, 33613 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,135 m²,375 m²,2.592 €/m²,Doppelhaushälfte,nil,nil,6,2,1 Stellplatz,"3,57% (inkl. 19% MwSt.)","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Freistehendes Eigenheim mit geschützem Garten,382.000 €,"41812 Erkelenz, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,130 m²,490 m²,2.938 €/m²,Einfamilienhaus (freistehend),nil,1.7.2024,nil,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familiendomizil in Scherpenseel mit herrlichem Garten,295.000 €,"52531 Übach-Palenberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,169 m²,439 m²,1.746 €/m²,Bauernhaus,50 m²,nil,5,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ihr Familientraum: Schönes Einfamilienhaus mit Sonnengarten,490.000 €,"53804 Much, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,198 m²,552 m²,2.475 €/m²,Doppelhaushälfte,nil,nach Vereinbarung,4,2,3 Außenstellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Ihr neues Familienparadies in Köln-Merheim wartet,482.400 €,"Merheim, 51109 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,115 m²,167 m²,4.195 €/m²,Einfamilienhaus (freistehend),20 m²,nach Vereinbarung,4,1,Garage,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

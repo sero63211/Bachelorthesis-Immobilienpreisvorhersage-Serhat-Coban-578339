@@ -1,0 +1,71 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3 Zimmer Erdgeschosswohnung mit 170 m² Gartenanteil,1.129.800 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",3,"102,71 m²",11.000 €/m²,Erdgeschosswohnung,nil,Frühjahr 2025,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zwei Zimmer Erdgeschosswohnung,724.400 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",2,"65,85 m²",11.001 €/m²,Erdgeschosswohnung,nil,Frühjahr 2025,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer Wohnung mit Südbalkon,942.300 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",3,"85,66 m²",11.000 €/m²,Etagenwohnung,nil,Frühjahr 2025,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zwei Zimmer Erdgeschosswohnung,483.700 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",2,"43,97 m²",11.001 €/m²,Erdgeschosswohnung,nil,Frühjahr 2025,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Appartement mit Hobbyraum,549.300 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",2,"49,94 m²",10.999 €/m²,Erdgeschosswohnung,nil,Frühjahr 2025,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive 2 Zimmer Wohnung mit Balkon im 1. OG und TG Stellplatz,172.500 €,"Am Schachenwald 3,
+83527 Haag in Oberbayern, Mühldorf am Inn (Kreis)",2,"54,52 m²",3.164 €/m²,Etagenwohnung,6 m²,nil,1,1,1 Duplex-Stellplatz,"2,38% inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"helle, freundliche 2 Zimmer Wohnung mit TG Stellplatz in ruhiger Lage - Cernota Immobilien",135.000 €,"Bad Füssinger Straße 24 C,
+94148 Kirchham, Passau (Kreis)",2,49 m²,2.755 €/m²,Etagenwohnung,nil,Mai 2024,1,1,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+3 Zimmer Wohnung mit über 100 m² Wohnfläche,1.115.800 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",3,"101,44 m²",11.000 €/m²,Etagenwohnung,nil,Frühjahr 2025,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bergblickwohnung im fantastischen Alpenvorland,618.000 €,"83334 Inzell, Traunstein (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"127,57 m²",4.844 €/m²,Dachgeschoss,135 m²,01.06.2024,2,1,1 Garage,"3,57","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Attraktives 1-Zi.-Appartement renoviert mit Balkon und EBK in Johanneski./Bogenh.,220.000 €,"Johanneskirchen, 81927 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"24,8 m²",8.871 €/m²,Etagenwohnung,nil,nil,1,1,2 Duplex-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmerwohnung mit 130 m² Gartenanteil,975.300 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",3,"88,66 m²",11.000 €/m²,Erdgeschosswohnung,nil,Frühjahr 2025,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Penthousewohnung mit Süd Terrasse,1.260.500 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",3,"109,61 m²",11.500 €/m²,Penthouse,nil,Frühjahr 2025,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GI 1181 Gemütliche 1-Zi. Wohnung nahe der Freisinger Innenstadt,199.000 €,"85354 Freising, Freising (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"35,1 m²",5.670 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,4% zzgl. 19% gesetzl. MwSt.,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"sehr schöne 3-Zim.- DT- Wohnung mit wunderbarer, großer Terrasse in Top Wohnlage Solln",1.150.000 €,"Solln, 81479 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,114 m²,10.088 €/m²,nil,35 m²,sofort,2,nil,2 Duplex-Stellplätze,"3,57 % (inkl. 19% MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Barrierefreie 1,5 Zimmer-Wohnung in top Lage mit herrlichem Fernblick – plus Extra Zimmer",189.000 €,"83075 Bad Feilnbach, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",46 m²,4.109 €/m²,Etagenwohnung,15 m²,nach Rücksprache,1,1,1 Tiefgaragen-Stellplatz,"2,50% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+AIGNER - Energieeffizienz trifft auf Moderne: Etagen-Neubauwohnung im Herzen Obersendlings,745.000 €,"Obersendling, 81477 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"69,95 m²",10.650 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer Wohnung mit 76 m² Wohnfläche + 64 m² Souterrain-Fläche in der Innenstadt / Augsburg,430.000 €,"Gögginger Mauer 23,
+Innenstadt. St. Ulrich-Dom, 86150 Augsburg",2,76 m²,5.658 €/m²,Erdgeschosswohnung,140 m²,sofort,1,1,nil,15.351,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Wertvolles Eigentum in Iphofen - Eigentumswohnungen (teilw. barrierefrei) inkl. Tiefgarage,355.000 €,"Bahnhofstraße 29,
+97346 Iphofen, Kitzingen (Kreis)",2,"59,84 m²",5.932 €/m²,Dachgeschoss,nil,2027,1,1,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"EIGENNUTZER AUFGEPASST - Helle 1,5 Zimmer-Dachgeschosswohnung in schöner Lage",295.000 €,"Werdenfelsstraße 79,
+Am Waldfriedhof, 81377 München","1,5",42 m²,7.024 €/m²,Dachgeschoss,45 m²,nil,1,1,1 Duplex-Stellplatz,"2,32% inkl. gesetzl. MwSt. fällig bei notarieller Beurkundung","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Kapitalanlage 3-Zimmer mit Balkon Jagdstraße in Johannis,269.000 €,"Jagdstr. 22,
+St. Johannis, 90419 Nürnberg",3,"72,21 m²",3.725 €/m²,nil,8 m²,nil,1,1,nil,"3,57 % inkl. MwSt. aus dem Kaufpreis.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+RENOVIERTE 2-ZIMMER-WOHNUNG MIT SÜDLOGGIA UND WEITBLICK,498.000 €,"Alt-Moosach, 80637 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"61,5 m²",8.098 €/m²,Etagenwohnung,15 m²,sofort,1,1,nil,"3,57 % inkl. 19 % MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Penthousewohnung mit Süd-West Terrasse,974.500 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",2,"84,74 m²",11.500 €/m²,Penthouse,nil,Frühjahr 2025,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Frisch sanierte 3-Zimmer-Wohnung mit Balkon, Garage u. Gartenanteil",250.000 €,"84048 Mainburg, Kelheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"73,53 m²",3.400 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,"2,5 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Appartment mit Ostbalkon,418.600 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",1,"38,05 m²",11.001 €/m²,Etagenwohnung,nil,Frühjahr 2025,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+AIGNER - Energieeffizienz trifft auf Moderne: Erdgeschoss-Neubauwohnung im Herzen Obersendlings,797.000 €,"Obersendling, 81477 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"74,5 m²",10.698 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer Wohnung im Obergeschoss mit Südbalkon,953.300 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",3,"86,66 m²",11.000 €/m²,Etagenwohnung,nil,Frühjahr 2025,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+NEU: 3-Zimmer-Gartenwohnung mit 2 Terrassen und UG Flächen,999.000 €,"Josephsburg, 81673 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"106,73 m²",9.360 €/m²,Erdgeschosswohnung,"147,17 m²",Juni 2025,2,2,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Penthouse mit traumhafter Dachterrasse,1.340.100 €,"Pippinger Straße 149,
+Obermenzing, 81247 München",4,"116,99 m²",11.455 €/m²,Penthouse,nil,Frühjahr 2025,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer Wohnung mit Garten in Kirchheim bei München,674.000 €,"85551 Kirchheim bei München, München (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,6.481 €/m²,Erdgeschosswohnung,nil,nil,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+immotausch.expert: Große Dachterrassenwohnung in Sendling West gegen 3 Zimmer-Wohnung in FFB/STA,900.000 €,"Mittersendling, 81373 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,180 m²,5.000 €/m²,Penthouse,nil,nach Vereinbarung,nil,nil,nil,"3,57%inkl. MwSt",{}
+AIGNER - Energieeffizienz trifft auf Moderne: Erdgeschoss-Neubauwohnung im Herzen Obersendlings,825.000 €,"Obersendling, 81477 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"74,1 m²",11.134 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+AIGNER - Energieeffizienz trifft auf Moderne: Dachgeschoss-Neubauwohnung im Herzen Obersendlings,1.035.000 €,"Obersendling, 81477 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"89,92 m²",11.510 €/m²,Dachgeschoss,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Großzügigkeit und zeitlose Eleganz. 4,5 Zimmer in der Au.",1.750.000 €,"Bereiteranger 15,
+Untere Au, 81541 München","4,5","131,89 m²",13.269 €/m²,Etagenwohnung,nil,nach Vereinbarung,3,2,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Appartement mit Westbalkon,444.000 €,"Pippinger Straße 149,
+Obermenzing, 81247 München","1,5","40,36 m²",11.001 €/m²,Etagenwohnung,nil,Frühjahr 2025,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gestalten Sie Ihren Wohntraum - 2,5-Zimmer EG Wohnung Fürth Südstadt",179.000 €,"Nördliche Südstadt, 90763 Fürth
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,2.983 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"3,57",{'is24qa-keller-label': ''}

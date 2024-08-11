@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"""Preussensiedlung"": Charmantes Häuschen mit sonniger Terrasse und Privatgarten (vermietet)",249.000 €,"Germanenstraße 80 c,
+Altglienicke, 12524 Berlin",2,62 m²,4.016 €/m²,Maisonette,nil,nil,1,1,nil,"3,57 % inkl. gesetzlicher MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': ''}"
+"""Am Bellevue"" Tiergarten Erstbezug: neuwertige, sensationelle 5-Zimmerwohnung-bezugsfrei!",1.090.000 €,"Paulstraße 21A,
+Moabit, 10557 Berlin",5,"140,81 m²",7.741 €/m²,Etagenwohnung,"140,81 m²",sofort,4,1,nil,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+"Exkusive Lage am Kurfürstendamm: Traumhafte, renovierte 2-Zimmer-Altbauwohnung- sofort bezugsfrei!",399.000 €,"Duisburger Straße 13,
+Wilmersdorf, 10707 Berlin",2,"60,66 m²",6.578 €/m²,Etagenwohnung,"60,66 m²",ab sofort,1,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+CHARMANTE WOHNUNG NAHE DEM LIETZENSEE MIT HOHEM RENOVIERUNGSBEDARF - PROVISIONSFREI!,595.000 €,"Horstweg 34,
+Charlottenburg, 14059 Berlin",3,"94,26 m²",6.312 €/m²,Etagenwohnung,nil,sofort,nil,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+IMMOBERLIN.DE - Attraktive Wohnung mit Loggia in sehr guter Wohnlage,228.900 €,"Zehlendorf, 14165 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,3.270 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Attraktive Kapitalanlage: 3-Zimmerwohnung in energieeffizienter Wohnanlage in Berlin Adlershof,185.000 €,"Adlershof, 12489 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"65,47 m²",2.826 €/m²,Hochparterre,nil,unbefristet vermietet,2,1,nil,"6.604,50 €","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Weißensee: Berliner Allee: ERSTBEZUG im NEUBAU - ab 2024: 1-Zi-Whg mit 22 m² - VHS 4. OG zur Straße,195.360 €,"Weißensee, 13088 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"22,2 m²",8.800 €/m²,Etagenwohnung,"22,2 m²",01.04.2024,1,1,nil,"3,57 % des KP inkl. 19 % MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+"IMMOBERLIN.DE - Familienfreundliche Wohnung mit Hauscharakter, Terrasse, Garten + Garage",680.000 €,"Lichtenrade, 12309 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,126 m²,5.397 €/m²,nil,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer",{'is24qa-online-besichtigung-moeglich-label': ''}
+**RESERVIERT** Ihre neue Eigentumswohnung in Friedrichshain! ++Eigennutzung in 9 Monaten++,257.000 €,"Eldenaer Straße 15,
+Friedrichshain, 10247 Berlin",2,70 m²,3.671 €/m²,Etagenwohnung,nil,nil,1,1,nil,"7,14% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+IMMOBERLIN.DE - Toplage! Perfekt sanierte Altbauwohnung mit angenehmem Ambiente,409.000 €,"Charlottenburg, 10627 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,49 m²,8.347 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer",{'is24qa-online-besichtigung-moeglich-label': ''}
+IMMOBERLIN.DE - Behagliche Altbauwohnung mit Südloggia beim Steglitzer Zentrum,335.000 €,"Steglitz, 12169 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,61 m²,5.492 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"""Parksanatorium Pankow"": Stilvolle 3-Zimmer-Wohnung mit Blick in den Bleichröderpark (vermietet)",494.650 €,"Dusekestraße 43,
+Pankow (Ortsteil), 13187 Berlin",3,76 m²,6.509 €/m²,Hochparterre,nil,nil,2,1,nil,"3,57 % inkl. gesetzlicher MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Top Sanierte 2-Zimmer-Wohnung mit Balkon - unweit des Schäfersees,299.500 €,"Grindelwaldweg 4,
+Reinickendorf (Ortsteil), 13407 Berlin",2,"60,45 m²",4.955 €/m²,Etagenwohnung,"60,45 m²",sofort,1,1,nil,"3,00 % zzgl. Mwst.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"IMMOBERLIN.DE - Komfortable Wohnung mit großen Terrassen, Garage + Carport in idyllischer Lage",640.000 €,"Kladow, 14089 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,140 m²,4.571 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer",{'is24qa-online-besichtigung-moeglich-label': ''}
+"""The Metropolitan Gardens"" - Komfortable Suite mit Wintergarten (vermietet)",325.000 €,"Saargemünder Straße 27 b,
+Dahlem, 14195 Berlin",2,56 m²,5.804 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. gesetzlicher MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+"Mitte: 2-Zi-NB-Wohnung - WASSERBLICK - 71 m² - 2 TERRASSEN, EBK LUXUS Bad - per SOFORT zu VERKAUFEN",899.000 €,"Moabit, 10557 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"71,89 m²",12.505 €/m²,Etagenwohnung,80 m²,SOFORT,2,1,nil,"3,57 % des KP inkl. 19 % MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+IMMOBERLIN.DE - Sympathische Altbauwohnung im beliebten Sprengelkiez,169.000 €,"Wedding, 13353 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,41 m²,4.122 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer",{'is24qa-online-besichtigung-moeglich-label': ''}
+"""The Metropolitan Gardens"" - Exquisite Stadt-Wohnung mit West-Balkon zur Gartenseite (vermietet)",353.000 €,"Saargemünder Straße 27 b,
+Dahlem, 14195 Berlin",2,50 m²,7.060 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. gesetzlicher MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+IMMOBERLIN.DE - Attraktive Wohnung mit Südloggia in guter Lage,339.000 €,"Gropiusstadt, 12353 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,4.520 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+IMMOBERLIN.DE - Sanierte vermietete Altbauwohnung mit Südbalkon in angenehmer Lage,390.000 €,"Rummelsburg, 10317 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,4.432 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"

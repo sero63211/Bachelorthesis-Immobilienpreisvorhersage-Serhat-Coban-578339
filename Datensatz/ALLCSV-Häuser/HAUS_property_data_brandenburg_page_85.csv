@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Freistehendes Einfamilienhaus + provisionsfrei +,150.000 €,"Seestraße XXX,
+15306 Vierlinden, Märkisch-Oderland (Kreis)",3,112 m²,1.194 m²,1.339 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus und großer Carport,341.000 €,"Molkenberg XXX,
+15517 Fürstenwalde/Spree, Oder-Spree (Kreis)",1,1 m²,2.308 m²,341.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Individuelles Einfamilienhaus in der Nähe des Kremmener See,229.000 €,"16766 Kremmen, Oberhavel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,78 m²,610 m²,2.936 €/m²,Einfamilienhaus (freistehend),82 m²,sofort,2,1,1 Stellplatz,"3,57 %",{'is24qa-keller-label': ''}
+Happy Life...... endlich zu Hause,349.000 €,"14827 Wiesenburg/Mark, Potsdam-Mittelmark (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,250 m²,989 m²,1.396 €/m²,Mehrfamilienhaus,250 m²,nach Absprache,5,5,2 Garagen,3,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Einfamilienhaus mit großem Grundstück zum kleinen Preis -Zwangsversteigerung- keine Käuferprovision,35.000 €,"Havelberger Weg 23,
+19339 Plattenburg, Prignitz (Kreis)",4,77 m²,927 m²,455 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,2 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilien-Haus in Eichwalde,499.000 €,"15732 Eichwalde, Dahme-Spreewald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,85 m²,910 m²,5.871 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Stellplatz,"3,57 % v. Netto-VKPreis incl. MwSt",{'is24qa-keller-label': ''}
+Eindrucksvolles Haus an der Havel,253.000 €,"14669 Ketzin, Havelland (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"54,01 m²",474 m²,4.684 €/m²,Bungalow,"13,9 m²",sofort,1,1,1 Garage,"3,57%","{'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Für das Wochenende oder für immer,380.000 €,"15738 Zeuthen, Dahme-Spreewald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,40 m²,1.082 m²,9.500 €/m²,Bungalow,nil,nil,1,1,nil,"zzgl. 7,14% inkl. 19% MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Großzügiges Einfamilienhaus + provisionsfrei +,40.000 €,"Kutteweg XXX,
+01979 Lauchhammer, Oberspreewald-Lausitz (Kreis)",7,150 m²,1.824 m²,267 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garagenanbau + provisionsfrei +,10.000 €,"Kutteweg XXX,
+01979 Lauchhammer, Oberspreewald-Lausitz (Kreis)",1,98 m²,1.852 m²,102 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Sechsfamilienhaus +,77.000 €,"Senftenberger Straße XXX,
+03116 Drebkau, Spree-Neiße (Kreis)",1,251 m²,295 m²,307 €/m²,Wohnimmobilie (sonstige),"8,6 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn-/Geschäftshaus +,76.000 €,"Lindenplatz XXX,
+03149 Forst (Lausitz), Spree-Neiße (Kreis)",1,297 m²,259 m²,256 €/m²,Wohnimmobilie (sonstige),99 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Sanierungsbedürftiges Einfamilienhaus,169.000 €,"Markendorf-Siedlung, 15236 Frankfurt (Oder)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,130 m²,1.010 m²,1.300 €/m²,Einfamilienhaus (freistehend),150 m²,nil,nil,nil,2 Carports,"3,57%",{'is24qa-keller-label': ''}
+Neuwertige Doppelhaushälfte Energieeffizienzklasse A+ ohne Provision,549.000 €,"Bohnsdorfer Chaussee 13,
+12529 Schönefeld, Dahme-Spreewald (Kreis)",4,105 m²,320 m²,5.229 €/m²,Doppelhaushälfte,nil,23.2.2024,3,nil,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Villa in unmittelbarer Nähe zum Stadtzentrum einer mittelalterlichen Hansestadt,220.000 €,"16866 Kyritz, Ostprignitz-Ruppin (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,495 m²,1.692 €/m²,Villa,200 m²,19.2.2024,2,1,2 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte Doppelhaushälfte mit fünf Zimmern in Linthe,299.000 €,"Ringstrasse 14a,
+14822 Linthe, Potsdam-Mittelmark (Kreis)",5,108 m²,473 m²,2.769 €/m²,Doppelhaushälfte,nil,1.5.2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Gutshaus am See - provisionsfrei,995.000 €,"Lange Straße 23,
+14715 Milower Land, Havelland (Kreis)",10,350 m²,6.000 m²,2.843 €/m²,Villa,350 m²,12.6.2024,nil,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit Swimmingpool in guter Wohnlage - provisionsfrei,492.000 €,"Wagnerstraße XXX,
+15345 Petershagen/Eggersdorf, Märkisch-Oderland (Kreis)",5,90 m²,1.188 m²,5.467 €/m²,Wohnimmobilie (sonstige),83 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus,442.100 €,"Heinrich-Heine-Straße XXX,
+16341 Panketal, Barnim (Kreis)",1,95 m²,1.217 m²,4.654 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Norwegisches EFH mitten in der Natur,599.000 €,"16359 Biesenthal, Barnim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,146 m²,705 m²,4.103 €/m²,Einfamilienhaus (freistehend),nil,Ab sofort bezugsfrei,nil,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

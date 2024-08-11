@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Singles oder Pärchen aufgepasst: Perfekt dimensionierte 2-Zimmer-Wohnung mit Balkon,195.000 €,"Ferdinand-Jost-Straße 23A,
+Stötteritz, 04299 Leipzig",2,"52,6 m²",3.707 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mit Balkon & Wannenbad: 2,5-Zimmer-Wohnung in denkmalgeschütztem Altbau",328.000 €,"Wiederitzscher Straße 25,
+Gohlis-Süd, 04155 Leipzig",2,"78,64 m²",4.171 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Dachgeschosstraum mit Loggia und großer, praktischer Nutzfläche",415.000 €,"Arndtstraße 29,
+Südvorstadt, 04275 Leipzig",2,76 m²,5.461 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Frisch renovierte Dachgeschosswohnung im historischen Waldstraßenviertel,230.000 €,"Christianstraße 25,
+Zentrum-Nordwest, 04105 Leipzig",2,"42,14 m²",5.458 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erstbezug nach Renovierung: Helle 3-Zimmer-Dachgeschosswohnung,203.800 €,"Dresdner Straße 69,
+Neustadt-Neuschönefeld, 04317 Leipzig",3,"58,5 m²",3.484 €/m²,Dachgeschoss,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Helle, frisch renovierte Altbau-Wohnung mit Süd-West-Balkon",342.000 €,"Karl-Heine-Straße 47,
+Plagwitz, 04229 Leipzig",3,"80,01 m²",4.274 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gut geschnittene 2-Zimmer-Wohnung mit großer Küche und Balkon,257.000 €,"Barbarastraße 24,
+Paunsdorf, 04328 Leipzig",2,"72,08 m²",3.565 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vor kurzem renoviert: Großzügige 3-Zimmer-Altbauwohnung mit Süd-Balkon und modernem Bad,313.000 €,"Wiederitzscher Straße 27,
+Gohlis-Süd, 04155 Leipzig",3,"75,89 m²",4.124 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive Wohnung im hellen Dachgeschoss,162.700 €,"Eisenbahnstraße 149,
+Volkmarsdorf, 04315 Leipzig",2,"53,74 m²",3.028 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Frisch renovierte 2-Zimmer-Dachgeschoss-Wohnung in klassischem Altbau,194.000 €,"Ferdinand-Jost-Straße 23,
+Stötteritz, 04299 Leipzig",2,"50,67 m²",3.829 €/m²,Dachgeschoss,nil,nil,1,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Frisch renovierte 2-Zimmer-Altbauwohnung mit Balkon und modernem Dusch-/Wannenbad,220.000 €,"Wiederitzscher Straße 27,
+Gohlis-Süd, 04155 Leipzig",2,"54,44 m²",4.041 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Altbaucharme auf 63 Quadratmetern: 2-Zimmer-Wohnung,227.000 €,"Wolfener Straße 2,
+Gohlis-Süd, 04155 Leipzig",2,63 m²,3.603 €/m²,Erdgeschosswohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mitten in Plagwitz: Bezugsfreie 3-Zimmer-Altbauwohnung mit Stuck, Parkett & Erker",351.000 €,"Karl-Heine-Straße 56B,
+Lindenau, 04229 Leipzig",3,"95,35 m²",3.681 €/m²,Etagenwohnung,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnung mit weitläufigem Wohn-/Koch-/Essbereich,198.800 €,"Eisenbahnstraße 149,
+Volkmarsdorf, 04315 Leipzig",2,"66,52 m²",2.989 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kompakte Single-Wohnung in klassischem Altbau,180.300 €,"Arndtstraße 29,
+Südvorstadt, 04275 Leipzig",1,"40,66 m²",4.434 €/m²,Erdgeschosswohnung,nil,sofort bezugsfertig,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2,5-Zimmer-Altbauwohnung mit Balkon und moderner Ausstattung",342.000 €,"Wiederitzscher Straße 25,
+Gohlis-Süd, 04155 Leipzig",2,"81,05 m²",4.220 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 4-Zimmer-Altbauwohnung mit Balkon und Tageslichtbad,309.000 €,"Eisenbahnstraße 149,
+Volkmarsdorf, 04315 Leipzig",4,"85,7 m²",3.606 €/m²,Etagenwohnung,nil,sofort bezugsfertig,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Tageslicht-Wannenbad,174.500 €,"Ferdinand-Jost-Straße 23A,
+Stötteritz, 04299 Leipzig",2,"46,41 m²",3.760 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Parkettboden & Fußbodenheizung: Saniertes 3-Zimmer-Zuhause in Gründerzeitbau,399.000 €,"Eilenburger Straße 36,
+Reudnitz-Thonberg, 04317 Leipzig",3,"88,97 m²",4.485 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnkomfort im Dachgeschoss: Sanierte 2-Zimmer-Wohnung mit Loggia,390.000 €,"Eilenburger Straße 36,
+Reudnitz-Thonberg, 04317 Leipzig",2,"87,24 m²",4.470 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

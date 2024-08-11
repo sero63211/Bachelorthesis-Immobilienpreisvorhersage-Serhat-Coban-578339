@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Neubau einer Doppelhaushälfte in Energieeffizienzhaus 40 Bauweise,1.350.000 €,"Bognerweg 22,
+82234 Weßling, Starnberg (Kreis)",5,146 m²,250 m²,9.247 €/m²,Doppelhaushälfte,nil,2025,3,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau Doppelhaushälfte in ruhiger Wohnlage,1.295.000 €,"Bognerweg 22,
+82234 Weßling, Starnberg (Kreis)",5,142 m²,210 m²,9.120 €/m²,Doppelhaushälfte,nil,2025,3,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Reihenhaus in ruhiger Lage inkl. Blick in die Berge,529.000 €,"83064 Raubling, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,270 m²,4.809 €/m²,Reihenmittelhaus,50 m²,nach Vereinbarung,3,1,2 Außenstellplätze,"2,975% inkl. MwSt. Mit dem Verkäufer besteht ein Maklervertrag in gleicher Höhe.",{'is24qa-keller-label': ''}
+IMMOPARTNER - Charmante Villa in Fürth-Dambach,1.300.000 €,"Dambach, Unterfürberg, 90768 Fürth
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,240 m²,1.159 m²,5.417 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,2 Garagen,"3,57 % vom Verkaufspreis inkl. MwSt., vom Käufer zu zahlen bei notarieller Beurkundung.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"IMMOPARTNER - Perfekte Lage, unzählige Möglichkeiten",365.000 €,"Bachfeld, 91058 Erlangen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,92 m²,192 m²,3.967 €/m²,Reihenmittelhaus,58 m²,nil,3,1,1 Garage,"3,57 % vom Verkaufspreis inkl. MwSt., vom Käufer zu zahlen bei notarieller Beurkundung.",{'is24qa-keller-label': ''}
+Hofstelle mit ca. 3 ha landwirtschaftlicher Nutzfläche!,1.390.000 €,"84137 Vilsbiburg, Landshut (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,32.000 m²,9.267 €/m²,Bauernhaus,nil,nil,nil,nil,nil,"3,57 %",{}
+FÜR BAUPROFIS UND INVESTOREN: GUT VERMIETETES 6-FH IN NBG.-WEST,819.000 €,"Gaismannshof, 90431 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,348 m²,569 m²,2.353 €/m²,Mehrfamilienhaus,nil,SOFORT!,nil,nil,1 Garage,"3,97 % inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Fünf Wohnungen! Mehrgenerationenhaus oder Anlage, mit Berg- und Weitblick in Ruhpolding!",1.100.000 €,"83324 Ruhpolding, Traunstein (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,327 m²,873 m²,3.364 €/m²,Mehrfamilienhaus,158 m²,nil,8,6,7 Stellplätze,"3,57% inkl. gesetzliche MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Verkauf eines außergewöhnlichen Einfamilienhauses in Wörth an der Donau,385.000 €,"93086 Wörth an der Donau, Regensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,180 m²,300 m²,2.139 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,3,2,nil,"3,57% inklusive 19% Umsatzsteuer",{}
+"Moderne, barrierefreie Doppelhaushälfte mit Panoramablick",1.295.000 €,"82229 Seefeld, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"172,59 m²",274 m²,7.503 €/m²,Doppelhaushälfte,50 m²,nil,4,2,1 Carport,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Die perfekte Ortsrandlage, Wohnhaus, Wirtschaftsgebäude und Stallungen mit traumhaftem Blick!",298.000 €,"93464 Tiefenbach, Cham (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,3.480 m²,1.910 €/m²,nil,nil,nil,3,2,Garage,"3,57 % inkl. der 19 % MwSt.","{'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+"""Natur pur"" Schönes Landhaus mit 2-3 Wohneinheiten Garten, Doppelgarage und Carport",324.000 €,"92549 Stadlern, Schwandorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,212 m²,671 m²,1.528 €/m²,Mehrfamilienhaus,nil,nil,nil,3,4 Stellplätze,"3,57 % inkl. der 19 % MwSt.",{'is24qa-keller-label': ''}
+... WohnWert ...,559.000 €,"92271 Freihung, Amberg-Sulzbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,1.055 m²,2.662 €/m²,Einfamilienhaus (freistehend),nil,nbarung,4,3,2 Garagen,"3,57 % vom Gesamtkaufpreis inkl. 19% MwSt,57 % vom Gesamtkaufpreis inkl. 19% MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Doppelhaushälfte mit Potential,149.000 €,"84339 Unterdietfurt, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"74,84 m²",344 m²,1.991 €/m²,Doppelhaushälfte,nil,nil,2,1,1 Garage,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises",{}
+Einfamilienhaus in Eggenfelden,299.000 €,"84307 Eggenfelden, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,108 m²,529 m²,2.769 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,1 Carport,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-keller-label': ''}
+Moderner Bungalow mit großem Garten und Doppelgarage,399.000 €,"84371 Triftern, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,65 m²",980 m²,4.402 €/m²,Bungalow,nil,nil,2,1,2 Garagen,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus in gemütlichem Landhausstil,429.000 €,"94496 Ortenburg, Passau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"172,29 m²",750 m²,2.490 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,1 Carport,"Käuferprovision 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Schöner Pferdehof mit mehreren Wohneinheiten, Offen-Stall, Koppeln und elf Pferde-Boxen",998.000 €,"94163 Saldenburg, Freyung-Grafenau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,325 m²,13.951 m²,3.071 €/m²,Einfamilienhaus (freistehend),nil,nil,7,3,nil,"Käuferprovision 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises.",{'is24qa-einliegerwohnung-label': ''}
+Gepflegtes Anwesen mit 5 Wohneinheiten und weiterem Ausbaupotential,1.250.000 €,"84364 Bad Birnbach, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",14,413 m²,3.403 m²,3.027 €/m²,nil,nil,nil,7,5,2 Carports,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus mit schönem Grundstück,649.000 €,"86450 Altenmünster, Augsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,224 m²,736 m²,2.897 €/m²,Einfamilienhaus (freistehend),nil,nil,5,2,2 Garagen,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"

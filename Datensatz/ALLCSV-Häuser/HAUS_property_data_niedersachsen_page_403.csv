@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Raddestorf, Wohnhaus mit ELW",300.000 €,"Glisser Bruch 21,
+31604 Raddestorf, Nienburg (Weser) (Kreis)",5,185 m²,845 m²,1.622 €/m²,Bungalow,nil,nil,nil,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Walkenried, EFH",125.000 €,"Musterstr 1,
+37445 Walkenried, Osterode am Harz (Kreis)",5,156 m²,6.099 m²,801 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Eschershausen, 3 Familienhaus",280.000 €,"Homburgstr. 5,
+37632 Eschershausen, Holzminden (Kreis)",15,323 m²,936 m²,867 €/m²,Mehrfamilienhaus,nil,nil,nil,3,1 Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+11 ha Acker- und Grünland mit vermieteter Hofstelle zu verkaufen,885.000 €,"27308 Kirchlinteln, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,300 m²,112.564 m²,2.950 €/m²,Bauernhaus,200 m²,nil,nil,nil,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ferienhaus in Otterndorf am Badesee, Ferienpark ""Achtern Diek""",269.000 €,"21762 Otterndorf, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"55,4 m²",252 m²,4.856 €/m²,Besondere Immobilie,nil,nach Vereinbarung,2,1,Außenstellplatz,"3,57 %inkl. MwSt",{'is24qa-als-ferienhaus-geeignet-label': ''}
+Einfamilienhaus mit viel Potenzial auf tollem Grundstück in Osternburg,298.000 €,"Osternburg, 26133 Oldenburg (Oldenburg)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"118,8 m²",579 m²,2.508 €/m²,Einfamilienhaus (freistehend),"60,06 m²",nach Vereinbarung,3,1,Garage,"2,9 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Seltene Gelegenheit! Wohnen am Stadtpark!,639.000 €,"Altengroden, 26386 Wilhelmshaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,220 m²,1.505 m²,2.905 €/m²,Villa,nil,01.05.2024,2,2,2 Garagen,"1,785% inkl. MwSt.",{}
+Endlich gefunden!Tolles Wohnhaus im Nordseebad Otterndorf!,299.000 €,"Große Ortstraße 88,
+21762 Otterndorf, Cuxhaven (Kreis)",5,97 m²,869 m²,3.082 €/m²,Einfamilienhaus (freistehend),60 m²,nil,2,2,1 Garage,"Maklercourtage: 2,975% inkl.MwSt. jeweils von Käufer & Verkäufer 10 Tage nach Beurkundung zahlbar.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Junges Stadthaus!,449.000 €,"38302 Wolfenbüttel, Wolfenbüttel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,279 m²,3.207 €/m²,Doppelhaushälfte,53 m²,nach Vereinbarung,nil,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Hinaus auf`s Land! Solider Rotklinker auf großem Grundstück sucht Familienanschluss!,379.000 €,"21272 Egestorf, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",130 m²,1.183 m²,2.915 €/m²,Einfamilienhaus (freistehend),70 m²,nach Vereinbarung,nil,1,Garage,"3,3 % inkl. gesetzl. MwSt. bezogen auf den Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Oesede-Süd - in ruhiger Lage,330.000 €,"Schwedeldorfer Straße 6,
+49124 Georgsmarienhütte, Osnabrück (Kreis)",6,127 m²,731 m²,2.598 €/m²,Mehrfamilienhaus,nil,nil,nil,2,1 Stellplatz,"3,570 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Delmenhorst-Mitte | Vermietetes Zweifamilienhaus am Rande der Innenstadt,219.000 €,"Südliche Stadtmitte, 27749 Delmenhorst
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,160 m²,550 m²,1.369 €/m²,Mehrfamilienhaus,30 m²,nach Vereinbarung,4,2,2 Außenstellplätze,"4,76% (inkl. 19% MwSt.) vom beurkundeten Kaufpreis","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Brake: Tolles Einfamilienhaus in der Wesermarsch, Obj. 7376",495.000 €,"26919 Brake (Unterweser), Wesermarsch (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"174,5 m²",1.455 m²,2.837 €/m²,Einfamilienhaus (freistehend),"204,73 m²",nach Absprache,nil,2,nil,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Traumimmobilie! Charmantes Mehrfamilienhaus in ruhiger Lage von Osnabrück,559.000 €,"Atter, 49076 Osnabrück
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,255 m²,500 m²,2.192 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,2 Garagen,"5,95 % inkl.19 %MwSt.",{'is24qa-keller-label': ''}
+SMART LIVING - KFW 40 DOPPELHÄUSER IM NEUBAUGEBIET FLIEGERHORST,460.000 €,"38640 Goslar, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,382 m²,3.262 €/m²,nil,20 m²,September 2023,3,2,2 Außenstellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+**Provisionsfrei** 3-Familienhaus mit Potential,249.000 €,"31246 Lahstedt, Peine (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,256 m²,645 m²,973 €/m²,Mehrfamilienhaus,nil,nil,5,nil,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Familienhaus in Hambühren,389.000 €,"29313 Hambühren, Celle (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,180 m²,804 m²,2.161 €/m²,Mehrfamilienhaus,80 m²,nil,nil,2,5 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Einfamilienhaus mit möglicher Einliegerwohnung,385.000 €,"29308 Winsen (Aller), Celle (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,1.200 m²,2.567 €/m²,Einfamilienhaus (freistehend),130 m²,nil,nil,nil,4 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Urlaubsoase - Doppelhaushälfte mit Sauna und Garten an der Ostfriesischen Nordseeküste in Neßmer,285.000 €,"26553 Dornum, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,60 m²,237 m²,4.750 €/m²,Doppelhaushälfte,15 m²,Nach Vereinbarung,2,1,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-gaeste-wc-label': ''}
+++KÄUFER GEFUNDEN++ 3 Wohnungen ein Preis! Schnapper in bester Lage!,390.000 €,"48531 Nordhorn, Grafschaft Bentheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,243 m²,851 m²,1.605 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung,nil,4,Außenstellplatz,"Die Käuferprovision beträgt 4,17 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"

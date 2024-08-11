@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Zimmer-Wohnung mit Loggia,90.000 €,"Brandströmerstraße XXXX,
+95615 Marktredwitz, Wunsiedel im Fichtelgebirge (Kreis)",3,"76,14 m²",1.182 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Penthouse-Wohnung mit Dachterrasse und TG-Stellplatz,688.000 €,"Bgm.-Sedlmeir-Straße XXXX,
+86415 Mering, Aichach-Friedberg (Kreis)",3,115 m²,5.983 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung in zentraler Lage,110.000 €,"Melanchthonplatz XXXX,
+Steinbühl, 90443 Nürnberg",2,45 m²,2.444 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Zuhause zum Wohlfühlen & mit Perspektive,699.000 €,"Sendlinger Feld, 81371 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,83 m²,8.422 €/m²,Dachgeschoss,20 m²,nach Vereinbarung,nil,nil,1 Tiefgaragen-Stellplatz,"1,78 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"2,5-Zimmer-Wohnung mit Balkon",470.000 €,"Schlüsselbergstraße XXXX,
+Echarding, 81673 München",3,70 m²,6.714 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stadt oder Land? Hier bekommen Sie beides!,540.000 €,"86551 Aichach, Aichach-Friedberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,118 m²,4.576 €/m²,Dachgeschoss,nil,Nach Rücksprache,nil,nil,1 Garage,"2,38%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
++ 4-Zimmer-Wohnung mit 3 Pkw-Stellplätzen +,480.000 €,"Am Nordbahnhof XXXX,
+Nordwest, 85049 Ingolstadt",4,"89,15 m²",5.384 €/m²,nil,"23,01 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+++ 2-Zimmer-wohnung mit Garage und TG-Stellplatz ++,227.800 €,"Modereggweg XXXX,
+83471 Schönau am Königssee, Berchtesgadener Land (Kreis)",2,"44,8 m²",5.085 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit großer Dachterrasse,202.000 €,"Hauptstr. XXXX,
+91257 Pegnitz, Bayreuth (Kreis)",3,"90,5 m²",2.232 €/m²,nil,"19,5 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ Dachgeschosswohnung mit Ausblick + und Tiefgaragenstellplatz,149.000 €,"Parkstraße XXXX,
+86462 Langweid am Lech, Augsburg (Kreis)",2,52 m²,2.865 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung im Gartengeschoss,1.800.000 €,"Königinstraße XXXX,
+Schönfeldvorstadt, 80539 München",2,82 m²,21.951 €/m²,nil,97 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-Zimmer-Wohnung mit Terrasse,86.900 €,"Dornierstraße XXXX,
+Haubenschloß, 87435 Kempten (Allgäu)",1,"25,89 m²",3.357 €/m²,nil,"1,4 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Stilvoll & exquisit - dazu attraktive Preisgestaltung, Wohnen zum Wohlfühlen",705.000 €,"Neuperlach, 81735 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,8.813 €/m²,Etagenwohnung,13 m²,nach Vereinbarung,nil,nil,1 Tiefgaragen-Stellplatz,"1,785 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+2-Zimmer-Wohnung mit TG-Stellplatz,354.000 €,"Tölzer Straße XXXX,
+Thalkirchen, 81379 München",2,55 m²,6.436 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Dachgeschosswohnung mit Tiefgarage,100.000 €,"Sonnenstraße XXXX,
+Südstadt Industriegebiet, 90763 Fürth",1,1 m²,100.000 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung im Herzen von Nürnberg,305.000 €,"Haderastraße XXXX,
+Röthenbach Ost, 90451 Nürnberg",3,72 m²,4.236 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit Balkon,61.000 €,"Bachstraße XXXX,
+95346 Stadtsteinach, Kulmbach (Kreis)",4,93 m²,656 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon und Stellplatz,114.300 €,"St.-Georg-Straße XXXX,
+92237 Sulzbach-Rosenberg, Amberg-Sulzbach (Kreis)",3,55 m²,2.078 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Südbalkon ++ provisionsfrei ++,330.000 €,"Chamer Straße XXXX,
+Konradsiedlung-Wutzlhofen, 93057 Regensburg",3,"71,34 m²",4.626 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit TG-Stellplatz,283.000 €,"Gartenstraße XXXX,
+85354 Freising, Freising (Kreis)",2,52 m²,5.442 €/m²,nil,8 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

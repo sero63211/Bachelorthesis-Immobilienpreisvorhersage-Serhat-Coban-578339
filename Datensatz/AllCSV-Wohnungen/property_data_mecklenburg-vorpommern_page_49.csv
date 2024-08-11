@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Eigentumswohnung im Grünen mit Blick auf die Skyline Rostocks,288.900 €,"Graf-Stauffenberg-Straße 1,
+Toitenwinkel, 18147 Rostock",3,84 m²,3.439 €/m²,Dachgeschoss,84 m²,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöne Erdgeschosswohnung in Hohe Düne (Warnemünde), TG-Stellplatz, Südterrasse, Wasserblick, EBK",275.000 €,"Seebad Hohe Düne, 18119 Rostock
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"61,25 m²",4.490 €/m²,Terrassenwohnung,nil,nil,1,1,Tiefgaragen-Stellplatz,"3,57 % inkl. 19 % gesetzl. MwSt. vom Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"günstige ostseenahe Dreiraumwohnung mit Balkon, Wannenbad mit Fenster und gr. Keller! Vertragsfrei!",68.500 €,"Breitscheidallee 0,
+18236 Kröpelin, Rostock (Kreis)",3,59 m²,1.161 €/m²,Etagenwohnung,10 m²,ab sofort möglich,2,1,Außenstellplatz,"3,57 % inkl. MwSt. vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Komfortable, gepflegte 2-Zimmer-Erdgeschosswohnung mit Terrasse und PKW-Stellplatz",236.500 €,"Alte Strandstraße 39,
+17454 Zinnowitz, Vorpommern-Greifswald (Kreis)",2,54 m²,4.380 €/m²,Erdgeschosswohnung,nil,30.1.2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Nostalgie von außen, Moderne von innen: Wohnungen in Bäderstil-Villa",196.000 €,"18609 Binz, Vorpommern-Rügen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,28 m²,7.000 €/m²,Etagenwohnung,nil,nach Vereinbarung,1,1,1 Carport,"3,57% inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Erstbezug - Eigentumswohnung mit zwei Balkonen im Bahnhofsviertel *provisionsfrei*,598.000 €,"Lessingstraße 13,
+Stadtmitte, 18055 Rostock",3,101 m²,5.921 €/m²,Etagenwohnung,nil,01.11.2024,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Moderne 4-Zimmerwohnung, barrierearm, 3 Stellplätzen, Gäste-WC, EBK in Ostseenähe",395.000 €,"Storchenwiese 0,
+18211 Börgerende-Rethwisch, Rostock (Kreis)",4,98 m²,4.031 €/m²,Terrassenwohnung,nil,nach Vereinbarung,3,1,3 Stellplätze,"3,57% inkl. MwSt. vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Nostalgie von außen, Moderne von innen: Wohnungen in Bäderstil-Villa",224.000 €,"18609 Binz, Vorpommern-Rügen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,32 m²,7.000 €/m²,Dachgeschoss,nil,nil,nil,1,1 Carport,"3,57 % inkl. ges. MwSt.",{}
+"Eigentumswohnung im 2FH, OG/DG mit Balkon und Garten (En.Eff.Kl. A) an der Ostsee!",339.500 €,"23968 Zierow, Nordwestmecklenburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,3.574 €/m²,Erdgeschosswohnung,105 m²,nil,2,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderner Wohnkomfort in zentraler Lage,235.000 €,"Tribseer, 18437 Stralsund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,71 m²",3.689 €/m²,Etagenwohnung,nil,nach Vereinbarung,1,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+"""Lukrative 3-Zimmer Wohnung in Sellin auf Rügen""",215.000 €,"18586 Sellin, Vorpommern-Rügen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,49 m²,4.388 €/m²,Etagenwohnung,nil,01.05.2024,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+"Eigentumswohnung im 2FH, EG mit Terrasse und Garten (En.Eff.Kl. A) an der Ostsee!!",299.500 €,"23968 Zierow, Nordwestmecklenburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"72,5 m²",4.131 €/m²,Erdgeschosswohnung,86 m²,nil,2,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+TOP Kapitalanlage-Gewinn ab den 1. Monat -vermietete Eigentumswohnung auf der Insel Rügen,183.000 €,"18546 Sassnitz, Vorpommern-Rügen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,2.815 €/m²,Etagenwohnung,nil,nil,1,nil,1 Außenstellplatz,"3,57% des Kaufpreises","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Luxus Erdgeschoß Ferienwohnung in der denkmalgeschützten Villa Esperance,467.906 €,"Schillerstraße 15,
+18609 Binz, Vorpommern-Rügen (Kreis)",2,"53,5 m²",8.746 €/m²,Etagenwohnung,"53,5 m²",nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Appartement in TOP Lage „Am Hochufer“ im Ostseebad Sellin zu verkaufen!!,460.000 €,"Am Hochufer 1,
+18586 Sellin, Vorpommern-Rügen (Kreis)",2,71 m²,6.479 €/m²,Etagenwohnung,5 m²,nach Vereinbarung,1,1,1 Außenstellplatz,"1,19","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Penthouse mit Blick auf Rostock | Neubau | Erstbezug | www.LUTTER.net,513.000 €,"Brinckmansdorf, 18055 Rostock
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"108,26 m²",4.739 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"2,38% des Kaufpreises inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+"Nostalgie von außen, Moderne von innen: Wohnungen in Bäderstil-Villa",312.000 €,"18609 Binz, Vorpommern-Rügen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,48 m²,6.500 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Carport,"3,57 % inkl. ges. MwSt.",{}
+RENDITEWOHNUNG Kapitalanleger aufgepasst-Investieren Sie jetzt in diese Immobilie,351.000 €,"18546 Sassnitz, Vorpommern-Rügen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,142 m²,2.472 €/m²,Etagenwohnung,nil,nil,3,nil,1 Außenstellplatz,"3,57% des Kaufpreises","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Sehr gut vermietete Ferien-Wohnung mit Weitblick, 2 Schlafzi. im Seitenweg am Zentrum & Strand.",345.000 €,"Likedeeler Weg 1,
+18374 Zingst, Vorpommern-Rügen (Kreis)",3,74 m²,4.662 €/m²,Dachgeschoss,nil,sofort,2,1,1 Außenstellplatz,"3,57 % inkl. Mwst.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Strandnah zu Hause in Kühlungsborn-Ost!,399.000 €,"18225 Kühlungsborn, Rostock (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,4.988 €/m²,Hochparterre,nil,nach Vereinbarung,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"

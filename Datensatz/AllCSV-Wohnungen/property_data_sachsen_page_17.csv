@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Zimmer-Wohnung mit Stellplatz,6.000 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",3,67 m²,90 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Dachgeschosswohnung mit Stellplatz,3.600 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",2,42 m²,86 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Stellplatz in der Innenstadt,36.000 €,"Salomonstraße XXXX,
+Innenstadt, 02826 Görlitz",3,"65,27 m²",552 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Stellplatz,6.000 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",3,67 m²,90 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Stellplatz,6.000 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",3,67 m²,90 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Stellplatz,6.000 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",3,67 m²,90 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4-Zimmer-Wohnung mit Stellplatz,7.700 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",4,83 m²,93 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Stellplatz,5.800 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",3,66 m²,88 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+5-Zimmer-Wohnung mit Stellplatz,11.200 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",5,118 m²,95 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Balkon in guter Lage,60.000 €,"Freiheitsstraße XXXX,
+Neundorfer Vorstadt, 08523 Plauen",2,"54,82 m²",1.094 €/m²,nil,"3,52 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Stellplatz,6.000 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",3,67 m²,90 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Stellplatz,6.000 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",3,67 m²,90 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung ++ ohne Provision ++,9.200 €,"Rauschwalder Straße XXXX,
+Innenstadt, 02826 Görlitz",2,"59,77 m²",154 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1-Zimmer-Wohnung mit Dachterrasse,58.000 €,"Clara-Wieck-Straße XXXX,
+Schönefeld-Abtnaundorf, 04347 Leipzig",1,41 m²,1.415 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Stellplatz,5.800 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",3,66 m²,88 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Stellplatz,6.000 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",3,67 m²,90 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Dachgeschosswohnung mit Stellplatz,3.600 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",2,42 m²,86 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Stellplatz,3.600 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",2,42 m²,86 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Stellplatz,3.600 €,"Kirchgasse XXXX,
+04880 Trossin, Nordsachsen (Kreis)",2,42 m²,86 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Raum-Wohnung mit Stellplatz,49.000 €,"Amseltal XXXX,
+Eckersbach Siedlung, 08066 Zwickau",2,"60,06 m²",816 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

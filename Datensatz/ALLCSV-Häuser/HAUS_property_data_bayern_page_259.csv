@@ -1,0 +1,49 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Solides Ein-/Zweifamilienhaus + provisionsfrei +,354.000 €,"Nicolaus-Zech-Straße XXX,
+Scheuerfeld, 96450 Coburg",5,"175,73 m²",563 m²,2.014 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus in gutem bis sehr gutem baulichen Zustand,448.000 €,"Glück-Auf-Straße XXX,
+92449 Steinberg am See, Schwandorf (Kreis)",3,157 m²,709 m²,2.854 €/m²,Wohnimmobilie (sonstige),82 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Geschäftshaus + provisionsfrei +,61.630 €,"Enheimer Straße XXX,
+97342 Obernbreit, Kitzingen (Kreis)",5,"108,8 m²",813 m²,566 €/m²,Wohnimmobilie (sonstige),"57,19 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage in ruhiger Wohnlage,41.000 €,"Zur Aumühle XXX,
+96361 Steinbach am Wald, Kronach (Kreis)",4,"116,58 m²",575 m²,352 €/m²,Wohnimmobilie (sonstige),"21,53 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus mit Doppelcarport,13.001 €,"Angerstraße XXX,
+96332 Pressig, Kronach (Kreis)",3,128 m²,2.183 m²,102 €/m²,Wohnimmobilie (sonstige),298 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte mit Garage,297.000 €,"Friedrich-Ebert-Straße XXX,
+97199 Ochsenfurt, Würzburg (Kreis)",1,150 m²,777 m²,1.980 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit ehem. Scheune,182.000 €,"Seitenbach XXX,
+95490 Mistelgau, Bayreuth (Kreis)",1,"173,55 m²",1.841 m²,1.049 €/m²,Wohnimmobilie (sonstige),"278,54 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Reihenendhaus mit Doppelgarage und Fertigteilgarage,474.000 €,"Langenzenner Straße XXX,
+90556 Seukendorf, Fürth (Kreis)",5,146 m²,384 m²,3.247 €/m²,Wohnimmobilie (sonstige),18 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Einliegerwhg. in guter Lage,645.000 €,"Volkenbergstraße XXX,
+97250 Erlabrunn, Würzburg (Kreis)",7,"235,7 m²",439 m²,2.737 €/m²,Wohnimmobilie (sonstige),"43,52 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Einliegerwhg. und Garagen,685.000 €,"Horneckstraße XXX,
+91336 Heroldsbach, Forchheim (Kreis)",5,121 m²,1.685 m²,5.661 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Sofort beziehbar: gemütliches und geräumiges Reihenhaus in Dornach,815.000 €,"85609 Aschheim, München (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,126 m²,220 m²,6.468 €/m²,Reihenmittelhaus,21 m²,sofort,3,1,2 Garagen,"2,38%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Einfamilienhaus in guter und exponierter Wohnlage mit Fernsicht,195.000 €,"Guldensteig XXX,
+94556 Neuschönau, Freyung-Grafenau (Kreis)",4,"126,1 m²",734 m²,1.546 €/m²,Wohnimmobilie (sonstige),"36,68 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte mit Garage und Terrasse,860.000 €,"Blumenstraße XXX,
+85354 Freising, Freising (Kreis)",1,"200,2 m²",343 m²,4.296 €/m²,Wohnimmobilie (sonstige),"23,34 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Balkon,200.000 €,"Bayreuther Straße XXX,
+95686 Fichtelberg, Bayreuth (Kreis)",4,"155,16 m²",432 m²,1.289 €/m²,Wohnimmobilie (sonstige),"21,97 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Kapitalanlage + Mehrfamilienhaus mit Doppelgarage,1.410.000 €,"Mergentheimer Straße XXX,
+Heidingsfeld, 97084 Würzburg",24,610 m²,640 m²,2.311 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Terrasse,44.000 €,"Schafgasse XXX,
+96328 Küps, Kronach (Kreis)",8,"175,92 m²",299 m²,250 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage,153.300 €,"Sendelbach Straße XXX,
+97816 Lohr am Main, Main-Spessart (Kreis)",1,"370,5 m²",244 m²,414 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ehemaliges landwirtschaftliches Anwesen,100.000 €,"Obere Hauptstraße XXX,
+91799 Langenaltheim, Weißenburg-Gunzenhausen (Kreis)",6,150 m²,1.211 m²,667 €/m²,Wohnimmobilie (sonstige),160 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Doppelgarage,450.000 €,"Am Versuchsgarten XXX,
+91807 Solnhofen, Weißenburg-Gunzenhausen (Kreis)",4,"152,04 m²",663 m²,2.960 €/m²,Wohnimmobilie (sonstige),"104,56 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+FORMHAUS | Multitalent. Durchdachtes Stadthaus.,1.190.000 €,"Daglfing, 81929 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,117 m²,170 m²,10.171 €/m²,Doppelhaushälfte,nil,nil,nil,2,Carport,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Heimathafen. Gemütliches Stadthaus.,1.090.000 €,"Daglfing, 81929 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,116 m²,141 m²,9.397 €/m²,Doppelhaushälfte,nil,nil,nil,2,Carport,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Wohnmanege. Eindrucksvolles Stadthaus.,1.250.000 €,"Daglfing, 81929 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,116 m²,292 m²,10.776 €/m²,Doppelhaushälfte,nil,nil,nil,2,Carport,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Familiennest. Komfortables Stadthaus.,1.290.000 €,"Daglfing, 81929 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,119 m²,277 m²,10.840 €/m²,Doppelhaushälfte,nil,nil,nil,2,Carport,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Extraklasse. Großzügiges Einfamilienhaus.,Auf Anfrage,"Daglfing, 81929 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,264 m²,450 m²,nil,Reihenmittelhaus,nil,nil,nil,3,Carport,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Preisnachlass sichern auf helle, vermietete Wohnung mit 3 Zimmern in Tiergarten",319.100 €,"Flotowstrasse 1,
+Hansaviertel, 10555 Berlin",3,"77,83 m²",4.100 €/m²,Erdgeschosswohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 2-Zimmerwohnung mit guter Energieklasse & Wannenbad nahe Boxhagener Platz,219.900 €,"Scharnweberstraße 14a,
+Friedrichshain, 10247 Berlin",2,"46,55 m²",4.724 €/m²,Erdgeschosswohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mit Wintergarten & Wannenbad: Vermietete, helle 2-Zimmerwohnung in Tiergarten",261.100 €,"Flotowstrasse 1,
+Hansaviertel, 10555 Berlin",2,"64,96 m²",4.019 €/m²,Erdgeschosswohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bezugsfreie, gemütliche 2-Zimmerwohnung in schönem Altbauhaus - provisionsfreier Kauf!",329.900 €,"Osloer Straße 114,
+Gesundbrunnen, 13359 Berlin",2,"60,4 m²",5.462 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 3-Zimmer-Kapitalanlage mit Wintergarten in Tiergarten,323.100 €,"Flotowstrasse 1,
+Hansaviertel, 10555 Berlin",3,"78,18 m²",4.133 €/m²,Erdgeschosswohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 3-Zimmerwohnung mit Wannenbad nahe Boxhagener Kiez als Investment,282.900 €,"Scharnweberstraße 14a,
+Friedrichshain, 10247 Berlin",3,"68,66 m²",4.120 €/m²,Erdgeschosswohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Praktisch geschnittene 3 Zimmerwohnung mit Wannenbad nahe Schloss Charlottenburg,298.900 €,"Tegeler Weg 104,
+Charlottenburg, 10589 Berlin",3,"69,99 m²",4.271 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Energieeffizient & mit Balkon: Vermietete 1,5-Zimmerwohnung in beliebter Kiezlage",230.900 €,"Weichselstraße 7b,
+Friedrichshain, 10247 Berlin","1,5","48,87 m²",4.725 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 1-Zimmer-Kapitalanlage mit Aufzug und Balkon,168.900 €,"Osloer Straße 110,
+Gesundbrunnen, 13359 Berlin",1,"49,31 m²",3.425 €/m²,Erdgeschosswohnung,nil,nil,0,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 2 Zimmer-Atbauwohnung mit Balkon & Wannenbad als Kapitalanlage in Wedding,309.900 €,"Osloer Straße 114,
+Gesundbrunnen, 13359 Berlin",2,"70,21 m²",4.414 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 2-Zimmer Kapitalanlage mit Balkon in schönem Altbau,259.900 €,"Osloer Straße 114,
+Gesundbrunnen, 13359 Berlin",2,"79,8 m²",3.257 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 2-Zimmer-Altbauwohnung mit großem Wohnzimmer als Kapitalanlage in Wedding,273.900 €,"Osloer Straße 114,
+Gesundbrunnen, 13359 Berlin",2,"70,57 m²",3.881 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 2-Zimmerwohnung mit Balkon in modernisiertem Altbau,259.900 €,"Osloer Straße 114,
+Gesundbrunnen, 13359 Berlin",2,"79,8 m²",3.257 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 1-Zimmerwohnung mit guter Energieklasse & Wannenbad in attraktiver Lage,199.900 €,"Thorwaldsenstraße 22,
+Steglitz, 12157 Berlin",1,"36,61 m²",5.460 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Preiswerte, energieeffiziente 1-Zimmerwohnung als Kapitalanlage im Szeneviertel",186.900 €,"Scharnweberstraße 14a,
+Friedrichshain, 10247 Berlin",1,"48,21 m²",3.877 €/m²,Etagenwohnung,nil,nil,0,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Große, vermietete 4,5 Zimmerwohnung mit Balkon & Wannenbad nahe Schloss Charlottenburg",610.900 €,"Tegeler Weg 104,
+Charlottenburg, 10589 Berlin","4,5","147,89 m²",4.131 €/m²,Etagenwohnung,nil,nil,4,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sanierte, unvermietete 3-Zimmer-Hochparterrewohnung mit Galerie",639.900 €,"Thorwaldsenstraße 17,
+Steglitz, 12163 Berlin",3,"113,26 m²",5.650 €/m²,Hochparterre,nil,nil,2,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bezugsfreie 3-Zimmerwohnung mit Wintergarten in Berlin-Tiergarten!,453.100 €,"Bachstrasse 6,
+Hansaviertel, 10555 Berlin",3,79 m²,5.735 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mit zweitgrößter Loggia des Gebäudes & Energieklasse B: Vermietete 2 Zimmerwohnung,260.900 €,"Johanniterstraße 4,
+Kreuzberg, 10961 Berlin",2,"63,86 m²",4.085 €/m²,Erdgeschosswohnung,nil,nil,1,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihre eigene Kapitalanlange in Wedding mit 1 Zimmer & Terrasse im Erdgeschoss,159.900 €,"Osloer Straße 114,
+Gesundbrunnen, 13359 Berlin",1,"34,15 m²",4.682 €/m²,Erdgeschosswohnung,nil,nil,0,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

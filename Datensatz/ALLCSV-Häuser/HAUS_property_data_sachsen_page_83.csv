@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+BAROCKES SCHLOSS IN DEN WEINBERGEN RADEBEULS,4.000.000 €,"Auerweg 2,
+01445 Radebeul, Meißen (Kreis)",40,850 m²,7.000 m²,4.706 €/m²,Villa,1.200 m²,sofort,nil,nil,3 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exclusive Villa im Musikviertel,7.800.000 €,"Zentrum-Süd, 04107 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",40,2.400 m²,3.000 m²,3.250 €/m²,Villa,400 m²,01.04.2023,nil,nil,12 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Haus sucht glückliche Familie,210.000 €,"09456 Annaberg-Buchholz, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,131 m²,740 m²,1.603 €/m²,Doppelhaushälfte,nil,nil,4,1,1 Garage,"3,57 % vom Kaufpreis inkl. gesetzl. MwSt. Käuferprovision","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Hier liegen Sie richtig,660.000 €,"09599 Freiberg, Mittelsachsen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,235 m²,1.356 m²,2.809 €/m²,nil,nil,nil,6,3,8 Garagen,"3,57% vom Kaufpreis inkl. gesetzl. Mwst. Käuferprovision","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Solides Haus zum günstigen Preis,93.000 €,"08132 Mülsen, Zwickau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,683 m²,979 €/m²,Einfamilienhaus (freistehend),nil,Kaufpreiszahlung,1,1,4 Stellplätze,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+"""Attraktives Mehrfamilienhaus mit 15 Wohnungen: Energieeffizient und renditestarkes Zinshaus""",1.950.000 €,"01844 Neustadt in Sachsen, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",40,1.285 m²,1.180 m²,1.518 €/m²,Mehrfamilienhaus,nil,sofort,nil,nil,15 Außenstellplätze,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+"""Historischer Charme zum Leben erwecken: Denkmalgeschütztes Fachwerkhaus mit Renovierungsbedarf""",54.000 €,"09488 Thermalbad Wiesenbad, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"101,5 m²",370 m²,532 €/m²,Einfamilienhaus (freistehend),50 m²,nil,1,1,nil,"4,76 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+"Rendite-Objekt, Faktor 12,8 mit Steigerungspotezial in bevorz. Wohngegend",510.000 €,"Holzstr. 20,
+08412 Werdau, Zwickau (Kreis)",30,672 m²,910 m²,759 €/m²,Reiheneckhaus,nil,nil,nil,nil,10 Garagen,"3,57%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Einzigartiges Sanierungsobjekt mit Förderpotential-Ihr Traum vom Eigenheim und Mieteinnahmen,70.000 €,"01848 Hohnstein, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,230 m²,290 m²,304 €/m²,Mehrfamilienhaus,nil,nach Kauf,2,2,nil,"7,14 % Käuferprovision inkl. 19 % MwSt.",{'is24qa-keller-label': ''}
++++ Hier werden fleißige Hände gesucht.......+++,165.000 €,"09356 Sankt Egidien, Zwickau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,210 m²,1.120 m²,786 €/m²,Einfamilienhaus (freistehend),105 m²,nach Vereinbarung,2,3,2 Außenstellplätze,"3,57 % inkl. gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+3 Mehrfamilienhäuser als Anlage in Limbach - Oberfrohna +++,999.999 €,"Rußdorfer Straße 1 u. 1a,
+09212 Limbach-Oberfrohna, Zwickau (Kreis)",45,917 m²,3.670 m²,1.091 €/m²,Mehrfamilienhaus,555 m²,nil,15,15,10 Garagen,"3,57% inkl. gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Reihenmittelhaus mit unverbautem Ausblick!,99.000 €,"09648 Mittweida, Mittelsachsen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,254 m²,1.269 €/m²,Reihenmittelhaus,30 m²,nach Vereinbarung,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Zweifamilienhaus mit neuem Dach und viel Potential in Beiersdorf,119.000 €,"02736 Beiersdorf, Görlitz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,200 m²,2.080 m²,595 €/m²,Mehrfamilienhaus,nil,nil,6,2,3 Garagen,"4,5 % vom Kaufpreis inkl. gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Leben und Wohnen in historischer Stätte im Herzen von Frohburg,150.000 €,"04654 Frohburg, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,190 m²,370 m²,789 €/m²,Reihenmittelhaus,nil,nil,nil,1,nil,"3,57% inkl. 19% Mehrwertsteuer",{}
+Mehrfamilienhaus mit Gewerbeeinheiten,427.000 €,"02763 Zittau, Görlitz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",20,676 m²,450 m²,632 €/m²,Mehrfamilienhaus,676 m²,nach Absprache,12,10,5 Außenstellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Saniertes MFH Südvorstadt in tollem Zustand ++ Balkone, Traumlage",2.550.000 €,"Südvorstadt, 04275 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,1.000 m²,1 m²,2.550 €/m²,Mehrfamilienhaus,nil,Vermietet,16,16,nil,"7,14% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-vermietet-label': ''}"
+"Exquisites Anwesen mit vielen Annehmlichkeiten in ruhiger Lage: Eleganz, Qualität und Komfort",899.000 €,"Liebertwolkwitz, 04288 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"270,11 m²",785 m²,3.328 €/m²,Villa,"319,98 m²",sofort,nil,1,4 Garagen,"3,57% Käufer-Provision inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
++++Stilvolles Anwesen: Exquisite Villa in Hohenstein-Ernstthal – Ihr Traumdomizil+++,349.000 €,"Lungwitzer Str. 30,
+09337 Hohenstein-Ernstthal, Zwickau (Kreis)",10,357 m²,800 m²,978 €/m²,Villa,nil,nil,nil,nil,nil,"5,95 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Einladendes Angebot: Mietkaufmöglichkeit für ein Einfamilienhaus in Wiedemar,120.000 €,"Kirchbogen 37,
+04509 Neukyhna, Nordsachsen (Kreis)",8,180 m²,700 m²,667 €/m²,Einfamilienhaus (freistehend),80 m²,nach Absprache,1,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus - umfassend saniert - Stadtzentrum,245.000 €,"04758 Oschatz, Nordsachsen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,320 m²,353 m²,766 €/m²,Mehrfamilienhaus,320 m²,nil,nil,nil,nil,"7,14 % inkl. MwSt.",{}

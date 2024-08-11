@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"3,5-Zimmer-Penthouse-Maisonettewohnung in stadtnaher Lage",379.000 €,"Wörthstraße 7,
+Reutlingen, 72764 Reutlingen",3,112 m²,3.384 €/m²,Maisonette,nil,nil,2,1,1 Garage,"3,57% (inkl. MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Freiburg St.-Georgen - (WG 01) Wunderschöne Eigentumswohnungen,545.800 €,"Weinbergstr. 3,
+St. Georgen-Nord, 79111 Freiburg im Breisgau","3,5","74,4 m²",7.336 €/m²,Erdgeschosswohnung,"5,7 m²",nil,2,1,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige Wohnung in Seenähe von Immenstaad!,549.000 €,"St.-Jodokus-Weg 7,
+88090 Immenstaad am Bodensee, Bodenseekreis",4,123 m²,4.463 €/m²,Dachgeschoss,6 m²,sofort,2,1,nil,"2,00%",{'is24qa-balkon-terrasse-label': ''}
+Einzigartige und großzügige 4-Zimmer-Maisonette-Wohnung in ruhiger Lage von Endingen!,339.000 €,"72336 Balingen, Zollernalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"126,5 m²",2.680 €/m²,Maisonette,nil,nil,nil,nil,nil,"2,5 % zzgl. ges. MwSt.",{}
+"Traumhafte Penthouse Wohnung mit einzigartigem Ausblick, in der Pforzheimer Südweststadt",699.000 €,"Dillweißenstein, 75173 Pforzheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,5.592 €/m²,Dachgeschoss,nil,sofort,1,nil,1 Garage,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+VBU Immobilien - Einziehen und wohlfühlen in Ludwigsburg,359.000 €,"Süd, 71638 Ludwigsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,94 m²,3.819 €/m²,nil,nil,nil,nil,nil,nil,"3,27 % inkl. MwSt",{'is24qa-balkon-terrasse-label': ''}
+Souterrain-Perle: Hochwertig Kernsaniert ETW in begehrtem Lage in Oberhausen-Rheinhausen!,225.960 €,"68794 Oberhausen-Rheinhausen, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"75,32 m²",3.000 €/m²,Souterrain,nil,nil,1,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Hochwertig Kernsaniert ETW im 1.OG begehrtem Lage in Oberhausen-Rheinhausen!,303.210 €,"68794 Oberhausen-Rheinhausen, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"101,07 m²",3.000 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+SEHR SCHÖNE 3-ZIMMERWOHNUNG MIT BESONDEREM FLAIR,289.000 €,"74177 Bad Friedrichshall, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"89,44 m²",3.231 €/m²,Dachgeschoss,nil,nach Vereinbarung,2,1,nil,"3,57 % inkl. MwSt. aus dem Kaufpreis",{'is24qa-keller-label': ''}
+Große helle Erdgeschoss-Wohnung (106 m² plus 35 m²) als Kapitalanlage,299.000 €,"71546 Aspach, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,2.821 €/m²,nil,36 m²,nil,3,1,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Eleganz und Wohnfreude in bester zentraler Lage über den Dächern der Stadt - einziehen und genießen!,459.000 €,"70806 Kornwestheim, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",95 m²,4.832 €/m²,nil,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"2,98 % vom Kaufpreis inkl. gesetzl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Charmante 3-Zimmer-Wohnung in Winnenden,285.000 €,"71364 Winnenden, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"72,83 m²",3.913 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,"4,76 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Schöne 3 Zimmer-Wohnung mit Wintergarten in ruhiger Lage in Hoffenheim,174.900 €,"74889 Sinsheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,2.186 €/m²,Erdgeschosswohnung,7 m²,nach Absprache,1,1,nil,"3,57% incl. der ges. MwSt. Käuferprovision",{'is24qa-einbaukueche-label': ''}
+exklusive Penthousewohnung mit Panorama-Balkon in GP-Faurndau,299.000 €,"73035 Göppingen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"86,7 m²",3.449 €/m²,Penthouse,nil,sofort,1,1,1 Tiefgaragen-Stellplatz,"2,50","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"2,5 Zimmer Wohnung mit Blick ins Grüne!",200.000 €,"68782 Brühl, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,70 m²,2.857 €/m²,nil,nil,nil,1,1,1 Stellplatz,3.57 %,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+2 Zimmer Wohnung in ehemaligem Pfarrhaus,148.800 €,"88239 Wangen im Allgäu, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"49,8 m²",2.988 €/m²,nil,nil,vermietet,nil,nil,nil,"3,57 % inkl. MwSt",{}
+EXKLUSIVE MAISONETTE-WOHNUNG MIT DACHTERRASSE UND BALKON,860.000 €,"72793 Pfullingen, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",151 m²,5.695 €/m²,Sonstige,10 m²,nil,3,2,2 Tiefgaragen-Stellplätze,"1,785 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+2-Zimmerwohnung im Herzen von Eislingen,169.000 €,"73054 Eislingen/Fils, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,16 m²",2.676 €/m²,Dachgeschoss,"63,16 m²",Ab sofort,1,1,1 Tiefgaragen-Stellplatz,2% zzgl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Klasse 1.OG-Wohnung mit Balkon zentral in Freiburg, vermietet",329.000 €,"Unterwiehre-Nord, 79100 Freiburg im Breisgau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,66 m²,4.985 €/m²,Erdgeschosswohnung,6 m²,nil,2,1,nil,"Käuferprovision: 3,57 % vom Kaufpreis inkl. gesetzl. MwSt. (19%)",{}
+Schmucke Dachgeschosswohnung in ruhiger Lage!,215.000 €,"Betzingen, 72760 Reutlingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,3.583 €/m²,Dachgeschoss,nil,sofort,1,1,2 Garagen,"3,570","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"

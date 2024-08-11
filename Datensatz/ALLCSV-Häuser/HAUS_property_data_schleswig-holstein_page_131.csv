@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Vermietetes Einfamilienhaus mit großem Garten am Schulensee,498.000 €,"24113 Molfsee, Rendsburg-Eckernförde (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5","140,21 m²",1.053 m²,3.552 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kleiner Reiterhof mit 2 Wohneinheiten bei Bad Segeberg,649.000 €,"Krögsberg 12,
+23821 Rohlstorf, Segeberg (Kreis)",9,328 m²,27.487 m²,1.979 €/m²,Bauernhaus,nil,nil,nil,5,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ein Traum für Pferdefreunde - Ländlich und dennoch zentral,799.000 €,"Bokelseßer Str. 16,
+25364 Brande-Hörnerkirchen, Pinneberg (Kreis)",7,256 m²,36.273 m²,3.121 €/m²,Bauernhaus,nil,nil,nil,3,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Top-Reitanlage in Schleinähe sucht Pferdeprofis,2.499.000 €,"Bremland 15,
+24857 Fahrdorf, Schleswig-Flensburg (Kreis)",6,174 m²,16.355 m²,14.362 €/m²,Bauernhaus,nil,nil,nil,3,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Idyllischer Resthof mit Hauskoppel direkt an der Eider gelegen,599.000 €,"Dammsdeich 4,
+25776 Sankt Annen, Dithmarschen (Kreis)",4,216 m²,9.533 m²,2.773 €/m²,Bauernhaus,nil,nil,nil,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Resthof mit Hauskoppel vor den Toren Hamburgs,698.000 €,"Norderstedter Str. 64,
+25474 Bönningstedt, Pinneberg (Kreis)",6,160 m²,13.521 m²,4.363 €/m²,Bauernhaus,nil,nil,nil,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Klein aber fein - Wohlfühlhof für Mensch und Pferd,449.000 €,"Hauptstr. 23,
+25557 Seefeld, Rendsburg-Eckernförde (Kreis)",4,147 m²,7.869 m²,3.054 €/m²,Bauernhaus,nil,nil,nil,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Typischer Resthof mit Hauskoppel und Stallgebäude im Dornröschenschlaf,279.000 €,"Haselundsiek 6,
+24969 Lindewitt, Schleswig-Flensburg (Kreis)",8,184 m²,20.296 m²,1.516 €/m²,Bauernhaus,nil,nil,6,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Resthof mit 3 Wohnungen, Stall und Hauskoppel in ruhiger Dorfrandlage",499.000 €,"Lehrsbütteler Straße 6,
+25785 Odderade, Dithmarschen (Kreis)",14,434 m²,12.500 m²,1.150 €/m²,Bauernhaus,nil,nil,nil,4,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Traum unter Reet mit zwei Ferienwohnungen, Stall und großer Hauskoppel",799.000 €,"Niederreihe 29b,
+25358 Hohenfelde, Steinburg (Kreis)",10,294 m²,30.536 m²,2.718 €/m²,Bauernhaus,nil,nil,nil,4,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modern und ruhig wohnen in Schlesen,499.000 €,"Klint 16b,
+24256 Schlesen, Plön (Kreis)",5,133 m²,427 m²,3.752 €/m²,Einfamilienhaus (freistehend),30 m²,nil,4,2,1 Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wochenendhaus in Ostseenähe,259.000 €,"Hofland 40,
+24257 Hohenfelde, Plön (Kreis)",3,65 m²,436 m²,3.985 €/m²,nil,nil,nil,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Viel Platz in ruhiger Lage - Modernisiertes Einfamilienhaus mit großem Grundstück,539.000 €,"Im Dorf 37,
+24256 Fargau-Pratjau, Plön (Kreis)",6,138 m²,1.894 m²,3.906 €/m²,Einfamilienhaus (freistehend),70 m²,nil,nil,2,2 Carports,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietetes Reihenendhaus in Lütjenburg,259.000 €,"Ulrich-Günther-Straße 99,
+24321 Lütjenburg, Plön (Kreis)",4,98 m²,422 m²,2.643 €/m²,Reiheneckhaus,41 m²,nil,3,1,1 Carport,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaushälfte mit schönem Grundstück - vermietet -,219.000 €,"Hassee, 24113 Kiel
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,766 m²,2.305 €/m²,Doppelhaushälfte,nil,nil,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegtes Appartementhaus im Oberdorf von Laboe,1.095.000 €,"Steiner Weg 10,
+24235 Laboe, Plön (Kreis)",14,295 m²,1.056 m²,3.712 €/m²,Mehrfamilienhaus,110 m²,nil,nil,7,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietetes Zweifamilienhaus in ruhiger Lage von Klamp,329.000 €,"Achterstraat 12,
+24321 Klamp, Plön (Kreis)","5,5",152 m²,733 m²,2.164 €/m²,Mehrfamilienhaus,36 m²,nil,3,2,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietetes Zweifamilienhaus in Darry,325.000 €,"Sehden 2b,
+24321 Panker, Plön (Kreis)",7,198 m²,801 m²,1.641 €/m²,Mehrfamilienhaus,119 m²,nil,nil,2,2 Carports,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietetes Doppelhaus in ruhiger Lage von Selent,389.000 €,"24238 Selent, Plön (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,184 m²,558 m²,2.114 €/m²,Mehrfamilienhaus,110 m²,nil,6,2,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Platz für die ganze Familie,369.000 €,"Dorfstraße 25,
+24257 Köhn, Plön (Kreis)",6,158 m²,834 m²,2.335 €/m²,Einfamilienhaus (freistehend),37 m²,nil,4,2,2 Carports,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

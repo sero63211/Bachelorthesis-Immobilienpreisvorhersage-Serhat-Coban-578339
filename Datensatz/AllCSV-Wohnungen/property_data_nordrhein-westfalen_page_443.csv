@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Eigentumswohnung von Privat,180.500 €,"Wickede, 44319 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",75 m²,2.407 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhafte Aussicht,99.000 €,"Gräfrath, 42653 Solingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,45 m²,2.200 €/m²,Etagenwohnung,45 m²,nil,nil,1,nil,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Schicke ETW mit Loggia, direkt am Elbroichpark gelegen! Auf Wunsch mit EBK",230.000 €,"Holthausen, 40589 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"65,13 m²",3.531 €/m²,Etagenwohnung,nil,nach Vereinbarung,2,1,nil,"3,57inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Wertige 4-Zimmer-ETW mit 2 Bädern, 2 Balkonen, Einbauküche u Stellplatz",439.000 €,"40724 Hilden, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,4.181 €/m²,Hochparterre,10 m²,nach Absprache,3,2,1 Tiefgaragen-Stellplatz,"3,57 % inkl. gesetzl. Mehrwertsteuer","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Stilvolle, modernisierte 3-Zimmer Wohnung mit EBK",200.000 €,"Iserlohn-Mitte, 58640 Iserlohn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,2.247 €/m²,Etagenwohnung,nil,1.8.2024,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+vermietete 3 Zimmer Wohnung in gepflegtem Mehrfamilienhaus,99.900 €,"Mühlenschleide 3,
+41363 Jüchen, Neuss (Rhein-Kreis)",3,"98,98 m²",1.009 €/m²,Etagenwohnung,nil,nil,2,1,nil,"4,64%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Stilvolle, neuwertige 3,5-Zimmer-Wohnung mit lux. Innenausstattung mit Balkon und EBK in Düsseldorf",895.000 €,"Toulouser Allee 0,
+Pempelfort, 40211 Düsseldorf","3,5",105 m²,8.524 €/m²,Etagenwohnung,nil,1.6.2024,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geschmackvolle 2 Zimmer Wohnung auf 2 Ebenen mit kl. Garten u. Balkon in Bergisch Gladbach Paffrath,230.000 €,"Drecker Wiese 28,
+Paffrath, 51469 Bergisch Gladbach",2,69 m²,3.333 €/m²,Etagenwohnung,nil,sofort,1,1,1 Carport,"3,57 % inkl. 19 % MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': ''}"
+WE A3.11 -Rheinblick-Wohnung in architektonisch anspruchsvoller Wohnanlage!,1.193.400 €,"Am Zollhof 6,
+Uerdingen, 47829 Krefeld",4,"181,92 m²",6.560 €/m²,Etagenwohnung,nil,2025,2,3,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kurpark Bad Salzuflen schöne Wohnung tolle Lage,398.000 €,"32105 Bad Salzuflen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"94,83 m²",4.197 €/m²,nil,nil,nil,2,1,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Top Lage: 3-Zimmer-Wohnung mit EBK, Terrasse & Stellplatz",219.000 €,"41363 Jüchen, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,2.738 €/m²,Etagenwohnung,80 m²,1.6.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöne und helle 102,96 qm Maisonette-Wohnung in exklusiver Wohnlage",425.000 €,"Kirchstr. 40,
+40764 Langenfeld (Rheinland), Mettmann (Kreis)",4,"102,96 m²",4.128 €/m²,Maisonette,"5,5 m²",nil,3,2,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne ETW mit Terrasse und kleinem Garten von Privat zu verkaufen,228.500 €,"Rosellen, 41470 Neuss
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,3.570 €/m²,Erdgeschosswohnung,10 m²,1.11.2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freundliche 2-Zimmer-Wohnung in Langenfeld,169.000 €,"40764 Langenfeld (Rheinland), Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,2.726 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 3.0-Zimmer Wohnung in Bad,nil,"32547 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,2.456 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nähe Ellerforst & Unterbacher See: gemütliche 3-Zimmer mit Balkon, Grünblick & Garage",210.000 €,"Vennhausen, 40627 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,2.838 €/m²,Etagenwohnung,nil,nach Vereinbarung,2,1,1 Garage,"2,38inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kurpark Bad Salzuflen schöne Wohnung tolle Lage,411.000 €,"32105 Bad Salzuflen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"97,95 m²",4.196 €/m²,nil,nil,nil,2,1,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Günstige, gepflegte 4-Raum-Erdgeschosswohnung mit Balkon in Herne",119.000 €,"Horsthausen, 44628 Herne
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,84 m²,1.417 €/m²,Erdgeschosswohnung,84 m²,nil,3,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 1.0-Zimmer Wohnung in Dortmund,nil,"Barop, 44225 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,41 m²,2.927 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+Großzügige Dachwohnung in begehrter Lage,320.000 €,"Ippendorf, 53127 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,4.923 €/m²,Dachgeschoss,nil,bezugsfrei,1,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

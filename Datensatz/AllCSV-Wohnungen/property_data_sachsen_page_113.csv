@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Tolle 2-Zimmer-Wohnung mit Balkon im beliebten Anhalter Carré,150.000 €,"Bonhoefferstr. 6,
+Eutritzsch, 04129 Leipzig",2,"53,73 m²",2.792 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kleine 2-Zimmerwohnung mit schöner Ausstattung,105.000 €,"Anhalter Str. 17a,
+Eutritzsch, 04129 Leipzig",2,"40,02 m²",2.624 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kapitalanleger aufgepasst!... vermietete 4 Zimmer Wohnung mit Balkon,64.500 €,"Wettinstraße 65,
+Reißiger Vorstadt, 08525 Plauen",4,"82,73 m²",780 €/m²,Hochparterre,nil,sofort,nil,nil,nil,"2975,- € incl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Vermietete 2-Zi.-Eigentumswohnung mit Balkon und PKW-Freistellplatz!,69.900 €,"Bärenstein, 08523 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"54,46 m²",1.284 €/m²,Etagenwohnung,nil,vermietet seit 05/15,nil,1,nil,"pauschal 2.500,00 € inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+TOP-SANIERTE 2-RAUM-WOHNUNG MIT EINBAUKÜCHE+PARKETT,99.000 €,"Margaretenstraße 40,
+Hilbersdorf, 09131 Chemnitz",2,"62,49 m²",1.584 €/m²,Etagenwohnung,70 m²,nach Absprache,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schicke 3-Zimmer-Wohnung mit Balkon, Parkett",130.000 €,"Robert-Mayer-Str. 4,
+Sellerhausen-Stünz, 04328 Leipzig",3,"61,43 m²",2.116 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Markkleeberg, 2 Zimmerwohnung mit Balkon",175.000 €,"04416 Markkleeberg, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,2.692 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+"Kapitalanleger aufgepasst!...3 Zimmer Dachgeschoss Wohnung mit Balkon, vermietet ab 01.12.2023",54.000 €,"Wettinstraße 65,
+Reißiger Vorstadt, 08525 Plauen",3,"68,39 m²",790 €/m²,Dachgeschoss,nil,sofort,nil,nil,nil,"2975,- € incl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Pflegeapartments | 20 Jahre garantierte Rendite | Kaum Verwaltungsaufwand,220.000 €,"Neida, 02977 Hoyerswerda
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,3.667 €/m²,nil,60 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Pflegeapartments | 20 Jahre garantierte Rendite | Kaum Verwaltungsaufwand,250.000 €,"Neulindenau, 04179 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,4.167 €/m²,nil,60 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kapitalanleger aufgepasst!... vermietete 3 Zimmer Wohnung mit Balkon,55.500 €,"Wettinstraße 65,
+Reißiger Vorstadt, 08525 Plauen",3,"69,78 m²",795 €/m²,Sonstige,nil,sofort,nil,nil,nil,"2975,- € incl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schicke 3-Zimmer-Wohnung mit Balkon und toller Ausstattung,170.000 €,"Dieskaustraße 373a,
+Knautkleeberg-Knauthain, 04249 Leipzig",3,"75,33 m²",2.257 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Pflegeapartments | 20 Jahre garantierte Rendite | Kaum Verwaltungsaufwand,220.000 €,"Gebiet Talstraße/Trillerberg, 08066 Zwickau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,3.667 €/m²,nil,60 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen am Sonnenhang - ruhig und grün gelegenes 5-Familienahaus,105.000 €,"Am Kirschberg 13,
+01796 Dohma, Sächsische Schweiz-Osterzgebirge (Kreis)",2,"52,4 m²",2.004 €/m²,Etagenwohnung,"5,29 m²",Nach Vereinbarung (kurzfristig),1,1,1 Carport,"4,76% inkl. 19% gesetzlicher MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+*** Solide Kapitalanlage gefällig? Langfristig vermietete 3-Raum-Wohnung mit Balkon! ***,115.000 €,"Franz-Mehring-Straße 5,
+Kaßberg, 09112 Chemnitz",3,"85,29 m²",1.348 €/m²,Etagenwohnung,nil,nil,2,1,nil,"4,76 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+***Helle 2-RWG*** FUßBODENHEIZUNG - DUSCHE**WE07**,99.000 €,"Friedrich-Bosse-Straße 31,
+Möckern, 04159 Leipzig",2,"42,01 m²",2.357 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. 19% MwSt. auf den Gesamtkaufpreis inkl. MwSt. inkl. MwSt. inkl. MwSt. inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne 1 Raumwohnung zu verkaufen,120.000 €,"Augsburger Straße 80,
+Striesen-Ost, 01277 Dresden",1,"35,1 m²",3.419 €/m²,nil,nil,nil,nil,1,1 Tiefgaragen-Stellplatz,"3,95% vom Kaufpreis, inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"3,5-Raum-Wohnung mit Lift, Balkon, Wintergarten und Stellplatz in ausgezeichneter Lage",172.400 €,"Biesnitzer Str. 31,
+Südstadt, 02826 Görlitz","3,5",114 m²,1.512 €/m²,nil,nil,nil,2,1,1 Außenstellplatz,"7,14 % inkl. gesetzl. MwSt., hälftig Verkäufer und Käufer","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"EIGENNUTZUNG - 3-RWE, sanierter Altbau, Aufzug & Balkon",250.000 €,"Plauen (Stadtteil), 01187 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"76,5 m²",3.268 €/m²,nil,nil,April 2024,nil,nil,1 Stellplatz,"3,57",{'is24qa-vermietet-label': ''}
+Pflegeapartments | 20 Jahre garantierte Rendite | Kaum Verwaltungsaufwand,250.000 €,"Kappel, 09119 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,4.167 €/m²,nil,60 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

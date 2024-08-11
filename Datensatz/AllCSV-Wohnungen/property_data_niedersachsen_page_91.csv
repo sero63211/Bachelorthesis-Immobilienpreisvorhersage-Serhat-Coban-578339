@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Toller Grundriss, sehr gepflegte 3-Zimmer-Wohnung in Ortsrandlage mit Weideblick",170.000 €,"Hondelage, 38108 Braunschweig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"88,73 m²",1.916 €/m²,Etagenwohnung,nil,nil,2,1,1 Stellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Elegante Beletage-ETW in exklusivem Wohnumfeld,545.000 €,"Darum/Gretesch/Lüstringen, 49086 Osnabrück
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,115 m²,4.739 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Wohnen in Top-Lage mit viel Potenzial,299.000 €,"Bothfeld, 30659 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,3.147 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Seltenes Fundstück: Exklusive Eigentumswohnung in begehrtester Wohnlage,436.000 €,"Östliches Ringgebiet, 38102 Braunschweig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,3.545 €/m²,Etagenwohnung,nil,nil,3,1,1 Außenstellplatz,"1,785 inkl. MwSt.",{'is24qa-keller-label': ''}
+Schluss mit Miete!,99.000 €,"38154 Königslutter am Elm, Helmstedt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"71,02 m²",1.394 €/m²,Dachgeschoss,nil,nach Absprache,nil,1,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Attraktive Etagenwohnung mit Balkon in begehrter Lage von Wunstorf,269.000 €,"31515 Wunstorf, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,3.022 €/m²,Etagenwohnung,nil,Nach Vereinbarung,2,1,2 Außenstellplätze,"3,57% inklusive 19% MwSt. inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Traumhaft-schöne Ferienwohnung mit Meerblick,220.000 €,"26553 Dornum, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,3.793 €/m²,Etagenwohnung,nil,sofort,1,1,1 Außenstellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhafte Wohnung mit überdachter Terrasse und Garten in top Wohnlage von Bad Pyrmont,250.000 €,"31812 Bad Pyrmont, Hameln-Pyrmont (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"136,19 m²",1.836 €/m²,nil,10 m²,nach Absprache,1,1,1 Garage,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"""UNTEN mit GARTEN"" tolle Erdgeschosswohnung Bovenden Lenglern",225.000 €,"Mittelstraße 19,
+37120 Bovenden, Göttingen (Kreis)",3,95 m²,2.368 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,1 Garage,"1,79","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Schöne renovierte 3-Zimmer-Wohnung mit Balkon,169.000 €,"Hondelage, 38108 Braunschweig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,2.195 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Neuwertiges Penthouse gesucht? Wir haben es!,549.000 €,"Lahe, 30659 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,4.463 €/m²,Penthouse,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+KARSTEN IMMOBILIEN ermöglicht Ihnen: 3-Zimmer-Wohnung in zentraler Lage von Bad Nenndorf,185.000 €,"31542 Bad Nenndorf, Schaumburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,2.256 €/m²,Hochparterre,nil,nil,2,1,nil,"3,57 % des Kaufpreises inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Außergewöhnliche Fünf-Zimmer-Wohnung über zwei Ebenen im Herzen von Buchholz in der Nordheide!,385.000 €,"21244 Buchholz in der Nordheide, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"101,64 m²",3.788 €/m²,Maisonette,nil,sofort,nil,2,1 Außenstellplatz,"3,25 % inkl. MwSt. vom beurkundeten Kaufpreis.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+PERFEKTE LAGE - BALKON - ECKBADEWANNE,239.000 €,"Vahrenheide, 30179 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,2.516 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,2.98% inkl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Rarität: SEESICHT-Wohnung, Grimmershörnbucht, Fahrstuhl, Tiefgarage, Umbau zu 3 Zimmer-Whg. möglich",748.000 €,"Strichweg 99 d,
+27476 Cuxhaven, Cuxhaven (Kreis)",2,"88,6 m²",8.442 €/m²,Etagenwohnung,"7,8 m²",sofort,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Privat OHNE PROVISION Top 4 Zi. Wohnung wie Bungalow 133m² im Traumort,299.000 €,"29549 Bad Bevensen, Uelzen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,2.248 €/m²,Etagenwohnung,185 m²,nach Absprache,4,3,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GEMÜTLICH UND GROßZÜGIG - BALKON - STELLPLATZ,249.000 €,"30880 Laatzen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,96 m²,2.594 €/m²,Maisonette,nil,nil,nil,nil,1 Außenstellplatz,3.57% inkl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Charmante 3-Zimmerwohnung in der Südstadt - Erleben Sie das einzigartige Südstadtflair,341.600 €,"Südstadt, 30171 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,76 m²,4.495 €/m²,Hochparterre,12 m²,nil,3,1,nil,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Ferienwohnung zur Vermietung oder Eigennutzung mit Balkon und Panorama-Blick,39.000 €,"38644 Goslar, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"32,29 m²",1.208 €/m²,nil,nil,ab sofort,1,1,nil,"2975,00 €","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Großzügige Dachgeschosswohnung mit zwei Balkonen und Blick ins Grüne!,179.000 €,"49214 Bad Rothenfelde, Osnabrück (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"100,23 m²",1.786 €/m²,Dachgeschoss,nil,sofort (nach Vereinbarung),2,1,1 Stellplatz,"Der Käufer zahlt im Erfolgsfall eine Käufer-Maklerprovision in Höhe von 3,57 % (inkl. 19 % MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

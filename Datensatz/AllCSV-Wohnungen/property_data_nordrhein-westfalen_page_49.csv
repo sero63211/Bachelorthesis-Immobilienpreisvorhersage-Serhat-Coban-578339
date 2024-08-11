@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2-Zimmer-Wohnung mit Stellplatz ++ ohne Provision ++,95.000 €,"Zur Bormig XXXX,
+51674 Wiehl, Oberbergischer Kreis",2,89 m²,1.067 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügige Wohnung mit Terrasse,117.000 €,"Stockberg XXXX,
+52393 Hürtgenwald, Düren (Kreis)",1,"82,74 m²",1.414 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit Stellplatz,50.000 €,"Brockskamp XXXX,
+Bismarck, 45889 Gelsenkirchen",4,"106,54 m²",469 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügige Wohnung mit Garage,142.000 €,"Stockberg XXXX,
+52393 Hürtgenwald, Düren (Kreis)",1,"103,42 m²",1.373 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Stellplatz,59.000 €,"Bachstraße XXXX,
+Buschhausen, 46149 Oberhausen",2,"54,3 m²",1.087 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Loggia + provisionsfrei +,89.000 €,"Im Ruhrfeld XXXX,
+53340 Meckenheim, Rhein-Sieg-Kreis",3,92 m²,967 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Terrasse und Garten,131.000 €,"Brahmsstraße XXXX,
+33775 Versmold, Gütersloh (Kreis)",3,"96,84 m²",1.353 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3-Zimmer-Wohnung, Loggia, Garage + provisionsfrei +",79.000 €,"Luisenstraße XXXX,
+Horsthausen, 44628 Herne",3,72 m²,1.097 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Garage,86.000 €,"Heiermannstraße XXXX,
+Dümpten, 45475 Mülheim an der Ruhr",2,63 m²,1.365 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+7 Wohnungen einer Wohnanlage - provisionsfrei,139.500 €,"Hauptstraße XXXX,
+48346 Ostbevern, Warendorf (Kreis)",17,"474,76 m²",294 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Loggia und Garage,82.000 €,"Luisenstraße XXXX,
+Horsthausen, 44628 Herne",3,74 m²,1.108 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 2-Zimmer-Wohnung mit Stellplatz +,232.000 €,"Lübecker Straße XXXX,
+Weiden, 50858 Köln",2,67 m²,3.463 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+++ 3-Zimmer-Wohnung mit Balkon ++,135.000 €,"Sebastianusstraße XXXX,
+52222 Stolberg (Rheinland), Aachen (Kreis)",3,"82,63 m²",1.634 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3-Zimmer-Wohnung, Loggia und Garage",80.000 €,"Luisenstraße XXXX,
+Horsthausen, 44628 Herne",3,72 m²,1.111 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"+ 4-Zimmer-Wohnung, Loggia, Freisitz und Garage +",140.000 €,"Luisenstraße XXXX,
+Horsthausen, 44628 Herne",4,101 m²,1.386 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Loggia,278.000 €,"Ziegeleiweg XXXX,
+Westhoven, 51149 Köln",3,101 m²,2.752 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung + provisionsfrei +,40.000 €,"Am Hüttengraben XXXX,
+59759 Arnsberg, Hochsauerlandkreis",3,"72,24 m²",554 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zmmer-Wohnung und Garage + provisionsfrei +,74.000 €,"Luisenstraße XXXX,
+Horsthausen, 44628 Herne",3,52 m²,1.423 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4-Zimmer-Maisonette-Wohnung mit Terrasse und Garten,280.000 €,"Am Glockenberg XXXX,
+51515 Kürten, Rheinisch-Bergischer Kreis",4,97 m²,2.887 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Wintergarten,69.000 €,"Stockberg XXXX,
+52393 Hürtgenwald, Düren (Kreis)",2,"49,38 m²",1.397 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

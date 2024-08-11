@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Münchhausen-OT, EFH +Nebengeb.",450.000 €,"Scharrstr. 5,
+35117 Münchhausen, Marburg-Biedenkopf (Kreis)",10,300 m²,1.000 m²,1.500 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,6 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bad Sooden Allendorf, Wohnhs. + Nebengeb.",98.000 €,"Schusterstr. 50,
+37242 Bad Sooden-Allendorf, Werra-Meißner-Kreis",4,200 m²,256 m²,490 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,1 Außenstellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Heringen, 2 Wohn-oder Ferienhäuser",440.000 €,"Felsenstr. 22a+b,
+36266 Heringen (Werra), Hersfeld-Rotenburg (Kreis)",8,306 m²,450 m²,1.438 €/m²,Einfamilienhaus (freistehend),306 m²,nil,nil,2,3 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Frielendorf, MFH",215.000 €,"Frankfurterstr 11,
+34621 Frielendorf, Schwalm-Eder-Kreis",9,255 m²,952 m²,843 €/m²,Mehrfamilienhaus,nil,nil,nil,3,8 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bad Arolsen-OT, EFH",496.500 €,"Remmeker Ring 75,
+34454 Bad Arolsen, Waldeck-Frankenberg (Kreis)",6,220 m²,637 m²,2.257 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hohenroda-OT, Wohnhaus + Nebengeb.",160.000 €,"Schulstr. 6,
+36284 Hohenroda, Hersfeld-Rotenburg (Kreis)",8,270 m²,1.900 m²,593 €/m²,Mehrfamilienhaus,nil,nil,nil,2,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Nentershausen, Landhaus",770.000 €,"Reichenberg 4,
+36214 Nentershausen, Hersfeld-Rotenburg (Kreis)",6,250 m²,2.600 m²,3.080 €/m²,Einfamilienhaus (freistehend),nil,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ulrichstein, 1-2 Fam.Haus",170.000 €,"Vogelsbergstr. 62,
+35327 Ulrichstein, Vogelsbergkreis",7,150 m²,2.345 m²,1.133 €/m²,Mehrfamilienhaus,nil,nil,nil,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Philippsthal, EFH",155.000 €,"Vachaer Str. 40,
+36269 Philippsthal (Werra), Hersfeld-Rotenburg (Kreis)",5,180 m²,849 m²,861 €/m²,nil,nil,nil,nil,2,3 Außenstellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hochw., gr. 1-2 Fam.-Haus - Traumhafte Waldrandlage von Vöhl-Dorfitter",495.000 €,"34516 Vöhl, Waldeck-Frankenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,250 m²,1.004 m²,1.980 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,2 Garagen,3 % inkl. ges. MwSt.,{'is24qa-gaeste-wc-label': ''}
+Gemütliches Einfamilienhaus mit charmantem Garten am malerischen Ortsrand von Wohnbach!,275.000 €,"61200 Wölfersheim, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,450 m²,2.115 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,3,2,nil,"3,57% inkl. MwSt.",{'is24qa-keller-label': ''}
+Exklusiver Bungalow in begehrter Lage! Luxus auf einer Ebene!!!,960.000 €,"65599 Dornburg, Limburg-Weilburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,737 m²,6.000 €/m²,Bungalow,nil,nil,3,1,1 Garage,"3,50% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Hochwertig erbautes Mehrfamilienhaus mit vier Wohneinheiten in super Zustand!,977.000 €,"35466 Rabenau, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",21,500 m²,759 m²,1.954 €/m²,Mehrfamilienhaus,nil,Nach Absprache,15,4,2 Garagen,"5,95 % Käuferprovision incl. gesetzlicher 19% MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Charmante und sehr gepflegte Doppelhaushälfte in top Lage für Familien!,650.000 €,"35435 Wettenberg, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,360 m²,5.000 €/m²,Doppelhaushälfte,60 m²,Nach Absprache,3,1,2 Außenstellplätze,"3,50% inkl. der gesetzlichen MwSt von 19%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"30.700 € Mieteinnahme, vom Gericht überwacht, plus sehr guter Hausverwalter = 11,6 % Nettorendite- K",260.000 €,"35104 Lichtenfels, Waldeck-Frankenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"303,74 m²",1.384 m²,856 €/m²,nil,312 m²,nil,4,4,7 Außenstellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zwei auf einem Streich! Charmantes Zweifamilienhaus im idyllischen Pohlheim Dorf-Güll,400.000 €,"35415 Pohlheim, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,210 m²,1.400 m²,1.905 €/m²,nil,300 m²,Ab sofort,8,2,4 Garagen,"5,95 % Käuferprovision incl. gesetzlicher 19% MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Drei Häuser mit sechs Wohneinheiten in zentraler Lage von Ehringshausen-Katzenfurt!,510.000 €,"35630 Ehringshausen, Lahn-Dill-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",14,361 m²,986 m²,1.413 €/m²,Mehrfamilienhaus,nil,Nach Absprache,8,6,10 Außenstellplätze,"5,95 % Käuferprovision incl. 19% MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Charmantes Wohnhaus mit Zwei Wohneinheiten und Garten in beliebter Lage von Wetzlar Dalheim!,480.000 €,"35576 Wetzlar, Lahn-Dill-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,980 m²,2.400 €/m²,Mehrfamilienhaus,100 m²,sofort,6,3,2 Garagen,"5,95 % Käuferprovision incl. gesetzlicher 19% MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Einfamilienhaus in Top Zustand in guter Gegend.,695.000 €,"65428 Rüsselsheim am Main, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"177,5 m²",477 m²,3.915 €/m²,Einfamilienhaus (freistehend),65 m²,nach Absprache,5,1,1 Garage,"2,975% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+"Dieses Haus hat Größe und viele Vorzüge ... Vollwärmeschutz, Ausblick, großes Grundstück uvm.",390.000 €,"64750 Lützelbach, Odenwaldkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,131 m²,1.119 m²,2.977 €/m²,Einfamilienhaus (freistehend),50 m²,sofort,4,2,3 Carports,"3,57 % inkl. MwSt. aus der Kaufsumme",{'is24qa-keller-label': ''}

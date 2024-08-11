@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Doppelhaushälfte, Garten, Garage + provisionsfrei +",245.000 €,"Ritterstraße XX,
+Tackenberg, 46145 Oberhausen",5,104 m²,504 m²,2.356 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlage + Wohn-/Geschäftshaus, 3 Garagen +",100.000 €,"Hauptstraße XX,
+34434 Borgentreich, Höxter (Kreis)",3,187 m²,738 m²,535 €/m²,Wohnimmobilie (sonstige),307 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Garage,107.000 €,"Nideggener Straße XX,
+52393 Hürtgenwald, Düren (Kreis)",1,126 m²,6.005 m²,849 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Großzügiges Einfamilienhaus, Garten, Doppelgarage + provisionsfrei +",690.000 €,"Hentzenallee XX,
+Stadtgarten, 42897 Remscheid",10,"292,54 m²",812 m²,2.359 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Garten, Garage + provisionsfrei +",140.000 €,"Kruppstraße XX,
+45711 Datteln, Recklinghausen (Kreis)",3,70 m²,382 m²,2.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte mit Garage + provisionsfrei +,272.000 €,"Provinzstraße XX,
+41516 Grevenbroich, Neuss (Rhein-Kreis)",1,1 m²,571 m²,272.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus, Freisitz, Garage",261.000 €,"Am Raspenhaus XX,
+42499 Hückeswagen, Oberbergischer Kreis",6,137 m²,915 m²,1.905 €/m²,Wohnimmobilie (sonstige),73 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus,340.000 €,"Mittelstraße XX,
+41517 Grevenbroich, Neuss (Rhein-Kreis)",5,217 m²,591 m²,1.567 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanleger aufgepasst + Wohn-/Geschäftshaus + provisionsfrei ++,103.000 €,"Kaiser-Wilhelm-Straße XX,
+Marxloh, 47169 Duisburg",12,350 m²,377 m²,294 €/m²,Wohnimmobilie (sonstige),100 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Freistehendes 2-Familienhaus mit Kellergarage +,277.000 €,"Bekweg XX,
+32547 Bad Oeynhausen, Minden-Lübbecke (Kreis)",3,132 m²,700 m²,2.098 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Freistehendes Mehrfamilienhaus mit Garten und Garage +,350.000 €,"Siedenberger Straße XX,
+51597 Morsbach, Oberbergischer Kreis",1,331 m²,617 m²,1.057 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+++ Freistehendes Wochenendhaus mit Garten und Garage ++,243.000 €,"Pappelweg XX,
+47647 Kerken, Kleve (Kreis)",3,89 m²,532 m²,2.730 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber Mein + Kleines Wohnhaus +",151.000 €,"In der Ruhrau XX,
+Duissern, 47058 Duisburg",3,64 m²,424 m²,2.359 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilien-Doppelhaushälfte, Garten, Garage",274.000 €,"Auf dem Strüh XX,
+32547 Bad Oeynhausen, Minden-Lübbecke (Kreis)",4,133 m²,398 m²,2.060 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Garten, Garage",640.000 €,"Sperberweg XX,
+Vogelsang, 50829 Köln",3,85 m²,611 m²,7.529 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn-/Geschäftshaus +,795.000 €,"Amsterdamer Straße XX,
+Riehl, 50735 Köln",3,186 m²,282 m²,4.274 €/m²,Wohnimmobilie (sonstige),197 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familien-Doppelhaushälfte nebst Doppelgarage,319.300 €,"Liegnitzer Straße XX,
+Horstmar, 44532 Lünen",8,"167,4 m²",834 m²,1.907 €/m²,Wohnimmobilie (sonstige),"51,8 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Garage,422.000 €,"Josef-Thienen-Straße XX,
+41516 Grevenbroich, Neuss (Rhein-Kreis)",5,"147,07 m²",538 m²,2.869 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Platz für alle + 3 Wohnhäuser +,491.000 €,"Schwohenend XX,
+41352 Korschenbroich, Neuss (Rhein-Kreis)",13,"400,25 m²",1.238 m²,1.227 €/m²,Wohnimmobilie (sonstige),74 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Mehrfamilienhaus mit 3 Wohnungen und Garage +,240.000 €,"Schloßstraße XX,
+32816 Schieder-Schwalenberg, Lippe (Kreis)",9,255 m²,793 m²,941 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

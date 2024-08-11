@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Zweifamilienhaus mit Einliegerwohung in ruhiger Wohnlage Nähe Nastätten,298.000 €,"56357 Pohl, Rhein-Lahn-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,235 m²,873 m²,1.268 €/m²,Mehrfamilienhaus,50 m²,Nach Absprache,6,3,3 Garagen,"3,57% inkl. MwSt vom Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Einfamilienhaus | Einliegerwohnung | ca. 10.000 m² Grundstück,192.000 €,"Ehrang/Quint, 54293 Trier
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",13,230 m²,9.643 m²,835 €/m²,Einfamilienhaus (freistehend),nil,nil,9,3,1 Garage,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Einfamilienhaus und Garage in gutem baulichem Zustand,256.000 €,"Wörthstraße xxxx,
+Pirmasens, 66953 Pirmasens",6,200 m²,270 m²,1.280 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes großzügiges Architektenhaus,750.000 €,"55286 Wörrstadt, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,200 m²,894 m²,3.750 €/m²,Einfamilienhaus (freistehend),377 m²,nach Absprache,2,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnhaus - provisionsfrei,177.000 €,"Stromberger Straße xxxx,
+55544 Dörrebach, Bad Kreuznach (Kreis)",1,246 m²,305 m²,720 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus + provisionsfrei +,113.000 €,"Hinkelgasse xxxx,
+55232 Alzey, Alzey-Worms (Kreis)",4,96 m²,58 m²,1.177 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus mit Garage + provisionsfrei +,317.000 €,"Marktplatz xxxx,
+56112 Lahnstein, Rhein-Lahn-Kreis",1,277 m²,605 m²,1.144 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus + provisionsfrei +,90.000 €,"Braubacher Straße xxxx,
+56130 Bad Ems, Rhein-Lahn-Kreis",1,410 m²,539 m²,220 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + provisionsfrei +,160.000 €,"Mainzer Straße xxxx,
+55291 Saulheim, Alzey-Worms (Kreis)",1,95 m²,115 m²,1.684 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus nebst überdachter Terrasse und Garage,147.000 €,"Haustelstraße xxxx,
+66976 Rodalben, Südwestpfalz (Kreis)",5,170 m²,394 m²,865 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision - Einfamilienhaus mit Dachterrasse +,128.000 €,"Albert-Schweitzer-Straße xxxx,
+65629 Niederneisen, Rhein-Lahn-Kreis",6,161 m²,435 m²,795 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage + ohne Provision +,60.000 €,"Hauptstraße xxxx,
+55569 Nußbaum, Bad Kreuznach (Kreis)",7,1 m²,610 m²,60.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit 2 Stellplätzen und Waldfläche,233.000 €,"Hasbachstraße xxxx,
+55743 Idar-Oberstein, Birkenfeld (Kreis)",3,"98,98 m²",1.109 m²,2.354 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus - provisionsfrei,32.000 €,"Ortsstraße xxxx,
+54411 Rorodt, Bernkastel-Wittlich (Kreis)",1,1 m²,5.913 m²,32.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes 2-Familienhaus mit Garten und Garage ++ ohne Provision ++,224.000 €,"Friedrich-Fröbel-Straße xxxx,
+67691 Hochspeyer, Kaiserslautern (Kreis)",7,202 m²,280 m²,1.109 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + ohne Provision +,125.000 €,"Hauptstraße xxxx,
+67737 Olsbrücken, Kaiserslautern (Kreis)",4,120 m²,193 m²,1.042 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Wohnhaus, Garage, Gartenland",100.000 €,"Mittelstraße xxxx,
+53567 Buchholz (Westerwald), Neuwied (Kreis)",11,334 m²,2.027 m²,299 €/m²,Wohnimmobilie (sonstige),73 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus und unbebaute Grundstücke,391.000 €,"Dautenheimer Landstraße xxxx,
+55232 Alzey, Alzey-Worms (Kreis)",7,147 m²,1.079 m²,2.660 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus,71.400 €,"Blauer Hut xxxx,
+55232 Alzey, Alzey-Worms (Kreis)",4,87 m²,111 m²,821 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ehemalige Hofstelle + provisionsfrei +,265.000 €,"Staufer Straße xxxx,
+67304 Eisenberg (Pfalz), Donnersbergkreis",1,170 m²,260 m²,1.559 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"""Jeder Tag ein Urlaubstag"" - Einfamilienhaus nahe der Ostsee",420.000 €,"24376 Hasselberg, Schleswig-Flensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"171,36 m²",703 m²,2.451 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,2 Carports,"2,38 % inkl. 19 % MwSt.",{'is24qa-gaeste-wc-label': ''}
+"""Ein wahres Raumwunder"" - Reihenmittelhaus in Zentrumsnähe - Carport und kleine Gartenoase inklusive",210.000 €,"24837 Schleswig, Schleswig-Flensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"108,7 m²",229 m²,1.932 €/m²,Reihenmittelhaus,nil,nil,nil,nil,1 Carport,"2,975 % inkl. 19 % MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ein Ort für große und kleine Familien - Heimeliges Zweifamilienhaus mit Garten und Doppelcarport,245.000 €,"24893 Taarstedt, Schleswig-Flensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"245,2 m²",2.046 m²,999 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"3,57 % inkl. 19 & MwSt.",{}
+"""Das Stadtleben genießen"" - charmantes Zweifamilienhaus mit Garage in Schleswig Süd",275.000 €,"24837 Schleswig, Schleswig-Flensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"177,75 m²",322 m²,1.547 €/m²,Mehrfamilienhaus,nil,nil,nil,2,1 Garage,"2,98% inkl. 19% MwSt.",{'is24qa-keller-label': ''}
+Ein echter Volltreffer! Besonderes Raumwunder in der Gartenstadt-Flensburg,325.000 €,"Schäferhaus, 24941 Flensburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,124 m²,5.275 m²,2.621 €/m²,Reihenmittelhaus,113 m²,nil,nil,nil,1 Carport,"2,98 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Vollunterkellertes Reihenmittelhaus mit ca. 150 m² Wohn-/Nutzfläche und Garage, Terrasse und Garten",215.000 €,"24848 Kropp, Schleswig-Flensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,194 m²,2.067 €/m²,Reihenmittelhaus,67 m²,nil,nil,1,1 Garage,"2,98 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Bungalow in Hanglage mit Anbau und überdachter Terrasse,239.000 €,"24991 Großsolt, Schleswig-Flensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,141 m²,774 m²,1.695 €/m²,Bungalow,40 m²,nil,nil,nil,2 Stellplätze,"2,98 % inkl. ges. MwSt.",{'is24qa-gaeste-wc-label': ''}
+"St.Peter-Ording/Dorf: Großzügiges, behagliches Wohnhaus mit zauberhaftem Garten",1.580.000 €,"25826 Sankt Peter-Ording, Nordfriesland (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,226 m²,974 m²,6.991 €/m²,Einfamilienhaus (freistehend),40 m²,nach Vereinbarung,6,3,1 Garage,"3,5 % inkl. gesetzl. MwSt. vom erzielten Kaufpreis",{'is24qa-gaeste-wc-label': ''}
+Provisionsfrei für den Käufer! Traumhaftes Grundstück mit Altbestand im grünen Ellerbek,475.000 €,"25474 Ellerbek, Pinneberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",148 m²,978 m²,3.209 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes und großzügiges Niedrigenergiehaus auf gepflegtem Grundstück in ruhiger Wohnlage,549.000 €,"23858 Wesenberg, Stormarn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,147 m²,641 m²,3.735 €/m²,Einfamilienhaus (freistehend),10 m²,nil,3,nil,Carport,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Vollunterkellertes Stadthaus mit großem Grundstück,274.000 €,"21502 Geesthacht, Herzogtum Lauenburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,85 m²,636 m²,3.224 €/m²,Reiheneckhaus,23 m²,Nach Vereinbarung mit dem Verkäufer,3,1,2 Garagen,"9.781,80 €","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Klassisches Einfamilienhaus in Toplage von Mönkeberg auf herrlichem Grundstück,420.000 €,"24248 Mönkeberg, Plön (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,127 m²,566 m²,3.307 €/m²,Einfamilienhaus (freistehend),70 m²,nach Vereinbarung,3,1,1 Garage,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Perfekte Lage für Familien und Berufspendler: Ihr Reihenmittelhaus in Mölln!,329.000 €,"23879 Mölln, Herzogtum Lauenburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","102,16 m²",192 m²,3.220 €/m²,Reihenmittelhaus,"93,6 m²",nil,1,1,1 Außenstellplatz,"3,25 % inkl. 19 % MwSt.",{'is24qa-keller-label': ''}
+"Eine Hälfte ist ab 1.8.24 frei für den Käufer, die 2. Hälfte ist weiter vermietet",428.000 €,"25860 Horstedt, Nordfriesland (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"152,82 m²",754 m²,2.801 €/m²,Mehrfamilienhaus,nil,August 24,2,1,2 Carports,"2,38 % inkl. MwSt.",{}
+Bauernhaus im Ortskern von Damendorf,295.000 €,"Dörpstraat 12,
+24361 Damendorf, Rendsburg-Eckernförde (Kreis)",4,116 m²,850 m²,2.543 €/m²,Bauernhaus,6 m²,nil,3,1,1 Garage,3 %,{'is24qa-keller-label': ''}
+Mehrfamilienhaus mit Gewerbe,549.000 €,"24601 Wankendorf, Plön (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,224 m²,1.002 m²,2.451 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,5 Außenstellplätze,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gehobenes Einfamilienhaus in ruhiger, naturnaher Lage auf großem Eigenlandgrundstück",665.000 €,"23909 Bäk, Herzogtum Lauenburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"138,23 m²",821 m²,4.811 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,3,2,4 Garagen,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Nordsee - Großes Wohnhaus mit 5 Ferienwohnungen,925.000 €,"25709 Kronprinzenkoog, Dithmarschen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",20,"552,07 m²",7.771 m²,1.676 €/m²,Besondere Immobilie,"728,8 m²",01.07.2024,nil,nil,6 Außenstellplätze,"3,57 %",{}
+Erhaltenswertes Einfamilienhaus mit zwei Wohneinheiten in der Dr.-Ross-Straße,2.495.000 €,"25980 Sylt (Gemeinde), Nordfriesland (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,167 m²,634 m²,14.940 €/m²,Einfamilienhaus (freistehend),167 m²,nil,5,2,2 Stellplätze,"3,57 % inkl. MwSt.",{'is24qa-online-besichtigung-moeglich-label': ''}
+Die perfekte Wohlfühloase – Modernes Einfamilienhaus von Schwabenhaus,786.051 €,"22848 Norderstedt, Segeberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,13.572 m²,600 m²,58 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

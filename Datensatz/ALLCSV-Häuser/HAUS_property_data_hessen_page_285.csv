@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Gebäudekomplex mit 2 separaten Wohnungen in der Dorfmitte,179.000 €,"65599 Dornburg, Limburg-Weilburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,167 m²,320 m²,1.072 €/m²,Einfamilienhaus (freistehend),138 m²,sofort,3,2,1 Stellplatz,3 % inkl. MwSt.,{'is24qa-keller-label': ''}
+"++Saniertes Wohn- und Geschäftshaus in Bischofsheim: 2 Wohnungen, Halle, Büro – teils vermietet++",1.049.500 €,"65474 Bischofsheim, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,200 m²,1.059 m²,5.248 €/m²,nil,545 m²,nil,6,3,nil,"5,95 % Inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Ansprechend, modernisierter Bungalow auf großem eingewachsenem Grundstück mit Teich*",468.000 €,"63571 Gelnhausen, Main-Kinzig-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,210 m²,1.950 m²,2.229 €/m²,Bungalow,240 m²,nil,3,2,Garage,"3,57% inkl. MWST",{'is24qa-gaeste-wc-label': ''}
+Weilrod-Emmershausen: Charmantes Einfamilienhaus mit Potenzial,150.000 €,"61276 Weilrod, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,137 m²,356 m²,1.095 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Außenstellplatz,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Variables Immobilienpaket mit zwei Wohnhäusern,1.100.000 €,"64372 Ober-Ramstadt, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,410 m²,339 m²,2.683 €/m²,Mehrfamilienhaus,150 m²,nil,nil,nil,Außenstellplatz,"Die Käuferprovision beträgt 5,95 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schmuckkästchen in Top-Zustand,695.000 €,"64569 Nauheim, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,170 m²,415 m²,4.088 €/m²,Einfamilienhaus (freistehend),82 m²,ab sofort,nil,2,nil,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.",{'is24qa-online-besichtigung-moeglich-label': ''}
+Im Herzen Liebhaber,960.000 €,"64625 Bensheim, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,305 m²,164 m²,3.148 €/m²,Mehrfamilienhaus,190 m²,Nach Vereinbarung,nil,5,Garage,"Die Käuferprovision beträgt 5,95 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-vermietet-label': ''}"
+Mehrfamilienhaus mit herrlichem Garten und Weitblick,359.000 €,"35321 Laubach, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,263 m²,551 m²,1.365 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung,nil,3,Außenstellplatz,"Die Käuferprovision beträgt 2,98 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-vermietet-label': ''}"
+Hardtwaldidylle pur: Einzigartige Villa in Bad Homburg,5.600.000 €,"61350 Bad Homburg vor der Höhe, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,449 m²,1.237 m²,12.472 €/m²,Villa,117 m²,nil,nil,3,2 Garagen,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Oberaula-OT, 2 Fam.Hs.",480.000 €,"Zur Ibrakuppe 6,
+36280 Oberaula, Schwalm-Eder-Kreis",9,363 m²,9.807 m²,1.322 €/m²,Mehrfamilienhaus,nil,nil,nil,4,3 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+….es sind bereits 3 Eigentumswohnungen. Ausbaureserven sind auch noch da!,1.080.000 €,"Sindlingen, 65931 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,321 m²,856 m²,3.364 €/m²,Mehrfamilienhaus,350 m²,nil,nil,nil,5 Außenstellplätze,"Die Vermittlungsgebühr beträgt 2,98 % inkl. MwSt.",{}
+Großzügige Doppelhaushälfte in ruhiger Lage,349.500 €,"63594 Hasselroth, Main-Kinzig-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,145 m²,265 m²,2.410 €/m²,Doppelhaushälfte,51 m²,nil,4,2,1 Garage,3% inkl. MwSt.,{'is24qa-keller-label': ''}
+""" "" "" Überzeugen Sie sich selbst ! "" "" "" Erstklassiges Preis-/Leistungsverhältnis",445.000 €,"Am Kohlhaag 5,
+Medenbach, 65207 Wiesbaden",6,144 m²,177 m²,3.090 €/m²,Reihenmittelhaus,50 m²,kurzfristig,5,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erstklassiges Stadthaus mit großem Garten in toller Lage! Neubau!,589.000 €,"68519 Viernheim, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,200 m²,4.363 €/m²,Doppelhaushälfte,8 m²,12/2024,3,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Blick auf die Frankfurter Skyline! Toll gelegenes großzügiges Grundstück mit Altbestand,Auf Anfrage,"61352 Bad Homburg vor der Höhe, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,141 m²,600 m²,nil,Mehrfamilienhaus,nil,Nach Vereinbarung,4,3,2 Garagen,"Käuferprovision 5,95 % (inkl. MwSt.) des beurkundeten Kaufpreises)",{'is24qa-keller-label': ''}
++++ Voll vermietetes 10 Familienhaus als Kapitalanlageimmobilie +++,1.149.900 €,"34466 Wolfhagen, Kassel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",50,"843,54 m²",1.926 m²,1.363 €/m²,Mehrfamilienhaus,349 m²,Nach Vereinbarung,nil,nil,10 Stellplätze,"7,14 % inkl. 19% Mwst","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
++++provisionsfrei+++ Gemütlichkeit – Ruhe – Entspannung – Platz ...,315.650 €,"35510 Butzbach, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"119,11 m²",772 m²,2.650 €/m²,Einfamilienhaus (freistehend),"40,07 m²",nach Vereinbarung,4,2,2 Außenstellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+560 m² FAMILIENIDYLLE IN MAINHAUSEN 🤩 Beeindruckendes Einfamilienhaus mit Lagerhalle,1.690.000 €,"63533 Mainhausen, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,560 m²,4.670 m²,3.018 €/m²,Einfamilienhaus (freistehend),nil,nil,6,3,4 Stellplätze,"4,76% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Schöne DHH in Espa!,289.000 €,"35428 Langgöns, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,494 m²,2.312 €/m²,Doppelhaushälfte,27 m²,01.01.2024,4,2,1 Garage,Provisionsfrei für Kaufende,{'is24qa-vermietet-label': ''}
+Schickes Einfamilienhaus mit Einliegerwohnung und weitläufigen Garten in ruhiger Lage des Taunus,549.000 €,"65597 Hünfelden, Limburg-Weilburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,315 m²,1.099 m²,1.743 €/m²,Einfamilienhaus (freistehend),121 m²,nil,2,2,1 Garage,"3,57 % inkl. 19 % MwSt.","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"

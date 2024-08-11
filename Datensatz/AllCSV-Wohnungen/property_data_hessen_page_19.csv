@@ -1,0 +1,115 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+KfW 40 2-Zimmer-Neubauwohnung mit Balkon zu verkaufen!,256.380 €,"Ludwigstraße 10,
+63179 Obertshausen, Offenbach (Kreis)",2,"54,55 m²",4.700 €/m²,Etagenwohnung,11 m²,2025,1,1,1 Carport,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Haus A, Wohnung 4, Erdgeschoss, 3-Zimmer",399.900 €,"Reimelstraße 3,
+63543 Neuberg, Main-Kinzig-Kreis",3,"84,4 m²",4.738 €/m²,Erdgeschosswohnung,"74,2 m²",Dezember 2023,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großartige Eigentumswohnung im Staffelgeschoss mit viel Platz und großer Dachterrasse,899.000 €,"Campus Kronberg 17,
+61476 Kronberg im Taunus, Hochtaunuskreis",3,"144,6 m²",6.217 €/m²,Etagenwohnung,"6,39 m²",Herbst 2023,2,2,1 Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wörth45 - Neubau 4-Zimmerwohnung im Herzen von Eltville,679.000 €,"Wörthstraße 45,
+65343 Eltville am Rhein, Rheingau-Taunus-Kreis",4,"107,09 m²",6.340 €/m²,Etagenwohnung,nil,Dezember 2025,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Luxuriöses Wohnen in idyllischem Ambiente,885.500 €,"Am Steinacker 21,
+69517 Gorxheimertal, Bergstraße (Kreis)",4,150 m²,5.903 €/m²,Etagenwohnung,nil,nil,3,2,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 3-Zimmer-Dachgeschosswohnung in Huppert,139.000 €,"Limesstraße 3,
+65321 Heidenrod, Rheingau-Taunus-Kreis",3,82 m²,1.695 €/m²,Dachgeschoss,6 m²,nil,2,1,1 Außenstellplatz,"3,57% des Netto Kaufpreises (inkl. MwSt.)",{'is24qa-einbaukueche-label': ''}
+Umfassend modernisierte 5-Zimmer-Maisonette-Wohnung in Friedrichsdorf-Dillingen,549.000 €,"61381 Friedrichsdorf, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"112,96 m²",4.860 €/m²,Maisonette,nil,01.01.2025,4,2,1 Außenstellplatz,3 % inkl. ges. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Wörth45 - Neubau 3-Zimmerwohnung im Herzen von Eltville,485.000 €,"Wörthstraße 45,
+65343 Eltville am Rhein, Rheingau-Taunus-Kreis",3,"72,03 m²",6.733 €/m²,Etagenwohnung,nil,Dezember 2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Perfekte 2- Zimmer Neubauwohnung mitten in Frankfurt Bergen-Enkeim,379.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"53,4 m²",7.097 €/m²,Etagenwohnung,"4,32 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+KfW40 Großzügiges 2-Zimmer-Neubaupenthouse zu verkaufen!,394.900 €,"Ludwigstraße 10,
+63179 Obertshausen, Offenbach (Kreis)",2,"82,03 m²",4.814 €/m²,Penthouse,11 m²,2025,1,1,1 Carport,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Die perfekte 3-Zimmer Neubau-Eigentumswohnung mitten in Frankfurt Bergen-Enkheim,454.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"64,3 m²",7.061 €/m²,Etagenwohnung,"4,24 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Flotte 2 Zimmer Neubauwohnung in zentraler Wohnlage von Frankfurt Bergen-Enkeim,369.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"53,2 m²",6.936 €/m²,Etagenwohnung,"4,32 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+KfW40 Geräumige 4-Zimmer-Neubauwohnung zu verkaufen!,457.400 €,"Ludwigstraße 10,
+63179 Obertshausen, Offenbach (Kreis)",4,"98,43 m²",4.647 €/m²,Etagenwohnung,15 m²,2025,3,1,1 Carport,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+PROVISIONSFREI - 1-Zimmer-Etagenwohnung mit Küche in Frankfurt,359.900 €,"Gallus, 60326 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"44,48 m²",8.091 €/m²,Etagenwohnung,nil,2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus A, Wohnung 6, Obergeschoss, 2-Zimmer",306.900 €,"Reimelstraße 3,
+63543 Neuberg, Main-Kinzig-Kreis",2,"67,35 m²",4.557 €/m²,nil,nil,Dezember 2023,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmantes 1-Zimmerapartment in Heusenstamm,139.000 €,"63150 Heusenstamm, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,36 m²,3.861 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus B, Wohnung 13, Erdgeschoss, 2-Zimmer",265.900 €,"Reimelstraße 3a,
+63543 Neuberg, Main-Kinzig-Kreis",2,"56,6 m²",4.698 €/m²,Erdgeschosswohnung,"40,5 m²",Dezember 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+6x Eigentumswohnungen!! Attraktives Immobilienpaket bei Gießen**,300.000 €,"Gießener Straße 120,
+35440 Linden, Gießen (Kreis)",6,"93,78 m²",3.199 €/m²,Etagenwohnung,nil,nach Vereinbarung,1,1,nil,"2,975 %","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Gemütliche 3-Zimmer-Wohnung mit Balkon und EBK in ruhiger Lage von Darmstadt-Arheilgen,329.000 €,"Arheilgen, 64291 Darmstadt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,3.739 €/m²,Dachgeschoss,nil,sofort,2,1,nil,"2,38% des Kaufpreises inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Haus B, Wohnung 15, Erdgeschoss, 2-Zimmer",295.900 €,"Reimelstraße 3a,
+63543 Neuberg, Main-Kinzig-Kreis",2,"64,3 m²",4.602 €/m²,Erdgeschosswohnung,129 m²,Dezember 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus A, Wohnung 7, Obergeschoss, 2-Zimmer",306.900 €,"Reimelstraße 3,
+63543 Neuberg, Main-Kinzig-Kreis",2,"67,7 m²",4.533 €/m²,nil,nil,Dezember 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus A, Wohnung 3, Erdgeschoss, 2-Zimmer",306.900 €,"Reimelstraße 3,
+63543 Neuberg, Main-Kinzig-Kreis",2,"67,7 m²",4.533 €/m²,Erdgeschosswohnung,"29,2 m²",Dezember 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Eigentumswohnung inklusive großer Dachterrasse,949.000 €,"Campus Kronberg 17a,
+61476 Kronberg im Taunus, Hochtaunuskreis",4,"145,27 m²",6.533 €/m²,Dachgeschoss,"7,44 m²",Herbst 2023,3,2,1 Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KfW40 2-Zimmer-Neubaupenthouse-Wohnung zu verkaufen!,314.928 €,"Ludwigstraße 10,
+63179 Obertshausen, Offenbach (Kreis)",2,"65,61 m²",4.800 €/m²,Penthouse,11 m²,2025,1,1,1 Carport,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Gemütliche 2 Zimmer Eigentumswohnungen mitten in Frankfurt Bergen-Enkheim,299.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"43,75 m²",6.834 €/m²,Erdgeschosswohnung,"4,8 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+"Haus A, Wohnung 5, Obergeschoss, 3-Zimmer",399.900 €,"Reimelstraße 3,
+63543 Neuberg, Main-Kinzig-Kreis",3,"84,35 m²",4.741 €/m²,nil,nil,Dezember 2023,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wörth45 - Neubau 4-Zimmerwohnung im Herzen von Eltville,655.500 €,"Wörthstraße 45,
+65343 Eltville am Rhein, Rheingau-Taunus-Kreis",4,"98,73 m²",6.639 €/m²,Etagenwohnung,nil,Dezember 2025,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Flotte 3 Zimmer Neubau-Wohnung in zentraler Wohnlage von Frankfurt Bergen-Enkeim,449.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"63,88 m²",7.029 €/m²,Etagenwohnung,"4,24 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Haus B, Wohnung 19, Obergeschoss, 2-Zimmer",295.900 €,"Reimelstraße 3a,
+63543 Neuberg, Main-Kinzig-Kreis",2,"64,3 m²",4.602 €/m²,nil,nil,Dezember 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+++Traumhafte Luxus-Maisonette-Eigentumswohnung (152 m²) mit Terrasse & Balkon im Europaviertel !++,1.431.000 €,"Gallus, 60486 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,152 m²,9.414 €/m²,Maisonette,nil,nach Vereinbarung,3,1,1 Tiefgaragen-Stellplatz,"3,57 % Inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Wörth45 - Neubau 3-Zimmerwohnung im Herzen von Eltville,585.000 €,"Wörthstraße 45,
+65343 Eltville am Rhein, Rheingau-Taunus-Kreis",3,"90,64 m²",6.454 €/m²,Etagenwohnung,nil,Dezember 2025,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KfW40 Großzügige 4-Zimmer-Neubauwohnung zu verkaufen!,505.100 €,"Ludwigstraße 10,
+63179 Obertshausen, Offenbach (Kreis)",4,"108,64 m²",4.649 €/m²,Etagenwohnung,11 m²,2025,3,1,1 Carport,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Hier brauch ich kein Auto! 1- Zimmer Eigentumswohnung mitten in Bergen-Enkheim,249.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"35,57 m²",7.000 €/m²,Erdgeschosswohnung,"4,8 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Solide 3 Zi.Whg. mit TL-Bad, sep WC + SW-Balkon",295.000 €,"64347 Griesheim, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,3.512 €/m²,Etagenwohnung,5 m²,nil,2,1,1 Außenstellplatz,2.975 % des Kaufpreises,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"RESERVIERT! Haus A, Wohnung 9, Dachgeschoss, 2-Zimmer",329.200 €,"Reimelstraße 3,
+63543 Neuberg, Main-Kinzig-Kreis",2,"67,5 m²",4.877 €/m²,Dachgeschoss,nil,Dezember 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau-3 Zimmer Eigentumswohnung mitten in Frankfurt Bergen-Enkeim,419.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"58,45 m²",7.169 €/m²,Etagenwohnung,"4,32 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Tolle 3 Zimmer-Neubau- Eigentumswohnung mitten in Frankfurt Bergen-Enkheim,449.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"63,88 m²",7.029 €/m²,Etagenwohnung,"4,24 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Attraktive 2- Zimmer Maisonette-Wohnung mit kleinem Privatgarten - mitten in Bergen-Enkheim,399.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,05 m²",6.757 €/m²,Erdgeschosswohnung,"6,64 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Wunderschöne 3-Zimmer-Dachgeschosswohnung in Hanau-Großauheim,259.000 €,"Groß-Auheim, 63457 Hanau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"69,43 m²",3.730 €/m²,Dachgeschoss,"9,52 m²",sofort,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Haus A, Wohnung 10, Dachgeschoss, 4-Zimmer",522.800 €,"Reimelstraße 3,
+63543 Neuberg, Main-Kinzig-Kreis",4,"108,4 m²",4.823 €/m²,Dachgeschoss,nil,Dezember 2023,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Traumhafte Eigentumswohnung mit großer, sonniger Dachterrasse",999.000 €,"Campus Kronberg 17a,
+61476 Kronberg im Taunus, Hochtaunuskreis",4,"143,8 m²",6.947 €/m²,Dachgeschoss,"7,44 m²",Herbst 2023,3,2,1 Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus B, Wohnung 14, Erdgeschoss, 2-Zimmer",265.900 €,"Reimelstraße 3a,
+63543 Neuberg, Main-Kinzig-Kreis",2,"56,6 m²",4.698 €/m²,Erdgeschosswohnung,"19,2 m²",Dezember 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus A, Wohnung 8, Obergeschoss, 3-Zimmer",399.900 €,"Reimelstraße 3,
+63543 Neuberg, Main-Kinzig-Kreis",3,"84,4 m²",4.738 €/m²,nil,nil,Dezember 2023,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wörth45 - Neubau 2-Zimmerwohnung im Herzen von Eltville,425.000 €,"Wörthstraße 45,
+65343 Eltville am Rhein, Rheingau-Taunus-Kreis",2,"60,46 m²",7.029 €/m²,nil,nil,Dezember 2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 3-Zimmer-Wohnung mit Balkon in ruhiger Wohnlage,250.000 €,"Westerwaldstraße 26,
+65232 Taunusstein, Rheingau-Taunus-Kreis",3,"95,4 m²",2.621 €/m²,Etagenwohnung,nil,ab sofort,2,1,1 Garage,"3,57% Käuferprovision auf den Kaufpreis inklusive 19% Mehrwertsteuer.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+KfW40 4-Zimmer-Neubauwohnung mit großer Terrasse zu verkaufen!,465.700 €,"Ludwigstraße 10,
+63179 Obertshausen, Offenbach (Kreis)",4,"99,1 m²",4.699 €/m²,Etagenwohnung,11 m²,2025,3,1,1 Carport,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+3-Zi-ETW nahe des Mainufers im beliebten Deutschherrnviertel *PROVISIONSFREI* zu erwerben,750.000 €,"Sachsenhausen-Nord, 60594 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,124 m²,6.048 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmante 3-Zimmer-Terrassenwohnung in Top-Lage von Bad Vilbel (Heilsberg),369.000 €,"Am Hang 68A,
+61118 Bad Vilbel, Wetteraukreis",3,"77,92 m²",4.736 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Flotte 2 Zimmer Neubauwohnung in zentraler Wohnlage von Frankfurt Bergen-Enkeim,319.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,46 m²,6.935 €/m²,Etagenwohnung,"4,28 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+KfW40 3-Zimmer-Neubauwohnung mit großem Balkon zu verkaufen!,399.000 €,"Ludwigstraße 10,
+63179 Obertshausen, Offenbach (Kreis)",3,"85,82 m²",4.649 €/m²,Etagenwohnung,13 m²,2025,2,1,1 Carport,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Gemütliche 2 Zimmer Neubau-Wohnung in mitten in Frankfurt Bergen-Enkeim,319.000 €,"Bergen-Enkheim, 60388 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"45,6 m²",6.996 €/m²,Etagenwohnung,"4,24 m²",nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Wörth45 - Neubau 3-Zimmerwohnung im Herzen von Eltville,649.000 €,"Wörthstraße 45,
+65343 Eltville am Rhein, Rheingau-Taunus-Kreis",3,"102,44 m²",6.335 €/m²,Etagenwohnung,nil,Dezember 2025,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktiv für Selbstnutzer und Kapitalanleger - Leerstehende Etagenwohnung in Neu-Isenburg,219.900 €,"63263 Neu-Isenburg, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,58 m²",3.459 €/m²,Etagenwohnung,5 m²,sofort,1,1,1 Duplex-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+*** Über den Dächern von Großkrotzenburg *** 3-Zimmer-ETW mit 2 Balkonen und PKW-Stellplatz,189.000 €,"63538 Großkrotzenburg, Main-Kinzig-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,2.520 €/m²,Etagenwohnung,nil,sofort,2,1,1 Außenstellplatz,"2,975 % des Kaufpreises, inkl. 19 % gesetzliche MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Wörth45 - Neubau 2-Zimmerwohnung im Herzen von Eltville,449.000 €,"Wörthstraße 45,
+65343 Eltville am Rhein, Rheingau-Taunus-Kreis",2,"64,64 m²",6.946 €/m²,nil,nil,Dezember 2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus B, Wohnung 18, Obergeschoss, 2-Zimmer",265.900 €,"Reimelstraße 3a,
+63543 Neuberg, Main-Kinzig-Kreis",2,"56,6 m²",4.698 €/m²,nil,nil,Dezember 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KfW40 3-Zimmer-Neubaupenthouse-Wohnung zu verkaufen!,375.100 €,"Ludwigstraße 10,
+63179 Obertshausen, Offenbach (Kreis)",3,"78,16 m²",4.799 €/m²,Penthouse,11 m²,2025,2,1,1 Duplex-Stellplatz,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"

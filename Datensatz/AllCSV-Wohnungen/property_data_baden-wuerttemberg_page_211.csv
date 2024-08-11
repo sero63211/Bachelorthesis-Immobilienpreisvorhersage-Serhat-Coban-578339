@@ -1,0 +1,43 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"bezugsfrei ab ca. 01.08.24, energ. sanierte 3 ZKBB in Rüppurr",345.000 €,"Adalbert-Stifter-Strasse 2-10,
+Rüppurr, 76199 Karlsruhe",3,84 m²,4.107 €/m²,Etagenwohnung,84 m²,1.8.2024,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Idyllische 3 Zimmer Wohnung in 3Fam. Haus / PROVISIONSFREI,309.000 €,"Seewiesenstraße 58,
+71522 Backnang, Rems-Murr-Kreis","3,5",85 m²,3.635 €/m²,Erdgeschosswohnung,nil,6.5.2024,nil,1,1 Garage,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Sehr schöne Penthouse-Wohnung mit großer Südterrasse in Neckarsulm,429.000 €,"Eugen-Bolz-Strasse 39,
+74172 Neckarsulm, Heilbronn (Kreis)","4,5",119 m²,3.605 €/m²,Penthouse,142 m²,24.2.2024,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vollständig renovierte Wohnung mit sechs Zimmern und Einbauküche in Baden-Baden,620.000 €,"Langestr. 52,
+Innenstadt, 76530 Baden-Baden",6,152 m²,4.079 €/m²,Etagenwohnung,152 m²,nil,2,1,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauwohnungen mit Blick ins Grüne,450.000 €,"Dielheimer Str. 50,
+69168 Wiesloch, Rhein-Neckar-Kreis",4,95 m²,4.737 €/m²,nil,nil,10.23,nil,nil,1 Carport,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauwohnungen mit Blick ins Grüne,343.000 €,"Dielheimer Str. 50,
+69168 Wiesloch, Rhein-Neckar-Kreis",3,78 m²,4.397 €/m²,nil,nil,10.23,nil,nil,1 Carport,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöne freie werdende 1 Zimmer Wohnung, im 1.OG, 19qm in Heidelberg mit TG Stellplatz und Kellerabt.",85.000 €,"Blücherstr. 1,
+Bergheim, 69115 Heidelberg",1,19 m²,4.474 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. Mwst vom Kaufpreis, fällig 7 Tage nach Notartermin.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-vermietet-label': ''}"
+Lichtdurchflutete 4-Zi.-Wohnung mit Top-Aussicht (provisionsfrei),446.000 €,"Rohr, 70565 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,92 m²,4.848 €/m²,Etagenwohnung,17 m²,29.5.2023,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 4-Zimmer-Maisonette Wohnung in Karlsbad,356.000 €,"76307 Karlsbad, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,108 m²,3.296 €/m²,Maisonette,108 m²,20.5.2024,1,2,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sonnige Terrassen-Wohnung mit 3,5 Zimmern, Südterrasse (27qm) u. Einbauküche in Stuttgart-Dachswald",518.000 €,"Dachswaldweg 75A,
+Dachswald, 70569 Stuttgart","3,5","102,25 m²",5.066 €/m²,Terrassenwohnung,27 m²,16.2.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hochwertig renovierte 2-Zimmer-Whg mit traumhafter Dachloggia für Single oder Paar,219.000 €,"71404 Korb, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,48 m²,4.563 €/m²,Dachgeschoss,56 m²,1.3.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit sonniger Südwestausrichtung in Feldrandlage inkl. EBK und Einzelgarage,270.000 €,"71701 Schwieberdingen, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"73,15 m²",3.691 €/m²,Hochparterre,nil,22.4.2024,1,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Stilvolle Neubauwohnung mit Wohlfühlcharakter: 3,5 Zimmer, Fußbodenheizung, Balkon und Tiefgarage",421.000 €,"78647 Trossingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",98 m²,4.296 €/m²,nil,nil,nil,2,1,2 Tiefgaragen-Stellplätze,"2,5%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Hochwertige Galeriewohnung in bevorzugter Lage in Heilbronn-Ost,575.000 €,"Heilbronn, 74074 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,5.227 €/m²,Maisonette,8 m²,nil,4,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumwohnung mit durchdachtem Design und exklusiver Ausstattung in Ludwigshafen,Auf Anfrage,"Kellhofweg 17,
+78351 Bodman-Ludwigshafen, Konstanz (Kreis)",3,105 m²,nil,Sonstige,nil,nil,2,1,2 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Helle 3,5-Raum-Maisonette-Wohnung mit gehobener Innenausstattung mit Balkon und EBK in Karlsruhe",387.500 €,"Neureut, 76149 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",101 m²,3.837 €/m²,Maisonette,26 m²,nil,nil,1,nil,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Traumhaftes Penthouse mit Luxusausstattung und atemberaubender Terrasse,810.000 €,"78647 Trossingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",145 m²,5.586 €/m²,Penthouse,nil,nil,3,1,2 Tiefgaragen-Stellplätze,"2,5%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Traumhaft Wohnen in zentraler Lage,345.000 €,"Heilbronn, 74072 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",92 m²,3.750 €/m²,Maisonette,13 m²,nil,nil,1,2 Tiefgaragen-Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"4,5-Zimmer-Wohnung mit Balkon in Esslingen am Neckar",240.000 €,"Weil, 73733 Esslingen am Neckar
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",84 m²,2.857 €/m²,Sonstige,nil,15.10.2023,3,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2-Zimmer Neubau-EG-Wohnung mit Garten, EBK und Stellplatz ohne Provision",329.000 €,"Kohlplatte 2,
+72666 Neckartailfingen, Esslingen (Kreis)",2,"71,28 m²",4.616 €/m²,Erdgeschosswohnung,"71,28 m²",1.7.2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung * PV-Anlage * Wärmepumpe * Bodenheizung * Stellplatz * Keller * in Allmannsweier,183.760 €,"77963 Schwanau, Ortenaukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"45,94 m²",4.000 €/m²,nil,nil,nach Vereinbarung,1,1,1 Stellplatz,"3,57% inkl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

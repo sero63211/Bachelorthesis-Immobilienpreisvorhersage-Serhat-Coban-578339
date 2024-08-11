@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Sehr schöne und großzügige 3-Zimmerwohnung mit Terrasse und Gartenanteil,340.000 €,"72800 Eningen unter Achalm, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,76 m²,4.474 €/m²,nil,nil,ab sofort,2,1,1 Tiefgaragen-Stellplatz,"Die Käuferprovision beträgt 2,975 % vom Kaufpreis (2,5 % zuzüglich gesetzlicher Mehrwertsteuer 19 %)","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+*PROVISIONSFREI* 2 Zimmer Wohnung mit Fachwerkelementen,129.000 €,"74632 Neuenstein, Hohenlohekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"56,1 m²",2.299 €/m²,Etagenwohnung,nil,nil,1,1,nil,PROVISIONSFREI,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Traumhafte Wohnung über zwei Etagen, keiner trampelt über Ihnen . 2. Obergeschoss",315.000 €,"Webereistrasse 37,
+79689 Maulburg, Lörrach (Kreis)",3,98 m²,3.214 €/m²,Maisonette,8 m²,09/24,2,2,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Super schicke 3-Zimmerwohnung mit Sonnenbalkon,239.000 €,"73614 Schorndorf, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"61,8 m²",3.867 €/m²,Sonstige,nil,sofort,2,1,1 Außenstellplatz,"2,38 % inkl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Schmucke, helle 3 Zimmer-Wohnung in beliebter Wohnlage",360.000 €,"Espan, 70374 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"83,98 m²",4.287 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+""" Die interessante sonnige Etagenwohnung mit Terrasse und Garten ! """,320.000 €,"73760 Ostfildern, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"79,04 m²",4.049 €/m²,Terrassenwohnung,20 m²,nil,2,1,1 Garage,"3,57 % inklusive Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Kapitalanleger! 1-Zimmer Appartement in ruhiger Lage,165.000 €,"69198 Schriesheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,34 m²,4.853 €/m²,nil,nil,vermietet,1,1,1 Außenstellplatz,"3,57 % inkl. der gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Sofort freie, tolle 4,5-Zi.-Maisonettewohnung im Zentrum von Reutlingen",439.000 €,"Reutlingen, 72764 Reutlingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5","121,6 m²",3.610 €/m²,Etagenwohnung,6 m²,sofort,2,1,Tiefgaragen-Stellplatz,"3,57 % Käuferprovision inklusive 19 % Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+"HN-FRANKENBACH! 3 Zi. ETW mit EBK, Balkon u. TG!",199.000 €,"Frankenbach, 74078 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,61 m²,3.262 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*PROVISIONSFREI* Praktische 2-Zimmer-Wohnung im Erdgeschoss,129.000 €,"74632 Neuenstein, Hohenlohekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,1 m²",2.259 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,PROVISIONSFREI,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne 2 Zimmer Wohnung mit tollem Südbalkon in ruhiger Lage von Ludwigsburg,199.000 €,"Eglosheim, 71634 Ludwigsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,3.618 €/m²,nil,nil,nil,1,1,nil,"3,57 % vom Kaufpreis inkl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Attraktive 3 Zimmer Eigentumswohnung mit Balkon in bester Lage in Mosbach zu verkaufen,260.000 €,"74821 Mosbach, Neckar-Odenwald-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"125,24 m²",2.076 €/m²,Dachgeschoss,nil,sofort,2,1,1 Tiefgaragen-Stellplatz,"3,57% vom Kaufpreis inklusive der gesetzl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Zum sofortige Bezug oder Vermietung frei!,267.500 €,"79639 Grenzach-Wyhlen, Lörrach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"66,7 m²",4.010 €/m²,Dachgeschoss,nil,sofort,2,2,1 Duplex-Stellplatz,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Ruhig und doch zentral in der Waiblinger Innenstadt!,280.000 €,"71332 Waiblingen, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"84,74 m²",3.304 €/m²,Etagenwohnung,nil,sofort,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+***Moderne und großzügige Dachgeschosswohnung in Mudau***,195.000 €,"69427 Mudau, Neckar-Odenwald-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",86 m²,2.267 €/m²,Dachgeschoss,nil,01.06.2024,nil,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+RE/MAX: BEZUGSFREI! BARRIEREFREI! * Mitten in Müllheim in der WERDERSTR.* inkl. TG-Stellplatz!,275.000 €,"79379 Müllheim, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"73,89 m²",3.722 €/m²,Etagenwohnung,nil,6.5.2024,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. gesetzl. MwSt. (19%)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+*** Objekt zum Ausbau...mit Baugenehmigung!! Toplage in der Pforzheimer Nordstadt ***,149.000 €,"Nordstadt, 75177 Pforzheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,120 m²,1.242 €/m²,Dachgeschoss,nil,nil,5,2,nil,"3,57 % inkl. MwSt.",{}
+3-Zimmerwohnung in Freiburg-Opfingen inkl. 2xTG-Stellplätze,459.527 €,"Freiburger Str. 14,
+Opfingen, 79112 Freiburg im Breisgau",3,"88,42 m²",5.197 €/m²,Etagenwohnung,"6,27 m²",nach Absprache,2,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*PROVISIONSFREI* Praktische 2-Zimmer-Wohnung mit Spitzboden,139.000 €,"74632 Neuenstein, Hohenlohekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"48,1 m²",2.890 €/m²,Etagenwohnung,nil,nil,1,1,nil,PROVISIONSFREI,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Geräumige 3,5-Zimmer-Wohnung in zentraler Lage von Rheinfelden",295.000 €,"79618 Rheinfelden (Baden), Lörrach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,3.688 €/m²,Etagenwohnung,nil,nach Absprache,2,1,Tiefgaragen-Stellplatz,"2,975% vom Kaufpreis (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

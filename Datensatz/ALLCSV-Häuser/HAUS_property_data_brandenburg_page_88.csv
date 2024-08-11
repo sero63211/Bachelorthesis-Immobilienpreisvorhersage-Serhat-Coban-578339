@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2-Familienhaus mit Garage + provisionsfrei +,237.000 €,"Neue Straße XXX,
+14827 Wiesenburg/Mark, Potsdam-Mittelmark (Kreis)",1,143 m²,1.436 m²,1.657 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, Tiefgarage, Carport",520.000 €,"Isarstraße XXX,
+16321 Bernau bei Berlin, Barnim (Kreis)",4,1 m²,763 m²,520.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Balkon und Gartenland,111.000 €,"Woltersdorfer Straße XXX,
+16306 Casekow, Uckermark (Kreis)",7,"266,99 m²",2.671 m²,416 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, Terrasse, Garage",329.000 €,"Dorfstraße XXX,
+16833 Fehrbellin, Ostprignitz-Ruppin (Kreis)",4,120 m²,2.230 m²,2.742 €/m²,Wohnimmobilie (sonstige),45 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garten,830.000 €,"Potsdamer Straße XXX,
+15566 Schöneiche bei Berlin, Oder-Spree (Kreis)",1,130 m²,2.624 m²,6.385 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus und Nebengebäude,30.000 €,"Bergstraße XXX,
+04931 Mühlberg/Elbe, Elbe-Elster (Kreis)",1,"87,17 m²",758 m²,344 €/m²,Wohnimmobilie (sonstige),"65,58 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus mit Carport,654.300 €,"Hinterstraße XXX,
+15345 Rehfelde, Märkisch-Oderland (Kreis)",10,441 m²,9.763 m²,1.484 €/m²,Wohnimmobilie (sonstige),441 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus in gefragter Wohnlage,1.063.000 €,"Leite XXX,
+14532 Kleinmachnow, Potsdam-Mittelmark (Kreis)",1,110 m²,993 m²,9.664 €/m²,Wohnimmobilie (sonstige),60 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Mehrfamilienhaus mit 46 Wohnungen +,2.300.000 €,"Schwedter Straße XXX,
+16278 Angermünde, Uckermark (Kreis)",1,1 m²,2.374 m²,2.300.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber Mein + Kleinwohnhaus mit Wintergarten +",268.000 €,"Ahornstraße XXX,
+15370 Fredersdorf-Vogelsdorf, Märkisch-Oderland (Kreis)",2,75 m²,928 m²,3.573 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Grundstück mit Wohnbaracke und Garage,88.000 €,"Seeweg XXX,
+16766 Kremmen, Oberhavel (Kreis)",2,120 m²,1.339 m²,733 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Sechsfamilienhaus mit Stellplätzen +,1.426.000 €,"Siegfriedstraße XXX,
+14542 Werder (Havel), Potsdam-Mittelmark (Kreis)",16,590 m²,1.297 m²,2.417 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Garage, Gartenhaus",245.000 €,"Am Friedhof XXX,
+14621 Schönwalde-Glien, Havelland (Kreis)",1,91 m²,230 m²,2.692 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Siedlungshaus + provisionsfrei +,120.000 €,"Gartenstraße XXX,
+16348 Wandlitz, Barnim (Kreis)",1,80 m²,813 m²,1.500 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Siedlungshaus auf großem Grundstück,17.000 €,"Schäfereistraße XXX,
+15328 Küstriner Vorland, Märkisch-Oderland (Kreis)",1,1 m²,2.129 m²,17.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Wohnhaus mit Doppelgarage und Land-/Forstwirtschaftsflächen +,1.280.000 €,"Pätzer Dorfaue XXX,
+15741 Bestensee, Dahme-Spreewald (Kreis)",1,190 m²,62.812 m²,6.737 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber Mein + Einfamilien-Doppelhaushälfte +",135.000 €,"Flämingstraße XXX,
+14913 Niedergörsdorf, Teltow-Fläming (Kreis)",4,74 m²,582 m²,1.824 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Wohnhaus auf großem Grundstück,52.000 €,"Herberger Straße XXX,
+04895 Falkenberg/Elster, Elbe-Elster (Kreis)",6,175 m²,2.194 m²,297 €/m²,Wohnimmobilie (sonstige),"39,28 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus,6.000 €,"Dorfstraße XXX,
+03253 Schönborn, Elbe-Elster (Kreis)",1,1 m²,299 m²,6.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Wirtschaftsgebäude,346.000 €,"Möthlower Hauptstraße XXX,
+14715 Märkisch Luch, Havelland (Kreis)",1,365 m²,5.247 m²,948 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

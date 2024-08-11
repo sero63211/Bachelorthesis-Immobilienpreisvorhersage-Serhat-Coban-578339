@@ -1,0 +1,53 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+*RENOVIERTE 2 ZI WOHNUNG IN TOP LAGE* - MIT RUHIGEM BALKON,234.000 €,"Bürgerstr. 15,
+Unterbilk, 40219 Düsseldorf",2,"43,65 m²",5.361 €/m²,Etagenwohnung,nil,sofort,1,1,nil,"2,38 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Heierbusch 37 - Mansardengeschoss mit Blick über Bredeney - WE 10,1.185.000 €,"Bredeney, 45133 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5","189,24 m²",6.262 €/m²,Dachgeschoss,nil,4. Quartal 2025,4,2,1 Tiefgaragen-Stellplatz,keine Käufercourtage,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,31.000 €,"Asterlager Straße XXXX,
+Bergheim, 47228 Duisburg",2,"46,01 m²",674 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Heierbusch 37 - Obergeschoss - WE 3,369.500 €,"Bredeney, 45133 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","70,18 m²",5.265 €/m²,Etagenwohnung,nil,4. Quartal 2025,1,1,1 Tiefgaragen-Stellplatz,keine Käufercourtage,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
++ 3-Zimmer-Wohnung mit Balkon +,8.700 €,"Kaiser-Wilhelm-Straße XXXX,
+Marxloh, 47169 Duisburg",3,"83,32 m²",104 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung im DG und Spitzboden,72.000 €,"Ückendorfer Straße XXXX,
+Ückendorf, 45886 Gelsenkirchen",3,67 m²,1.075 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 2-Zimmer-Wohnung mit Balkon +,10.700 €,"Ottostraße XXXX,
+Hochheide, 47198 Duisburg",2,68 m²,157 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung im Dachgeschoss,51.000 €,"Kantstraße XXXX,
+Dreikönigenviertel, 41464 Neuss",3,52 m²,981 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Balkon,13.300 €,"Ottostraße XXXX,
+Hochheide, 47198 Duisburg",2,68 m²,196 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heierbusch 37 - Dachgeschoss - WE 9,389.500 €,"Bredeney, 45133 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","66,88 m²",5.824 €/m²,nil,nil,4. Quartal 2025,1,1,1 Tiefgaragen-Stellplatz,keine Käufercourtage,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Heierbusch 37 - Obergeschoss - WE 5,634.500 €,"Bredeney, 45133 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5","107,94 m²",5.878 €/m²,Etagenwohnung,nil,4. Quartal 2025,3,2,1 Tiefgaragen-Stellplatz,keine Käufercourtage,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
++ 2-Zimmer-Wohnung mit Balkon +,10.800 €,"Ottostraße XXXX,
+Hochheide, 47198 Duisburg",2,68 m²,159 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon und Garage,130.000 €,"Welheimer Straße XXXX,
+Welheim, 46238 Bottrop",3,"77,64 m²",1.674 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon,14.600 €,"Ottostraße XXXX,
+Hochheide, 47198 Duisburg",3,84 m²,174 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon,11.700 €,"Ottostraße XXXX,
+Hochheide, 47198 Duisburg",2,68 m²,172 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,29.000 €,"Asterlager Straße XXXX,
+Bergheim, 47228 Duisburg",2,"44,32 m²",654 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 3-Zimmer-Wohnung mit Balkon +,8.710 €,"Kaiser-Wilhelm-Straße XXXX,
+Marxloh, 47169 Duisburg",3,"83,25 m²",105 €/m²,nil,"9,09 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Stellplatz + provisionsfrei +,136.000 €,"Hermann-Grothe-Straße XXXX,
+Bissingheim, 47279 Duisburg",3,"82,87 m²",1.641 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heierbusch 37 - Obergeschoss - WE 6,395.500 €,"Bredeney, 45133 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","70,18 m²",5.636 €/m²,Etagenwohnung,nil,4. Quartal 2025,1,1,1 Tiefgaragen-Stellplatz,keine Käufercourtage,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Heierbusch 37 - Dachgeschoss - WE 7,579.000 €,"Bredeney, 45133 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","97,9 m²",5.914 €/m²,nil,nil,4. Quartal 2025,2,2,1 Tiefgaragen-Stellplatz,keine Käufercourtage,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+2-Zimmer-Wohnung mit TG-Stellplatz + provisionsfrei +,148.600 €,"Eickenhof XXXX,
+46539 Dinslaken, Wesel (Kreis)",2,"74,78 m²",1.987 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 2-Zimmer-Wohnung mit Balkon +,18.500 €,"Friedrich-Alfred-Straße XXXX,
+Hochemmerich, 47226 Duisburg",2,"67,64 m²",274 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,29.300 €,"Moritz-Tigler-Straße XXXX,
+Mittelmeiderich, 47137 Duisburg",2,41 m²,715 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Balkon ++ ohne Provision ++,13.300 €,"Ottostraße XXXX,
+Hochheide, 47198 Duisburg",2,68 m²,196 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 abgeschlossene Wohnungen ++ ohne Provision ++,89.000 €,"Steinfurthstaße XXXX,
+Rotthausen, 45884 Gelsenkirchen",5,143 m²,622 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Heierbusch 37 - Gartenwohnung - WE 1,599.500 €,"Bredeney, 45133 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",104 m²,5.764 €/m²,Etagenwohnung,nil,4. Quartal 2025,2,2,1 Tiefgaragen-Stellplatz,keine Käufercourtage,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"

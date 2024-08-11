@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Schnuckelige 1-Zimmer-Wohnung im Gartenhaus,199.000 €,"Lützowstraße XXXX,
+Tiergarten, 10785 Berlin",1,"39,73 m²",5.009 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Dachgeschosswohnung + provisionsfrei +,377.000 €,"Richardstraße XXXX,
+Neukölln (Ortsteil), 12043 Berlin",3,73 m²,5.164 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Eigentumswohnung an der Wuhlheide - Berlin Köpenick,225.000 €,"Oberschöneweide, 12459 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,3.814 €/m²,Dachgeschoss,nil,nil,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+"2½-Zimmer-Wohnung, Balkon, Stellplatz + provisionsfrei +",374.000 €,"Erbacher Straße XXXX,
+Wilmersdorf, 14197 Berlin",2,63 m²,5.937 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"4-Zimmer-Wohnung, Loggia, Stellplatz",146.000 €,"Am Reiherhorst XXXX,
+Rahnsdorf, 15537 Berlin",4,65 m²,2.246 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon,220.000 €,"Schwendyweg XXXX,
+Hakenfelde, 13587 Berlin",3,"68,72 m²",3.201 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon in guter Wohnlage - provisionsfrei,280.000 €,"Handjerystraße XXXX,
+Friedenau, 12161 Berlin",2,"48,83 m²",5.734 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+IMMOBERLIN.DE - Frisch saniert in Westend! Sonnenhelle Wohnung beim Steubenplatz,400.000 €,"Westend, 14050 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,69 m²,5.797 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-einbaukueche-label': ''}"
+3-Zimmer-Wohnung mit Loggia,147.000 €,"Am Reiherhorst XXXX,
+Rahnsdorf, 15537 Berlin",3,65 m²,2.262 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Loggia + provisionsfrei +,390.000 €,"Rochstraße XXXX,
+Mitte (Ortsteil), 10178 Berlin",3,"79,23 m²",4.922 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliches Studio-Apartment mit südlicher Hofausrichtung - Kapitalanlage!,161.000 €,"Badensche Straße 32,
+Wilmersdorf, 10715 Berlin",1,37 m²,4.351 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57%",{'is24qa-vermietet-label': ''}
+Kapitalanlage in bester Lage: Vermietete 2-Zimmer-Wohnung,158.500 €,"Landsberger Allee 16,
+Friedrichshain, 10249 Berlin",2,"47,9 m²",3.309 €/m²,Etagenwohnung,"47,9 m²",nil,1,1,nil,"7,14% ( inkl. 19% MwSt.)","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Erstbezug im PENTHOUSE auf 2 Etagen - ca. 153 m², 4-Zi, TERRASSE, 2 Bäder, TG, LUXUS PUR per SOFORT",845.000 €,"Weißensee, 13088 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"122,6 m²",6.892 €/m²,Dachgeschoss,"153,1 m²",SOFORT,3,2,1 Garage,"3,57 % inkl. 19 % Mwst.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Provisionsfrei! Sanierte Altbau 2 Zimmer Wohnung mit Tageslichtbad, Küche, Dielen, großer Keller",249.000 €,"Zeppelinstr. 99,
+Oberschöneweide, 12459 Berlin",2,"45,67 m²",5.452 €/m²,nil,47 m²,SOFORT,nil,1,nil,0%,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"4-Zimmer-Wohnung, 2 Balkone, Stellplatz + provisionsfrei +",307.000 €,"Grimnitzstraße XXXX,
+Wilhelmstadt, 13595 Berlin",4,"86,78 m²",3.538 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Klein, aber Mein + 1½-Zimmer-Wohnung mit Balkon",180.000 €,"Kastanienallee XXXX,
+Westend, 14050 Berlin",1,"44,21 m²",4.071 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Terrasse und Gartenfläche,820.000 €,"Alte Jakobstraße XXXX,
+Mitte (Ortsteil), 10179 Berlin",3,"119,1 m²",6.885 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Weißensee: Berliner Allee: ERSTBEZUG im TOWNHOUSE - 2024: 5-Zi, 4 Etagen, TERRASSE + GARTEN",890.092 €,"Weißensee, 13088 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"104,84 m²",8.490 €/m²,Maisonette,152 m²,01.04.2024,4,3,nil,"3,57 % des KP inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+KDW living - 4 Raum Wohnung gehobener Innenausstattung in bester Lage Charlotteburgs,1.499.000 €,"Passauer Straße 38,
+Schöneberg, 10789 Berlin",4,"175,65 m²",8.534 €/m²,Etagenwohnung,nil,1.8.2024,3,2,1 Garage,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+3-4 Zimmerwohnung super hell mitten im Simon-Dach Kiez,675.121 €,"Simon-Dach-Straße 40,
+Friedrichshain, 10245 Berlin",4,92 m²,7.338 €/m²,Etagenwohnung,nil,sofort,3,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

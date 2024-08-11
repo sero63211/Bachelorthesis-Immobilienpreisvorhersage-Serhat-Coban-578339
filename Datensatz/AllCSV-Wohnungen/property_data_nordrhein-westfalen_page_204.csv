@@ -1,0 +1,43 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+STADTWOHNUNG,Auf Anfrage,"Heckinghausen, 42289 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,105 m²,nil,Etagenwohnung,nil,nach Absprache,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Geschmackvolle Maisonette-Wohnung mit großem Wohnzimmer mit offener Küche in Solingen,299.000 €,"Wipperauer Straße 34,
+Ohligs/Aufderhöhe/Merscheid, 42699 Solingen",3,95 m²,3.147 €/m²,Maisonette,nil,26.11.2023,2,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ansprechende 3-Zimmer-Erdgeschosswohnung mit Garten und Stellplatz in Euskirchen,227.000 €,"Irmelsgasse 17,
+53881 Euskirchen, Euskirchen (Kreis)",3,"86,5 m²",2.624 €/m²,Erdgeschosswohnung,10 m²,25.2.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen am Rhein - Neubau von 13 exklusiven Eigentumswohnungen in Grimlinghausen,435.000 €,"Grimlinghausen, 41468 Neuss
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"75,84 m²",5.736 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen am Rhein - Neubau von 13 exklusiven Eigentumswohnungen in Grimlinghausen,210.000 €,"Grimlinghausen, 41468 Neuss
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"39,46 m²",5.322 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"leerstehende, gut geschnittene, helle 2-Zi.-Wohnung mit Balkon in Monheim Baumberg - provisionsfrei",173.000 €,"40789 Monheim am Rhein, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,43 m²",2.911 €/m²,Etagenwohnung,"59,43 m²",1.5.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer Wohnung im Herzen von Hamm-Werries *Provisionsfrei*,139.000 €,"Lindenstraße 1,
+Uentrop, 59071 Hamm",3,83 m²,1.675 €/m²,Erdgeschosswohnung,nil,15.2.2024,nil,1,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Exklusives 5-Zimmer-Penthouse mit großer Dachterrasse im Briller Viertel in Wuppertal,729.000 €,"Beethovenstr. 12,
+Elberfeld West, 42111 Wuppertal",5,192 m²,3.797 €/m²,Penthouse,nil,nil,3,3,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnfreundlicher und heller Grundriss in sehr guter Lage,150.000 €,"45721 Haltern am See, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"79,63 m²",1.884 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"2,98 % des Kaufpreises inkl. 19 % MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Von Privat: Wohnung mit Panorama Blick (zwei Zimmern sowie Balkon und EBK),278.000 €,"Xantener Str. 99i,
+Nippes (Ortsteil), 50733 Köln",2,"49,66 m²",5.598 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*KFW 40 QNG* Neubau 3-Zimmer-Penthouse-Wohnung in Bad Oeynhausen,528.000 €,"Eidinghausenerstrasse 24,
+32545 Bad Oeynhausen, Minden-Lübbecke (Kreis)",3,120 m²,4.400 €/m²,Penthouse,nil,31.12.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Für Kapitalanleger: Schöne 2-Zimmer-Wohnung mit Kochnische und großem Südbalkon in Nienberge,150.000 €,"Nienberge, 48161 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,44 m²,3.409 €/m²,Etagenwohnung,44 m²,11.2.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Wohnen: Hochwertige Terrassenwohnung in Rösrath-Hoffnungsthal - barrierefrei,Auf Anfrage,"51503 Rösrath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","111,52 m²",nil,Terrassenwohnung,nil,1.2.2024,1,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Skyline - Düsseldorf - 14. Etage!,1.050.000 €,"Pempelfort, 40211 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,119 m²,8.824 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhafte 1-Zimmer Terrassen-Wohnung mit gehobener Innenausstattung mit Einbauküche in Nideggen,165.000 €,"Bahnhofstr. 25,
+52385 Nideggen, Düren (Kreis)",1,61 m²,2.705 €/m²,Terrassenwohnung,61 m²,1.6.2024,nil,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte 2-Raum-Wohnung mit Balkon am Klinikum für private Nutzung oder Kapitalanlage in Solingen,135.000 €,"Cheruskerstr. 58,
+Gräfrath, 42653 Solingen",2,55 m²,2.455 €/m²,Etagenwohnung,55 m²,1.4.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Toplage Ruhige Wohnung Odenthal Glöbusch incl. 2 TG Plätz und Einbauküche,337.000 €,"Schlinghofener Straße 37,
+51519 Odenthal, Rheinisch-Bergischer Kreis",3,82 m²,4.110 €/m²,Etagenwohnung,15 m²,1.6.2024,1,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sofort verfügbar: 3-Zimmer-Eigentumswohnung mit fantastischer Aussicht in Bärenkämpen,75.500 €,"Bärenkämpen, 32425 Minden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"83,26 m²",907 €/m²,nil,nil,ab sofort,2,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vollständig renovierte Wohnung mit zwei Zimmern sowie Balkon und EBK in Plettenberg,75.000 €,"Böddinghauser Weg 40,
+58840 Plettenberg, Märkischer Kreis",2,48 m²,1.563 €/m²,Etagenwohnung,nil,1.4.2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sehr gepflegte Wohnung mit Balkon,119.000 €,"Stimbergstr 37,
+45739 Oer-Erkenschwick, Recklinghausen (Kreis)",3,64 m²,1.859 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57",{'is24qa-balkon-terrasse-label': ''}
+VIEL PLATZ FÜR DIE XL FAMILIE,Auf Anfrage,"Heckinghausen, 42289 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,110 m²,nil,Etagenwohnung,nil,nach Absprache,5,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

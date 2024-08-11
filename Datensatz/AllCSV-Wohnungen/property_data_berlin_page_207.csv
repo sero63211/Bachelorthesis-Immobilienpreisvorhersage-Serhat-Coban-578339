@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+4-Zimmer-Dachgeschoss in Berlin - Charlottenburg,1.800.000 €,"Pascalstraße 4,
+Charlottenburg, 10587 Berlin",4,169 m²,10.651 €/m²,Dachgeschoss,204 m²,sofort,3,3,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Familienfreundliche 3,5 Zimmer Altbauwohnung mit Blick ins Grüne, von Privat",369.000 €,"Lankwitz, 12247 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",80 m²,4.613 €/m²,Etagenwohnung,nil,nach Absprache,2,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2x Kapitalanlage in herrlichem Altbau,275.000 €,"Deulstraße 13,
+Oberschöneweide, 12459 Berlin",4,"114,27 m²",2.407 €/m²,nil,nil,nil,nil,nil,nil,Provisionsfrei für den Käufer,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+3-Zimmer-Terrassen-ETW in Berlin-Schlachtensee,500.000 €,"Nikolassee, 14129 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,2 m²",5.092 €/m²,Terrassenwohnung,20 m²,01.10.2024,2,1,2 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusiver Dachrohling in Prenzlauer Berg – Ihr Wohntraum wird wahr!,460.000 €,"Prenzlauer Berg, 10439 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,180 m²,2.556 €/m²,nil,nil,nil,nil,nil,nil,3.57%,{}
+Bezugsfreie 3-Zimmerwohnung mit Westbalkon nach Sanierung ++ Premium Lage,475.000 €,"Prenzlauer Berg, 10437 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,59 m²,8.051 €/m²,Hochparterre,nil,Sofort verfügbar,1,1,nil,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Luxuriöse 1-Zimmer-Wohnung im Herzen der City West,243.700 €,"Charlottenburg, 10625 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"27,09 m²",8.996 €/m²,Etagenwohnung,"27,09 m²",nil,nil,1,nil,3.57% inkl. Mwst,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Attraktives Investment in Lichtenrade!!,299.000 €,"Lichtenrade, 12307 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,3.738 €/m²,nil,nil,15.11.2023,nil,1,1 Außenstellplatz,3.57%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Attraktive Wohnung in Prenzlauer Berg–Kapitalanlage oder Selbstnutzung,350.000 €,"Prenzlauer Berg, 10437 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,5.469 €/m²,nil,nil,nil,nil,1,nil,3.57%,{}
+Fantastisches Studio mit Parkblick - Ohne Provision,295.000 €,"Veteranenstrasse 10c,
+Mitte (Ortsteil), 10119 Berlin",1,34 m²,8.676 €/m²,Etagenwohnung,40 m²,nach Absprache,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschöne 2- Zimmer Wohnung im Ludwigspark in Berlin-Buch.,199.000 €,"Zepernicker Straße 2,
+Buch, 13125 Berlin",2,60 m²,3.317 €/m²,Erdgeschosswohnung,nil,nil,nil,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': ''}"
+Charmante Altbauwohnung in ruhiger Lage,350.000 €,"Tegel, 13509 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","93,3 m²",3.751 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"3,57% inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Penthouse auf zwei Etagen in Top-Lage von Berlin!,1.500.000 €,"Grunewald, 14193 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,276 m²,5.435 €/m²,Dachgeschoss,285 m²,07.2026,4,3,1 Garage,"3,57% inkl. gesetzl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Freie, möblierte 2.5 Zimmerwohnung - Provisionsfrei",399.000 €,"Pflugstrasse 4,
+Mitte (Ortsteil), 10115 Berlin","2,5",55 m²,7.255 €/m²,Etagenwohnung,60 m²,nach Absprache,2,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartige Altbaurarität im Herzen von Berlin,649.000 €,"Westend, 14052 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,150 m²,4.327 €/m²,nil,nil,nil,2,2,nil,"3,57 % des tatsächlichen Kaufpreises (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+City Apartment Mitten in Mitte - ohne Provision,349.000 €,"Leipziger Strasse 46,
+Mitte (Ortsteil), 10117 Berlin",2,49 m²,7.122 €/m²,Etagenwohnung,52 m²,nach Absprache,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche Altbauwohnung mit Balkon in Steglitz,239.000 €,"Steglitz, 12165 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,49 m²,4.878 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,"1,9% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Bezugsfrei, Zentral, Ruhig- Ihre Wohlfühloase?",289.999 €,"Kreuzberg, 10965 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,44 m²,6.591 €/m²,nil,nil,nil,nil,1,nil,3.57%,{'is24qa-balkon-terrasse-label': ''}
+Solide vermietete 2 Zimmer Wohnung mit Balkon + Fernwärme + Renoviert,155.000 €,"Wilhelmstadt, 13595 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"51,64 m²",3.002 €/m²,Etagenwohnung,nil,Vermietet,1,1,nil,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Attraktive 3 Zimmer-Wohnung mit ansprechendem Grundriss nähe Kurfürstendamm,2.000.000 €,"Charlottenburg, 10707 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,169 m²,11.834 €/m²,Etagenwohnung,nil,nil,2,1,1 Stellplatz,"3,57 % Käuferprovision inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"

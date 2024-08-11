@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus zum Verkauf,555.000 €,"85098 Großmehring, Eichstätt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,160 m²,760 m²,3.469 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schönes Einfamilienhaus (Möglichkeit zwei separate Wohnungen entstehen zu lassen) ohne Provision,980.000 €,"85072 Eichstätt, Eichstätt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,184 m²,595 m²,5.326 €/m²,Einfamilienhaus (freistehend),nil,1.8.2024,5,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schönes, gepflegtes Reiheneckhaus in Neuötting mit großem Garten",485.000 €,"Annabergstrasse 45,
+84524 Neuötting, Altötting (Kreis)",5,130 m²,540 m²,3.731 €/m²,Reiheneckhaus,213 m²,11.5.2024,3,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Renovierungsbedürftiges Einfamilienhaus / Alternativ Abriss & Neubau in Lenting -Privatverkauf-,430.000 €,"Guttenbergerstraße 18,
+85101 Lenting, Eichstätt (Kreis)",4,98 m²,651 m²,4.388 €/m²,Einfamilienhaus (freistehend),205 m²,20.5.2024,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Bestlage in Grassau im Chiemgau,769.000 €,"83224 Grassau, Traunstein (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,184 m²,550 m²,4.179 €/m²,Mehrfamilienhaus,60 m²,3 Monate nach Kauf,3,3,2 Garagen,"3,57",{'is24qa-keller-label': ''}
+Anwesen zu verkaufen / kann sofort eingezogen werden,375.000 €,"91792 Ellingen, Weißenburg-Gunzenhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,240 m²,400 m²,1.563 €/m²,Reihenmittelhaus,240 m²,nil,2,3,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Offen für Angebote: 4.0-Zimmer Haus in Neumarkt in der Oberpfalz,330.000 €,"92318 Neumarkt in der Oberpfalz, Neumarkt in der Oberpfalz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,250 m²,3.474 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Großzügiges, geräumiges saniertes Einfamilienhaus in Hof -Krötenbruck",445.000 €,"Innenstadt, 95032 Hof
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,190 m²,1.077 m²,2.342 €/m²,Einfamilienhaus (freistehend),nil,1.9.2024,4,3,3 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Charmantes 3,5-Zimmer-Haus in Eichstätt",170.000 €,"85072 Eichstätt, Eichstätt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",98 m²,110 m²,1.735 €/m²,Wohnimmobilie (sonstige),nil,19.5.2024,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Günstige, vollständig renovierte 5-Raum-Doppelhaushälfte in Beilngries",510.000 €,"Arzbergstraße 16,
+92339 Beilngries, Eichstätt (Kreis)",5,100 m²,319 m²,5.100 €/m²,Doppelhaushälfte,nil,1.1.2025,nil,2,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Doppelhaushälfte mit wunderbar großem Garten in Augsburg Bärenkeller,680.000 €,"Bärenkeller, 86156 Augsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,146 m²,761 m²,4.658 €/m²,Doppelhaushälfte,nil,nil,2,2,1 Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Stadtvilla, Baujahr 1900 in München Obermenzing mit wunderschönem eingewachsenem Garten",1.990.000 €,"Alte Allee 30,
+Obermenzing, 81245 München",7,140 m²,703 m²,14.214 €/m²,Villa,70 m²,19.5.2024,2,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Wohnen: Traumhaftes Einfamilienhaus in Neu-Ulm/Wiley-Süd mit Sonnengarantie!,1.135.000 €,"89231 Neu-Ulm, Neu-Ulm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,179 m²,465 m²,6.341 €/m²,Einfamilienhaus (freistehend),"73,57 m²",1.10.2024,4,4,3 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Super Villa mit Pool und großem Grundstück am Stadtrand,1.258.000 €,"89415 Lauingen (Donau), Dillingen an der Donau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"313,46 m²",1.854 m²,4.013 €/m²,Villa,nil,07.2024,2,1,2 Garagen,5000€,{'is24qa-gaeste-wc-label': ''}
+Traumhafte Doppelhaushälfte in Wettstetten,735.000 €,"85139 Wettstetten, Eichstätt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,332 m²,5.069 €/m²,Doppelhaushälfte,nil,nil,3,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kleine Doppelhaushälfte in zentraler und ruhiger Lage,589.000 €,"85452 Moosinning, Erding (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,320 m²,4.712 €/m²,Doppelhaushälfte,30 m²,15.10.2024,2,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Neubau eines EFH mit Seeblick! Effizienzklasse 40, DEKRA zertifiziert!",1.169.000 €,"83564 Soyen, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,170 m²,1.450 m²,6.876 €/m²,Einfamilienhaus (freistehend),180 m²,12/24,5,1,2 Garagen,"24.990,- € inkl. Mwst.",{'is24qa-gaeste-wc-label': ''}
+Sonniges Einfamilienhaus mit Garage in Witzlasreuth,280.000 €,"Brunnenäcker 3,
+95508 Kulmain, Tirschenreuth (Kreis)",5,108 m²,1.005 m²,2.593 €/m²,Einfamilienhaus (freistehend),nil,5.8.2024,3,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Für alle die Platz brauchen! Freistehendes, großes Haus in Süd-West-Lage!",629.000 €,"84144 Geisenhausen, Landshut (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,227 m²,703 m²,2.771 €/m²,Einfamilienhaus (freistehend),138 m²,sofort bzw. nach VB,4,2,nil,"2,38 % inkl. MwSt. aus beurkundetem Kaufpreis. Verkäuferprovision in gleicher Höhe (§ 656cBGB)","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Einmalige Gelegenheit im Allgäu inkl. Bauplatz,850.000 €,"87493 Lauben, Oberallgäu (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,285 m²,1.010 m²,2.982 €/m²,Mehrfamilienhaus,0 m²,nil,5,5,5 Außenstellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

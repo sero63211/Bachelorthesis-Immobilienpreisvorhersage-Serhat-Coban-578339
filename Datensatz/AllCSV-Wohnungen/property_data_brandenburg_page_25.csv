@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Ruhiger Wohnen im Kirschgarten,150.000 €,"16321 Bernau bei Berlin, Barnim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"60,68 m²",2.472 €/m²,Dachgeschoss,"60,68 m²",nil,2,1,1 Außenstellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Großartige Aussicht, großartige Wohnung",650.000 €,"16816 Neuruppin, Ostprignitz-Ruppin (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,169 m²,3.846 €/m²,Maisonette,nil,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Schlafzimmer und eine Wohnküche plus Balkon und Provisionsfrei,290.000 €,"An den Eichen 3,
+14513 Teltow, Potsdam-Mittelmark (Kreis)",4,80 m²,3.625 €/m²,Etagenwohnung,nil,sofort,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 3-Zimmer-Eigentumswohnung mit Blick ins Grüne,126.000 €,"Sachsendorf, 03050 Cottbus
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"72,2 m²",1.745 €/m²,Etagenwohnung,nil,nil,nil,1,1 Stellplatz,"4,76 %","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+Maisonette mit 3 Balkon (inkl. Stellplatz),325.000 €,"14558 Nuthetal, Potsdam-Mittelmark (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,73 m²,4.452 €/m²,Maisonette,62 m²,sofort,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Großzügige 4-Zimmer-Wohnung mit Balkon, Keller und Garagenstellplatz in toller Lage",179.800 €,"14550 Groß Kreutz (Havel), Potsdam-Mittelmark (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,1.998 €/m²,Etagenwohnung,0 m²,nil,3,1,1 Garage,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Bezugsfreie Rarität! Edle Maisonette-Eigentumswohnung mit 4 Zimmern und eigenem Carport in Wildau,298.000 €,"15745 Wildau, Dahme-Spreewald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,86 m²,3.465 €/m²,Maisonette,nil,sofort,nil,1,1 Stellplatz,"3,57 %",{}
+Helle Dachgeschosswohnung im grünen Speckgürtel bei Berlin - 5 Zimmer,339.000 €,"15834 Rangsdorf, Teltow-Fläming (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,124 m²,2.734 €/m²,Maisonette,nil,nil,2,2,1 Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
+Für Selbstnutzer nicht vermietete Wohnung mit schönem Ausblick,170.000 €,"Kaltenhausen 22b,
+14797 Kloster Lehnin, Potsdam-Mittelmark (Kreis)",3,"70,73 m²",2.404 €/m²,Dachgeschoss,nil,sofort,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kapitalanlage mit großer Dachterrasse und großem Potenzial -,275.000 €,"An den Eichen 9 A,
+14513 Teltow, Potsdam-Mittelmark (Kreis)",3,103 m²,2.670 €/m²,Dachgeschoss,120 m²,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sofort bezugsfrei! Schön geschnittene ETW mit 2 Zimmern, Garten und Tiefgaragenstellplatz in Teltow.",229.000 €,"14513 Teltow, Potsdam-Mittelmark (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,48 m²,4.771 €/m²,Etagenwohnung,7 m²,sofort,nil,1,1 Stellplatz,"3,57 %",{}
+Neubau 3-Zimmer-Wohnung – Ihr neues Zuhause mit Charme und Stil,534.500 €,"14513 Teltow, Potsdam-Mittelmark (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,16 m²",5.928 €/m²,Erdgeschosswohnung,nil,nil,2,2,1 Stellplatz,"3,57% vom Kaufpreis inkl. 19% ges. MwSt., zahlbar vom Käufer","{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+3-Zimmer-Wohnung in Eichwalde,305.530 €,"15732 Eichwalde, Dahme-Spreewald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"83,75 m²",3.648 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+gepflegte Balkonwohnung mit Tiefgaragenstellplatz zur Kapitalanlage,225.000 €,"Bornstedt, 14469 Potsdam
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"56,28 m²",3.998 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. gesetzl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Bezugsfertig Ende September 2024: exklusive 3-Zimmer-Maisonette-Wohnung,764.500 €,"Zeppelinufer 12,
+14513 Teltow, Potsdam-Mittelmark (Kreis)",3,"121,01 m²",6.318 €/m²,Maisonette,nil,nil,nil,2,2 Stellplätze,"3,57% vom Kaufpreis inkl. 19% ges. MwSt., zahlbar vom Käufer","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wohnung im Erdgeschoss mit großer Terrasse - für Kapitalanleger oder Selbstnutzer,329.000 €,"Waldstraße 74,
+15566 Schöneiche bei Berlin, Oder-Spree (Kreis)",3,"85,1 m²",3.866 €/m²,Erdgeschosswohnung,nil,sofort,2,1,1 Außenstellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Dachgeschosswohnung im Ortskern Eichwalde,230.000 €,"15732 Eichwalde, Dahme-Spreewald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"62,07 m²",3.705 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,"3,22 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Modernes Dachgeschoss im Denkmal Ensemble - mit wunderschönen Ausblick.,459.650 €,"Moritz-von-Egidy Strasse 6,
+Jägervorstadt, 14469 Potsdam",3,"76,67 m²",5.995 €/m²,Dachgeschoss,nil,sofort,2,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': ''}"
+Ruhige Wohnung im Kirschgarten,170.000 €,"16321 Bernau bei Berlin, Barnim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"70,68 m²",2.405 €/m²,Etagenwohnung,"70,68 m²",nil,2,1,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne 3 Zimmerwohnung in gepflegter Umgebung,135.000 €,"16321 Bernau bei Berlin, Barnim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"57,22 m²",2.359 €/m²,Dachgeschoss,"57,22 m²",nil,2,1,1 Garage,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Großzügige 4-Zimmer Erdgeschosswohnung mit großem Garten in begehrter Lage,545.000 €,"Barschenweg 3,
+Kosbach, 91056 Erlangen",4,"141,63 m²",3.848 €/m²,Erdgeschosswohnung,nil,nil,3,2,1 Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4 Zimmer Wohnung mit zwei Bädern und zwei Balkone!,398.000 €,"94327 Bogen, Straubing-Bogen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"98,02 m²",4.060 €/m²,Etagenwohnung,nil,nil,3,2,1 Außenstellplatz,Profisionsfrei,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Ruhige Eigentumswohnung mit Garage sofort beziehbar,137.000 €,"95615 Marktredwitz, Wunsiedel im Fichtelgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,1.557 €/m²,nil,nil,nil,nil,1,Garage,"4,76 % vom Kaufpreis inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Neuwertige 2,5 Zimmer EG Wohnung nahe Marktplatz!",271.000 €,"94327 Bogen, Straubing-Bogen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","63,11 m²",4.294 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Außenstellplatz,Profisionsfrei,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Neuwertige 2,5 Zimmer Wohnung mit zwei Balkone!",318.000 €,"94327 Bogen, Straubing-Bogen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","79,78 m²",3.986 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Profisionsfrei,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Heute schon an Morgen denken! Profitieren Sie vom demografischen Wandel!,417.644 €,"Kernstadt, 94315 Straubing
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,51 m²,8.189 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+MÜNCHEN-FREIMANN Solide Top gepflegte 2-Zi-Whg in idyllischer Lage. *Provisionsfrei von Privat*,475.000 €,"Am Hart, 80937 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"62,58 m²",7.590 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Keine Provision von Privat,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Goethestraße 142, 85055 Ingolstadt",251.000 €,"Goethestraße 142,
+Nordost, 85055 Ingolstadt",3,66 m²,3.803 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 3 Zimmer-Souterrain-Wohnung in Percha,370.000 €,"82319 Starnberg, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,4.805 €/m²,Souterrain,nil,01.09.2023,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. 19 % MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Top schickes Apartment mit toller Ausicht,105.500 €,"Rittsteig, 94036 Passau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"33,16 m²",3.182 €/m²,nil,nil,nil,1,1,1 Außenstellplatz,"3,57 % inkl. MWSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Schöne Dachgeschosswohnung zwischen den Golfplätzen.,295.000 €,"88131 Lindau (Bodensee), Lindau (Bodensee) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,64 m²,4.609 €/m²,Dachgeschoss,"9,65 m²",nil,2,1,Garage,"3,57 % aus notariellem Kaufpreis incl.ges.MwSt. = 10 531,50 incl.19%MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+*Charmante Dachgeschosswohnung* in München Sendling (Erbpacht bis Ende 2079),240.000 €,"Mittersendling, 81369 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"45,4 m²",5.286 €/m²,Dachgeschoss,10 m²,nil,1,1,1 Tiefgaragen-Stellplatz,3 % zzgl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+***Kapitalanlage im bekannten Pharao-Haus***,210.000 €,"Oberföhring, 81925 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,30 m²,7.000 €/m²,Etagenwohnung,nil,nach Absprache,nil,1,1 Garage,"1,785 % vom notariell verbrieften Kaufpreis inkl. 19% MWSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+schöne 1 Zimmer Wohnung in Ortsrandlage von Kirchham - Cernota Immobilien,75.000 €,"Bad Füssinger Straße 24,
+94148 Kirchham, Passau (Kreis)",1,33 m²,2.273 €/m²,Etagenwohnung,nil,sofort,1,1,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Neuwertige 2 Zimmer EG Wohnung nahe Marktplatz!,215.000 €,"94327 Bogen, Straubing-Bogen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"48,5 m²",4.433 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Außenstellplatz,Profisionsfrei,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Sonniger Balkon mit Süd Ausrichtung mit Blick ins Kaisergebirge,399.000 €,"83080 Oberaudorf, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,6.435 €/m²,Etagenwohnung,nil,2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alt-Solln 2 Zimmer Gartenwohnung in ruhiger Lage,530.000 €,"Solln, 81479 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"72,96 m²",7.264 €/m²,Erdgeschosswohnung,"80,02 m²",Herbst 2024,1,1,nil,"2,38% Käuferprovision inkl. USt, fällig mit Beurkundung des notariellen Kaufvertrages.",{'is24qa-balkon-terrasse-label': ''}
+SONNIGE Dachgeschosswohnung in München Sendling (Erbpacht bis Ende 2079),240.000 €,"Mittersendling, 81369 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"45,4 m²",5.286 €/m²,Dachgeschoss,10 m²,nil,1,1,1 Tiefgaragen-Stellplatz,3 % zzgl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Ihre Chance! Atelierwohnung in Reit im Winkl,Auf Anfrage,"83242 Reit im Winkl, Traunstein (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,81 m²,nil,Dachgeschoss,88 m²,sofort,1,1,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Vermietete sonnige Terrassenwohnung incl. TG-Stellplatz!,445.000 €,"Oberföhring, 81925 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,36 m²",4.925 €/m²,Etagenwohnung,"43,74 m²",nil,2,1,1 Tiefgaragen-Stellplatz,"2,38% incl. 19% MWSt aus dem Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"

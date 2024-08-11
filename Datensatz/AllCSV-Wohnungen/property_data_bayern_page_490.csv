@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Stilvolle Dachgeschosswohnung **Möbliert & Charaktervoll**,195.000 €,"Achthalterstraße 24,
+83075 Bad Feilnbach, Rosenheim (Kreis)",1,"43,75 m²",4.457 €/m²,Dachgeschoss,nil,nil,1,1,1 Außenstellplatz,"2,25 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Dietersheim-Neubau Erstbezug - Hochwertige, lichtdurchflutede 3 Zimmerwohnung",810.000 €,"Engelhofstr. 4,
+85386 Eching, Freising (Kreis)",3,109 m²,7.431 €/m²,Etagenwohnung,113 m²,sofort,2,1,2 Außenstellplätze,"1,19 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Geretsried 3-4 Zimmer Wohnung im 1. OG mit großer Terrasse in ruhiger Lage.,310.000 €,"82538 Geretsried, Bad Tölz-Wolfratshausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"103,59 m²",2.993 €/m²,Terrassenwohnung,nil,nil,3,2,2 Stellplätze,"2,38 % inklusive 19 % Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Schöne 2-Zimmer Eigentumswohnung,95.000 €,"94518 Spiegelau, Freyung-Grafenau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"58,7 m²",1.618 €/m²,Erdgeschosswohnung,nil,sofort,1,1,nil,"Käuferprovision 2,5 % inkl. MwSt. vom beurkundeten Kaufpreis.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-einbaukueche-label': ''}"
+Rarität! Nur 2 Neubau-ETWs am Wochinger Spitz,685.000 €,"Hausenstrasse 12,
+83278 Traunstein, Traunstein (Kreis)",3,"83,68 m²",8.186 €/m²,Dachgeschoss,nil,ab September 2024,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4 Zimmer Wohnung mit 2 Terrassen in Senden mit Garage und Kellerraum,299.000 €,"89250 Senden, Neu-Ulm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,2.821 €/m²,Penthouse,34 m²,Ab sofort bezugsfrei,3,1,1 Garage,10674,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Optimale Kapitalanlage: Rundum-Sorglos-Paket für Investoren in Passau,180.000 €,"Heininger Straße 29,
+Heining, 94036 Passau",1,"32,4 m²",5.556 €/m²,Etagenwohnung,nil,sofort,1,1,1 Garage,"1,5% zzgl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+""" THOMAS MÜLLER HAUSBAU AM GOLDBERG "" - WOHNEN KANN SO SCHÖN SEIN! AUF INS EIGENE ZUHAUSE!!",554.800 €,"Mozartstraße 5,
+85354 Freising, Freising (Kreis)",2,"58,4 m²",9.500 €/m²,Erdgeschosswohnung,nil,Dezember 2024,1,1,1 Tiefgaragen-Stellplatz,Keine Käuferprovision,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Sachrang/Aschau im Chiemgau Zauberhafte 2-Zimmer Wohnung mit herrlichem Blick auf die Alpengipfel,298.000 €,"83229 Aschau im Chiemgau, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,57 m²,5.228 €/m²,Etagenwohnung,nil,n.V.,1,1,1 Tiefgaragen-Stellplatz,"2,38 % inkl. MWST","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Super schöne geschnittene 3 Zimmerwohnung,458.000 €,"Allach, 80997 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"70,5 m²",6.496 €/m²,nil,nil,1.42024,2,1,2 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sonnige 2 Zimmer-Wohnung mit Süd-Balkon,239.000 €,"Branderstr. 15,
+Links der Wertach-Süd, 86154 Augsburg",2,60 m²,3.983 €/m²,Hochparterre,nil,sofort,1,1,1 Außenstellplatz,"3,57% inkl. MwSt.",{'is24qa-personenaufzug-label': ''}
+Geretsried 3-4 Zimmer Wohnung im 1. OG mit großer Terrasse in ruhiger Lage.,310.000 €,"82538 Geretsried, Bad Tölz-Wolfratshausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"103,59 m²",2.993 €/m²,Terrassenwohnung,nil,nil,3,2,2 Stellplätze,"2,38 % inklusive 19 % Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Großzügige Penthaus-Wohnung mit Panoramablick im malerischen Isarwinkel,795.000 €,"Kohlstattstraße 17,
+83661 Lenggries, Bad Tölz-Wolfratshausen (Kreis)","4,5",177 m²,4.492 €/m²,Dachgeschoss,15 m²,01.09.2024,3,2,2 Tiefgaragen-Stellplätze,238 % inkl. ges. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Interessante Kapitalanlage + Garagenstellplatz in der Innenstadt,151.900 €,"Jakoberstadt-Süd, 86152 Augsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,31 m²,4.900 €/m²,Etagenwohnung,nil,nil,1,1,1 Garage,"1,785 % vom Kaufpreis inkl. der gesetzlichen Mehrwertsteuer","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Rarität! Neubau-ETW am Wochinger Spitz,409.000 €,"Hausenstrasse 12,
+83278 Traunstein, Traunstein (Kreis)",2,"49,5 m²",8.263 €/m²,Dachgeschoss,nil,ab September 2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Geräumige 4-Zimmer-Wohnung mit großzügigem und überdachtem Balkon, zentral in Nittendorf, von privat",329.000 €,"93152 Nittendorf, Regensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,116 m²,2.836 €/m²,Etagenwohnung,116 m²,1.7.2024,1,1,1 Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon in zentraler Lage,240.000 €,"Karl-Bosch-Straße 20,
+84503 Altötting, Altötting (Kreis)",3,75 m²,3.200 €/m²,Etagenwohnung,nil,1.4.2024,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geretsried 3-4 Zimmer Wohnung im 1. OG mit großer Terrasse in ruhiger Lage.,310.000 €,"82538 Geretsried, Bad Tölz-Wolfratshausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"103,59 m²",2.993 €/m²,Terrassenwohnung,nil,nil,3,2,2 Stellplätze,"2,38 % inklusive 19 % Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+"Hübsche 3,5 Zimmerwohnung mit sonnigem Westbalkon ****",233.000 €,"Innenstadt, 87700 Memmingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",77 m²,3.026 €/m²,nil,nil,nach Absprache,2,1,2 Stellplätze,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Erstbezug nach Sanierung: stilvolle 1-Zimmer-Wohnung mit Balkon in Wolfratshausen,275.000 €,"Margeritenstraße 30,
+82515 Wolfratshausen, Bad Tölz-Wolfratshausen (Kreis)",1,37 m²,7.432 €/m²,Etagenwohnung,37 m²,7.4.2024,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

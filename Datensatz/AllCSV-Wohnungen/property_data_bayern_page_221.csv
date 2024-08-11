@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Kapitalanlage oder Eigennutzung in der Leopoldstraße,330.000 €,"Leopoldstraße 206,
+Neufreimann, 80804 München","1,5",34 m²,9.706 €/m²,Etagenwohnung,nil,nil,1,1,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2-ZKB Kapitalanlage in zentraler Lage, provisionsfrei,",149.700 €,"Matthäus-Lang-Straße 6,
+Links der Wertach-Nord, 86154 Augsburg",2,45 m²,3.327 €/m²,Etagenwohnung,45 m²,sofort,1,1,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive 3-Zimmer-Erdgeschosswohnung zentral in Erding mit Garten,363.990 €,"85435 Erding, Erding (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"65,25 m²",5.578 €/m²,Erdgeschosswohnung,"10,3 m²",25.5.2024,2,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Provisionsfrei: Mit Garten und Stellplatz - Sanierte 2-Zimmer Wohnung,175.000 €,"Jos.-Otto-Kolb-Straße 11,
+91320 Ebermannstadt, Forchheim (Kreis)",2,51 m²,3.431 €/m²,Terrassenwohnung,nil,Ab sofort,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"***4-Zi.-Maisonettewohnung mit 13 m² Terrassenbalkon, EBK und Einzelgarage in 4-Fam.Haus***",669.000 €,"Westerndorf St. Peter, 83024 Rosenheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,5.529 €/m²,Maisonette,nil,sofort möglich - bereits frei,3,1,1 Stellplatz,"2,00% des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+ERSTBEZUG Barrierefrei – Leben Sie einen Teil Residenz anstatt Existenz,345.000 €,"94469 Deggendorf, Deggendorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,3.833 €/m²,Terrassenwohnung,90 m²,Juni 2024,2,1,2 Garagen,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Provisionsfrei: Mit Garten und Stellplatz - Sanierte 2-Zimmer Wohnung,139.000 €,"Jos.-Otto-Kolb-Straße 11,
+91320 Ebermannstadt, Forchheim (Kreis)",2,36 m²,3.861 €/m²,Terrassenwohnung,nil,Ab sofort,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöne helle 2-Zimmer-Terrassenwohnung, Nähe Münchner Freiheit von Privat",699.000 €,"Potsdamer Str. 17,
+Münchner Freiheit, 80802 München",2,"67,41 m²",10.369 €/m²,Terrassenwohnung,70 m²,11.5.2024,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ohne Provision: Ruhige Wohnung mit 3 Zimmern in bester zentraler Lage,199.000 €,"Bärenschanze, 90429 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,54 m²,3.685 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Provisionsfrei: Mit Garten und Stellplatz - Sanierte Wohnung,159.000 €,"Jos.-Otto-Kolb-Straße 13,
+91320 Ebermannstadt, Forchheim (Kreis)",2,36 m²,4.417 €/m²,Terrassenwohnung,nil,Ab sofort,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Renovieren, einziehen, wohlfühlen - Ihr neues Zuhause in St. Johannis",449.000 €,"Campestraße 11,
+St. Johannis, 90419 Nürnberg","4,5",118 m²,3.805 €/m²,Etagenwohnung,nil,sofort,nil,1,1 Garage,"2,50 % (inkl. 19 % MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Frisch sanierte 2 ZKB-Wohnung, zentrale Lage, Balkon, Augsburg Pfersee",279.000 €,"Kazböckstraße 23,
+Pfersee-Nord, 86157 Augsburg",2,62 m²,4.500 €/m²,Etagenwohnung,66 m²,sofort,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Frisch sanierte 3-ZKB mit Süd-Terrasse und Garten in ruhiger Lage, Bobingen, provisionsfrei",289.000 €,"Grenzstraße 2,
+86399 Bobingen, Augsburg (Kreis)",3,75 m²,3.853 €/m²,Erdgeschosswohnung,78 m²,sofort,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ohne Makler - Ruhige sonnige Lage - 2 Min zur S2 Karlsfeld - Baujahr 2019,639.000 €,"Allach, 80997 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"84,94 m²",7.523 €/m²,Etagenwohnung,"100,04 m²",01.07.2024,2,1,1 Tiefgaragen-Stellplatz,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Frisch sanierte 4-ZKB mit Einzelgarage in zentraler Lage, provisionsfrei",320.000 €,"Matthäus-Lang-Straße 6,
+Links der Wertach-Nord, 86154 Augsburg",4,81 m²,3.951 €/m²,Etagenwohnung,81 m²,sofort,2,1,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Licht und Ruhe: Stilvolles Wohnen""",349.000 €,"84478 Waldkraiburg, Mühldorf am Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,3.878 €/m²,nil,nil,nil,nil,2,nil,3.57%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Stilvolle, gepflegte 2-Raum-EG-Wohnung mit gehobener Innenausstattung in Landshut",312.000 €,"Obere Liebenau 10,
+West, 84034 Landshut",2,53 m²,5.887 €/m²,Erdgeschosswohnung,58 m²,1.7.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Renovierte 4 Zimmer Wohnung zentral in St. Johannis - Ohne Provision,439.000 €,"Kirchenweg 34,
+Bielingplatz, 90419 Nürnberg",4,"81,21 m²",5.406 €/m²,Maisonette,nil,Ab sofort,nil,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"IMMO LOVE Gersthofen- Traumhafte 3,5 ZKB mit 96qm, BJ 2004!",439.000 €,"Robert-Dörflinger-Strasse 3,
+86368 Gersthofen, Augsburg (Kreis)","3,5",96 m²,4.573 €/m²,Etagenwohnung,nil,nil,nil,nil,2 Stellplätze,"3,57 inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Exklusives Wohnen in München Pasing: Charmante Maisonette mit Garten,1.131.500 €,"Pasing, 81241 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",135 m²,8.381 €/m²,Erdgeschosswohnung,152 m²,nil,3,2,1 Duplex-Stellplatz,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"

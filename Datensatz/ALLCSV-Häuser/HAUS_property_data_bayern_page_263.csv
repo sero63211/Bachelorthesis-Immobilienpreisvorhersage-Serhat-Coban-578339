@@ -1,0 +1,89 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Doppelhaushälfte in Oberasbach, schlüsselfertig, ohne Provision",639.900 €,"Hauptstraße 27,
+90522 Oberasbach, Fürth (Kreis)",6,130 m²,240 m²,4.922 €/m²,Doppelhaushälfte,189 m²,19.5.2024,3,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ruhiges Einfamilienhaus am Waldrand,695.000 €,"86482 Aystetten, Augsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,127 m²,345 m²,5.472 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,Außenstellplatz,"1,785% vom Kaufpreis (inkl. MwSt.)",{'is24qa-vermietet-label': ''}
+Platz für Alle mit vielen Extras,575.000 €,"86497 Horgau, Augsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,156 m²,284 m²,3.686 €/m²,Wohnimmobilie (sonstige),nil,sofort,4,2,Tiefgaragen-Stellplatz,"Provision 2,38 % (inkl. MWSt.)","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Traumhaftes individuelles Architektenhaus mit Alpenblick in Grafing bei München,Auf Anfrage,"85567 Grafing bei München, Ebersberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,170 m²,800 m²,nil,Einfamilienhaus (freistehend),80 m²,nil,5,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"""Almhütte"" auf Freizeitgrund mit Koppel und Alpenpanorama",550.000 €,"82544 Egling, Bad Tölz-Wolfratshausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,45 m²,2.600 m²,12.222 €/m²,Besondere Immobilie,50 m²,nil,nil,nil,nil,"3,57 inkl. MwSt.",{}
+"Außergewöhnliche, moderne Doppelhaushälfte mit Traumgarten in Landshut",849.000 €,"Frauenberg, 84036 Landshut
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,346 m²,5.306 €/m²,Doppelhaushälfte,80 m²,31.3.2025,4,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderner Bungalow im Bauhausstil - barrierefrei,Auf Anfrage,"84503 Altötting, Altötting (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"190,76 m²",443 m²,nil,nil,nil,nil,2,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** 5% RENDITE mit einem soliden Mehrfamilienhaus in Top-Lage Auch Airbnb geeignet **,449.000 €,"97318 Kitzingen, Kitzingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,196 m²,127 m²,2.291 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+Exklusives Wohnen mit Einliegerwohnung,899.000 €,"97318 Kitzingen, Kitzingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,287 m²,560 m²,3.132 €/m²,Einfamilienhaus (freistehend),85 m²,nil,nil,2,4 Tiefgaragen-Stellplätze,"1,8 % inkl. gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Traumgrundstück am Ortsrand: Ökologischer Doppelhaus-Neubau,1.115.000 €,"82299 Türkenfeld, Fürstenfeldbruck (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"152,31 m²",636 m²,7.321 €/m²,Doppelhaushälfte,"44,42 m²",nil,3,nil,2 Stellplätze,"1,785%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Sonniges, warmes Reihenmittelhaus mit PV-Anlage und Sauna",539.000 €,"Grenzweg 12,
+Innenstadt, 91126 Schwabach",4,112 m²,214 m²,4.813 €/m²,Reihenmittelhaus,23 m²,19.5.2024,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Liebhaberobjekt - Das alte Forsthaus in AN-Schalkhausen,750.000 €,"Schalkhausen, 91522 Ansbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,210 m²,2.000 m²,3.571 €/m²,Villa,230 m²,1.11.2024,4,2,2 Außenstellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Beste Gegend und Platz für Familie, Hobby's und Beruf.",899.000 €,"86567 Hilgertshausen-Tandern, Dachau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,223 m²,988 m²,4.031 €/m²,Einfamilienhaus (freistehend),nil,Zeitnah,nil,nil,1 Garage,"2,38 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Ihr neues Zuhause für die Familie! Energetisch auf dem neusten Stand.,679.000 €,"86529 Schrobenhausen, Neuburg-Schrobenhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,142 m²,303 m²,4.782 €/m²,Einfamilienhaus (freistehend),71 m²,ab sofort,nil,nil,2 Außenstellplätze,"1,78 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+ANGEBOTSVERFAHREN: Zweifamilienhaus mit traumhaftem Garten!,1.899.000 €,"82319 Starnberg, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,208 m²,970 m²,9.130 €/m²,Mehrfamilienhaus,nil,sofort,4,3,1 Garage,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Modernes Einfamilienhaus in Schönau - Platz für die ganze Familie,349.600 €,"84337 Schönau, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"143,26 m²",0 m²,2.440 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+seltene Gelegenheit. Haus inkl. Grundstück,597.236 €,"97456 Dittelbrunn, Schweinfurt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,450 m²,4.977 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaushälfte,1.195.000 €,"An der Point 16b,
+83361 Lenggries, Bad Tölz-Wolfratshausen (Kreis)",4,105 m²,345 m²,11.381 €/m²,Doppelhaushälfte,69 m²,Frühjahr 2024,2,1,3 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hier wird Wohnen zum Genuss: Herrliches REH mit wunderbar großem Garten,928.000 €,"Landshuter Straße 28,
+85368 Moosburg an der Isar, Freising (Kreis)",6,164 m²,400 m²,5.659 €/m²,Reiheneckhaus,"56,5 m²",Juni 2025,4,3,2 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+So schön kann modernes Wohnen sein: Hochwertiges RMH mit Garten und Keller,883.000 €,"Landshuter Straße 28,
+85368 Moosburg an der Isar, Freising (Kreis)",6,164 m²,150 m²,5.384 €/m²,Reihenmittelhaus,"56,5 m²",Juni 2025,4,3,2 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöner Wohnen in Bestform: Herrliche DHH mit großem Garten, Garage und Stellplatz",883.000 €,"Landshuter Straße 28,
+85368 Moosburg an der Isar, Freising (Kreis)",6,164 m²,150 m²,5.384 €/m²,Doppelhaushälfte,"56,5 m²",Juni 2025,4,3,2 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Im eigenen Haus das Leben genießen: Schöne DHH mit Garten, Garage und Stellplatz",913.000 €,"Landshuter Straße 28,
+85368 Moosburg an der Isar, Freising (Kreis)",6,164 m²,282 m²,5.567 €/m²,Doppelhaushälfte,"56,5 m²",Juni 2025,4,3,2 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Reihenmittelhaus im Passivhausstandard,995.000 €,"85586 Poing, Ebersberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"131,52 m²","160,6 m²",7.565 €/m²,Reihenmittelhaus,"215,23 m²",2024,3,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Natürlich.Stillvoll.Nachhaltig - Doppelhaushälfte im Passivhausstandard,940.000 €,"85586 Poing, Ebersberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"128,63 m²","203,8 m²",7.308 €/m²,Doppelhaushälfte,"212,95 m²",2024,3,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gestalten Sie Ihr Eigenheim: Traumhaus in Schönau erwartet handwerklich Begabte!,424.300 €,"84337 Schönau, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",750 m²,2.545 €/m²,Villa,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Handwerkerparadies: Ihr Traumhaus zum Mitgestalten in Schönau,390.200 €,"84337 Schönau, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"143,26 m²",750 m²,2.724 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne Traumvilla in Schönau mit großzügigem Platzangebot und energieeffizienter Ausstattung,469.200 €,"84337 Schönau, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",0 m²,2.815 €/m²,Villa,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaus in Schönau: Gestalten Sie Ihr persönliches Paradies,351.000 €,"84337 Schönau, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",0 m²,2.147 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Traum vom Eigenheim in Schönau: Ein individuell gestaltetes Einfamilienhaus mit modernem Design,395.200 €,"84337 Schönau, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",0 m²,2.418 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erfüllen Sie sich den Traum vom individuellen Einfamilienhaus in Brombach,434.000 €,"84364 Bad Birnbach, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"143,26 m²",650 m²,3.029 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ihr Traumhaus in Brombach: Individuell, modern und stressfrei!",473.600 €,"84364 Bad Birnbach, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",750 m²,2.898 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Luxuriöser Wohntraum in Brombach: Ihr maßgeschneidertes Refugium,536.600 €,"84364 Bad Birnbach, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",0 m²,3.219 €/m²,Villa,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ihr Traumhaus in Unterdietfurt: Maßgeschneidertes Wohnen auf 143,70 m² mit gehobener Ausstattung",441.000 €,"84339 Unterdietfurt, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"143,7 m²",850 m²,3.069 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familientraum in Schönau: Modernes Einfamilienhaus mit Top-Ausstattung,414.000 €,"84337 Schönau, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"143,7 m²",650 m²,2.881 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne Traumvilla mit gehobener Ausstattung in Schönau - Jetzt Ihr individuelles Zuhause gestalten!,529.200 €,"84337 Schönau, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",850 m²,3.175 €/m²,Villa,"166,69 m²",nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Ihr maßgeschneidertes Traumhaus in Unterdietfurt: Stil, Komfort und Nachhaltigkeit",466.600 €,"84339 Unterdietfurt, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",850 m²,2.855 €/m²,Einfamilienhaus (freistehend),"163,45 m²",nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnträume in Schönau: Ihr maßgeschneidertes Traumhaus wartet!,439.600 €,"84337 Schönau, Rottal-Inn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,49 m²",620 m²,2.689 €/m²,Einfamilienhaus (freistehend),"163,49 m²",nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 Häuser bauen und Steuern sparen,742.558 €,"97688 Bad Kissingen, Bad Kissingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,204 m²,495 m²,3.640 €/m²,Doppelhaushälfte,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 Häuser bauen und dabei Steuern sparen,932.578 €,"97762 Hammelburg, Bad Kissingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,204 m²,1.080 m²,4.571 €/m²,Doppelhaushälfte,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eleganz in Struktur: Ihr Traumhaus für hohe Ansprüche wartet!,517.786 €,"97762 Hammelburg, Bad Kissingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,1.080 m²,5.178 €/m²,Bungalow,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familientraum – Glücklich leben im Eigenheim,487.578 €,"97618 Unsleben, Rhön-Grabfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,1.255 m²,3.964 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Das Haus für die ganz große Familie,589.028 €,"97762 Hammelburg, Bad Kissingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,155 m²,1.080 m²,3.800 €/m²,Villa,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+wenn für Sie Unabhängigkeit und Sicherheit im Fokus steht,499.663 €,"97618 Unsleben, Rhön-Grabfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,1.255 m²,3.997 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hamburger Flair in Würzburg,967.264 €,"97204 Höchberg, Würzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,850 m²,6.909 €/m²,Villa,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

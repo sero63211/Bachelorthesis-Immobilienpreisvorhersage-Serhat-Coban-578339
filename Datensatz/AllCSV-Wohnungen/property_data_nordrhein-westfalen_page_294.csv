@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Luxuriöse Maisonettewohnung in beliebter Lage von Kaarst,745.000 €,"41564 Kaarst, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,177 m²,4.209 €/m²,Maisonette,nil,nil,nil,2,2 Stellplätze,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': ''}"
+"Familienfreundliche 4-Zi.-Wohnung, Gartenanteil und PKW-Stellplatz in Leverkusen-Steinbüchel",159.000 €,"Steinbüchel, 51377 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,86 m²,1.849 €/m²,Hochparterre,nil,nach Vereinbarung,nil,nil,1 Stellplatz,"3,57% inklusive gesetzlicher MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Zwei Wohnungen in gepflegtem Dreifamilienhaus - Bestlage von Weckhoven,370.000 €,"Weckhoven, 41446 Neuss
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,193 m²,1.917 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Garage,"4,76 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+1-Zimmer-Wohnung mit Loggia Mitten in Elberfeld,62.000 €,"Elberfeld, 42109 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,30 m²,2.067 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"1,95%inkl. MwSt",{}
+"""Eine echte Alternative zum Reihenhaus!"" - Familienfreundliche ETW über zwei Etagen in Feldrandlage",198.000 €,"Alt-Scharnhorst, 44328 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,1.800 €/m²,Etagenwohnung,nil,nil,nil,2,1 Außenstellplatz,"3,57 % inkl. MwSt.",{'is24qa-keller-label': ''}
+Trendviertel Köln; Weitblick vom 36. OG über den Dächern bis zum Dom,105.000 €,"Luxemburger-Strasse 124-136,
+Sülz, 50939 Köln",1,25 m²,4.200 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt. vom beurkundeten Kaufpreis.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+IHR NEUES ZUHAUSE - Charmante 2-Zimmer-Wohnung in Köln-Kalk,235.000 €,"Kalk (Ortsteil), 51103 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,4.273 €/m²,Etagenwohnung,nil,soforrt,1,1,nil,"3,57% inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Gemütliche Drei-Zimmer-Wohnung mit Sonnenloggia,158.000 €,"40724 Hilden, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"75,06 m²",2.105 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"2,98 % vom Kaufpreis (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+++ hochwertige ETW mit unverbaubarem Blick über Dortmund ++,260.000 €,"Berghofen, 44269 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"85,73 m²",3.033 €/m²,Dachgeschoss,nil,nil,nil,1,nil,"3,57 % inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+FERNBLICK - Neubau in zentraler Lage - KfW-40,469.000 €,"53819 Neunkirchen-Seelscheid, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,4.937 €/m²,Dachgeschoss,5 m²,nach Fertigstellung,3,1,1 Außenstellplatz,"3,57 % Käuferprovision inkl. gesetzlicher MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Vermietete Maisonette-Wohnung mit Kfz-Stellplatz,108.000 €,"52428 Jülich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"47,5 m²",2.274 €/m²,Maisonette,nil,nil,1,1,1 Außenstellplatz,"3,57 % inkl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Helle Drei-Zimmer-Wohnung mit Südloggia,148.000 €,"40724 Hilden, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"71,64 m²",2.066 €/m²,Etagenwohnung,nil,nil,2,1,nil,"2,98 % vom Kaufpreis (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Spitzenlage, sehr zentral und dennoch sehr ruhig",169.000 €,"Blücherstraße 69,
+Altstadt-Süd, 46045 Oberhausen","2,5","83,9 m²",2.014 €/m²,Etagenwohnung,12 m²,nach Absprache,1,1,nil,"3,57 % vom beurkundeten Kaufpreis (das entspricht 6.033,30 €) inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+"Gepflegte, voll möblierte Eigentumswohnung in zentraler aber ruhiger Lage inklusive Garage!",328.000 €,"Schützenstraße 47,
+Stadtmitte, 40211 Düsseldorf",2,"81,79 m²",4.010 €/m²,Etagenwohnung,4 m²,sofort,1,1,1 Garage,"3,57 % vom Kaufpreis inkl. 19% MwSt. (Der Verkäufer zahlt eine Provision in gleicher Höhe)","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Köln-Lindenthal: Sanierte 6-Zimmerwohnung mit 2 Balkonen in begehrter Lage,1.140.000 €,"Lindenthal (Ortsteil), 50937 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,191 m²,5.969 €/m²,Etagenwohnung,nil,nil,3,2,nil,"2,38 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Großzügige helle Dachgeschoss-Whg. im 3-Fam.-Haus Parkett gr. Südloggia 33332 Gütersloh,218.000 €,"Innenstadt-Sundern, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","97,49 m²",2.236 €/m²,Dachgeschoss,nil,nach Absprache,1,1,1 Außenstellplatz,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Ansprechende Dreizimmerwohnung mit Pkw-Aussenstellplatz,239.000 €,"Frankenforst, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,3.414 €/m²,Etagenwohnung,8 m²,nil,2,1,1 Außenstellplatz,"3,57 % vom Kaufpreis inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Apartment mit herrlichem Fernblick,77.000 €,"Kernstadt, 33102 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"41,01 m²",1.878 €/m²,Etagenwohnung,nil,Nach Absprache,nil,1,1 Tiefgaragen-Stellplatz,"4,76 % inkl. 19 % MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Vollständig modernisierte 3-Zimmer-Wohnung mit Stellplatz und Einbauküche,275.000 €,"Heepen, 33729 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,3.438 €/m²,nil,85 m²,sofort,2,1,1 Stellplatz,"2,38 % incl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Eigentumswohnung mit Weitblick und Sonnenbalkon in Bonn!,196.000 €,"Duisdorf, 53123 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,82 m²,2.390 €/m²,Etagenwohnung,nil,sofort,nil,nil,1 Außenstellplatz,"2,97% inklusive gesetzlicher MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"2-Zimmer-Wohnung, Stellplatz + provisionsfrei +",69.500 €,"Berliner Straße XXXX,
+Haspe-Ost, 58135 Hagen",2,60 m²,1.158 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4-Zimmer-Maisonette-Wohnung + provisionsfrei +,300.000 €,"Clemens-August-Straße XXXX,
+Poppelsdorf, 53115 Bonn",4,89 m²,3.371 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Drei 2-Zimmer-Wohnungen mit Balkon + provisionsfrei +,109.300 €,"Henriettenstraße XXXX,
+Marxloh, 47169 Duisburg",6,161 m²,679 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung im Dachgeschoss + provisionsfrei +,106.000 €,"Rezagstraße XXXX,
+Porz (Ortsteil), 51143 Köln",2,42 m²,2.524 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Großzügige 2-Zimmer-Wohnung mit Loggia und Garage +,87.100 €,"Hagener Straße XXXX,
+58285 Gevelsberg, Ennepe-Ruhr-Kreis",2,"72,37 m²",1.204 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Garage,44.000 €,"Grillostr. XXXX,
+Schalke, 45881 Gelsenkirchen",2,67 m²,657 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber Fein + 1-Zimmer-Wohnung + provisionsfrei +",86.400 €,"Länglingsweg XXXX,
+Schwafheim, 47447 Moers",1,37 m²,2.335 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4-Zimmer-Wohnung + provisionsfrei +,9.000 €,"Viktor-Reuter-Straße XXXX,
+Herne-Mitte, 44623 Herne",4,85 m²,106 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Balkon + provisionsfrei +,38.600 €,"Henriettenstraße XXXX,
+Marxloh, 47169 Duisburg",2,56 m²,689 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,76.000 €,"Timpestraße XXXX,
+Karnap, 45329 Essen",2,"63,35 m²",1.200 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+5-Zimmer-Wohnung mit Balkon + ohne Provision +,130.000 €,"Schulz-Briesen-Straße XXXX,
+Rotthausen, 45884 Gelsenkirchen",5,144 m²,903 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon + provisionsfrei +,35.500 €,"Henriettenstraße XXXX,
+Marxloh, 47169 Duisburg",2,53 m²,670 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+5-Zimmer-Maisonette-Wohnung mit Pkw-Stellplatz,240.000 €,"Im Hüttenbusch XXXX,
+Alsfeld, 46145 Oberhausen",5,"132,94 m²",1.805 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 3-Zimmer-Wohnung nebst Balkon und Stellplatz +,293.000 €,"Dinkelstraße XXXX,
+41516 Grevenbroich, Neuss (Rhein-Kreis)",3,"79,5 m²",3.686 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Loggia + provisionsfrei +,30.000 €,"Brückenstraße XXXX,
+Hochfeld, 47053 Duisburg",2,55 m²,545 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Stellplatz + provisionsfrei +,275.000 €,"Johannesstraße XXXX,
+53757 Sankt Augustin, Rhein-Sieg-Kreis",3,90 m²,3.056 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Maisonette-Wohnung + provisionsfrei +,36.000 €,"Amixstraße XXXX,
+Altendorf, 45143 Essen",3,60 m²,600 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung und Stellplatz + provisionsfrei +,167.000 €,"Gutsblick XXXX,
+53773 Hennef (Sieg), Rhein-Sieg-Kreis",3,108 m²,1.546 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"4-Zimmer-Wohnung, Balkon, Garten, Garage",180.000 €,"Koppeweg XXXX,
+59494 Soest, Soest (Kreis)",4,86 m²,2.093 €/m²,nil,14 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon + provisionsfrei +,38.600 €,"Henriettenstraße XXXX,
+Marxloh, 47169 Duisburg",2,52 m²,742 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

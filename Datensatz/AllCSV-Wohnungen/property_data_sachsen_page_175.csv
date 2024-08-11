@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Traumhafte 4-Raum. Maisonettewohnung mit Parkblick,325.000 €,"Bergstraße 16,
+Neustadt-Neuschönefeld, 04315 Leipzig",4,"92,86 m²",3.500 €/m²,nil,8 m²,01..10..2024,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigentumswohnung im Neuseenland,65.000 €,"04575 Neukieritzsch, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"72,8 m²",893 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,1.950 € inkl. MwSt.,"{'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Kapitalanlage in Leubnitz-Neuostra,109.000 €,"Strehlen, 01219 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"38,35 m²",2.842 €/m²,Etagenwohnung,nil,nil,nil,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne 1-Raum-Wohnung mit Balkon und Stellplatz,51.500 €,"Bohraer Str. 59,
+01936 Königsbrück, Bautzen (Kreis)",1,"25,84 m²",1.993 €/m²,Etagenwohnung,nil,nil,1,nil,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+vermietete 2-Raumwohnung - hochwertig saniert - in Chemnitz kaufen,65.500 €,"Hilbersdorf, 09131 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,04 m²",1.148 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+renovierte 1-Raum-Wohnung mit Balkon und Stellplatz,47.000 €,"Bohraer Str. 59,
+01936 Königsbrück, Bautzen (Kreis)",1,"23,51 m²",1.999 €/m²,Etagenwohnung,nil,sofort,1,nil,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 2 Raum Wohnung im Zentrum,46.000 €,"Zentrum, 09111 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,46 m²,1.000 €/m²,Etagenwohnung,nil,vermietet,nil,nil,nil,4000 €,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Solide Kapitalanlage: Vermietete Eigentumswohnung in Plauen, Vogtland, 74,86 qm, zu verkaufen.",72.000 €,"Neundorfer Vorstadt, 08523 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"74,86 m²",962 €/m²,Maisonette,nil,zeitnah nach Kauf,nil,1,nil,"3,57inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Schöne 2-Raum-Wohnung im DG mit Balkon und Stellplatz,68.000 €,"Bohraer Str. 59,
+01936 Königsbrück, Bautzen (Kreis)",2,"34,14 m²",1.992 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+AREAS: Attraktive 4-Zi-ETW mit Balk. und TG-Stellpl. in Niederpoyritz zu verkaufen,469.000 €,"Hosterwitz/Pillnitz, 01326 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,116 m²,4.043 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
++++ Vermietete Eigentumswohnung mit Balkon und Tiefgarage +++,85.000 €,"Grüna, 09224 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,1.012 €/m²,Etagenwohnung,4 m²,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""!Eigentumswohnung im Herzen von Geyer - Ihr neues Zuhause erwartet Sie!""",59.800 €,"09468 Geyer, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,63 m²,949 €/m²,Etagenwohnung,nil,nil,1,1,nil,"4,76 % inkl. ges. MwSt.",{'is24qa-garten-mitbenutzung-label': ''}
+Auch als Anlageobjekt gut geeignet in Anger- Crottendorf,110.000 €,"Theodor- Neubauer- Str. 31,
+Anger-Crottendorf, 04318 Leipzig",1,"42,57 m²",2.584 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+**Ihre Kapitalanlage wartet hier auf Sie**,79.999 €,"Ernst-Heilmann-Straße 6,
+Altendorf, 09116 Chemnitz",2,67 m²,1.194 €/m²,nil,67 m²,nil,1,1,nil,"4,76 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Chemnitz-Kaßberg: Wohnungspaket in bester Lage (2 ETW vermietet, Lift, Balkon, 2 SP, Fernwärme)!",189.000 €,"Hübschmannstraße 26,
+Kaßberg, 09112 Chemnitz",2,"123,5 m²",1.530 €/m²,Etagenwohnung,"123,5 m²",nil,2,2,2 Tiefgaragen-Stellplätze,"3,57% des Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+VERMIETETE 3-RAUM WOHNUNG IN SANIERTEM ALTBAU,190.000 €,"Löbtau-Nord, 01159 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,68 m²,2.794 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57% des Kaufpreises","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gepflegte Eigentumswohnung mit Balkon für Kapitalanleger in Rochlitz,55.000 €,"09306 Rochlitz, Mittelsachsen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"58,06 m²",947 €/m²,Etagenwohnung,nil,nach Vereinbarung,1,1,1 Außenstellplatz,4 % inkl. ges. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+ERSTBEZUG ! SCHÖNE 4 -ZIMMER WOHNUNG MIT 2 BALKONEN,638.210 €,"Löbtau-Nord, 01159 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"93,8 m²",6.804 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"ruhig gelegene 2-Raum-Wohnung, beliebte Wohnlage, provisionsfrei","111.111,11 €","Knöfler Straße 1,
+Gohlis-Nord, 04155 Leipzig",2,"49,42 m²","2.248,30 €/m²",Etagenwohnung,"49,42 m²",nil,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Rarität am Park mit eigenem Bootsanleger! Schicke Maisonette im Loftstil mit vielen Highlights!,1.170.000 €,"Lindenau, 04177 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5","207,51 m²",5.638 €/m²,Maisonette,nil,nach Absprache,5,3,1 Außenstellplatz,"1,19 % inkl. gesetzlicher Mehrwertsteuer (19 %)","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Moderne Doppelhaushälfte in Hanau / Steinheim am Main - Provisionsfrei,580.000 €,"Steinheim, 63456 Hanau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,128 m²,167 m²,4.531 €/m²,Doppelhaushälfte,48 m²,nil,3,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ Großzügiges Einfamilienhaus mit offenem Stellplatz im Hof +,670.000 €,"Taunusstraße XXX,
+64319 Pfungstadt, Darmstadt-Dieburg (Kreis)",9,245 m²,441 m²,2.735 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus mit Einlieger, Werkstatt und Garagengebäude",325.000 €,"Bergstraße XXX,
+34253 Lohfelden, Kassel (Kreis)",8,147 m²,798 m²,2.211 €/m²,Wohnimmobilie (sonstige),68 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Bürohaus nebst Lagerhalle,950.000 €,"Waitzstraße XXX,
+Waldau, 34123 Kassel",1,"283,32 m²",2.776 m²,3.353 €/m²,Wohnimmobilie (sonstige),"1.231,24 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus mit Einlieger, Garten und Garage",280.000 €,"Zu den Tannen XXX,
+35781 Weilburg, Limburg-Weilburg (Kreis)",7,161 m²,1.071 m²,1.739 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Mehrfamilienhaus mit 7 Wohnungen, Garten, 3 Garagen",532.000 €,"Tannenstraße XXX,
+Rothenditmold, 34119 Kassel",1,"400,5 m²",429 m²,1.328 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Doppelhaushälfte,200.000 €,"Wehrdaer Straße XXX,
+Wehrda, 35041 Marburg",6,105 m²,508 m²,1.905 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus + provisionsfrei +,54.000 €,"Bachstraße XXX,
+35117 Münchhausen, Marburg-Biedenkopf (Kreis)",7,155 m²,327 m²,348 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, Garten, Garage",135.000 €,"Am Gelben Berg XXX,
+34260 Kaufungen, Kassel (Kreis)",8,"277,5 m²",1.452 m²,486 €/m²,Wohnimmobilie (sonstige),163 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Einfamilienhaus mit Terrasse und Garage,530.500 €,"Forststraße XXX,
+36039 Fulda, Fulda (Kreis)",8,230 m²,722 m²,2.307 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + provisionsfrei +,78.000 €,"Brückenstraße XXX,
+63667 Nidda, Wetteraukreis",3,185 m²,84 m²,422 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus - provisionsfrei,222.000 €,"Burg XXX,
+63654 Büdingen, Wetteraukreis",4,1 m²,329 m²,222.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn-/Geschäftshaus +,50.000 €,"Marburger Straße XXX,
+35099 Burgwald, Waldeck-Frankenberg (Kreis)",1,350 m²,2.752 m²,143 €/m²,Wohnimmobilie (sonstige),740 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Terrasse, Garten, Garage",555.000 €,"Ahornring XXX,
+61191 Rosbach vor der Höhe, Wetteraukreis",5,167 m²,254 m²,3.323 €/m²,Wohnimmobilie (sonstige),57 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Zweifamilienhaus mit Dachterrassen und 2 Garagen,180.000 €,"Finkenbacher Straße XXX,
+64760 Beerfelden, Odenwaldkreis",7,205 m²,808 m²,878 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Mehrfamilienhaus mit Büro und Werkstatt,1.550.000 €,"Am Hang XXX,
+Dotzheim, 65199 Wiesbaden",1,458 m²,2.422 m²,3.384 €/m²,Wohnimmobilie (sonstige),546 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Garage + provisionsfrei +,1.050.000 €,"Am Holderbusch XXX,
+65817 Eppstein, Main-Taunus-Kreis",7,304 m²,503 m²,3.454 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Scheune,210.000 €,"Backhausweg XXX,
+35756 Mittenaar, Lahn-Dill-Kreis",1,270 m²,604 m²,778 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Reihenmittelhaus mit Doppelgarage und Freisitz im Garten +,412.000 €,"Wingerstraße XXX,
+63303 Dreieich, Offenbach (Kreis)",6,122 m²,189 m²,3.377 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Freisitz,195.000 €,"Schulstraße XXX,
+65597 Hünfelden, Limburg-Weilburg (Kreis)",5,149 m²,528 m²,1.309 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

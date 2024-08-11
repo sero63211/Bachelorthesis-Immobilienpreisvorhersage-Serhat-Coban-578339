@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Hochwertige 3 Zimmerwohnung mit Balkon in Pfullingen,385.000 €,"Im Käppele 6,
+72793 Pfullingen, Reutlingen (Kreis)",3,77 m²,5.000 €/m²,Etagenwohnung,77 m²,1.8.2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ruhige 2 Zimmerwohnungg in idyllischer Lage mit Balkon und Garagenstellplatz,94.000 €,"Panoramaweg 3,
+75378 Bad Liebenzell, Calw (Kreis)",2,42 m²,2.238 €/m²,Sonstige,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Sanierte 3 Zimmer Wohnung in Südausrichtung,159.000 €,"88499 Riedlingen, Biberach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"64,1 m²",2.480 €/m²,nil,nil,nil,nil,nil,1 Außenstellplatz,"3,57 % inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+Sehr gepflegte 2-Zimmer-Wohnung in Top-Lage von Ludwigsburg,199.000 €,"Mitte, 71638 Ludwigsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,44 m²,4.523 €/m²,Etagenwohnung,"5,5 m²",nil,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+# Österberg # Sehr gut,189.000 €,"Österberg, 72074 Tübingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,47 m²,4.021 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"2,38 %","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Helle 3 Zimmer EG Wohnung mit Terasse und Garten,259.000 €,"89165 Dietenheim, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,3.453 €/m²,Erdgeschosswohnung,nil,01.09.2024,nil,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Urbane Penthouse-Wohnung mit drei Dachterrassen,665.000 €,"73614 Schorndorf, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,4.750 €/m²,Penthouse,"19,61 m²",sofort,3,2,2 Tiefgaragen-Stellplätze,"3,0","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Gepflegte 2-Zimmer-Wohnung mit 2 Balkonen in Leimen,148.000 €,"Ferdinand-Porsche-Str. 23,
+69181 Leimen, Rhein-Neckar-Kreis",2,57 m²,2.596 €/m²,Etagenwohnung,nil,27.4.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ruhige 1 Zimmerwohnung in idyllischer Lage mit Balkon und Garagenstellplatz,94.000 €,"Panoramaweg 3,
+75378 Bad Liebenzell, Calw (Kreis)",1,40 m²,2.350 €/m²,Sonstige,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Hochfeldring 94, 76549 Hügelsheim",389.000 €,"Hochfeldring 94,
+76549 Hügelsheim, Rastatt (Kreis)",3,112 m²,3.473 €/m²,Erdgeschosswohnung,nil,nil,nil,1,2 Parkhaus-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+RESERVIERT - Stilvolle 2-Zimmer-Wohnung mit großem Balkon und Einbauküche in Lahr/Schwarzwald,185.000 €,"Neuwerkhof 25/1,
+77933 Lahr/Schwarzwald, Ortenaukreis",2,67 m²,2.761 €/m²,Dachgeschoss,13 m²,nil,1,1,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gepflegte 3-Zimmer-Wohnung mit Südbalkon, Wohnküche, Stellplatz in Stuttgart",470.000 €,"Lehen, 70184 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,5.529 €/m²,Etagenwohnung,nil,1.1.2025,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ein Haus im Haus - 5,5-Zimmer-Maisonette-Wohnung mit geh. Innenausstattung mit Balkon und EBK",498.000 €,"73087 Bad Boll, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",154 m²,3.234 €/m²,Maisonette,154 m²,1.10.2024,4,2,1 Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+modernisierte 4-Zimmer Wohnung mit Garage,375.000 €,"79206 Breisach am Rhein, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"99,86 m²",3.755 €/m²,Erdgeschosswohnung,nil,Sofort,3,1,1 Garage,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+# in Vorbereitung,79.000 €,"72108 Rottenburg am Neckar, Tübingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,20 m²,3.950 €/m²,nil,nil,nil,nil,nil,nil,"3,57 %","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Unikat sucht neuen Eigentümer 4,5 Zimmer OG Wohnung mit sonnigem Balkon in Gomaringen",479.000 €,"72810 Gomaringen, Tübingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",102 m²,4.696 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Stellplatz,"4,76% des Kaufpreises",{'is24qa-balkon-terrasse-label': ''}
+"Schöne, neuwertige Wohnung im Ostalbkreis, Oberkochen",220.000 €,"Kopernikusstr. 1,
+73447 Oberkochen, Ostalbkreis","2,5",64 m²,3.438 €/m²,Sonstige,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zi.-HH--Whg. mit Weitblick in Reutlingen Hohbuch,316.000 €,"Hermann-Ehlers Str. 20,
+Reutlingen, 72762 Reutlingen",4,111 m²,2.847 €/m²,Etagenwohnung,8 m²,sofort,3,1,1 Tiefgaragen-Stellplatz,"3,57% inkl.19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Vermietete Single-Wohnung, unmittelbar am See!",129.000 €,"69502 Hemsbach, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,43 m²,3.000 €/m²,Erdgeschosswohnung,5 m²,nil,1,1,1 Außenstellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+PRIVAT VERKAUF 3-4-Zimmer-Wohnung in Stuttgart - Bad-Cannstatt,259.000 €,"Schmidener Vorstadt, 70374 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,61 m²,4.246 €/m²,Etagenwohnung,61 m²,1.7.2024,4,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

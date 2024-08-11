@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Resthofstelle mit 2 Einfamilienhäusern - provisionsfrei,82.500 €,"Ernst-Thälmann-Straße XXX,
+06925 Groß Naundorf, Wittenberg (Kreis)",11,272 m²,2.730 m²,303 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte mit Nebengebäude,138.260 €,"Zwickauer Straße XXX,
+Reideburg, 06116 Halle (Saale)",1,1 m²,1.267 m²,138.260 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Kapitalanlage + Mehrfamilienhaus in Prödel,1 €,"Am Bahnhof XXX,
+39264 Gommern, Jerichower Land (Kreis)",1,500 m²,1.029 m²,0 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage und Terrasse,300.000 €,"Rüsternweg XXX,
+Heide-Nord/Blumenau, 06120 Halle (Saale)",5,"146,1 m²",539 m²,2.053 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus + provisionsfrei +,286.000 €,"Beiderseestraße XXX,
+06193 Götschetal, Saalekreis",1,123 m²,2.204 m²,2.325 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Nebengebäuden,170.000 €,"Dorfstraße XXX,
+39291 Möckern, Jerichower Land (Kreis)",6,180 m²,2.989 m²,944 €/m²,Wohnimmobilie (sonstige),30 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garagen,295.000 €,"Fliederweg XXX,
+Südstadt, 06130 Halle (Saale)",4,111 m²,604 m²,2.658 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Gepflegtes Einfamilienhaus mit Garage,157.000 €,"Drei Eichen XXX,
+39619 Arendsee (Altmark), Altmarkkreis Salzwedel",1,110 m²,500 m²,1.427 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Einliegerwohnung,85.000 €,"Am Steintor XXX,
+06528 Wallhausen, Mansfeld-Südharz (Kreis)",1,170 m²,477 m²,500 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Renovierungsbedürftiges Einfamilienhaus sucht neuen Eigentümer,29.000 €,"Liedersdorfer Hauptstraße XXX,
+06542 Liedersdorf, Mansfeld-Südharz (Kreis)",1,130 m²,226 m²,223 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Geschäftshaus + provisionsfrei +,150.000 €,"Hinter dem Turm XXX,
+06449 Aschersleben, Salzlandkreis",4,126 m²,103 m²,1.190 €/m²,Wohnimmobilie (sonstige),67 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+PROVISIONSFREI: Einfamilienhaus mit 2 Wohneinheiten und viel Potential!,49.000 €,"Querfurter Str. 13,
+06268 Esperstedt, Saalekreis",8,160 m²,564 m²,306 €/m²,Doppelhaushälfte,295 m²,nil,4,2,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Solides Einfamilienhaus mit Garage,117.000 €,"Gatze XXX,
+39343 Eimersleben, Börde (Kreis)",4,"122,8 m²",434 m²,953 €/m²,Wohnimmobilie (sonstige),60 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit 11 Wohnungen als Kapitalanlage,369.000 €,"Molkereistraße XXX,
+29413 Wallstawe, Altmarkkreis Salzwedel",1,593 m²,1.300 m²,622 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Leben in ruhiger und zentraler Lage,119.000 €,"39387 Oschersleben (Bode), Börde (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"96,13 m²",579 m²,1.238 €/m²,Doppelhaushälfte,"104,7 m²",nil,3,2,4 Stellplätze,"Die Käuferprovision beträgt 4,17 % inkl. 19 % MwSt. vom notariellen Kaufpreis.",{'is24qa-keller-label': ''}
+Einfamilien-Doppelhaushälfte mit Garage,12.000 €,"Hauptstraße XXX,
+06425 Plötzkau, Salzlandkreis",6,151 m²,522 m²,79 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhäuser und Geschäftshaus mit Nebengebäude,166.000 €,"Schulstraße XXX,
+06464 Frose, Salzlandkreis",1,178 m²,458 m²,933 €/m²,Wohnimmobilie (sonstige),114 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ihr großes gemütliches Haus in Hundisburg!,349.000 €,"39343 Haldensleben, Börde (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"230,9 m²",603 m²,1.511 €/m²,Einfamilienhaus (freistehend),"242,43 m²",nil,4,3,2 Stellplätze,"Die Käuferprovision beträgt 4,17 % inkl. 19 % MwSt. vom notariellen Kaufpreis.",{}
+"VERKEHRSGÜNSTIG, RUHIG, KOMPLETT SANIERT",349.000 €,"06258 Schkopau, Saalekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,150 m²,365 m²,2.327 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,7.14% inkl. MwSt.,{}
+PROVISIONSFREI: Einfamilienhaus mit Potential!,105.000 €,"Gustav-Adolf-Straße 20,
+06217 Merseburg, Saalekreis",6,160 m²,488 m²,656 €/m²,Doppelhaushälfte,234 m²,nil,nil,nil,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

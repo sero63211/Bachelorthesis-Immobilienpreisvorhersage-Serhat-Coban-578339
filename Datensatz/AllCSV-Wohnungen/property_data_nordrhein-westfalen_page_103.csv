@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Hochwertige Eigentumswohnung,215.000 €,"Starenweg 3a,
+53819 Neunkirchen-Seelscheid, Rhein-Sieg-Kreis",3,136 m²,1.581 €/m²,nil,267 m²,Sofort,3,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zentrumsnahe Lage!,139.000 €,"32312 Lübbecke, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"84,17 m²",1.651 €/m²,Erdgeschosswohnung,nil,nil,nil,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+WITTEN-BOMMERN: Traumhafte Maisonette ETW direkt an der Ruhr,329.000 €,"Bommern, 58452 Witten
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,110 m²,2.991 €/m²,nil,nil,nil,nil,nil,nil,"3,57%",{}
+PHI AACHEN - Kapitalanlage oder Eigennutzung! Attraktive Zwei-Zimmer-Wohnung im Zentrum von Aachen!,189.000 €,"Marschiertor, 52064 Aachen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,3.780 €/m²,nil,5 m²,nach Vereinbarung,1,1,nil,Provisionsfrei für den Käufer!,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Exklusive 2-Zimmer Neubauwohnung in Wuppertal-Elberfeld! Mit Balkon, Küche, Tiefgarage und Aufzug!",259.000 €,"Elberfeld, 42119 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,75 m²,3.453 €/m²,Erdgeschosswohnung,nil,nach Absprache,1,1,1 Tiefgaragen-Stellplatz,"2,98% inkl. 19% MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Solides Investment im Frankenberger Viertel! 3-Zimmer-Wohnung mit WG-geeignetem Grundriss!,198.000 €,"Kirberichshofer Weg 10a,
+Adalbertsteinweg, 52066 Aachen",3,68 m²,2.912 €/m²,Etagenwohnung,nil,Sofort!,2,1,nil,"Käuferprovision 3,57 % der Kaufsumme inkl. gesetzl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+PHI AACHEN - Gepflegter 3-Zimmer-Wohntraum mit Gemeinschaftsgarten in begehrter Lage von Eschweiler!,179.900 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,2.249 €/m²,nil,nil,Nach Vereinbarung,2,1,nil,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+Maisonette 3 Zimmer Wohnung und einer zusätzlichen 1 Zimmer Wohnung mit eigenem Garten,339.000 €,"Heckinghausen, 42289 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,76",152 m²,2.230 €/m²,Maisonette,nil,nach Vereinbarung,3,2,nil,4% vom Kaufpreis (inkl. MwSt.),"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+vermietete Wohnung mit Balkon und TG-Stellplatz nach Wunsch,233.900 €,"Diepenbeekallee 2,
+Weiden, 50858 Köln",3,92 m²,2.542 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gemütliche 2,5 Zimmer Eigentumswohnung in Lütgendortmund* sofort frei!",89.000 €,"Holtestraße 108,
+Lütgendortmund (Ortsteil), 44388 Dortmund",2,"43,64 m²",2.039 €/m²,Erdgeschosswohnung,nil,sofort,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhafter Fernblick inklusive!,349.000 €,"45549 Sprockhövel, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"136,18 m²",2.563 €/m²,Penthouse,nil,nach Vereinbarung,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-gaeste-wc-label': ''}
+"Dortmund - Lütgendortmund:2 Ziimmer mit Balkon , sofort frei!",89.000 €,"Klobesstraße 16,
+Lütgendortmund (Ortsteil), 44388 Dortmund","2,5","43,68 m²",2.038 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte Zwei-Zimmerwohnung im beliebten Ortsteil Schwadorf!,165.000 €,"50321 Brühl, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"46,72 m²",3.532 €/m²,Etagenwohnung,nil,sofort,1,1,1 Garage,"2,38 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Luxuriöser Neubau in bester Lage von Köln-Lindenthal / -Deckstein,Auf Anfrage,"Lindenthal (Ortsteil), 50935 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,150 m²,nil,Maisonette,nil,nil,3,2,2 Tiefgaragen-Stellplätze,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+3 Zimmer nahe der RÜ,187.000 €,"Paulinenstr. 81,
+Rüttenscheid, 45131 Essen",3,66 m²,2.833 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"3,57% inkl. Mwst.",{'is24qa-keller-label': ''}
+PHI AACHEN - Hell und freundlich! Geräumige Eigentumswohnung mit Balkon in ruhiger Lage von Aachen!,175.500 €,"Trierer Straße, 52068 Aachen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"64,87 m²",2.705 €/m²,nil,nil,nach Vereinbarung,2,1,Garage,Für den Käufer Provisionsfrei!,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Lichtdurchflutete 2-Zimmer-Wohnung mit Loggia und Stellplatz - unmittelbar am Rhein in Kaiserswerth,250.000 €,"Kaiserswerth, 40489 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,4.310 €/m²,Etagenwohnung,nil,nil,nil,1,1 Stellplatz,"3,57 %",{}
+PHI AACHEN - Lichtdurchflutetes 3-Zimmer-Wohnjuwel mit Balkon in begehrter Lage von Aachen-Haaren!,179.900 €,"Haaren, 52080 Aachen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"69,59 m²",2.585 €/m²,Etagenwohnung,6 m²,nil,2,1,nil,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Langjährig vermietete 3 Zi.-ETW im 3. OG in Duisburg-Hochheide,82.000 €,"Husemannstr. 41,
+Hochheide, 47198 Duisburg",3,68 m²,1.206 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohnen in historischer Hofanlage.,439.000 €,"50374 Erftstadt, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,4.181 €/m²,Maisonette,28 m²,Die Wohneinheit ist vermietet.,3,1,1 Carport,"3,094 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"

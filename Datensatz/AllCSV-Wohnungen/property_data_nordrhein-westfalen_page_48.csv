@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Gemütliche 2-Zimmer-Wohnung mit Gartenanteil - provisionsfrei,100.000 €,"Am Büter XXXX,
+Schüren, 44269 Dortmund",2,38 m²,2.632 €/m²,nil,64 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"3-Zimmer-Wohnung, Loggia, Garage",90.000 €,"Luisenstraße XXXX,
+Horsthausen, 44628 Herne",3,74 m²,1.216 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 3-Zimmer-Wohnung in guter Vorortwohnlage - provisionsfrei,247.000 €,"Am Büter XXXX,
+Schüren, 44269 Dortmund",3,124 m²,1.992 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ Großzügige 2-Zimmer-Wohnung mit Stellplatz +,153.000 €,"Lambertring XXXX,
+59556 Lippstadt, Soest (Kreis)",2,81 m²,1.889 €/m²,nil,10 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügige Wohnung nebst Garage - provisionsfrei,211.000 €,"Im stillen Winkel XXXX,
+58566 Kierspe, Märkischer Kreis",6,"165,59 m²",1.274 €/m²,nil,"36,78 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,31.000 €,"Adolf-Grimme-Straße XXXX,
+Stadtkern, 45768 Marl",2,"40,31 m²",769 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"3-Zimmer-Wohnung, Loggia, Garage",81.000 €,"Luisenstraße XXXX,
+Horsthausen, 44628 Herne",3,72 m²,1.125 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon + provisionsfrei +,65.000 €,"Alstadener Straße XXXX,
+Alstaden-West, 46049 Oberhausen",3,64 m²,1.016 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung über 3 Etagen,130.000 €,"Hönnetalstraße XXXX,
+58675 Hemer, Märkischer Kreis",4,126 m²,1.032 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Zusammengelegte Wohnung mit Loggia - provisionsfrei,18.600 €,"Vogelsaue XXXX,
+Elberfeld West, 42115 Wuppertal",6,132 m²,141 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 3-Zimmer-Wohnung mit Terrasse und Garten +,86.000 €,"Köttingstraße XXXX,
+58339 Breckerfeld, Ennepe-Ruhr-Kreis",3,89 m²,966 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung nebst Loggia + provisionsfrei +,54.000 €,"Adolf-Grimme-Straße XXXX,
+Stadtkern, 45768 Marl",2,"56,11 m²",962 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,37.000 €,"Adolf-Grimme-Straße XXXX,
+Stadtkern, 45768 Marl",2,"40,31 m²",918 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnung - provisionsfrei,165.000 €,"Küferstr. XXXX,
+Suderwich, 45665 Recklinghausen",1,190 m²,868 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Balkon + provisionsfrei +,56.000 €,"Adolf-Grimme-Straße XXXX,
+Stadtkern, 45768 Marl",2,"54,03 m²",1.036 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Terrasse - provisionsfrei,209.000 €,"Am Büter XXXX,
+Schüren, 44269 Dortmund",3,116 m²,1.802 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Garage - provisionsfrei,52.500 €,"Funckstraße XXXX,
+Elberfeld West, 42115 Wuppertal",2,"42,59 m²",1.233 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"4-Zimmer-Wohnung, 2 Balkone, TG-Stellplatz",316.100 €,"Prinzenstraße XXXX,
+Friesdorf, 53175 Bonn",4,"92,23 m²",3.427 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung + provisionsfrei +,51.000 €,"Blumenthalstraße XXXX,
+Altstadt-Süd, 46045 Oberhausen",3,53 m²,962 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Balkon - provisionsfrei,185.000 €,"Herkulesstraße XXXX,
+Neuehrenfeld, 50823 Köln",2,47 m²,3.936 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

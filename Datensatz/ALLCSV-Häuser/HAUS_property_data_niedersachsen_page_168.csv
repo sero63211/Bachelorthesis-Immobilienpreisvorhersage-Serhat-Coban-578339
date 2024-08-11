@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus - provisionsfrei,223.000 €,"Am Ortfelde XX,
+30916 Isernhagen, Hannover (Kreis)",1,113 m²,264 m²,1.973 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Carport - provisionsfrei,385.000 €,"Sperlingweg XX,
+49685 Emstek, Cloppenburg (Kreis)",1,160 m²,1.404 m²,2.406 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Für Kapitalanleger! Wohn- und Geschäftshaus - provisionsfrei,429.000 €,"Neue Straße XX,
+21682 Stade, Stade (Kreis)",1,167 m²,285 m²,2.569 €/m²,Wohnimmobilie (sonstige),231 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+gepflegtes Einfamilienhaus zu verkaufen,279.000 €,"27305 Bruchhausen-Vilsen, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,131 m²,1.118 m²,2.130 €/m²,Einfamilienhaus (freistehend),40 m²,nil,nil,nil,nil,"3,57 %","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wochenendhaus - provisionsfrei,27.000 €,"Bostelberg XX,
+29308 Winsen (Aller), Celle (Kreis)",1,1 m²,2.398 m²,27.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+++ Freistehender Winkelbungalow nebst Garten und Doppelcarport ++,244.000 €,"Auf der Heide XX,
+31683 Obernkirchen, Schaumburg (Kreis)",7,240 m²,2.023 m²,1.017 €/m²,Wohnimmobilie (sonstige),74 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"1- bis 2-Familienhaus, nebst Garagengebäude - provisionsfrei",201.000 €,"Am Mühlenkopf XX,
+34355 Staufenberg, Göttingen (Kreis)",1,126 m²,1.787 m²,1.595 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Repräsentatives Einfamilienhaus mit Doppelgarage - provisionsfrei,321.000 €,"Wegemühlenweg XX,
+49584 Fürstenau, Osnabrück (Kreis)",4,"154,74 m²",713 m²,2.074 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus - provisionsfrei,154.000 €,"Gertrudenstraße XX,
+31785 Hameln, Hameln-Pyrmont (Kreis)",1,1 m²,262 m²,154.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wochenendhaus - provisionsfrei,30.000 €,"Hamwiede XX,
+29664 Walsrode, Heidekreis",2,"25,65 m²",1.705 m²,1.170 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Neuwertiges Einfamilienhaus nebst Carport - provisionsfrei,277.000 €,"Am Sportplatz XX,
+49401 Damme, Vechta (Kreis)",5,152 m²,1.721 m²,1.822 €/m²,Wohnimmobilie (sonstige),63 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Für Anpacker: Heimwerker-Projekt mit Anbaupotenzial in Braunschweig-Gartenstadt,169.000 €,"Westliches Ringgebiet, 38122 Braunschweig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"68,35 m²","250,28 m²",2.473 €/m²,Reihenmittelhaus,nil,ab sofort,2,1,1 Garage,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+++ Provisionsfrei ++ Mehrfamilienhaus mit 3 Wohnungen als Kapitalanlage,735.000 €,"Sodenstich XX,
+Eversten, 26131 Oldenburg (Oldenburg)",5,206 m²,1.091 m²,3.568 €/m²,Wohnimmobilie (sonstige),41 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Für Anleger: MFH mit 2 WE und einer GE sowie Top-Potenzial in Herzberg am Harz,399.000 €,"37412 Herzberg am Harz, Osterode am Harz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,"270,2 m²","1.194,2 m²",1.477 €/m²,Mehrfamilienhaus,nil,ab sofort,7,3,1 Garage,"7,14 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Einfamilienhaus mit 2 Garagen in guter Wohnlage - provisionsfrei,245.000 €,"Haerte Kämpe XX,
+49751 Sögel, Emsland (Kreis)",3,104 m²,916 m²,2.356 €/m²,Wohnimmobilie (sonstige),111 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit angeb. Garage - provisionsfrei,403.000 €,"Heisterbusch XX,
+Lichtenberg, 38228 Salzgitter",7,198 m²,388 m²,2.035 €/m²,Wohnimmobilie (sonstige),39 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, nebst Garage - provisionsfrei",353.000 €,"Mahlerstraße XX,
+27367 Sottrum, Rotenburg (Wümme) (Kreis)",5,144 m²,818 m²,2.451 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Offene Besichtigung eines Kompakten Einfamilienhauses am Samstag, 22.06. von 13:00 - 15:30 Uhr",229.500 €,"31860 Emmerthal, Hameln-Pyrmont (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"98,78 m²",758 m²,2.323 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,3,2,Carport,"3,57%",{'is24qa-gaeste-wc-label': ''}
+Mehrfamilienhaus - provisionsfrei,108.110 €,"Knüllstraße XX,
+37632 Eschershausen, Holzminden (Kreis)",12,"248,28 m²",685 m²,435 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus nebst Garage und Carport - provisionsfrei,475.000 €,"Mittelroder Straße XX,
+31832 Springe, Hannover (Kreis)",5,"148,34 m²",1.130 m²,3.202 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

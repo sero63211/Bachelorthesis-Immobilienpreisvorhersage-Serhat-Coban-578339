@@ -1,0 +1,101 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+4-Zimmer Erdgeschosswohnung mit Süd-Terrasse,929.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",4,"86,93 m²",10.687 €/m²,Erdgeschosswohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer-Wohnung mit Balkon und 2 Badezimmern,669.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",3,"77,67 m²",8.613 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kompakte 2-Zimmer-Wohnung mit Balkon,945.000 €,"Türkenstraße 50,
+Universität, 80799 München",2,43 m²,21.977 €/m²,Etagenwohnung,45 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zi Wohnung mit 2 Balkonen im 1. OG,729.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",3,"71,44 m²",10.204 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Penthouse-Wohnung im Erstbezug: Gehobene Ausstattung und gigantische Dachterrasse!,616.500 €,"Bodenehrstraße 6,
+Mittersendling, 81373 München",2,67 m²,9.201 €/m²,Penthouse,nil,sofort,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Starauftritt. Exklusiv wohnen im Erdgeschoss.,3.759.000 €,"Biederstein, 80805 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,179 m²,21.000 €/m²,Erdgeschosswohnung,nil,nil,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"KfW55-Effizienzhaus - Großzügige 3-Zi.-Whg. + 17m² SW-Balkon + Tageslichtbad + Gäste-WC, U6",1.149.000 €,"Platanenstr. 19,
+Großhadern, 81377 München",3,"86,57 m²",13.272 €/m²,nil,"95,36 m²",Ende 2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Mit Ausblick. Traumhaftes Penthouse.,4.969.000 €,"Biederstein, 80805 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,213 m²,23.329 €/m²,Penthouse,nil,nil,2,3,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ruhige Lage - Penthouse: 3-Zi. + 50m² Dachterrasse, Lift direkt in die Wohnung! Bezug in 2 Monaten",1.179.000 €,"Kleinhaderner Strasse 23,
+Blumenau, 80689 München",3,"95,12 m²",12.395 €/m²,Penthouse,"129,92 m²",Juli 2024,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive 2-Zimmer-Wohnung mit Süd-Balkon und hochwertigem Badezimmer in ruhiger Lage,465.000 €,"Parrotstraße 41-43,
+Untermenzing, 80999 München",2,"46,72 m²",9.953 €/m²,Etagenwohnung,nil,1.1.2025,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit schöner Loggia,1.995.000 €,"Türkenstraße 50,
+Universität, 80799 München",3,93 m²,21.452 €/m²,Etagenwohnung,98 m²,nil,2,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KFW 40 - Am Mainbogen WE 2,372.300 €,"63906 Erlenbach am Main, Miltenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,4.540 €/m²,Erdgeschosswohnung,nil,2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KFW 40 - Am Mainbogen WE 12,398.500 €,"63906 Erlenbach am Main, Miltenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,4.981 €/m²,Etagenwohnung,nil,2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit großzügigem Wohnbereich,355.000 €,"Am Schäferanger 2-12,
+85764 Oberschleißheim, München (Kreis)",2,"45,36 m²",7.826 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zur Kapitalanlage: 1-Zimmer-Wohnung mit Loggia und durchdachtem Grundriss,293.000 €,"Am Schäferanger 2-12,
+85764 Oberschleißheim, München (Kreis)",1,"37,11 m²",7.895 €/m²,Etagenwohnung,nil,nil,nil,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 2 Zi.-Wohnung mit idealem Grundriss,439.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",2,"42,06 m²",10.437 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gleich einziehen: Sonnig-helle 2-Zimmerwohnung mit modernem Wohndesign und genialer Dachterrasse,675.000 €,"Bodenehrstraße 6,
+Mittersendling, 81373 München",2,73 m²,9.247 €/m²,Penthouse,nil,sofort,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Durch und durch funktional. Erdgeschosswohnung.,2.989.000 €,"Biederstein, 80805 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,147 m²,20.333 €/m²,Erdgeschosswohnung,nil,nil,2,3,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Platz zum Wohlfühlen: Stilvoll eingerichtetes Apartment mit Weitblick über München!,533.000 €,"Bodenehrstraße 6,
+Mittersendling, 81373 München",2,55 m²,9.691 €/m²,Penthouse,55 m²,sofort,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Penthouse-Feeling mit weitläufiger Dachterrasse und Badezimmer en Suite,899.000 €,"Am Schäferanger 2-12,
+85764 Oberschleißheim, München (Kreis)","3,5","102,81 m²",8.744 €/m²,Dachgeschoss,nil,nil,3,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"PENTHOUSE- Lift direkt in die 3-Zi.-Whg. + sonnige 67m² Dachterrasse + 2 Tageslichtbäder, U6, KFfw55",1.455.000 €,"Platanenstr. 19,
+Großhadern, 81377 München",3,"105,96 m²",13.732 €/m²,Terrassenwohnung,"151,12 m²",nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer Parkwohnung mit Bergblick,1.099.000 €,"Conradtystraße 4,
+83059 Kolbermoor, Rosenheim (Kreis)",4,147 m²,7.476 €/m²,Etagenwohnung,nil,Juni 2024,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive Dachterrassenwohnung für Familien mit bester Süd-Ausrichtung und Bad en Suite,939.000 €,"Am Schäferanger 2-12,
+85764 Oberschleißheim, München (Kreis)",4,"105,19 m²",8.927 €/m²,Dachgeschoss,nil,nil,3,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschöne 3-Zimmer Wohnung,1.009.000 €,"Landsberger Straße 467,
+Pasing, 81241 München",3,"80,89 m²",12.474 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Großzügige 2- Zi.-Whg. + Privatgarten, Tageslichtbad, Bezug in 2 Monaten!",814.000 €,"Ehrenpreisstr. 11,
+Blumenau, 80689 München",3,"72,8 m²",11.181 €/m²,Erdgeschosswohnung,"81,8 m²",2 Monate,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KFW 40 - Am Mainbogen WE 1,362.400 €,"63906 Erlenbach am Main, Miltenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,79 m²,4.587 €/m²,Erdgeschosswohnung,nil,2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau - KFW Effizienzhaus 40 Standard: Großzügige 3-Zimmer-ETW mit Garten PLUS Hobbyraum im Keller!,601.500 €,"Spalter Straße 10,
+Eibach, 90451 Nürnberg",3,"105,35 m²",5.710 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KFW 40 - Am Mainbogen WE 6,368.600 €,"63906 Erlenbach am Main, Miltenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,79 m²,4.666 €/m²,Etagenwohnung,nil,2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+5 Zi-Maisonette-Wohnung,1.879.000 €,"Landsberger Straße 467,
+Pasing, 81241 München",5,"134,07 m²",14.015 €/m²,Maisonette,nil,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Ruhe und Diskretion. Großzügige Erdgeschosswohnung.,5.298.000 €,"Biederstein, 80805 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,247 m²,21.449 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Thalkirchen neben Siemenspark,1.524.000 €,"Aidenbachstrasse 159,
+Obersendling, 81479 München",4,"130,53 m²",11.675 €/m²,Erdgeschosswohnung,"130,53 m²",04/2024,1,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"In 2 Monaten bezugsfertig! Sonnige 3-Zi.-Whg. mit 10m² SW-Balkon, Lift, Tageslichtbad + Gäste-WC",892.000 €,"Ehrenpreisstr. 11,
+Blumenau, 80689 München",3,"79,83 m²",11.174 €/m²,nil,"84,44 m²",2 Monate,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Lebensmittelpunkt. Moderne Erdgeschosswohnung.,1.539.000 €,"Biederstein, 80805 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,68 m²,22.632 €/m²,Erdgeschosswohnung,nil,nil,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer Erdgeschosswohnung mit West-Terrasse,699.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",3,"72,2 m²",9.681 €/m²,Erdgeschosswohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Attraktive 3 Zi. auf 2 Ebenen, kl.. SW-Dachterrasse, Lift, Neubau Kfw55-Effizienzhaus, Tageslichtbad",883.000 €,"Toni-Schmid-Str. 31,
+Gartenstadt Trudering, 81825 München",3,"75,6 m²",11.680 €/m²,Dachgeschoss,"91,15 m²",2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ideal für Paare: 3-Zimmer-Wohnung mit Balkon und Blick ins Grüne,493.000 €,"Am Schäferanger 2-12,
+85764 Oberschleißheim, München (Kreis)",3,"64,93 m²",7.593 €/m²,Etagenwohnung,nil,Auf Anfrage,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 3-Zimmer Wohnung mit Süd-Westausrichtung und Dachterrasse,749.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",3,"68,33 m²",10.962 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KFW 40 - Am Mainbogen WE 8,389.900 €,"63906 Erlenbach am Main, Miltenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,4.874 €/m²,Etagenwohnung,nil,2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Stil und Charme. Großzügig geschnittene Erdgeschosswohnung.,4.526.000 €,"Biederstein, 80805 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,215 m²,21.051 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+KFW 40 - Am Mainbogen WE 11,360.200 €,"63906 Erlenbach am Main, Miltenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,73 m²,4.934 €/m²,Etagenwohnung,nil,2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer-Wohnung mit Balkon und 2 Badezimmern,699.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",3,"77,98 m²",8.964 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive 2 Zi.-Wohnung mit Dachterrasse und Süd-Ausrichtung,699.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",2,"55,68 m²",12.554 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer Wohnung mit Süd-Balkon im ruhigen Gartenhaus,979.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",4,"87,48 m²",11.191 €/m²,Etagenwohnung,nil,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmantes Apartment mit Privatgarten in ruhiger Lage - Bezug im Juli!,397.500 €,"Kleinhaderner Str. 23,
+Blumenau, 80689 München",1,34 m²,11.691 €/m²,Erdgeschosswohnung,"42,05 m²",Juli 24,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit Masterbereich und Austritt in den ruhigen Innenhof,2.995.000 €,"Türkenstraße 50,
+Universität, 80799 München",4,122 m²,24.549 €/m²,Etagenwohnung,127 m²,nil,3,3,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KFW 40 - Am Mainbogen WE 10,353.900 €,"63906 Erlenbach am Main, Miltenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,71 m²,4.985 €/m²,Etagenwohnung,nil,2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mit 2 Balkonen: Wunderschöne 3-Zi Wohnung,769.000 €,"Landsberger Straße 465,
+Pasing, 81241 München",3,"71,44 m²",10.764 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ruhige 3-Zimmer-Terrassenwohnung mit Blick ins Grüne,508.000 €,"Am Schäferanger 2-12,
+85764 Oberschleißheim, München (Kreis)",3,"62,98 m²",8.066 €/m²,Etagenwohnung,nil,Auf Anfrage,2,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ruhige Lage: Sonnige 3-Zi.-Neubau-Whg.,9m² SW-Balkon, Lift, Kfw55-Effizienzhaus, Tageslichtbad + Gäs",892.000 €,"Toni-Schmid-Str. 31,
+Gartenstadt Trudering, 81825 München",3,"78,33 m²",11.388 €/m²,nil,"82,95 m²",2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KFW 40 - Am Mainbogen WE 13,382.400 €,"63906 Erlenbach am Main, Miltenberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,76 m²,5.032 €/m²,Etagenwohnung,nil,2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

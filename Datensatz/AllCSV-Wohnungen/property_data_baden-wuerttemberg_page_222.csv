@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Raum-DG-Wohnung mit Panoramablick über Stuttgart,295.000 €,"Einsteinstrasse 104,
+Muckensturm, 70374 Stuttgart",3,"90,78 m²",3.250 €/m²,Dachgeschoss,nil,10.5.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Provisionsfrei | Eigentumswohnung mit 4 Zimmer, Einbauküche, Stellplatz und Keller",269.000 €,"Vorau 35,
+77966 Kappel-Grafenhausen, Ortenaukreis",4,85 m²,3.165 €/m²,Dachgeschoss,85 m²,1.5.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schön wohnen am Bodensee,219.000 €,"78315 Radolfzell am Bodensee, Konstanz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,52 m²,4.212 €/m²,nil,nil,10.07.2024,nil,1,2 Außenstellplätze,3.57%,"{'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Sanierte, traumhafte 3 ZW am Hölderlinplatz in imposantem Haus der Jahrhundertwende!",379.000 €,"Hölderlinplatz 4,
+Hölderlinplatz, 70193 Stuttgart",3,86 m²,4.407 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57%","{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Work Life Balance oder Kapitalanlage !,149.000 €,"71287 Weissach, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,35 m²,4.257 €/m²,nil,nil,08.06.2023,nil,1,2 Stellplätze,6033.- EUR,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Renovierungsbedürftige Wohnung in Bad Wildbad – Ihr Traumprojekt wartet!,59.500 €,"75323 Bad Wildbad, Calw (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,32 m²,1.859 €/m²,Etagenwohnung,nil,05.2024,1,1,nil,2500,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Schöne 3-Zimmer-Erdgeschosswohnung mit Garten und Hobbyraum - provisionsfrei,365.000 €,"71711 Murr, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,4.451 €/m²,Erdgeschosswohnung,35 m²,1.5.2025,2,1,2 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+XXL Dachterrasse: Gepflegtes Penthouse mit Kamin und TG-Stellplatz ideal für Familien,399.000 €,"Heilbronn, 74072 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"105,79 m²",3.772 €/m²,Penthouse,nil,ab sofort,2,1,1 Tiefgaragen-Stellplatz,"2,98 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Neuwertige Etagenwohnung mit 2 Balkonen in der Heidelberger Südstadt,1.060.000 €,"Südstadt, 69126 Heidelberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,7.970 €/m²,Etagenwohnung,6 m²,nil,3,2,1 Tiefgaragen-Stellplatz,3.57 % inkl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Einziehen oder vermieten! Attraktive 3-Zimmer-Wohnung mit Tageslichtbad in ruhiger Lage!,229.000 €,"89143 Blaubeuren, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,3.095 €/m²,Hochparterre,"8,21 m²",Ab sofort,2,1,1 Garage,"2,38 % inkl. MwSt.",{'is24qa-keller-label': ''}
+2-3 Zimmerwohnung in Neubaugebiet Rote Wand am Killesberg Stuttgart. https://wolkenheim-stuttgart.de,753.000 €,"Am Kochenhof 49,
+Killesberg, 70192 Stuttgart",3,89 m²,8.461 €/m²,Terrassenwohnung,nil,1.4.2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Betreutes Wohnen für selbstbestimmte Senioren,425.610 €,"Christophstraße 16,
+70771 Leinfelden-Echterdingen, Esslingen (Kreis)",2,"58,53 m²",7.272 €/m²,Dachgeschoss,5 m²,nil,1,1,nil,"2,38 inkl. Mwst",{}
+"von Privat - Stilvolle, geräumige 4-Zimmer-Penthouse-Wohnung in Stuttgart",1.350.000 €,"Hoffeld, 70597 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,175 m²,7.714 €/m²,Penthouse,260 m²,nil,2,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer Wohnung incl. Stellplatz - PROVISIONSFREI - sofort beziehen oder als Kapitalanlage,200.000 €,"Hauptstraße 47,
+76344 Eggenstein-Leopoldshafen, Karlsruhe (Kreis)",2,58 m²,3.448 €/m²,Sonstige,58 m²,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive Wohnung mit zweieinhalb Zimmern zum Verkauf in Heilbronn,199.000 €,"Neckarsulmer Straße 7/1,
+Heilbronn, 74076 Heilbronn","2,5",68 m²,2.926 €/m²,Etagenwohnung,nil,1.7.2024,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3,5-Zi.-ETW in guter Wohnlage Marbachs mit Garage und 3 Balkonen",220.000 €,"71672 Marbach am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","83,32 m²",2.640 €/m²,nil,nil,nach Absprache,2,1,1 Garage,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Neubau helle 2,5 Zimmer-Wohnung mit Aufzug, barrierefrei in der Altstadt Herrenberg",398.000 €,"Spitalgasse 5,
+71083 Herrenberg, Böblingen (Kreis)","2,5",60 m²,6.633 €/m²,Etagenwohnung,60 m²,24.5.2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exklusive, neuwertige 3,5-Zimmer-Wohnung mit Terrasse und Einbauküche in Frankenhardt zu verkaufen",380.000 €,"74586 Frankenhardt, Schwäbisch Hall (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",94 m²,4.043 €/m²,Erdgeschosswohnung,nil,Ab sofort bezugsfrei,nil,1,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"TRAUMHAFTE 3,5-ZIMMER-ERDGESCHOSSWOHNUNG MIT GROßEM GARTEN",430.000 €,"Gänseweide 13,
+78239 Rielasingen-Worblingen, Konstanz (Kreis)",3,95 m²,4.526 €/m²,Erdgeschosswohnung,nil,1.3.2024,nil,1,1 Tiefgaragen-Stellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+4-Zimmer-Wohnung in neu saniertem 5-Familien-Jugendstil-Haus,736.890 €,"Petershausen West, 78467 Konstanz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"95,7 m²",7.700 €/m²,Etagenwohnung,nil,1.5.2024,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

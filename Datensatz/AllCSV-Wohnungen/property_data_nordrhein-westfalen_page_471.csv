@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Zimmer Eigentumswohnung in ruhiger Lage,98.000 €,"Schwanenwiese 2,
+59555 Lippstadt, Soest (Kreis)",3,59 m²,1.661 €/m²,Erdgeschosswohnung,59 m²,nil,2,1,nil,siehe Provisionshinweis inkl. MwSt.,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Modernisierte Wohnung mit vier Zimmern und Balkon in Dorsten,215.000 €,"Dimker Allee 109,
+46286 Dorsten, Recklinghausen (Kreis)",4,110 m²,1.955 €/m²,Etagenwohnung,110 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigentumswohnung in Ahlen,147.500 €,"59227 Ahlen, Warendorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,72 m²,2.049 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+"Neukirchen-Vluyn, ETW im 3. OG, ca. 78 m² Wfl., 3,5 ZKDB+Abstell, Loggia, Kellerraum, Top-Zustand!",159.000 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","77,85 m²",2.042 €/m²,Etagenwohnung,"7,86 m²",01.06.2024,2,1,nil,"3,57 % des Kaufpreises (inkl. 19 % MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Helle Eckwohnung in Bochum 69 qm PROVISIONSFREI,135.000 €,"Wilhelm-Engel-Straße 2,
+Südinnenstadt, 44789 Bochum",2,69 m²,1.957 €/m²,Sonstige,69 m²,1.4.2024,1,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+WE A2.8 -Maisonette-Wohnung in architektonisch anspruchsvoller Wohnanlage!,1.197.500 €,"Uerdingen, 47829 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"184,79 m²",6.480 €/m²,Maisonette,nil,2025,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Solide vermietete Erdgeschosswohnung im Zentrum,109.000 €,"47574 Goch, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,60 m²,1.817 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,"2,38 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+2-Zimmer-Wohnung mit Loggia und Südgarten in Hiltrup-West,185.000 €,"Hiltrup-West, 48165 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,3.136 €/m²,Erdgeschosswohnung,nil,sofort,1,1,1 Außenstellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+IPPENDORF:::2 ZIMMER:::BALKON:::TG-PLATZ:::,235.000 €,"Ferdinandstraße 37,
+Ippendorf, 53127 Bonn",2,66 m²,3.561 €/m²,Etagenwohnung,6 m²,nach Vereinbarung,1,1,1 Tiefgaragen-Stellplatz,"2,38 % incl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Ruhige und zentrale Wohnlage in Rheinbach,229.000 €,"53359 Rheinbach, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,2.936 €/m²,Etagenwohnung,nil,Zur Zeit vermietet,2,1,1 Außenstellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Helle 3 - Zimmer - Eigentumswohnung in Bonn Duisdorf,229.000 €,"Duisdorf, 53123 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,73 m²,3.137 €/m²,Etagenwohnung,nil,nil,2,1,nil,"5,725,00","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Sindorf: sonnig und ruhig - direkt vom Eigentümer!,199.500 €,"Augsburger Straße 26,
+50170 Kerpen, Rhein-Erft-Kreis",3,81 m²,2.463 €/m²,Dachgeschoss,nil,Ab sofort bezugsfrei,nil,2,nil,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ansprechende 3-Zimmer-Wohnung mit Balkon,350.000 €,"50259 Pulheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,98 m²,3.571 €/m²,Etagenwohnung,nil,Absprache,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Attraktive 3-Zimmerwohnung mit Balkon in ruhiger Lage eines gepflegten Mehrfamilienhauses,240.000 €,"Hassels, 40599 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,2.857 €/m²,Etagenwohnung,nil,30.06.2024,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Wohnbüro in zentraler Lage von Erkrath!,275.000 €,"40699 Erkrath, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"101,86 m²",2.700 €/m²,Sonstige,nil,nil,2,1,2 Außenstellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Gemütliche Hofanlagen-Wohnung mit eigenem Garten und Garage als Alternative zum Einfamilienhaus!,350.000 €,"41812 Erkelenz, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,128 m²,2.734 €/m²,Etagenwohnung,nil,nil,nil,2,2 Stellplätze,"3,57 % inkl. ges. MwSt.",{'is24qa-garten-mitbenutzung-label': ''}
+Provisionsfreier Verkauf ! Luxuriöses Penthouse (KfW 40) in Duisburg City im Erstbezug,499.000 €,"Wanheimerort, 47055 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"120,46 m²",4.142 €/m²,Penthouse,15 m²,nach Fertigstellung,4,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive Erdgeschosswohnung mit Balkon: Schön geschnittene 3-Zimmerwohnung in Köln-Bilderstöckchen,269.000 €,"Bilderstöckchen, 50739 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"73,47 m²",3.661 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. ges. MwSt.",{}
+Haus in Haus in der Nähe des Kanals,289.000 €,"46282 Dorsten, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,142 m²,2.035 €/m²,Maisonette,40 m²,01.06.2024,3,2,2 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einziehen und wohlfühlen! Renovierte 3-Zimmer-Wohnung mit Balkon in ruhiger Lage von DO-Brackel!,169.500 €,"Brackel (Ortsteil), 44309 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"72,2 m²",2.348 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

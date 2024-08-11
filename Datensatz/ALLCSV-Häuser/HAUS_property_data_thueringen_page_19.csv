@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+++ Kapitalanlage ++ Mehrfamilienhaus mit Garagengebäude,806.000 €,"Mühlgraben XXX,
+Hochheim, 99094 Erfurt",1,523 m²,709 m²,1.541 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Bauernhof mit drei Einfamilienhäusern, Scheune und Pool in schöner ländlichen Lage",750.500 €,"07619 Schkölen, Saale-Holzland-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",20,365 m²,6.700 m²,2.056 €/m²,Bauernhaus,nil,nil,nil,nil,3 Garagen,"3,57 % Käuferprovision inkl. 19 % MwSt.",{'is24qa-keller-label': ''}
+Einfamilienhaus nebst Anbau und Garage - provisionsfrei,61.000 €,"Zum Steinhauck XXX,
+36469 Frauensee, Wartburgkreis",5,125 m²,118 m²,488 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit 4 Stellplätzen,160.000 €,"Weizengarten XXX,
+36460 Merkers-Kieselbach, Wartburgkreis",8,250 m²,1.177 m²,640 €/m²,Wohnimmobilie (sonstige),110 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit Garage,190.000 €,"Knochstraße XXX,
+07318 Saalfeld/Saale, Saalfeld-Rudolstadt (Kreis)",1,1 m²,402 m²,190.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großes Einfamilienhaus + provisionsfrei +,9.240 €,"Bergweg XXX,
+07366 Blankenberg, Saale-Orla-Kreis",1,140 m²,330 m²,66 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus - provisionsfrei,3.500 €,"Fritz-Aßmus-Straße XXX,
+98617 Walldorf, Schmalkalden-Meiningen (Kreis)",1,100 m²,282 m²,35 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Nebengebäude,208.500 €,"Hans-Hahn-Straße XXX,
+36469 Tiefenort, Wartburgkreis",1,150 m²,680 m²,1.390 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Anbau,76.000 €,"Zum Queienberg XXX,
+98631 Grabfeld, Schmalkalden-Meiningen (Kreis)",8,143 m²,424 m²,531 €/m²,Wohnimmobilie (sonstige),70 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus in guter Lage,310.000 €,"Friedrich-Fröbel-Straße XXX,
+99310 Arnstadt, Ilm-Kreis",4,117 m²,1.044 m²,2.650 €/m²,Wohnimmobilie (sonstige),54 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Reihenendhaus mit Garage,128.000 €,"Thümmelstraße XXX,
+04600 Altenburg, Altenburger Land (Kreis)",1,210 m²,892 m²,610 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Garagen,35.000 €,"Gehlberger Bergstraße XXX,
+98528 Gehlberg, Ilm-Kreis",1,"36,73 m²",1.137 m²,953 €/m²,Wohnimmobilie (sonstige),"128,25 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Doppelgarage,96.000 €,"Friedensstraße XXX,
+36466 Dermbach, Wartburgkreis",5,140 m²,818 m²,686 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Doppelgarage,70.551 €,"Schnetter Straße XXX,
+98667 Schleusegrund, Hildburghausen (Kreis)",9,"213,48 m²",11.464 m²,330 €/m²,Wohnimmobilie (sonstige),"26,05 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Gemütliches Einfamilienhaus mit Hof und Garten,29.900 €,"99994 Obermehler, Unstrut-Hainich-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,210 m²,272 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,1,nil,"3.500,00€ Käuferprovision inkl. MwSt.",{}
+Wohnhaus mit Seitenflügel - provisionsfrei,325.000 €,"Zum Rutschestein XXX,
+99439 Wohlsborn, Weimarer Land (Kreis)",4,215 m²,438 m²,1.512 €/m²,Wohnimmobilie (sonstige),170 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Reihenmittelhaus + provisionsfrei +,15.000 €,"Ernst-Thälmann-Straße XXX,
+99765 Heringen/Helme, Nordhausen (Kreis)",1,1 m²,370 m²,15.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus mit Landwirtschaftsfläche,56.000 €,"Engelsbacher Straße XXX,
+99894 Friedrichroda, Gotha (Kreis)",1,102 m²,520 m²,549 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage,81.000 €,"Gothaer Straße XXX,
+99869 Molschleben, Gotha (Kreis)",4,"146,33 m²",1.860 m²,554 €/m²,Wohnimmobilie (sonstige),"108,7 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Handwerker aufgepasst! Einfamilienhaus - provisionsfrei,10.000 €,"Haus-Nr. XXX,
+04626 Schmölln, Altenburger Land (Kreis)",1,74 m²,390 m²,135 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

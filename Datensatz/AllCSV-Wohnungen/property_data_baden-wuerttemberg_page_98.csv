@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Zimmer Wohnung in Top Lage,375.000 €,"Tiefenbachstraße 93,
+Rohracker, 70329 Stuttgart",3,"83,24 m²",4.505 €/m²,nil,nil,nil,2,1,nil,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Schöne 2-Zimmer-Wohnung mit Balkon am grünen Ortsrand von Stuttgart-Gablenberg,199.000 €,"Gablenberg, 70186 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"50,76 m²",3.920 €/m²,Dachgeschoss,nil,nil,1,1,nil,"3,57 % inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Solide 3-Zimmer-Stadt-Wohnung in Bodenseenähe,280.000 €,"88069 Tettnang, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"76,41 m²",3.664 €/m²,Etagenwohnung,nil,sofort,1,1,nil,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Betreutes Wohnen in Forst,179.000 €,"76694 Forst, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,54 m²,3.315 €/m²,Erdgeschosswohnung,nil,vermietet,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Für Projektentwickler - 5er Paket Wohnungen in sanierungsbedürftigem 8 MFH - Gute Rendite,630.000 €,"76437 Rastatt, Rastatt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,330 m²,1.909 €/m²,nil,nil,nil,nil,nil,nil,"3,57% inkl. MwSt.",{'is24qa-vermietet-label': ''}
+"Großzügig, sonnig, hell, sofort frei!!",357.000 €,"Söflingen, 89081 Ulm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",94 m²,3.798 €/m²,Etagenwohnung,nil,nil,2,nil,1 Tiefgaragen-Stellplatz,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+3 exklusive Wohnungen in einem Paket in Baden-Baden - Luxus und Eleganz vereint!,1.006.000 €,"Innenstadt, 76530 Baden-Baden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"251,32 m²",4.003 €/m²,Etagenwohnung,nil,nil,nil,3,3 Tiefgaragen-Stellplätze,"4,76% inkl. 19% MwSt. (4% zzgl. 19% MwSt.)",{'is24qa-balkon-terrasse-label': ''}
+Schönes Wohnambiente -Hier können Sie sich wohlfühlen-,199.000 €,"Vogelstang, 68309 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,77 m²,2.584 €/m²,Etagenwohnung,nil,Absprache,3,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Ihre Alternative zum Haus? Diese Wohnung macht es möglich!,335.000 €,"69151 Neckargemünd, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",130 m²,2.577 €/m²,Etagenwohnung,nil,vermietet,3,2,2 Garagen,"3,57% Käuferprovision inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"3,5 ZKB Wohnung mit viel Potenzial",335.000 €,"Nikolaus-Lenau-Straße 8,
+68723 Schwetzingen, Rhein-Neckar-Kreis","3,5",95 m²,3.526 €/m²,nil,5 m²,sofort,2,1,2 Außenstellplätze,"2,38",{'is24qa-gaeste-wc-label': ''}
+2.-Zi.-Wohnung für SENIOREN in Bad Bellingen.......,370.000 €,"Badstrasse 1,
+79415 Bad Bellingen, Lörrach (Kreis)",2,83 m²,4.458 €/m²,Etagenwohnung,83 m²,ab sofort,1,1,1 Tiefgaragen-Stellplatz,"3,57% incl. Mwst.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"3,5 Zimmerwohnung in Unterkochen",224.000 €,"Waldhäuser Str. 70,
+Unterkochen, 73432 Aalen","3,5",72 m²,3.111 €/m²,Dachgeschoss,8 m²,01.06.2023,2,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Wohnen auf zwei Ebenen am Pfühlpark - FALC Immobilien Heilbronn,350.000 €,"Einsteinstrasse 20,
+Heilbronn, 74074 Heilbronn","3,5","118,19 m²",2.961 €/m²,Maisonette,22 m²,ab sofort,2,1,1 Garage,"3,57 % inkl. MwSt. vom Kaufpreis durch Abwälzung, weitere Info unter ""sonstige Angaben"" im Exposé","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+4-Zimmer Wohnung in zentraler Stuttgarter Lage,665.000 €,"Heusteigviertel, 70182 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,77 m²,8.636 €/m²,Etagenwohnung,21 m²,sofort,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Großzügige 2,5-Zimmer Wohnung in Top Lage in Leonberg",229.000 €,"71229 Leonberg, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,3.881 €/m²,Dachgeschoss,nil,nil,1,1,1 Duplex-Stellplatz,"3,57% inkl. MwSt.",{}
+Gepflegte Kapitalanlage oder Eigenheim 2-Zimmer Wohnung in guter Lage in Satteldorf zu verkaufen,210.000 €,"74589 Satteldorf, Schwäbisch Hall (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"60,3 m²",3.483 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Außenstellplatz,"3,57% inkl. 19% Mwst.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Wohnung mit toller Aussicht,189.000 €,"Reutlingen, 72766 Reutlingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",52 m²,3.635 €/m²,Penthouse,8 m²,nach Vereinbarung,1,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Helle und freundliche 3,5-Zimmer-Wohnung mit großem Balkon, TG-Platz und Gartenblick, frei!",262.000 €,"78315 Radolfzell am Bodensee, Konstanz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"70,96 m²",3.692 €/m²,Etagenwohnung,nil,nil,2,nil,1 Tiefgaragen-Stellplatz,"3,57 % vom Kaufpreis inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Sonnige 3-Zi.-ETW mit vielen Extras in Friolzheim zu verkaufen!,309.000 €,"71292 Friolzheim, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,73 m²,4.233 €/m²,Etagenwohnung,nil,sofort,1,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Solide 2,5 Zimmerwohnung in Radolfzell",219.000 €,"78315 Radolfzell am Bodensee, Konstanz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",58 m²,3.776 €/m²,nil,12 m²,Juli,1,1,Tiefgaragen-Stellplatz,3% zzgl.MwSt.,{'is24qa-balkon-terrasse-label': ''}

@@ -1,0 +1,51 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Großzügige 3-Zimmer-Wohnung mit Balkon in Uni-Nähe,229.000 €,"Weende, 37077 Göttingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,92 m²,2.489 €/m²,Etagenwohnung,nil,sofort,2,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Traumhafte Maisonette Wohnung mit 3 Zimmern auf 96 Quadratmetern,925.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",3,"96,3 m²",9.605 €/m²,Maisonette,nil,Frühjahr 2026,2,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus,560.000 €,"26409 Wittmund, Wittmund (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,156 m²,3.590 €/m²,Sonstige,nil,nil,nil,2,2 Carports,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigentumswohnung,222.000 €,"31840 Hessisch Oldendorf, Hameln-Pyrmont (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,2.467 €/m²,nil,25 m²,nil,nil,2,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Studentenwohnheim: Möbliertes Apartment in Uni-Nähe!,46.000 €,"38678 Clausthal-Zellerfeld, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,22 m²,2.091 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. MwSt. inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Gemütliche 2-Zimmer-Wohnung mit Mansardenfenster im ehemaligen Stall,299.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",2,"48,1 m²",6.216 €/m²,Etagenwohnung,nil,Frühjahr 2026,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einzigartige Galeriewohnung mit 3 Zimmern im 2. und 3. OG,591.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",3,"84,5 m²",6.994 €/m²,Etagenwohnung,nil,Frühjahr 2026,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive 3- Zimmer Eigentumswohnung in schöner Lage,120.000 €,"37441 Bad Sachsa, Osterode am Harz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,1.200 €/m²,nil,nil,nil,nil,nil,nil,"2,38 %",{}
+"Großzügiges, möbliertes Studentenapartment in Uni-Nähe",75.000 €,"38678 Clausthal-Zellerfeld, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,35 m²,2.143 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. MwSt. inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+5-Zimmer-Wohnung mit zwei Balkonen in idyllischer Lage,173.000 €,"38678 Clausthal-Zellerfeld, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,126 m²,1.373 €/m²,Etagenwohnung,nil,sofort,3,1,nil,"3,57% inkl. MwSt. inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Einmalige 2-Zimmer-Wohnung mit eigener Sauna und Terrasse,582.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",2,"89,4 m²",6.510 €/m²,Terrassenwohnung,nil,Frühjahr 2026,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 2-Zimmer-Wohnung mit Garten und Terrasse,499.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",2,"76,9 m²",6.489 €/m²,Terrassenwohnung,nil,Frühjahr 2026,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Panorama Loft im ehemaligem Speicher mit 3 Zimmern,1.150.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",3,145 m²,7.931 €/m²,Loft,nil,Frühjahr 2026,2,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Terrasse im ehemaligen Stall,357.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",2,"58,7 m²",6.082 €/m²,Etagenwohnung,nil,Frühjahr 2026,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 2-Zimmer-Wohnung mit Einbauküche in Braunschweig,119.000 €,"Cyriaksring 18,
+Westliches Ringgebiet, 38118 Braunschweig",2,45 m²,2.644 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Möbliertes Doppelapartment in Studentenwohnheim in Uni-Nähe,79.500 €,"38678 Clausthal-Zellerfeld, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,38 m²,2.092 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57% inkl. MwSt. inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Moderne Mansardenwohnung mit 3 Zimmern und eigener Sauna,695.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",3,"125,2 m²",5.551 €/m²,Etagenwohnung,nil,Frühjahr 2026,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zentrale Lage in Berenbostel,249.000 €,"30823 Garbsen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,70 m²,3.557 €/m²,Etagenwohnung,8 m²,nach Absprache,1,1,nil,"3,57 % incl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Heute schon an Morgen denken! Profitieren Sie vom demografischen Wande,290.990 €,"21218 Seevetal, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,54 m²,5.389 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Sonniges 2-Zimmer-Loft mit französischen Fenstern,505.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",2,"77,6 m²",6.508 €/m²,Loft,nil,Frühjahr 2026,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügige Maisonette-Wohnung im ehemaligem Speicher,925.000 €,"Lanckensburg 2A,
+18556 Altenkirchen, Vorpommern-Rügen (Kreis)",3,"96,3 m²",9.605 €/m²,Maisonette,nil,Frühjahr 2026,2,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Vermietete 3-Zimmer-Wohnung mit Balkon in Uni-Nähe,216.000 €,"Weende, 37077 Göttingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,2.880 €/m²,Etagenwohnung,nil,sofort,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt. inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Investieren Sie in Pflegeappartements! Pflegeimmobilien als Anlageobjekt!,387.910 €,"31061 Alfeld (Leine), Hildesheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"82,63 m²",4.695 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Möbliertes Studentenapartment in Uni-Nähe!,50.000 €,"38678 Clausthal-Zellerfeld, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,24 m²,2.083 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. MwSt. inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Möbliertes Apartment in Studentenwohnheim in Uni-Nähe,50.000 €,"38678 Clausthal-Zellerfeld, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,24 m²,2.083 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. MwSt. inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Vermietete Eigentumswohnung in ruhiger Lage,80.000 €,"Ebersdorf, 09131 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"55,7 m²",1.436 €/m²,Etagenwohnung,"55,7 m²",nil,1,1,1 Außenstellplatz,"3,57 % inkl. 19 % MwSt. vom notariellen Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Ihre neuen vier Wände vor den Toren Dresdens,155.000 €,"01723 Wilsdruff, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,73 m²,2.123 €/m²,nil,nil,01.06.2024,nil,nil,1 Tiefgaragen-Stellplatz,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Gepflegte Drei-Zimmer-Wohnung in ruhiger Lage von Radebeul,149.000 €,"01445 Radebeul, Meißen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,67 m²,2.224 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt. bezogen auf den Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Vermietete 3-Zimmer-Wohnung in Dresden-Löbtau mit Balkon und Tiefgaragenstellplatz,163.000 €,"Löbtau-Nord, 01159 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"67,89 m²",2.401 €/m²,Etagenwohnung,nil,nil,2,nil,1 Stellplatz,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Ein Unikat mitten in Leipzig: Frisch sanierte Remise mit viel Platz und moderner Ausstattung,473.000 €,"Ferdinand-Jost-Straße 23A,
+Stötteritz, 04299 Leipzig",3,"94,31 m²",5.015 €/m²,Hochparterre,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ ATTRAKTIVE KAPITALANLAGE +++ 3 ZIMMER - BALKON - TG-STELLPLATZ,140.000 €,"Edlichstraße 11,
+Volkmarsdorf, 04315 Leipzig",3,"73,74 m²",1.899 €/m²,Dachgeschoss,nil,nil,1,1,nil,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+"Individuelle 3,5-Raum-Wohnung mit Hobbyraum und Terrasse in Burkhardtsdorf!",77.500 €,"Meisenweg 6,
+09235 Burkhardtsdorf, Erzgebirgskreis","3,5",101 m²,767 €/m²,Erdgeschosswohnung,nil,nil,nil,1,1 Außenstellplatz,"5,95 % inkl. MwSt. jedoch mindestens 2.975,00 € inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Ihre zukünftige Kapitalanlage im Erzgebirge! vermietete Terrassenwohnung mit TG-Stellplatz!,45.000 €,"Amselring 3,
+09235 Burkhardtsdorf, Erzgebirgskreis",2,"53,6 m²",840 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"4,76 % inkl. MwSt. jedoch mindestens 2.975,00 € inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Frei-verfügbar: 3-Zi-Wohnung mit Südbalkon, inkl. Garage in ruhig-zentraler Lage",225.000 €,"Gohlis-Süd, 04155 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,69 m²,3.261 €/m²,Hochparterre,nil,nil,2,1,1 Garage,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Achtung Eigennnutzer Fleißnerstr. 8 eine 3 Raum Wohnung im DG mit TG Stellplatz frei zum 01.08.24,330.000 €,"Fleißnerstr. 8,
+Gohlis-Mitte, 04157 Leipzig",3,"94,69 m²",3.485 €/m²,Dachgeschoss,8 m²,01.08.2024,3,1,1 Tiefgaragen-Stellplatz,5 % inkl. MwST,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Apartment in der Südvorstadt,104.400 €,"Lößniger Straße 20,
+Südvorstadt, 04275 Leipzig",1,36 m²,2.900 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57 inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Tolle Dachgeschosswohnung mit Balkon am Fuße des Erzgebirges zur Kapitalanlage!,41.500 €,"Amselring 3,
+09235 Burkhardtsdorf, Erzgebirgskreis",2,"46,4 m²",894 €/m²,Dachgeschoss,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"4,76 % inkl. MwSt. jedoch mindestens 2.975,00 € inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Loschwitzer Elbhang - Stellplatz, Gartennutzung - Altersgerecht",245.000 €,"Loschwitz/Wachwitz, 01326 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"58,57 m²",4.183 €/m²,Souterrain,nil,nil,nil,nil,1 Außenstellplatz,"3,57 % inkl. MwSt","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Dachgeschosswohnung mit Loggia im Waldstraßenviertel,330.000 €,"Zentrum-Nordwest, 04105 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,105 m²,3.143 €/m²,Dachgeschoss,nil,nil,nil,2,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Wohnung mit Stil: 2-Zimmer-Wohnung mit Balkon & Parkett in Markkleeberg,165.000 €,"Raschwitzer Straße 21,
+04416 Markkleeberg, Leipzig (Kreis)",2,"59,95 m²",2.752 €/m²,Erdgeschosswohnung,nil,01.08.2024,1,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+SUPER 2-RAUMWOHNUNG MIT BALKON www.Romeo-Immobilien.de,98.000 €,"Goethestr. 23,
+04442 Zwenkau, Leipzig (Kreis)",2,"53,15 m²",1.844 €/m²,nil,nil,ab sofort,1,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Frisch sanierte 2-Zimmerwohnung in historischem Flair mit Grünblick - Jetzt bezugsfrei!,159.000 €,"Gohlis-Süd, 04155 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,61 m²,2.607 €/m²,Etagenwohnung,nil,sofort,1,1,nil,"3,57% inkl. MwSt.",{'is24qa-keller-label': ''}
+Sanierte 4-Zimmer-Gründerzeitwohnung im aufstrebenden Leipziger Südosten,495.000 €,"Eilenburger Straße 36,
+Reudnitz-Thonberg, 04317 Leipzig",4,"109,16 m²",4.535 €/m²,Etagenwohnung,nil,nil,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung in der Stauffenberg-Villa zu verkaufen,197.000 €,"Stauffenbergstr. 9,
+Gohlis-Mitte, 04157 Leipzig",2,62 m²,3.177 €/m²,Hochparterre,68 m²,nil,2,1,nil,3.57 % Käuferprovision inkl. Mwst.,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Alles neu!,95.000 €,"Hilbersdorf, 09131 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,1.357 €/m²,nil,nil,nil,2,1,nil,"3,57% inkl. MwSt. vom Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

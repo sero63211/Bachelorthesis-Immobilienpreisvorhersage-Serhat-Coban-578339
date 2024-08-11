@@ -1,0 +1,867 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wohnen im Schlossgarten in Merzig-Hilbringen,385.000 €,"Schlossberg 11,
+66663 Merzig, Merzig-Wadern (Kreis)",3,"94,62 m²",4.069 €/m²,Etagenwohnung,"94,62 m²",nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kapitalanlage in gefragter Lage von Saarlouis zu verkaufen,125.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,1.420 €/m²,Erdgeschosswohnung,nil,nil,2,1,2 Außenstellplätze,"2,975 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Sonnenhelle ETW mit Balkon & Stellplatz!,164.900 €,"66787 Wadgassen, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,81 m²,2.036 €/m²,nil,nil,nil,2,1,nil,"3,57 % inkl. 19 % MwSt. vom notariellen Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+schicke Eigentumswohnung - SB-City,349.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,3.490 €/m²,Etagenwohnung,nil,nil,2,1,nil,3 % zzgl. ges. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Wohnen im Schlossgarten in Merzig-Hilbringen,355.000 €,"Schlossberg 11,
+66663 Merzig, Merzig-Wadern (Kreis)",3,"84,54 m²",4.199 €/m²,Etagenwohnung,"84,54 m²",nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"St. Arnual Winterberg - 4 ZKB DG Wohnung, als Maisonette ausbaubar",220.000 €,"Winterbergstraße 20a,
+St. Arnual, 66119 Saarbrücken",4,77 m²,2.857 €/m²,Etagenwohnung,34 m²,nil,3,1,1 Garage,"3,57% inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kapitalanlage - Vermietete Apartmentwohnung in Sulzbacher Nebenstraße,44.900 €,"66280 Sulzbach/Saar, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,37 m²,1.214 €/m²,Erdgeschosswohnung,3 m²,vermietet (Kapitalanlage),1,1,nil,"3,57 % (inkl. MwSt.), mindestens aber 2.500 € (inkl. Mwst.) inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+St. Arnual Winterberg - 2 ZKB EG Wohnung mit Terrasse,105.000 €,"Winterbergstraße 20a,
+St. Arnual, 66119 Saarbrücken",2,46 m²,2.283 €/m²,Etagenwohnung,4 m²,nil,1,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+renovierte Eigentumswohnung - SB City,239.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,68 m²,3.515 €/m²,Etagenwohnung,nil,nil,1,1,nil,3 % zzgl. ges. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+3-ZKB Maisonette-Wohnung mit Dachterrasse und Stellplatz,139.000 €,"Am Krenzelsberg 122,
+Burbach, 66115 Saarbrücken",3,70 m²,1.986 €/m²,Maisonette,20 m²,Sofort,2,1,nil,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Schöne Eigentumswohnung - SB City,299.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,2.990 €/m²,Etagenwohnung,nil,nil,3,1,nil,3 % zzgl. ges. MwSt.,{'is24qa-balkon-terrasse-label': ''}
+Wohnen im Schlossgarten in Merzig-Hilbringen,355.000 €,"Schlossberg 11,
+66663 Merzig, Merzig-Wadern (Kreis)",2,"86,18 m²",4.119 €/m²,Erdgeschosswohnung,86 m²,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"St. Arnual Winterberg - 4 ZKB Wohnung mit Terrasse, 2 Balkonen und Garage",250.000 €,"Winterbergstraße 20a,
+St. Arnual, 66119 Saarbrücken",4,98 m²,2.551 €/m²,Etagenwohnung,4 m²,Sofort,3,1,1 Garage,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Pflegeapartments | 20 Jahre garantierte Rendite | Kaum Verwaltungsaufwand,250.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,4.167 €/m²,nil,60 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+BEXBACH-ZENTRUM; TOP GEPFLEGTE EIGENTUMSWOHNUNG IN ZENTRALER LAGE MIT STELLPLÄTZEN,275.000 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,150 m²,1.833 €/m²,Erdgeschosswohnung,nil,sofort,6,1,3 Außenstellplätze,"3,57 % (vom Kaufpreis incl. MwSt.)",{}
+Wohnen im Schlossgarten in Merzig-Hilbringen,385.000 €,"Schlossberg 11,
+66663 Merzig, Merzig-Wadern (Kreis)",3,"94,35 m²",4.081 €/m²,Etagenwohnung,"94,35 m²",nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Pflegeapartments | 20 Jahre garantierte Rendite | Kaum Verwaltungsaufwand,350.000 €,"St. Arnual, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",89 m²,3.933 €/m²,nil,89 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"RIEGELSBERG : 3 ZKB - MAISONETTE - Wohnung ( 104,8 m² ) mit BALKON und GARAGE !",149.000 €,"66292 Riegelsberg, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"104,8 m²",1.422 €/m²,Maisonette,nil,nil,2,1,1 Garage,"3,57 % ( incl. 19 % MwSt )",{'is24qa-balkon-terrasse-label': ''}
+Pflegeapartments | 20 Jahre garantierte Rendite | Kaum Verwaltungsaufwand,250.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,4.167 €/m²,nil,60 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau Eigentumswohnung in Saarbrücken-Güdingen,222.021 €,"Güdingen, 66130 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"54,82 m²",4.050 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfach bezaubernd! 3 ZKB mit Balkon in SB-Rastpfuhl,179.000 €,"Burbach, 66113 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,104 m²,1.721 €/m²,Etagenwohnung,nil,sofort,2,1,Tiefgaragen-Stellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Charmante 1,5 Zimmer-Wohnung mit idyllischem Waldpanorama",49.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",36 m²,1.361 €/m²,Etagenwohnung,nil,nil,nil,1,Garage,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Attraktive neue Sanierte 2 ZkB zu Verkaufen,139.000 €,"66557 Illingen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",85 m²,1.635 €/m²,Erdgeschosswohnung,nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Attraktive neue Sanierte 1,5 ZkB zu Verkaufen",94.000 €,"66557 Illingen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",54 m²,1.741 €/m²,Etagenwohnung,nil,01.011.2023,1,1,Außenstellplatz,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sehr gepflegte Maisonette Wohnung in zentraler Lage,198.000 €,"66557 Illingen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"118,3 m²",1.674 €/m²,Maisonette,nil,Sofort,nil,3,4 Stellplätze,"2,75% zzgl. der gesetzlich gültigen MwSt.",{'is24qa-gaeste-wc-label': ''}
+Helle modernisierte 2-3 Zimmer Wohnung in SB- St. Arnual,160.000 €,"St. Arnual, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,2.162 €/m²,Etagenwohnung,nil,nil,1,1,nil,"2,38 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+**** JOYFUL LIVING **** Micro-Living-/Studentenwohnung in Saarbrücken-City,195.065 €,"Malstatt, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"43,63 m²",4.471 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte Eigentumswohnung mit Balkon in zentraler Lage von Saarlouis zu verkaufen,115.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"54,53 m²",2.109 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Sehr gepflegte 1ZKB Wohnung mit Balkon und Einbauküche - in Saarbrücken / Schönbach,65.000 €,"Güdingen, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"42,5 m²",1.529 €/m²,Etagenwohnung,nil,sofort,1,1,nil,"3,57% des notariellen Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+**** EXKLUSIVE PENTHOUSEWOHNUNG IM HERZEN VON SAARBRÜCKEN ****,749.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,5.590 €/m²,Penthouse,nil,nil,nil,nil,nil,"2,38 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Neubaueigentumswohnung in Saarbrücken-Güdingen,290.707 €,"Güdingen, 66130 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"74,16 m²",3.920 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+RESERVIERT! Eigentumswohnung mit Carport in Saarbrücken Eschberg in der Nähe des Saarbrücker Zoos,185.000 €,"Graf-Stauffenberg-Straße 53,
+Eschberg, 66121 Saarbrücken",3,89 m²,2.079 €/m²,Erdgeschosswohnung,nil,sofort,2,1,1 Carport,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Eigentumswohnung mit Loggia in sehr gepflegtem Mehrfamilienhaus,149.000 €,"Dudweiler (Ortsteil), 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,83 m²,1.795 €/m²,nil,5 m²,nil,2,1,nil,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': ''}"
+Zentrale 2 ZKB ETW mit Balkon und doch im Grünen in Wiebelskirchen,85.000 €,"66540 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,1.328 €/m²,Etagenwohnung,nil,nil,nil,1,Außenstellplatz,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Großzügige Eigentumswohnung mit Dachterrasse im Zentrum von Saarlouis zu verkaufen,125.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"58,79 m²",2.126 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+interessante gepflegte Wohnung in Zentrumsnähe 2 ZKB mit Balkon in Ottweiler/Saar,149.000 €,"66564 Ottweiler, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,90 m²,1.656 €/m²,nil,nil,nach Absprache,1,1,1 Stellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Gemütliche Dachgeschosswohnung mit Balkon in Zentrum von Saarlouis zu verkaufen,110.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"54,88 m²",2.004 €/m²,Dachgeschoss,nil,nil,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Projektierte Neubau-Eigentumswohnung im Wohngebiet Franzenbrunnen Saarbrücken,374.000 €,"Rudolph- Stefan-Straße 0,
+Klarenthal, 66117 Saarbrücken",2,"76,34 m²",4.899 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Pflegeimmobilie langfristig vermietet! Keine Eigennutzung möglich!,285.732 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,54 m²,5.291 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Hochwertig ausgestattete Eigentumswohnung am Bübinger Berg,349.000 €,"Bübingen, 66129 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,2.908 €/m²,Erdgeschosswohnung,40 m²,Nach Vereinbarung,2,1,1 Garage,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Erdgeschoss-Wohnung in grüner Randlage von Ottweiler!,89.000 €,"66564 Ottweiler, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",70 m²,1.271 €/m²,nil,nil,ab sofort,1,1,1 Garage,siehe Sonstiges,{'is24qa-balkon-terrasse-label': ''}
+HOMBURG-CITYLAGE; SCHÖNE UND HELLE 2 ZKB MAISONETTEWOHNUNG NÄHE MARKTPLATZ ZU VERKAUFEN,129.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,43 m²,3.000 €/m²,Maisonette,5 m²,nach Vereinbarung,1,1,nil,"3,57 % (vom Kaufpreis incl. MwSt.)",{'is24qa-vermietet-label': ''}
+Ihre Altervorsorge in Homburg-City Ihre Chance auf 2 Wohneinheiten,130.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,80 m²,1.625 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57%",{'is24qa-online-besichtigung-moeglich-label': ''}
+PERL : ALTERSGERECHTE Wohnung in der = SENIORENGALERIE MOSELPARK = mit Terrasse !,298.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"71,62 m²",4.161 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"3,57 % ( incl. 19 % MwSt )","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+HOMBURG UNI-NÄHE; TOP GEPFLEGTE 2 ZKB EIGENTUMSWOHNUNG MIT GARAGE,129.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,1.985 €/m²,Etagenwohnung,10 m²,vermietet,1,1,1 Garage,"3,57 % (vom Kaufpreis incl. MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-vermietet-label': ''}"
+"Lichtdurchflutete 3-Zimmer Wohnung mit Balkon ""Am Homburg""!",149.000 €,"St. Johann, 66123 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,63 m²,2.365 €/m²,nil,nil,nil,1,1,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Modernes Leben in den eigenen vier Wänden! Frisch sanierte Eigentumswohnung am Eschberg!,219.000 €,"Eschberg, 66121 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,2.671 €/m²,nil,nil,ab sofort!,2,1,nil,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+NUR PAKET 4 WE! KAPITALANLAGE! Traumappartement fürs tägliche sanfte Erwachen! RENDITEOBJEKT! PAKET!,65.000 €,"Herrensohr, 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,31 m²,2.097 €/m²,Erdgeschosswohnung,nil,sofort,nil,1,nil,"3,57% des Kaufpreises inkl. 19% MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+HOMBURG-STADTMITTE; PENTHOUSE MIT HERRLICHEM AUSBLICK INS GRÜNE,359.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,151 m²,2.377 €/m²,Penthouse,2 m²,sofort,3,1,1 Tiefgaragen-Stellplatz,"3,57 % (vom Kaufpreis incl. MwSt.)",{'is24qa-personenaufzug-label': ''}
+Rohdiamant zum Veredeln! Schön geschnittene 3-Zimmer-Wohnung in gefragter Umgebung,195.000 €,"St. Johann, 66121 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,2.167 €/m²,Dachgeschoss,0 m²,nil,2,1,nil,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Eigentumswohnung in Beckingen-Haustadt,138.000 €,"66701 Beckingen, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,81 m²,1.704 €/m²,Dachgeschoss,5 m²,sofort,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.",{}
+Ihre Gelegenheit - gepflegte Eigentumswohnung in Homburg - City,145.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,81 m²,1.790 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57",{'is24qa-online-besichtigung-moeglich-label': ''}
+Singlewohnung in Merzig,65.000 €,"66663 Merzig, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,40 m²,1.625 €/m²,Etagenwohnung,nil,sofort,1,1,nil,"4,577 % inkl. ges. MwSt.",{}
+Attraktive Kapitalanlage am Saarbrücker Winterberg!,85.000 €,"St. Arnual, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,43 m²,1.977 €/m²,nil,nil,nil,1,1,1 Stellplatz,siehe Sonstiges,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Wohnung mit großer Terrasse für den Landeanflug Ihrer Freunde! ALTERSRUHESITZ! Junges FAMILIENGLÜCK!,449.000 €,"Bübingen, 54316 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"103,93 m²",4.320 €/m²,Erdgeschosswohnung,nil,01.10.2024,2,2,2 Tiefgaragen-Stellplätze,"2,38% des Kaufpreises inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Exklusives Apartment mit hinreißendem Blick auf das Saarbrücker Almet!,119.000 €,"St. Arnual, 66117 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,39 m²,3.051 €/m²,nil,nil,nil,1,1,nil,3.57 %,{'is24qa-balkon-terrasse-label': ''}
+Eigentumswohnung in Wadern,158.000 €,"66687 Wadern, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,93 m²,1.699 €/m²,Souterrain,11 m²,nil,2,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Erdgeschosswohnung mit Gartenanteil in Gersweiler!,145.000 €,"Gersweiler, 66128 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,1.450 €/m²,nil,nil,nil,2,1,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Frisch sanierte Eigentumswohnung in St. Ingbert!,149.000 €,"66386 Sankt Ingbert, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,1.774 €/m²,Dachgeschoss,nil,ab sofort!,nil,1,1 Stellplatz,3.57 %,{'is24qa-keller-label': ''}
+Gestalten Sie Ihre neue Erdgeschosswohnung im stilvollen Neubau!,369.000 €,"66386 Sankt Ingbert, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,109 m²,3.385 €/m²,nil,nil,nil,2,1,1 Stellplatz,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+TOP LAGE ! Wohnen in einem der angesagtesten Stadtviertel in Hanglage mit Penthousecharakter,375.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"170,43 m²",2.200 €/m²,Terrassenwohnung,30 m²,nil,nil,2,2 Stellplätze,"2,98% inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Mit dieser Pflegeimmobilie erhalten Sie 540 EUR pro Monat Mieteinnahmen.,224.999 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,59 m²,3.814 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Behindertengerechte, vermietete Eigentumswohnung",128.000 €,"66636 Tholey, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,1.969 €/m²,Etagenwohnung,4 m²,nil,1,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+"3,5 Zimmer Küche und Bad mit Aufzug und Balkon in Saarlouis zu Verkaufen",167.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",89 m²,1.876 €/m²,Etagenwohnung,5 m²,nil,2,1,nil,"Die Maklercourtage für den Käufer beträgt 3,57 % (incl. gesetzl. Mwst.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Neubau Etagen-Wohnung KfW 40+ NH in SB-Ensheim!,317.000 €,"Ensheim, 66131 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"82,27 m²",3.853 €/m²,Etagenwohnung,6 m²,01.04.2025,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Attraktive Dachgeschosswohnung mit viel Charme,105.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,1.221 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-garten-mitbenutzung-label': ''}
+Pflegeimmobilie langfristig vermietet! Keine Eigennutzung möglich!,242.599 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,45 m²,5.391 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Große ruhige Wohnung mit Blick ins Grüne,89.000 €,"66539 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"82,67 m²",1.077 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Topgepflegte 3 ZKB-Eigentumswohnung in Alt-Saarbrücken,165.000 €,"Alt-Saarbrücken, 66117 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"65,2 m²",2.531 €/m²,Etagenwohnung,nil,nach Absprache,2,1,nil,"3,57 % (incl. 19 % MWST) des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+2 Zimmer + Balkon in gepflegter Seniorenanlage – Zukunftsorientierte & langfristige Mieterträge,179.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,2.983 €/m²,Etagenwohnung,nil,nach Vereinbarung,1,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+"3,5 Zimmer Küche und Bad mit Aufzug und Balkon in Saarlouis zu Verkaufen",167.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",89 m²,1.876 €/m²,Etagenwohnung,5 m²,nil,2,1,nil,"Die Maklercourtage für den Käufer beträgt 3,57 % (incl. gesetzl. Mwst.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Helle moderne ETW mit großzügiger Raumaufteilung,230.000 €,"66459 Kirkel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,2.706 €/m²,Etagenwohnung,nil,Februar 2024,2,1,1 Außenstellplatz,"3,57 % (incl. 19 % MWST) des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Sonnige Eigentumswohnung über zwei Etagen in Bexbach,275.000 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,93 m²,2.957 €/m²,Etagenwohnung,11 m²,Juli,1,1,2 Außenstellplätze,"2,975% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Neubau Effizienzhaus Wohnung KfW 40+ NH in SB-Ensheim!,317.000 €,"Ensheim, 66131 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"82,27 m²",3.853 €/m²,Etagenwohnung,6 m²,01.04.2025,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Neubau Effizienzhaus Wohnung KfW 40+ NH in SB-Ensheim!,495.000 €,"Ensheim, 66131 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,122 m²,4.057 €/m²,Penthouse,6 m²,01.10.2024,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumwohnung fürs täglich sanfte Erwachen! 2 -Zimmer Wohnung! Raumwunder - kleine Welt GANZ GROSS!,144.750 €,"Bübingen, 66129 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,61 m²,2.373 €/m²,Etagenwohnung,nil,sofort,1,1,2 Außenstellplätze,"3,57% des Kaufpreises inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Luxeriöse Penthouse-Wohnung in ruhiger Lage und Grenznähe zu Luxemburg - Rendite oder Eigennutzung,279.000 €,"Mühlenstraße 11,
+66706 Perl, Merzig-Wadern (Kreis)",3,85 m²,3.282 €/m²,Penthouse,85 m²,2024,2,1,1 Außenstellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Sichere Altersvorsorge in Saarlouis-City,145.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,66 m²,2.197 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+ATTRAKTIVES IMMOBILIENPAKET MIT 7 ETW UND EINE GEWERBEEINHEIT IN FREISEN-OBERKIRCHEN,1.200.000 €,"66629 Freisen, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,"473,69 m²",2.533 €/m²,Etagenwohnung,nil,nach Vereinbarung,9,7,11 Außenstellplätze,"3,57 % (vom Kaufpreis incl. MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-vermietet-label': ''}"
+Großzügige 2 ZKB-Wohnung in Innenstadtlage von Homburg,165.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,74 m²,2.230 €/m²,Etagenwohnung,nil,nach Absprache,1,1,1 Tiefgaragen-Stellplatz,"3,57 % (incl. 19 % MWST) des Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Attraktive, vielseitig nutzbare Eigentumswohung in zentraler Lage",249.000 €,"66571 Eppelborn, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,181 m²,1.376 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Exklusive Neubauwohnungen in Saarlouis in ruhiger Lage Nähe Innenstadt,528.900 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,4.599 €/m²,Etagenwohnung,nil,nil,nil,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Originelle großzügige Dachgeschosswohnung mit Dachterrasse, Garage und PKW-Stellplatz in Neuweiler.",194.500 €,"66280 Sulzbach/Saar, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,2.262 €/m²,Dachgeschoss,nil,nil,2,2,2 Garagen,"3,57% des notariellen Kaufpreises",{'is24qa-balkon-terrasse-label': ''}
+exklusive hochwertig renovierte Studiowohnung 2 ZKB Balkon in Toplage in Homburg-Sanddorf,350.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,105 m²,3.333 €/m²,nil,nil,nach Absprache,1,1,1 Carport,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Schöne Eigentumswohnung mit Garten in Saarlouis-OT,120.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,1.412 €/m²,Etagenwohnung,nil,frei nach Vereinbarung,nil,1,1 Stellplatz,"3,57 %",{'is24qa-keller-label': ''}
+hochwertig komfortable renovierte Wohnung 5 ZKB Balkon in Toplage in Homburg-Sanddorf,450.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,3.333 €/m²,nil,nil,nach Absprache,4,2,1 Carport,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Sanierte Eigentumswohnung mit idealer Aufteilung,209.000 €,"66557 Illingen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"133,32 m²",1.568 €/m²,Etagenwohnung,nil,nil,4,1,1 Stellplatz,"2,75% zzgl. der gesetzlich gültigen MwSt.",{'is24qa-keller-label': ''}
+Pflegeimmobilie langfristig vermietet! Keine Eigennutzung möglich!,250.294 €,"66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,48 m²,5.214 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Vermietete Eigentumswohnung,79.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,57 m²,1.386 €/m²,Etagenwohnung,nil,sofort,1,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"TOP gepflegte 4ZKB Eigentumswohnung mit Balkon, Garage und Kellerraum in zentraler Lage von Merzig",199.000 €,"66663 Merzig, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"104,1 m²",1.912 €/m²,nil,"4,2 m²",nil,3,1,Garage,"3,57% inkl. MwSt.",{}
+Vermietete Eigentumswohnung mit TG-Stellplatz,115.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,1.106 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+20 Jahre garantierte Mietzahlungen (Indexiert) I Kein Verwaltungsaufwand,190.000 €,"66292 Riegelsberg, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",50 m²,3.800 €/m²,nil,50 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+top exklusive renovierte Erdgeschosswohnung 5 ZKB Balkon in Toplage in Homburg-Sanddorf,450.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,3.333 €/m²,nil,nil,nach Absprache,4,2,1 Carport,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Gepflegte helle 4,5 ZKB-Maisonettenwohnung mit Balkon",165.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,1.500 €/m²,Maisonette,5 m²,nil,3,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Großzügige 2 ZKB-Wohnung in uninaher Lage von Dudweiler,128.000 €,"Dudweiler (Ortsteil), 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,2.000 €/m²,Etagenwohnung,nil,nil,1,1,nil,"2,38 % (incl. 19 % MWST) des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Barrierefreie Eigentumswohnung mit moderner Raumaufteilung zu verkaufen,179.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",70 m²,2.557 €/m²,Etagenwohnung,5 m²,nil,1,1,1 Garage,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Pflegeimmobilie langfristig vermietet! Keine Eigennutzung möglich!,217.024 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,42 m²,5.167 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+20 Jahre garantierte Mietzahlungen (Indexiert) I Kein Verwaltungsaufwand,250.000 €,"66629 Freisen, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",50 m²,5.000 €/m²,nil,60 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive Maisonettenwohnung in Saarlouis,575.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,170 m²,3.382 €/m²,Maisonette,nil,frei nach Vereinbarung,nil,1,2 Stellplätze,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+top interessante große Wohnung 3 ZKB mit Terrasse in Dudweiler(Saar),229.000 €,"Dudweiler (Ortsteil), 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,106 m²,2.160 €/m²,nil,nil,nach Absprache,2,1,1 Stellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Kapitalanleger!! Vermietete zwei Zimmer Wohnung zu verkaufen,95.000 €,"Grühlingshöhe 2,
+Dudweiler (Ortsteil), 66125 Saarbrücken",2,54 m²,1.759 €/m²,Etagenwohnung,54 m²,nil,1,1,nil,"2,38","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+"Wohnen im SCHLOSSGARTEN HILBRINGEN - CITYNAH WOHNEN UND LEBEN, wo viele Urlaub machen!",499.000 €,"66663 Merzig, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"120,51 m²",4.141 €/m²,Penthouse,nil,2025,3,1,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ZWEI Eigentumswohnungen zu EINEM Preis!!!,130.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,1.444 €/m²,Etagenwohnung,nil,nil,2,2,2 Außenstellplätze,"Die Courtage beträgt 3,57 % inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+4 Zimmer Wohnung zu verkaufen,185.000 €,"Memelerstr. 59,
+Eschberg, 66113 Saarbrücken",4,96 m²,1.927 €/m²,Dachgeschoss,96 m²,nil,3,1,nil,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Wunderschöne Dachgeschoss Maisonette Wohnung in St.Wendel mit tollem Ausblick,342.000 €,"Welvertsstr. 10,
+66606 Sankt Wendel, Sankt Wendel (Kreis)",2,98 m²,3.490 €/m²,Dachgeschoss,10 m²,01.12.2023,1,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+HOMBURG-OT; HOCHWERTIGE UND SONNIGE NEUBAUWOHNUNG MIT 2 TERRASSEN UND TIEFGARAGE,629.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",126 m²,4.992 €/m²,Etagenwohnung,nil,sofort,2,2,Tiefgaragen-Stellplatz,"3,57 % (vom Kaufpreis incl. MwSt.)",{'is24qa-personenaufzug-label': ''}
+"Schöne, sanierte 3 Zimmer Wohnung in Saarbrücken als Kapitalanlage !!!",129.000 €,"Richardstraße 21,
+Altenkessel, 66126 Saarbrücken",3,90 m²,1.433 €/m²,nil,90 m²,nil,2,1,nil,"1,78%",{'is24qa-einbaukueche-label': ''}
+top gepflegte und attraktive Wohnung 4ZKB Balkon im Stadtzentrum im Herzen von Homburg -Saar,205.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,111 m²,1.847 €/m²,nil,nil,nach Absprache,3,2,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Sehr gepflegte Eigentumswohnung am Klinikum Saarbrücken!,125.000 €,"St. Arnual, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"56,59 m²",2.209 €/m²,Erdgeschosswohnung,"2,5 m²",nil,1,1,nil,"3,57 % Inkl. Mwst.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Großzügige Maisonettewohnung mit traumhaftem Fernblick auf dem Reppersberg,365.000 €,"Alt-Saarbrücken, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,146 m²,2.500 €/m²,Maisonette,nil,nach Vereinbarung,nil,nil,nil,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+"Wohnen im SCHLOSSGARTEN HILBRINGEN - CITYNAH WOHNEN UND LEBEN, wo viele Urlaub machen!",299.000 €,"66663 Merzig, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"68,4 m²",4.371 €/m²,Erdgeschosswohnung,nil,2025,1,1,2 Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+AUSSERGEWÖHNLICHE EIGENTUMSWOHNUNG MIT GROSSEM BALKON UND GARAGE,295.000 €,"66386 Sankt Ingbert, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,88 m²,3.352 €/m²,Etagenwohnung,nil,sofort,1,1,2 Garagen,"3,57 % des Kaufpreises inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Exclusive Maisonettewohnung in Top Lage von Saarbrücken,479.000 €,"St. Johann, 66123 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,180 m²,2.661 €/m²,Maisonette,nil,ab sofort,nil,1,Garage,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+ETW in Toplage auf dem Eschberg.,219.000 €,"Eschberg, 66121 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,89 m²,2.461 €/m²,Etagenwohnung,nil,sofort,2,1,1 Carport,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Vermietetes Appartement mit Balkon und PKW-Stellplatz,68.900 €,"St. Johann, 66123 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"24,3 m²",2.835 €/m²,Erdgeschosswohnung,4 m²,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauwohnungen auch behindertengerecht in St. Wendel,252.000 €,"Welvertstr. 10,
+66606 Sankt Wendel, Sankt Wendel (Kreis)",2,84 m²,3.000 €/m²,Hochparterre,20 m²,01.08.2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+komfortable und top gepflegte Wohnung 2 ZKB mit Balkon und schönem Fernblick in Wiebelskirchen/Saar,159.000 €,"66540 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,70 m²,2.271 €/m²,nil,nil,nach Absprache,1,1,1 Stellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+!!! Achtung !!! Attraktive 2 ZKB Dachgeschoss Wohnung in ruhiger Lage von Neunkirchen,79.990 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,69 m²,1.159 €/m²,Dachgeschoss,5 m²,ab sofort,nil,1,Außenstellplatz,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Neubauwohnung St. Wendel mit wunderschönem Blick,349.000 €,"Welvertsstr. 10,
+66606 Sankt Wendel, Sankt Wendel (Kreis)",3,105 m²,3.324 €/m²,nil,10 m²,01..08.24,1,1,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigentumswohnung mit 77m² u. 2 PKW-Stellplätzen in Rilchingen-Hanweiler,149.999 €,"66271 Kleinblittersdorf, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,1.948 €/m²,nil,nil,nil,2,1,2 Außenstellplätze,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+3-Zimmer-Wohnung mit Garagenstellplatz,64.000 €,"Auf der Meß XXXX,
+66386 Sankt Ingbert, Saarpfalz-Kreis",3,65 m²,985 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Vermietete Dachgeschosswohnung,79.000 €,"66589 Merchweiler, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,69 m²,1.145 €/m²,Dachgeschoss,6 m²,nach Vereinbarung,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Luxus Neubauwohnung mit Terrasse und wunderschönem Garten,199.000 €,"66271 Kleinblittersdorf, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,115 m²,1.730 €/m²,Erdgeschosswohnung,nil,Nach Vereinbarung,nil,1,Außenstellplatz,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"2-Zimmer-Wohnung, Balkon, Stellplatz",120.000 €,"Lilienthalstraße XXXX,
+Alt-Saarbrücken, 66117 Saarbrücken",2,64 m²,1.875 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ganz tolle große Maisonetten Wohnung 3 ZKB mit Terrasse in schöner Lage in Kirkel/Saar,289.000 €,"66459 Kirkel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,133 m²,2.173 €/m²,nil,nil,nach Absprache,2,1,nil,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"3-Zimmer-Wohnung, Terrasse, Stellplatz + provisionsfrei +",338.000 €,"Robert-Koch-Straße XXXX,
+66450 Bexbach, Saarpfalz-Kreis",3,115 m²,2.939 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte Wohnung mit Loggia in Bexbach,149.000 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,1.656 €/m²,Etagenwohnung,8 m²,nil,2,1,1 Außenstellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Moderne Eigentumswohnung im EG mit schöner Terrasse in zentraler Lage von Mettlach- Orscholz,285.000 €,"66693 Mettlach, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,2.689 €/m²,nil,nil,nil,3,2,1 Außenstellplatz,"3,57% inkl. MwSt.",{}
+Ansprechende 4-Zimmer-Wohnung mit Balkon in Nohfelden,427.650 €,"66625 Nohfelden, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,55 m²",3.000 €/m²,Etagenwohnung,nil,3.3.2025,3,2,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Charmante Maisonette-Wohnung mit Balkon, EBK und Dachterrasse in begehrter Lage",230.000 €,"Malstatt, 66113 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,93 m²,2.473 €/m²,Maisonette,0 m²,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Wohnung ++ provisionsfrei ++,78.000 €,"Püttlinger Straße XXXX,
+Burbach, 66115 Saarbrücken",3,"73,02 m²",1.068 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Gepflegte Eigentumswohnung in ruhiger Lage,149.000 €,"66540 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,1.568 €/m²,Etagenwohnung,nil,nil,3,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+Neubau Etagen-Wohnung KfW 40+ NH in SB-Ensheim!,285.500 €,"Ensheim, 66131 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"74,1 m²",3.853 €/m²,Etagenwohnung,6 m²,01.04.2025,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Neubau Effizienzhaus Wohnung KfW 40+ NH in SB-Ensheim!,530.000 €,"Ensheim, 66131 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,131 m²,4.046 €/m²,Penthouse,6 m²,01.04.2025,1,1,2 Tiefgaragen-Stellplätze,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Gemütliches Appartment vermietet in begehrter Lage,68.500 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,35 m²,1.957 €/m²,Erdgeschosswohnung,nil,nil,nil,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Ihre Altersvorsorge in Saarbrücken-Schafbrücke,129.000 €,"Eschberg, 66121 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,2.081 €/m²,Etagenwohnung,nil,nil,1,1,1 Garage,"3,57","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-vermietet-label': ''}"
+3-Zimmer-Wohnung + provisionsfrei +,72.000 €,"Vogelstraße XXXX,
+66538 Neunkirchen, Neunkirchen (Kreis)",3,71 m²,1.014 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 2-Zimmer-Wohnung mit Terrasse und Garten +,123.000 €,"Saargemünder Straße XXXX,
+St. Arnual, 66119 Saarbrücken",2,"57,21 m²",2.150 €/m²,nil,4 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive Eigentumswohnung mit Burgblick,209.000 €,"66459 Kirkel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,87 m²,2.402 €/m²,Etagenwohnung,4 m²,01.06.2024,2,1,2 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Sicheres Investment in Spiesen-Elversberg,155.000 €,"66583 Spiesen-Elversberg, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"105,1 m²",1.475 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-vermietet-label': ''}"
+HOMBURG-OT; GEPFLEGTES 2 ZKB APARTMENT MIT BALKON IN UNI-NÄHE,69.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,35 m²,1.971 €/m²,Etagenwohnung,nil,sofort,1,1,Außenstellplatz,"3,57 % (vom Kaufpreis incl. MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-vermietet-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,110.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"39,59 m²",2.778 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,186.500 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"67,74 m²",2.753 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,99.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"35,21 m²",2.812 €/m²,Souterrain,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,141.500 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"51,39 m²",2.753 €/m²,Dachgeschoss,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+Zuhause gestalten in Neunkirchen: ETW mit Renovierungsbedarf in Neunkirchen,59.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"61,23 m²",964 €/m²,nil,nil,ab sofort,2,1,nil,"2,98 %",{'is24qa-online-besichtigung-moeglich-label': ''}
+HOMBURG-ZENTRUM; HELLES UND GEPFLEGTES 1 ZIMMER APARTMENT MIT TAGESLICHTBAD,89.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,25 m²,3.560 €/m²,Etagenwohnung,nil,15.06.2024,nil,1,nil,"3,57 % (vom Kaufpreis incl. MwSt.)",{'is24qa-personenaufzug-label': ''}
+Begegnungsstätte der Generationen – Winterbach,124.500 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"49,73 m²",2.504 €/m²,Etagenwohnung,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+Maisonettewohnung in beliebter Lage von Saarbrücken - St. Johann,270.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,2.700 €/m²,Maisonette,nil,nach Absprache,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+PERL-BESCH: 99 m² Wohnung mit 2 Schlafzimmer und Balkon!,359.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,99 m²,3.626 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+DIREKTE GRENZE LUXEMBURG: ALTERSGERECHTE WOHNUNG MIT 2 SCHLAFZIMMERN + 2 BÄDERN + TG-STELLPLATZ!,458.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,120 m²,3.817 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Sonnige 3-ZKB Maisonette-Wohnung mit Terrasse und Stellplatz,139.000 €,"Am Krenzelsberg 86,
+Burbach, 66115 Saarbrücken",3,70 m²,1.986 €/m²,Maisonette,20 m²,Sofort,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+SAARLOUIS-STEINRAUSCH: 2 WOHNUNGEN (60 m² + 45 m²) IN GUTER WOHNLAGE !,180.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,106 m²,1.698 €/m²,Dachgeschoss,nil,nil,3,1,nil,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+GRENZNÄHE: KLEINER BUNGALOW MIT KELLER + GARTEN + GARAGE IN TOP-LAGE!,295.000 €,"66693 Mettlach, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,80 m²,3.688 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Garage,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Panoramausblick - 2 ZKB mit EBK. Balkon, Carport + Kellerraum",149.000 €,"Akazienweg 17-18,
+Schafbrücke, 66121 Saarbrücken",2,65 m²,2.292 €/m²,Etagenwohnung,4 m²,Sofort,1,1,1 Carport,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+2 ZKB Wohnung mit Terrasse zum Renovieren in Fraulautern,85.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"48,81 m²",1.741 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% vom notariellen Kaufpreis",{'is24qa-balkon-terrasse-label': ''}
+Begegnungsstätte der Generationen – Winterbach,95.500 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"38,25 m²",2.497 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+METTLACH-ORSCHOLZ: Penthousewohnung mit großer Dachterrasse!,349.000 €,"66693 Mettlach, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,120 m²,2.908 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,79.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"27,76 m²",2.846 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+Charmante Wohnung mit Terrasse!,165.000 €,"Schafbrücke, 66121 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,110 m²,1.500 €/m²,Erdgeschosswohnung,nil,01.01.2025,nil,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+sehr große komfortable Wohnung 3 ZKB mit Balkon in fast direkter Uninähe in Homburg-Saar,298.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,130 m²,2.292 €/m²,nil,nil,nach Absprache,2,1,1 Garage,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,99.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"36,13 m²",2.740 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+3 ZBK mit EBK & Balkon & TG Stellplatz (Teilsaniert) BEZUGSFREI!,139.000 €,"Alt-Saarbrücken, 66117 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,73 m²,1.904 €/m²,Etagenwohnung,152 m²,sofort,2,1,1 Tiefgaragen-Stellplatz,"3,57 Courtage inkl. Mehrwertsteuer","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,171.500 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"62,24 m²",2.755 €/m²,Souterrain,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+MERZIG: EIGENTUMSWOHNUNG MIT FERNSICHT + 2 SCHLAFZIMMERN + STELLPLATZ!,179.000 €,"66663 Merzig, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,2.131 €/m²,Maisonette,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+PERL-BESCH: MÖBLIERTE 2-ZIMMER-WOHNUNG MIT GARAGE,278.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,48 m²,5.792 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Begegnungsstätte der Generationen – Winterbach,99.500 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"39,73 m²",2.504 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Top-Neubauwohnung im EG mit Terrasse und Garage,380.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,4.000 €/m²,Erdgeschosswohnung,20 m²,nach Absprache,2,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,115.500 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"42,03 m²",2.748 €/m²,Souterrain,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,95.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"34,23 m²",2.775 €/m²,Etagenwohnung,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,170.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"61,68 m²",2.756 €/m²,Etagenwohnung,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+"Paketverkauf mit Potenzial: Penthouse und ETW mit Schwimmbad, Sauna und Terrasse",230.000 €,"66280 Sulzbach/Saar, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"317,09 m²",725 €/m²,Penthouse,nil,ab sofort,2,2,2 Garagen,"2,98 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Begegnungsstätte der Generationen – Winterbach,95.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"34,23 m²",2.775 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"0,00","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': ''}"
+Wohnen im Zentrum von Saarlouis - 2 ZKB-Wohnung mit Balkon in Saarlouis zu verkaufen,105.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"53,27 m²",1.971 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Einmalige 5,5-Zimmer Duplex-Wohnung mit unverbaubaren Blick auf den Lago Maggiore",1.450.000 €,"6644 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",150 m²,9.667 €/m²,Etagenwohnung,nil,nil,3,2,2 Carports,"4,76 % inkl. MwSt.",{'is24qa-online-besichtigung-moeglich-label': ''}
+"Zentral gelegene, moderne Eigentumswohnung in Saarbrücken",160.000 €,"Malstatt, 66115 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"70,41 m²",2.272 €/m²,Etagenwohnung,3 m²,nil,2,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Moderne Wohnung mit Altbaucharme für Vermietung oder Eigennutzung!,149.000 €,"66620 Nonnweiler, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"108,58 m²",1.372 €/m²,Etagenwohnung,5 m²,nil,2,1,1 Carport,"3,57% inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': ''}"
+Gepflegte Eigentumswohnung mit Balkon in guter Lage von Völklingen,109.000 €,"66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,1.397 €/m²,nil,nil,nil,2,nil,Tiefgaragen-Stellplatz,"3,57 %",{'is24qa-balkon-terrasse-label': ''}
+"Stilvolle, geräumige 2-Zimmer-Wohnung mit Balkon in Bosen",248.403 €,"66625 Nohfelden, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"80,13 m²",3.100 €/m²,Erdgeschosswohnung,nil,1.2.2025,2,2,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+komfortable und moderne Wohnung 3 ZKB mit Balkon in guter Lage in Kirkel-Limbach,215.000 €,"66459 Kirkel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,2.529 €/m²,nil,nil,nach Absprache,2,1,2 Stellplätze,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+525 EUR jeden Monat auf ihr Konto. Kapital in eine Pflegeimmobilie anlegen und zurücklehnen.,210.856 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,3.514 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Stilvolle Maisonette Wohnung in begehrter Lage von Mettlach,249.000 €,"66693 Mettlach, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,140 m²,1.779 €/m²,Maisonette,25 m²,nil,2,2,Außenstellplatz,"3,57% inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Exklusive 3-Zimmer-Wohnung mit Balkon in Bosen,302.250 €,"66625 Nohfelden, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"97,5 m²",3.100 €/m²,Etagenwohnung,nil,1.1.2025,2,2,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte 1ZKB Eigentumswohnung in zentraler Lage von Blieskastel,75.000 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"39,77 m²",1.886 €/m²,nil,3 m²,nil,nil,1,nil,3.000€ inkl. MwSt.,{}
+Eigentumswohnung mit Blick in den Echelmayer Park,285.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,119 m²,2.395 €/m²,Etagenwohnung,nil,nil,nil,2,nil,"2,75% zzgl. der gesetzlich gültigen MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Neubau Effizienzhaus Wohnung KfW 40+ NH in SB-Ensheim!,245.500 €,"Ensheim, 66131 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,65 m²,3.777 €/m²,Etagenwohnung,6 m²,01.04.2025,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Gemütliche Dachgeschosswohnung im Zentrum von Saarlouis zu verkaufen,99.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"45,74 m²",2.164 €/m²,Dachgeschoss,nil,nil,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Helle Penthousewohnung in kleiner Wohneinheit auf dem Saarbrücker Rotenbühl,328.000 €,"St. Johann, 66123 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,3.280 €/m²,Dachgeschoss,nil,nach Vereinbarung,1,1,1 Garage,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Schöne Wohnung mit drei Zimmern zum Kauf in Nohfelden,310.110 €,"66625 Nohfelden, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"103,37 m²",3.000 €/m²,Erdgeschosswohnung,nil,3.3.2025,3,2,1 Außenstellplatz,Nein,"{'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sehr schöne EG-Wohnung in Homburg-Beeden!,199.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,77 m²,2.584 €/m²,Erdgeschosswohnung,7 m²,nil,1,1,2 Stellplätze,"3,57% inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Neuwertige traumhafte EG Wohnung mit Garage, Stellplätzen und eigenem großen Garten",199.900 €,"66583 Spiesen-Elversberg, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,130 m²,1.538 €/m²,Erdgeschosswohnung,15 m²,ab sofort,nil,1,Garage,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Neubau-Eigentumswohnung in Homburg / Saar,136.044 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"37,79 m²",3.600 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive Wohnung mit offenem Wohnkonzept und Balkon,56.000 €,"St. Johann, 66123 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,24 m²,2.333 €/m²,Etagenwohnung,0 m²,nil,nil,1,1 Außenstellplatz,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Großzügige 2 ZKB - Studiowohnung, NB-Erstbezug, in kernsaniertem Villenanwesen",217.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,70 m²,3.100 €/m²,Dachgeschoss,nil,nach Absprache,1,1,nil,"2,38 % (incl. 19 % MWST) des Kaufpreises",{'is24qa-balkon-terrasse-label': ''}
+Offen für Angebote: 1.0-Zimmer Wohnung in Nohfelden,nil,"66625 Nohfelden, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,58 m²,1.638 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,nil,{}
+Gepflegte Etagenwohnung mit Balkon in Neunkirchen zu verkaufen,89.000 €,"Im Altseiterstal 4,
+66538 Neunkirchen, Neunkirchen (Kreis)",3,75 m²,1.187 €/m²,Etagenwohnung,nil,nach Absprache,2,1,nil,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Moderne 4-ZKB-Eigentumswohnung im Penthouse-Stil,399.000 €,"Malstatt, 66115 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,2.956 €/m²,nil,nil,sofort,nil,nil,2 Außenstellplätze,"3,57 % inkl. gesetzl. MwSt.",{}
+WOHNGLÜCK - lichtdurchflutete Eigentumswohnung mit zwei Balkonen und Garage in Kohlhof!,150.000 €,"66539 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,101 m²,1.485 €/m²,nil,nil,sofort,2,1,1 Garage,"3,57% Käuferprovision inkl. 19% MwSt. fällig bei Kaufvertragsabschluss","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Gepflegte 4-Zimmer-Wohnung mit Balkon in Völklingen-Lauterbach,110.000 €,"66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,1.100 €/m²,Erdgeschosswohnung,nil,nach Vereinbarung,nil,1,nil,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Angebot: zwei moderne Eigentumswohnungen zu verkaufen!,345.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,2.029 €/m²,Etagenwohnung,nil,01.06.2023,2,1,nil,"3,57",{'is24qa-keller-label': ''}
+Mit dieser Pflegeimmobilie erhalten Sie 540 EUR pro Monat Mieteinnahmen.,227.855 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,61 m²,3.735 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Großzügige 3 ZKB - Studiowohnung, NB-Erstbezug, in kernsaniertem Villenanwesen",295.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,3.105 €/m²,Dachgeschoss,nil,nach Absprache,2,1,nil,"2,38 % (incl. 19 % MWST) des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+"Eigentumswohnung 2 ZKB Homburg Berliner Wohnpark, Südbalkon",119.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,2.052 €/m²,Etagenwohnung,58 m²,nil,1,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+NATURVERBUNDEN - gemütliche Dachgeschoss-Wohnung mit großem Balkon in Furpach!,155.000 €,"66539 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,106 m²,1.462 €/m²,nil,nil,sofort,2,1,nil,"3,57% Käuferprovision inkl. 19% MwSt. fällig mit Kaufvertragsabschluss",{'is24qa-balkon-terrasse-label': ''}
+Vermietete Eigentumswohnung mit Balkon und Autostellplatz in 66299 Friedrichsthal zu Verkaufen,85.000 €,"66299 Friedrichsthal, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,60 m²,1.417 €/m²,Etagenwohnung,nil,nil,1,1,Außenstellplatz,"Die Maklercourtage für den Käufer beträgt 3,57 % (incl. gesetzl. Mwst.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Attraktive 2-Zimmer-Wohnung,84.900 €,"Am Ludwigsberg 66,
+Malstatt, 66113 Saarbrücken",2,"38,16 m²",2.225 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Renovierte Eigentumswohnung in zentraler Lage von St. Ingbert zu verkaufen,120.000 €,"66386 Sankt Ingbert, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,2.182 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Eigentumswohnung in Saarbrücken,285.000 €,"Dudweiler (Ortsteil), 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,2.591 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Gut geschnittene Wohnung in Dudweiler-Süd mit zwei Balkonen und einer Loggia,195.000 €,"Dudweiler (Ortsteil), 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,1.990 €/m²,Etagenwohnung,nil,sofort,2,1,1 Tiefgaragen-Stellplatz,"3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Mit dieser Pflegeimmobilie erhalten Sie 540 EUR pro Monat Mieteinnahmen.,216.750 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,59 m²,3.674 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+20 Jahre garantierte Mietzahlungen (Indexiert) I Kein Verwaltungsaufwand,190.000 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,3.800 €/m²,nil,50 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Helle Eigentumswohnung mit Balkon, Aussicht zum Saarpolygon",229.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,2.082 €/m²,Etagenwohnung,nil,nil,3,1,nil,"3,57 % incl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Barrierefreie Eigentumswohnung im Bungalowstil in bester Lage von Saarbrücken Güdingen zu verkaufen,499.000 €,"Güdingen, 66130 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,200 m²,2.495 €/m²,Erdgeschosswohnung,nil,nil,nil,2,1 Garage,"2,975 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+2 Zimmer Wohnung zu verkaufen,114.000 €,"Hochstr. 21,
+66280 Sulzbach/Saar, Stadtverband Saarbrücken (Kreis)",2,50 m²,2.280 €/m²,Etagenwohnung,50 m²,nil,1,1,nil,"2,38 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"HOMBURG-ZENTRUM; GEPFLEGTE 1,5 ZKB WOHNUNG MIT SONNIGEM BALKON",78.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",38 m²,2.053 €/m²,Etagenwohnung,5 m²,01.07.2024,1,1,nil,"3,57 % (vom Kaufpreis incl. MwSt.)",{'is24qa-personenaufzug-label': ''}
+Grenznah! Moderne Eigentumswohnung!,195.000 €,"66693 Mettlach, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,52 m²,3.750 €/m²,Dachgeschoss,52 m²,nil,1,1,1 Garage,"3,57","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+HAUS STATT WOHNUNG!,448.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,3.090 €/m²,Etagenwohnung,nil,nil,2,3,2 Garagen,"3,57 % inkl. MwSt",{}
+PERL: NEUWERTIGE 87 m² ERDGESCHOSS WOHNUNG,320.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"86,6 m²",3.695 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Außenstellplatz,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+"Appartement incl. Stellplatz, Garage u. Balkon in Perl-Nennig zu verkaufen",389.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,3.705 €/m²,Dachgeschoss,nil,nil,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Provisionsfreie 2-Zi. Eigentumswohnung m. Balkon - Top gepflegt, ruhig, sonnig, zentrale Lage",159.500 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,52 m²,3.067 €/m²,Etagenwohnung,nil,nach Absprache,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigentumswohnung in City von Püttlingen,119.000 €,"66346 Püttlingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,68 m²,1.750 €/m²,Dachgeschoss,nil,nil,2,1,1 Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+3 Zimmer Wohnung mit großem Balkon zu verkaufen,250.000 €,"Am Schmittenberg 13,
+Scheidt, 66133 Saarbrücken",3,"83,67 m²",2.988 €/m²,Etagenwohnung,"83,67 m²",nil,2,1,1 Tiefgaragen-Stellplatz,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Renovierte 3-ZKB mit Garage und privatem Garten am Eurobahnhof,229.000 €,"Jägersfreuder Straße 25,
+Malstatt, 66113 Saarbrücken",3,79 m²,2.899 €/m²,Erdgeschosswohnung,8 m²,Sofort,1,1,1 Garage,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Appartement incl. Stellplatz, Garage u. Balkon in Perl-Nennig zu verkaufen",479.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,3.685 €/m²,nil,nil,nil,2,1,2 Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ZWEI Eigentumswohnungen zu EINEM Preis!!!,130.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,1.444 €/m²,Etagenwohnung,nil,nil,2,2,2 Außenstellplätze,"Die Courtage beträgt 3,57 % inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Renovierte 3-ZKB mit Garage und Wintergarten am Eurobahnhof,219.000 €,"Jägersfreuder Straße 25,
+Malstatt, 66113 Saarbrücken",3,82 m²,2.671 €/m²,Etagenwohnung,8 m²,Sofort,1,1,1 Garage,"3,57% inkl. MwSt.",{'is24qa-keller-label': ''}
+"Renovierte 2-ZKB DG-Wohnung mit Garage, EBK+Wintergarten am Eurobahnhof",149.000 €,"Jägersfreuder Straße 25,
+Malstatt, 66113 Saarbrücken",3,57 m²,2.614 €/m²,Dachgeschoss,8 m²,Sofort,1,1,1 Garage,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Sofort wohlfühlen: Schöne, modernisierte 3-Zi.-ETW in zentraler Lage von Neunkirchen",99.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"77,99 m²",1.269 €/m²,nil,"32,61 m²",ab sofort,2,1,nil,"2,98 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+DILLINGEN-DIEFFLEN: 104 m ² Wohnung + Garage!,229.000 €,"66763 Dillingen/Saar, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"104,43 m²",2.193 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,"3,57 % (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Renovierungsbedürftige Zwei-Zimmer-Wohnung im 1. Obergeschoss mit Balkon,109.000 €,"66763 Dillingen/Saar, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,06 m²",1.729 €/m²,nil,2 m²,nil,1,1,nil,"3,57 % inkl. MwSt.",{}
+2 Zimmer Wohnung zu verkaufen,70.000 €,"Grühlingshöhe 2,
+Dudweiler (Ortsteil), 66125 Saarbrücken",2,54 m²,1.296 €/m²,Etagenwohnung,54 m²,nil,1,1,nil,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"WOHNUNG MIT 3 SCHLAFZIMMERN, 2 GARAGEN UND UMZÄUNTEN GARTEN IN TOLLER LAGE!",378.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,3.150 €/m²,Erdgeschosswohnung,nil,nil,3,2,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"SEHR GEPFLEGTE 2 ZKB WOHNUNG MIT EBK, BALKON, GARAGE UND STELLPLATZ IN FRIEDRICHSTHAL - SOFORT FREI",135.000 €,"66299 Friedrichsthal, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,2.328 €/m²,Etagenwohnung,nil,sofort frei,1,1,2 Garagen,"3,57 % inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Sonnige kl. Eck-Wohnung mit Balkon und TG im Kaufpreis enthalten-ca. 5,5 % Bruttorendite mögl.",121.000 €,"Malstatt, 66113 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",41 m²,2.951 €/m²,Etagenwohnung,5 m²,Oktober 2024,1,1,1 Tiefgaragen-Stellplatz,"2,98 % inkl. 19 % Mwst.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+**** VIS-Á-VIS HOMBURG **** Modernes Wohnen in Homburg,509.076 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"128,88 m²",3.950 €/m²,Penthouse,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*** 2 ZKB mit Balkon in den Gartenreihen ***,139.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,74 m²,1.878 €/m²,nil,nil,Sofort frei,1,1,Garage,"3,57 % incl. der gesetzl. MwSt. (Käufercourtage)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+**** VIS-Á-VIS HOMBURG **** Moderne Neubau-Eigentumswohnungen in Homburg,237.312 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"65,92 m²",3.600 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DIREKTE GRENZE: NEUE DG-WOHNUNG MIT MOSELBLICK!,298.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,5.138 €/m²,Dachgeschoss,nil,nil,1,1,2 Außenstellplätze,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+PERL: NEUWERTIGE 106 m² OG-WOHNUNG MIT WÄRMEPUMPE!,379.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,106 m²,3.575 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Sofort wohlfühlen: Helle 4-Zi.-Whg. mit Balkon in guter Lage von Namborn-Hirstein,185.000 €,"66640 Namborn, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,99 m²",1.492 €/m²,nil,50 m²,ab sofort,2,1,nil,"2,38 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+97 M2 - EG WOHNUNG - 2 SCHLAFZIMMER IN LOSHEIM!,335.000 €,"66679 Losheim am See, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,97 m²,3.454 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+**** FRANZENBRUNNEN SAARBRÜCKEN **** Neubauprojekt dreipunkteins,563.000 €,"Alt-Saarbrücken, 66117 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"125,21 m²",4.496 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Maisonettewohnung mit 40 m² Dachterrasse / Tiefgarage in Top-Lage von Saarbrücken-Triller,279.000 €,"Alt-Saarbrücken, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,84 m²,3.321 €/m²,Maisonette,4 m²,nil,1,1,Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Große Duplexwohnung in hochwertiger Ausführung mit Garagenstellplatz in toller Höhenlage von PERL!,535.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,120 m²,4.458 €/m²,Maisonette,nil,nil,3,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+**** FRANZENBRUNNEN SAARBRÜCKEN **** Neubauprojekt dreipunkteins,469.000 €,"Alt-Saarbrücken, 66117 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"111,74 m²",4.197 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+**** FRANZENBRUNNEN SAARBRÜCKEN **** Neubauprojekt dreipunkteins,739.500 €,"Alt-Saarbrücken, 66117 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"139,57 m²",5.298 €/m²,Maisonette,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+PERL: EIGENTUMSWOHUNG MIT 2 SCHLAFZIMMERN UND GARAGENSTELLPLATZ!,398.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,4.628 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+PERL: 108 M² ALTERSGERECHTE WOHNUNG MIT GROßER TERRASSE,444.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,108 m²,4.111 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"BESCH: 101 m² WOHNUNG MIT GARTEN, SOFORT FREI!",360.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,101 m²,3.564 €/m²,Erdgeschosswohnung,nil,nil,2,2,1 Carport,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+NEUER PREIS!!! HOMBURG - STADTMITTE; EXKLUSIVES PENTHOUSE MIT SPEKTAKULÄREM AUSBLICK,499.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,140 m²,3.564 €/m²,Penthouse,10 m²,sofort,2,2,nil,"3,57 % (vom Kaufpreis incl. MwSt.)",{'is24qa-personenaufzug-label': ''}
+Grenznähe Luxemburg: ORSCHOLZ! Gepflegte Maisonettewohnung mit 2 KFZ-Stellplätzen!,289.000 €,"66693 Mettlach, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,91 m²,3.176 €/m²,Maisonette,nil,nil,2,1,2 Außenstellplätze,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+HOMBURG-UNINÄHE; GEPFLEGTE UND HELLE 3 ZKB WOHNUNG MIT TG IN RUHIGER WALDRANDLAGE,239.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,103 m²,2.320 €/m²,Etagenwohnung,10 m²,spätestens Juli 2025,3,2,2 Tiefgaragen-Stellplätze,"3,57 % (vom Kaufpreis incl. MwSt.)",{}
+**** VIS-Á-VIS HOMBURG **** Moderne Neubau-Eigentumswohnungen in Homburg,547.391 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"138,58 m²",3.950 €/m²,Penthouse,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"LUST AUF 6,3% RENDITE? MIT BALKON & STELLPLATZ",59.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,30 m²,1.967 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Außenstellplatz,2.5% inkl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Ort der Gemütlichkeit: Vielseitige 4-Zi.-Erdgeschosswhg. mit Balkon in Namborn-Hirstein,179.000 €,"66640 Namborn, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,132 m²,1.356 €/m²,Erdgeschosswohnung,nil,nach Absprache,3,1,nil,"2,38 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Kompaktes Wohnen in Völklingen: Vermietete 1-Zimmer-Wohnung unweit des Bürgerparks,75.000 €,"66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"44,82 m²",1.673 €/m²,nil,nil,nach Absprache,1,1,nil,"2975,00 €","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Vollständig renovierte Dachgeschosswohnung mit dreieinhalb Zimmern und Balkon in Sankt Ingbert,272.000 €,"Blieskasteler Straße 236,
+66386 Sankt Ingbert, Saarpfalz-Kreis",3,"91,56 m²",2.971 €/m²,Dachgeschoss,nil,ab sofort,nil,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"SB-City, Nähe Fußgängerzone + HBF",319.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,3.190 €/m²,Etagenwohnung,nil,nach Absprache,3,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Zimmer-Wohnung mit Balkon in beliebter Wohnlage von Rastpfuhl, Saarbrücken",89.000 €,"Malstatt, 66113 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,45 m²,1.978 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Geräumige Eigentumswohnung neu saniert,149.000 €,"Norduferstraße 18,
+66538 Neunkirchen, Neunkirchen (Kreis)",4,100 m²,1.490 €/m²,nil,6 m²,nil,3,1,nil,Die Provision beträgt 3 % vom Kaufpreis zuzüglich der gesetzlichen Mwst in Höhe von zur Zeit 19%.,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Umbauprojekt: Schaffen Sie Ihre barrierefreie Traumwohnung,97.000 €,"66693 Mettlach, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,87 m²,1.115 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"3,57 % inkl. ges. MwSt.",{}
+Sehr gepflegte Erdgeschosswohnung in Zentrum von Saarbrücken,349.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,97 m²,3.598 €/m²,Erdgeschosswohnung,nil,nach Absprache,2,1,nil,"3,57 %",{'is24qa-balkon-terrasse-label': ''}
+"Vermietete 3-Zimmer-Wohnung, im Herzen von St. Wendel",140.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,76 m²,1.842 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"Die Käuferprovision beträgt 3,57% des Kaufpreises inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Hochwertige Eigentumswohnung (Maisonette) in bevorzugter Lage in Völklingen -Schillerpark-,249.000 €,"66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,118 m²,2.110 €/m²,Maisonette,21 m²,sofort,2,1,2 Stellplätze,3% zzgl. der gesetzlichen MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Schöne Wohnung in zentraler Lage von Neuforweiler,138.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,67 m²,2.060 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+RUHEPOL - helle Eigentumswohnung mit Garage sowie demnächst mit neuer Hybridheizung in SB-Dudweiler!,150.000 €,"Dudweiler (Ortsteil), 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,66 m²,2.273 €/m²,nil,nil,nach Vereinbarung,1,1,1 Garage,"3,57% Käuferprovision inkl. 19% MwSt. fällig mit Kaufvertragsabschluss","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Großzügige Eigentumswohnung in der Pfarrer Rie Str. 2 in 66583 Elversberg.,130.000 €,"Pfarrer Ries Straße 2,
+66583 Spiesen-Elversberg, Neunkirchen (Kreis)",3,98 m²,1.327 €/m²,nil,6 m²,nil,2,nil,Garage,Die Provision beträgt 3 % vom Kaufpreis zuzüglich der gesetzlichen Mwst in Höhe von zur Zeit 19%.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+•••HELLE ZWEI-ZIMMER-WOHNUNG MIT BALKON IN SAARBRÜCKEN-ZENTRUMNAH•••,149.000 €,"St. Johann, 66121 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"62,73 m²",2.375 €/m²,Etagenwohnung,nil,nil,1,1,1 Stellplatz,"3,57 % inkl. MwSt. aus dem Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Neu renovierte Eigentumswohnung in Dillingen,148.000 €,"Marktstraße 13,
+66763 Dillingen/Saar, Saarlouis (Kreis)",3,77 m²,1.922 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Direkte Innenstadt-Lage Saarbrücken: 3-Zimmer-Wohnung mit Balkon, ohne Provision",190.000 €,"Trierer Straße 54,
+St. Johann, 66111 Saarbrücken",3,84 m²,2.262 €/m²,Etagenwohnung,10 m²,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnung in zentraler Lage von Wallerfangen!,129.001 €,"66798 Wallerfangen, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,956 €/m²,Maisonette,nil,nil,3,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Appartement incl. Stellplatz, Garage u. Balkon in Perl-Nennig zu verkaufen - A19464",479.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"130,8 m²",3.662 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive Gartenwohnung mit sonniger Terrasse in Panoramalage!,620.000 €,"66798 Wallerfangen, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,134 m²,4.627 €/m²,Terrassenwohnung,nil,nil,3,2,nil,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Gepflegte Etagenwohnung mit drei Balkonen in Dudweiler,198.000 €,"Dudweiler (Ortsteil), 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,1.904 €/m²,Etagenwohnung,nil,nach Absprache,3,1,nil,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Moderne 68m² Etagenwohnung in Saarbrücken,239.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,68 m²,3.515 €/m²,Etagenwohnung,68 m²,nach Absprache,2,1,nil,"3,57 %",{}
+Top Gelegenheit! Eigentumswohnung mit Einliegerwohnung in erstklassiger Lage!,275.000 €,"66346 Püttlingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,175 m²,1.571 €/m²,Etagenwohnung,nil,nach Vereinbarung,3,2,2 Garagen,"3,57 % incl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Neuwertige 68m² Etagenwohnung mit Balkon in Saarbrücken,239.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,68 m²,3.515 €/m²,Etagenwohnung,nil,nach Absprache,1,1,nil,"3,57 %",{'is24qa-balkon-terrasse-label': ''}
+Luxuriöse Terrassenwohnung in traumhafter Stadtvilla!,630.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",126 m²,5.000 €/m²,Terrassenwohnung,nil,sofort,2,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+RESERVIERT***Attraktive 4-Zimmer-Terrassenwohnung mit perfektem Grundriss in Saarbrücken***,219.000 €,"Schafbrücke, 66121 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"115,81 m²",1.891 €/m²,Terrassenwohnung,nil,ab sofort,2,1,1 Stellplatz,3% inkl. Mehrwersteuer,"{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Neuwertige 5-Raum-DG-Wohnung mit Loggia 15 qm und Einbauküche in Alsweiler,190.000 €,"66646 Marpingen, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,1.727 €/m²,Dachgeschoss,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-ZKB-Eigentumswohnung in bevorzugter Lage von Saarbrücken-Scheidt,189.000 €,"Scheidt, 66133 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,94 m²,2.011 €/m²,nil,nil,sofort,nil,nil,1 Außenstellplatz,"3,57 % inkl. gesetzl. MwSt.",{}
+***Ideal geschnittene 2-Zimmer-Wohnung mit Balkon auf dem Rastpfuhl***,115.000 €,"Malstatt, 66113 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"46,38 m²",2.480 €/m²,Erdgeschosswohnung,nil,01.06.2024,1,1,1 Stellplatz,"3,57 % inkl. MwSt. aus dem Kaufpreis",{'is24qa-keller-label': ''}
+Familienfreundliche 5 Zi. Wohnung mit traumhafter Dachterrasse im Grünen,560.000 €,"66271 Kleinblittersdorf, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,226 m²,2.478 €/m²,Etagenwohnung,nil,nil,4,2,1 Stellplatz,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+günstige helle 1 Zimmerwohnung in Nähe der Universität,35.000 €,"Beim Weisenstein 12,
+Dudweiler (Ortsteil), 66125 Saarbrücken",1,28 m²,1.250 €/m²,Etagenwohnung,31 m²,10.4.2024,0,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ruhig wohnen in der City,107.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,1.189 €/m²,Erdgeschosswohnung,"6,5 m²",nil,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': ''}"
+Offen für Angebote: 3.0-Zimmer Wohnung in Dillingen,nil,"66163 Dillingen/Saar, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,2.894 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+NEUBAU MIT STIL - Neubauwohnung mit überdachter Dachterrasse in gefragter Lage von Homburg!,665.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"132,87 m²",5.005 €/m²,Etagenwohnung,nil,sofort,2,2,Tiefgaragen-Stellplatz,"2,38% Käuferprovision inkl. 19% MwSt. fällig mit Kaufvertragsabschluss","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Schöne renovierte 2-Zimmer-Wohnung in Saarbrücken,100.000 €,"Alt-Saarbrücken, 66117 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,44 m²,2.273 €/m²,Erdgeschosswohnung,44 m²,9.4.2024,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Preisreduzierung* Schöne und helle Wohnung in Citynähe,99.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,42 m²,2.357 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Schöne 2 Zimmer-Wohnung mit Balkon, Einbauküche und PKW Stellplatz in Schiffweiler",139.000 €,"66578 Schiffweiler, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,54 m²,2.574 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,"2,38 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+NEUBAU MIT STIL - Neubauwohnung mit zwei Terrassen in gefragter Lage von Homburg!,665.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"122,94 m²",5.409 €/m²,Etagenwohnung,nil,sofort,2,1,Tiefgaragen-Stellplatz,"2,38% Käuferprovision inkl. 19% MwSt. fällig mit Kaufvertragsabschluss","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Vermietete 2-Zimmer-Wohnung im Herzen von St. Wendel,120.000 €,"66606 Sankt Wendel, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,2.400 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,"3,57% des Kaufpreises inkl. 19% MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+großzügige Familienwohnung in gepflegtem Hochhaus am -Eschberg,179.000 €,"Eschberg, 66121 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,1.432 €/m²,nil,nil,sofort,nil,nil,nil,"3,57 incl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+NEUBAU MIT STIL - Neubauwohnung mit überdachtem Balkon in gefragter Lage von Homburg!,595.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"120,54 m²",4.936 €/m²,Etagenwohnung,nil,sofort,2,2,Tiefgaragen-Stellplatz,"2,38% Käuferprovision inkl. 19% MwSt. fällig mit Kaufvertragsabschluss","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Mitten in Saarbrücken und doch ruhig - 5 Zimmmer Penthouse Wohnung,370.000 €,"Talstraße 56,
+Alt-Saarbrücken, 66119 Saarbrücken",5,150 m²,2.467 €/m²,Penthouse,nil,4.5.2024,3,1,2 Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exklusive 2,5-Zimmer-Penthouse-Wohnung mit Balkon und offener Küche am Waldrand in Merzig",310.000 €,"Waldstraße 145,
+66663 Merzig, Merzig-Wadern (Kreis)","2,5",82 m²,3.780 €/m²,Penthouse,nil,5.4.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete Etagenwohnung in Saarbrücken,50.000 €,"Güdingen, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,40 m²,1.250 €/m²,Etagenwohnung,nil,nach Absprache,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Erdgeschoss-Wohnung in ruhiger Wohnlage von Saarbrücken-Bübingen,189.000 €,"Bübingen, 66129 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,94 m²",2.394 €/m²,Erdgeschosswohnung,5 m²,sofort möglich,nil,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+TOP: Attraktive ETW plus Balkon & 2 Stellplätze!,185.000 €,"66763 Dillingen/Saar, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,73 m²,2.534 €/m²,Etagenwohnung,nil,Sofort,2,1,2 Stellplätze,"3,57 Prozent inklusive Mehrwertsteuer vom notariellen Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Großzügige Eigentumswohnung in zentraler Lage,194.000 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,98 m²,1.980 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-balkon-terrasse-label': ''}
+"+++Schöne, renovierte Eigentumswohnung in Neunkirchen mit kleinem Balkon und Garage+++",158.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,81 m²,1.951 €/m²,Etagenwohnung,15 m²,nil,2,1,nil,"3,57 % Käuferprovision inkl. 19 % MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Reserviert: Eigentumswohnung in Saarbrücken,119.000 €,"Alt-Saarbrücken, 66117 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,65 m²,1.831 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Freundliche 3-Zimmer-Küche-Bad-Wohnung mit gehobener Innenausstattung mit Balkon,Auf Anfrage,"Preußenstraße 58,
+St. Johann, 66111 Saarbrücken",3,77 m²,nil,Etagenwohnung,84 m²,1.6.2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Penthouse in der City mit ruhiger Atmosphäre!,1.035.000 €,"St. Johann, 66121 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"195,3 m²",5.300 €/m²,Penthouse,"6,9 m²",nil,2,2,2 Garagen,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+schöne gepflegte Wohnung in Zentrumsnähe 3 ZKB mit Balkon in Ottweiler/Saar,119.000 €,"66564 Ottweiler, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,1.322 €/m²,nil,nil,nach Absprache,2,1,1 Stellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Gepflegte Eigentumswohnung in Rehlingen,315.000 €,"66780 Rehlingen-Siersburg, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,143 m²,2.203 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Außenstellplatz,"3,57%",{'is24qa-online-besichtigung-moeglich-label': ''}
+5A Neubau Dachgeschoss rechts Eigentumswohnung in Wallerfangen KfW 55 Barrierefrei,253.999 €,"66798 Wallerfangen, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,66 m²,3.848 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,Provisionsfrei,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+ALTERSRESIDENZ PERL! 120 m² große Wohnung mit 2 Schlafzimmern + 2 Bädern!,498.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"120,22 m²",4.142 €/m²,Etagenwohnung,nil,nil,2,2,2 Tiefgaragen-Stellplätze,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Modernisierte attraktive Eigentumswohnung mit Garage,149.000 €,"66583 Spiesen-Elversberg, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,81 m²,1.840 €/m²,Etagenwohnung,4 m²,ab sofort,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Sonnenhelle ETW mit großem Balkon & Stellplatz!,149.900 €,"66787 Wadgassen, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,81 m²,1.851 €/m²,nil,nil,nil,2,1,1 Stellplatz,"3,57 % inkl. 19 % MwSt. vom notariellen Kaufpreis",{'is24qa-online-besichtigung-moeglich-label': ''}
+Vermietete 2 Zimmer-Wohnung in ruhiger Lage auf dem Scheidterberg,105.000 €,"Scheidt, 66133 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,1.750 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57 %",{'is24qa-vermietet-label': ''}
+Exklusive Neubau-Erdgeschosswohnung in Toplage von Losheim!,Auf Anfrage,"66679 Losheim am See, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,70 m²,nil,Erdgeschosswohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau Effizienzhaus Wohnung KfW 40+ NH in SB-Ensheim!,285.500 €,"Ensheim, 66131 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"74,1 m²",3.853 €/m²,Etagenwohnung,6 m²,01.04.2025,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Gemütliche Eigentumswohnung mit Balkon in zentraler Lage,174.000 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,92 m²,1.891 €/m²,Etagenwohnung,nil,nil,2,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Top Rendite: Gepflegte 3 ZKB-Wohnung mit Balkon in Bexbach,149.000 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,1.656 €/m²,Etagenwohnung,8 m²,nil,2,1,1 Außenstellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Renditeobjekt: Großzügige Eigentumswohnung in guter Lage von Bexbach,159.000 €,"66450 Bexbach, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"112,55 m²",1.413 €/m²,Etagenwohnung,8 m²,nil,3,2,1 Garage,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
++++Etagenwohnung mit Balkon in Sulzbach+++ zur Anlage oder Eigennutzung,115.000 €,"66280 Sulzbach/Saar, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,1.554 €/m²,Etagenwohnung,15 m²,2024,2,1,nil,"3,99 % Käuferprovision inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Gut geschnittene 2ZKB Wohnung mit Balkon am St. Johanner Markt,190.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,76 m²,2.500 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% vom notariellen Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Komplett renovierte 2 ZKB-Wohnung mit Stellplatz + Kellerraum,98.000 €,"Am Krenzelsberg 41,
+Burbach, 66115 Saarbrücken",2,40 m²,2.450 €/m²,Etagenwohnung,10 m²,Sofort,1,1,1 Außenstellplatz,"3,57% inkl. MwSt.",{'is24qa-keller-label': ''}
+"Gemütliches Haus, die Alternative zur Eigentumswohnung!!!",135.000 €,"66640 Namborn, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,83 m²,1.627 €/m²,Erdgeschosswohnung,nil,nil,1,1,2 Außenstellplätze,"Die Courtage beträgt 3,57 % inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+3 Zimmer Wohnung zu verkaufen,170.000 €,"Beim Weisenstein 8,
+Dudweiler (Ortsteil), 66125 Saarbrücken",3,85 m²,2.000 €/m²,Etagenwohnung,85 m²,nil,2,2,nil,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+1 - Zimmer - Appartement mit Balkon in Ottweiler,53.000 €,"66564 Ottweiler, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,35 m²,1.514 €/m²,Etagenwohnung,nil,vermietet,nil,1,1 Stellplatz,"7,14 %","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+66424 Homburg-Sanddorf - 2 ZKB Dachgeschoss - Modernes Wohnen in Altbauvilla,350.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,105 m²,3.333 €/m²,Dachgeschoss,nil,sofort,1,1,3 Carports,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 Zimmer Wohnung zu verkaufen,87.000 €,"Grühlingshöhe 2,
+Dudweiler (Ortsteil), 66125 Saarbrücken",2,54 m²,1.611 €/m²,Etagenwohnung,54 m²,nil,1,1,nil,"2,38 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Helle geräumige Eigentumswohnung im Herzen von Limbach,236.000 €,"66459 Kirkel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,101 m²,2.337 €/m²,nil,nil,nach Vereinbarung,2,1,1 Carport,"2,5% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Eigentumswohnung mit Garten in sonniger Lage von Sulzbach,145.000 €,"66280 Sulzbach/Saar, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"82,67 m²",1.754 €/m²,Etagenwohnung,25 m²,nil,3,1,2 Garagen,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+exklusive und sehr komfortable Luxus Wohnung 2ZKB mit Terrasse in Homburg-Sanddorf,309.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"77,04 m²",4.011 €/m²,nil,nil,nach Absprache,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GELEGENHEIT! KAPIALANLAGE! Pärchenwohnung zum Liebhaben oder eigener Traum! RENDITEOBJEKT!,129.000 €,"Herrensohr, 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,56 m²,2.304 €/m²,Erdgeschosswohnung,nil,sofort,1,1,nil,"3,57% inkl. 19% MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+KAPITALANLAGE! Pärchenwohnung zum Liebhaben oder eigener Traum! RENDITEOBJEKT!,99.000 €,"Herrensohr, 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,56 m²,1.768 €/m²,Etagenwohnung,nil,sofort,1,1,nil,"5.000,00 € inkl. 19% MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+MECHERN: IDEAL ALS KAPITALANLAGE - 2 ZIMMER EIGENTUMSWOHNUNG MIT GARTEN!,Auf Anfrage,"66663 Merzig, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,nil,Souterrain,nil,nil,2,1,nil,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+66424 Hbg.-Sanddorf - 4 ZKB - modernes Wohnen in Altbauvilla - Provisionsfrei,465.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,3.496 €/m²,Etagenwohnung,nil,sofort,2,nil,3 Carports,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne 3 ZKB- Wohnung zu verkaufen!,179.000 €,"66271 Kleinblittersdorf, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,2.325 €/m²,Etagenwohnung,nil,Sofort,2,1,1 Stellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Geräumige Maisonette-Wohnung in Homburg: Gemütliches Zuhause in perfekter Lage!,189.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,1.800 €/m²,Maisonette,nil,nil,nil,1,Tiefgaragen-Stellplatz,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Vermietete 3-ZKB Maisonette-Wohnung mit Terrasse + Stellplatz,139.000 €,"Am Krenzelsberg 36,
+Burbach, 66115 Saarbrücken",3,78 m²,1.782 €/m²,Maisonette,10 m²,Nach Vereinbarung,2,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Naturnahes Wohnen in Bübingen,415.000 €,"Am Alten Kalkwerk 29,
+Bübingen, 66129 Saarbrücken",3,"103,93 m²",3.993 €/m²,Erdgeschosswohnung,nil,01.10.2024,1,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+NUNKIRCHEN : 3 ZKB - Wohnung im ERDGESCHOSS mit TERRASSE in RUHIGER Lage !,88.000 €,"66687 Wadern, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"64,08 m²",1.373 €/m²,Erdgeschosswohnung,nil,nil,2,nil,1 Außenstellplatz,"3,57 % ( incl. 19 % MwSt )","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+GELEGENHEIT! KAPIALANLAGE! Die Sterne über Ihnen sind zum Greifen nah. Wie Ihr Traum! RENDITEOBJEKT!,149.000 €,"Herrensohr, 66125 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,2.292 €/m²,Dachgeschoss,nil,sofort,1,1,nil,"3,57% des Kaufpreises inkl. 19% MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Gepflegte Eigentumswohnung mit Balkon und zwei Stellplätzen in ruhiger Lage von Bous,220.000 €,"66359 Bous, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,2.000 €/m²,Etagenwohnung,33 m²,nil,nil,nil,Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Saarlouis-DIREKT: Gemütliche Dachgeschosswohnung mit Garage in begehrter Lage!,155.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,50 m²,3.100 €/m²,Dachgeschoss,nil,nil,1,1,1 Garage,"3,57 % inkl. MwSt.",{'is24qa-keller-label': ''}
+sanierte 2 ZKB-Eigentumswohnung / Dachterrasse / Garage in SB-Güdingen,129.000 €,"Güdingen, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,68 m²,1.897 €/m²,Etagenwohnung,3 m²,nil,1,1,1 Garage,"3,57 % inkl. MWSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Mechern: IDEAL FÜR EINEN INVESTOR, ANLEGER ODER EIGENNUTZER! SOFORT VERFÜGBAR!",Auf Anfrage,"66663 Merzig, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,nil,Hochparterre,nil,nil,2,1,nil,"3,57 % inkl. MwSt.",{}
+GRENZBEREICH LUXEMBURG: PENTHOUSE MIT SONNENTERRASSEN UND TIEFGARAGENSTELLPLATZ!,460.000 €,"66693 Mettlach, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"132,34 m²",3.476 €/m²,Penthouse,nil,nil,2,1,nil,"3,57 % MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Sanierte Eigentumswohnung mit großer Loggia,179.000 €,"66620 Nonnweiler, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,1.790 €/m²,Dachgeschoss,nil,nil,nil,1,2 Stellplätze,"2,75 % zzgl. der gesetzlich gültigen MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Zweizimmerwohnung in ruhiger Lage am Stadtwald,115.000 €,"St. Johann, 66123 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"48,4 m²",2.376 €/m²,Etagenwohnung,"2,5 m²",nil,1,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+GANZ OBEN IST ES AM SCHÖNSTEN!,363.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,101 m²,3.594 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+"""Anpacken"" und sparen - massa haus",334.219 €,"66529 Freisen, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,2.321 €/m²,nil,nil,nil,4,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+bezugsfreie ETW mit Gartenanteil und Ausbaumöglichkeit in Wadgassen - OT,139.000 €,"66787 Wadgassen, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,57 m²,2.439 €/m²,Dachgeschoss,nil,sofort,nil,1,1 Außenstellplatz,"2,38 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Zwei Einheiten im Paket! Renovierungsbedürftige Praxis und Eigentumswohnung zum Verkauf,179.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,188 m²,952 €/m²,nil,144 m²,nil,1,1,nil,"3,57 % inkl. MwSt.",{}
+PERL: Stilvolle 72 qm-Wohnung mit PKW-Stellplatz und Kellerraum!,238.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,72 m²,3.306 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. MwSt.",{}
+"MERZIG: WOHNUNG MIT 3 SCHLAFZIMMERN, BLICK INS GRUENE!",199.000 €,"66663 Merzig, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,1.913 €/m²,Etagenwohnung,nil,nil,3,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Clever in die eigenen vier Wände - mit Eigenleistung,301.125 €,"66625 Nohfelden, Sankt Wendel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,133 m²,2.264 €/m²,nil,nil,nil,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen im Neubaugebiet in Hilringen! Nahezu bezugsfertig !,369.000 €,"66663 Merzig, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,112 m²,3.295 €/m²,nil,nil,nil,2,2,2 Außenstellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Charmante 2-Zimmer-Wohnung in zentraler Lage,63.500 €,"Am Ludwigsberg 64,
+Malstatt, 66113 Saarbrücken",2,"30,73 m²",2.066 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+SAARLOUIS: Eigentumswohnung mit 2 Schlafzimmern und Balkon! 2 km bis zur Stadt!,269.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,2.832 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"SINZ: NEUWERTIGE WOHNUNG MIT GARAGE, 2 STELLPLÄTZE UND GARTEN!",348.000 €,"66706 Perl, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"82,42 m²",4.222 €/m²,Erdgeschosswohnung,nil,nil,1,1,2 Außenstellplätze,"3,57 %",{'is24qa-balkon-terrasse-label': ''}
+Exklusive Eigentumswohnung mit Balkon und Tiefgaragenstellplätzen in TOP Lage von Losheim am See,449.000 €,"66679 Losheim am See, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"129,25 m²",3.474 €/m²,nil,"6,92 m²",nil,2,2,2 Tiefgaragen-Stellplätze,"3,57% inkl. MwSt.",{'is24qa-personenaufzug-label': ''}
+Traumhafte Wohnung im Loft-Flair mit Panorama-Waldblick,119.000 €,"66787 Wadgassen, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,73 m²,1.630 €/m²,Dachgeschoss,nil,ab sofort,nil,1,Außenstellplatz,"Die Käuferprovision beträgt 3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Die Alternative zum Einfamilienhaus! Eigentumswohnung mit Sonnenterrasse + Garten, in ruhiger Lage!",245.000 €,"Klarenthal, 66127 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,1.713 €/m²,Hochparterre,nil,sofort,3,1,1 Garage,"8.746,50 Euro","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"SLS-OT, 3 ZKB, Balkon, KR im MFH, guter Zustand",149.000 €,"66740 Saarlouis, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,1.774 €/m²,nil,nil,nil,2,1,nil,"3,57 % inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Schöne Eigentumswohnung in Weiskirchen-Thailen!,125.000 €,"66709 Weiskirchen, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,1.623 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Neuer Preis !!!! Attraktive Penthouse-Wohnung mit 90 m² Dachterrasse in Mitten von Homburg!,215.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,1.536 €/m²,Penthouse,nil,01.09.2023,3,1,1 Garage,"3,57 inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"SB-City, Nähe Fußgängerzone + HBF",349.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,3.490 €/m²,Erdgeschosswohnung,nil,nach Absprache,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Haus ähnliche Eigentumswohnung. Sanierungsobjekt!!!,Auf Anfrage,"66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,100 m²,nil,nil,nil,sofort,3,2,nil,"3,57 % incl. MwSt.",{'is24qa-keller-label': ''}
+Traumhafte Gartenwohnung im Premium Lage SB Rotenbühl!,650.000 €,"St. Johann, 66123 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",150 m²,4.333 €/m²,Terrassenwohnung,nil,nil,2,1,nil,"3,57 inkl. MwSt.",{}
+Gemütliche 2 ZKB Wohnung auf dem Rastpfuhl,110.000 €,"Eifelstraße 21,
+Malstatt, 66113 Saarbrücken",2,"45,41 m²",2.422 €/m²,Dachgeschoss,nil,vermietet,1,1,1 Tiefgaragen-Stellplatz,"3,57% (vom Kaufpreis inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne Eigentumswohnung mit 110 qm Wohnfläche in Ottweiler OT Fürth,115.000 €,"66564 Ottweiler, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,110 m²,1.045 €/m²,nil,nil,nach Vereinbarung,1,2,nil,"3,57% vom Kaufpreis",{'is24qa-vermietet-label': ''}
+Kurzfristig beziehbare 4 ZKB Dachgeschoss ETW mit Balkon und großem Garten in Ottweiler,159.000 €,"66564 Ottweiler, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,77 m²,2.065 €/m²,Dachgeschoss,nil,sofort,2,1,nil,"3,57 % vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Schicke Eigentumswohnung wartet auf Sie - Dirmingen,159.000 €,"66571 Eppelborn, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,2.065 €/m²,Etagenwohnung,nil,sofort,nil,nil,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Sehr schöne komplett renovierte Dachgeschoss ETW mit tollem Ausblick vom Balkon,169.000 €,"66564 Ottweiler, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,77 m²,2.195 €/m²,Dachgeschoss,nil,sofort,2,1,nil,"3,57 % v. Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Schöne 2-Zimmer Wohnung im Berliner Wohnpark,125.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,2.119 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Große Eigentumswohnung mit herrlicher Dachterrasse,149.000 €,"66773 Schwalbach, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,151 m²,987 €/m²,Etagenwohnung,nil,ab sofort,4,2,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Neubau 2ZKB Wohnung mit Balkon in Bexbach,216.300 €,"Robert-Koch-Straße 2a,
+66450 Bexbach, Saarpfalz-Kreis",2,56 m²,3.863 €/m²,nil,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau Wohnung mit Galerie und Balkon in Bexbach,263.000 €,"Robert-Koch-Straße 2a,
+66450 Bexbach, Saarpfalz-Kreis",3,70 m²,3.757 €/m²,Maisonette,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sehr schöne möbliert Etagenwohnung in Mercure Hotel zu verkaufen,290.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,4.462 €/m²,Etagenwohnung,nil,ab sofort,1,1,nil,3 % inkl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Liebevoll renovierte Eigentumswohnung mit tollem Ausblick ins Grüne,199.000 €,"66802 Überherrn, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,111 m²,1.793 €/m²,Etagenwohnung,nil,sofort,3,1,1 Außenstellplatz,"3,57% inklusive gesetzlicher MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Neuwertige Penthousewohnung in bester Lage Saarbrücken, Rotenbühl",935.000 €,"St. Johann, 66123 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,190 m²,4.921 €/m²,nil,nil,August 2024,nil,nil,3 Stellplätze,"3,57 %",{}
+Neubau Wohnung mit Galerie und Balkon in Bexbach,258.400 €,"Robert-Koch-Straße 2a,
+66450 Bexbach, Saarpfalz-Kreis",3,68 m²,3.800 €/m²,Maisonette,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sichern Sie sich Ihre Eigentumswohnung mit Rhein-Blick,715.500 €,"Dr.-Friedrich-Kirchhoff-Straße -,
+Weisenau, 55130 Mainz",3,"89,2 m²",8.021 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"SB-City, Nähe Fußgängerzone + HBF",299.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,2.990 €/m²,Etagenwohnung,nil,nach Absprache,3,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Garten, provisionsfrei und barrierefrei nach DIN. Ein uneingeschränkter Wohntraum kann wahr werden!",556.300 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"95,41 m²",5.831 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+Wohnen in der Barockstadt Blieskastel,479.000 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"94,25 m²",5.082 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Wohnen in der Barockstadt Blieskastel,249.000 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,33 m²",3.932 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Große 4 ZKB Wohnung auf dem Rodenhof,260.000 €,"Paul-Lincke-Straße 20,
+Malstatt, 66113 Saarbrücken",4,"104,62 m²",2.485 €/m²,nil,nil,vermietet,2,1,nil,"3,57% (vom Kaufpreis inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Wadern-OT, Alternative zur ETW, 1-FH, 3 ZKB, Garage, Garten",89.000 €,"66687 Wadern, Merzig-Wadern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,1.113 €/m²,nil,nil,nil,2,1,1 Garage,"3.000,-- Euro zzgl. 19% MwSt.",{'is24qa-keller-label': ''}
+Wohnen als tägliches Vergnügen - Modernes Penthouse mit 60 m² großer Dachterrasse mit Rheinblick,1.249.500 €,"Dr.-Friedrich-Kirchhoff-Straße -,
+Weisenau, 55130 Mainz",4,"152,5 m²",8.193 €/m²,Penthouse,nil,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohlfühl-Oase: Exklusive 3-Zimmerwohnung im Null-Energiehaus Plus - Provisionsfrei!,550.600 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"96,55 m²",5.703 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Willkommen in Mainz-Weisenau - 86 m² mit hochwertiger Ausstattung + Loggia und Balkon,706.500 €,"Dr.-Friedrich-Kirchhoff-Straße -,
+Weisenau, 55130 Mainz",3,"86,7 m²",8.149 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen in der Barockstadt Blieskastel,255.000 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,12 m²",4.040 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+"Schöne, kernsanierte Eigentumswohnung in traumhafter Lage von Saarbrücken zu verkaufen",219.000 €,"St. Arnual, 66119 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,3.129 €/m²,Erdgeschosswohnung,70 m²,nil,2,1,1 Tiefgaragen-Stellplatz,"2,38 %","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Luxuriöse, provisionsfreie 3-Zimmer-Wohnung im einzigen Null Energiehaus PLUS in Bad Kreuznach!",523.200 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,3 m²",5.794 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Eigentumswohung im 1.Obergeschoss mit Garage,Auf Anfrage,"66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,90 m²,nil,Etagenwohnung,nil,nach Vereinbarung,2,1,Garage,"3,57 % incl. MwSt.",{'is24qa-keller-label': ''}
+"Provisionsfrei kaufen, fast ohne Energiekosten wohnen: luxuriöse 3-Zimmerwohnung!",552.900 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"96,55 m²",5.727 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Energiewunder: Lichtdurchflutete 3-Zimmer-Neubauwohnung im Null Energiehaus PLUS Standard,527.700 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,3 m²",5.844 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Wohnen in der Barockstadt Blieskastel,269.000 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"69,1 m²",3.893 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Die eigene Wohnung - Ein Traum wird wahr,115.000 €,"66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,82 m²,1.402 €/m²,Etagenwohnung,nil,sofort,1,1,1 Garage,"3,57 % inkl. ges. MwSt.",{}
+Zwei ZKB Wohnung für den Anleger in der Homburger City,145.000 €,"Kaiserstraße 19,
+66424 Homburg, Saarpfalz-Kreis",2,58 m²,2.500 €/m²,nil,nil,vermietet,1,1,1 Außenstellplatz,"3,57% (vom Kaufpreis inkl. MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+2 ZKB Whg in Homburg für den Kapitalanleger,150.000 €,"Kaiserstraße 19 - 21,
+66424 Homburg, Saarpfalz-Kreis",2,58 m²,2.586 €/m²,nil,nil,nil,1,1,2 Außenstellplätze,"3,57% inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Provisionsfrei und einzigartig in Bad Kreuznach: lichtdurchflutete 3-Zimmerwohnung im 0-Energiehaus.,421.800 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,49 m²",5.374 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"SB-City, Nähe Fußgängerzone + HBF",239.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,68 m²,3.515 €/m²,Etagenwohnung,nil,Vermietet,2,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ab sofort bezugsfertig! 3 Zimmer barrierefrei und Garten am Wasser!,732.000 €,"Flößerhof 1-21,
+Neustadt, 55120 Mainz",3,87 m²,8.414 €/m²,Erdgeschosswohnung,nil,sofort,2,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr persönlicher Rückzugsort - Erdgeschosswohnung mit hochwertiger Ausstattung - Zentrumsnah gelegen,449.500 €,"Dr.-Friedrich-Kirchhoff-Straße -,
+Weisenau, 55130 Mainz",2,"55,6 m²",8.085 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehr Zeit. Mehr Komfort. Mehr Lebensqualität. - Platz für die ganze Familie in ruhiger Umgebung,799.500 €,"Dr.-Friedrich-Kirchhoff-Straße -,
+Weisenau, 55130 Mainz",4,"100,5 m²",7.955 €/m²,Etagenwohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Genießen Sie 3 Zimmer mit schöner Loggia und Blick auf die Gracht! Jetzt bezugsfertig!,639.000 €,"Flößerhof 1-21,
+Neustadt, 55120 Mainz",3,"78,6 m²",8.130 €/m²,Etagenwohnung,nil,sofort,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einziehen und wohlfühlen: 4-Zimmerwohnung mit Balkon fast ohne Energiekosten in KH Süd,527.500 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"88,83 m²",5.938 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Mit dem Aufzug direkt ins 147 m² großes Penthouse mit 2 Bädern + 60 m² großer Dachterrasse,1.179.500 €,"Dr.-Friedrich-Kirchhoff-Straße -,
+Weisenau, 55130 Mainz",3,"147,7 m²",7.986 €/m²,Penthouse,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnträume werden wahr mit einer luxuriösen Wohnung im einzigen 0-Energiehaus in KH! Provisionsfrei!,434.300 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,03 m²",5.566 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"Gestalten Sie mit uns ihre energiesparende, innovative Zukunft! Provisionsfrei.",321.300 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,95 m²",5.544 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"Provisionsfrei kaufen, fast ohne Energiekosten wohnen: luxuriöse 2- Zimmerwohnung mit Garten!",321.450 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"39,35 m²",8.169 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+Rollstuhlgerecht nach DIN und provisionsfrei. Wir machen Ihre Wohnträume ohne Einschränkungen wahr!,547.200 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,3 m²",6.060 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+2 ZKB Wohnung in Losheim zu verkaufen,110.000 €,"Merziger Straße 1,
+66679 Losheim am See, Merzig-Wadern (Kreis)",2,"47,64 m²",2.309 €/m²,nil,nil,sofort,1,1,nil,"3,57% (vom Kaufpreis inkl. MwSt.)",{'is24qa-keller-label': ''}
+Wohnen in der Barockstadt Blieskastel,159.000 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"40,32 m²",3.943 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Luxuriöse 3-Zimmer-Wohnung im einzigen Null Energiehaus PLUS in Bad Kreuznach! Provisionsfrei,551.700 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"95,41 m²",5.782 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Wohnen in der Barockstadt Blieskastel,162.500 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"40,09 m²",4.053 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Next Level Living am Rhein - 94 m² großer Wohn(T)raum mit Loggia und Balkon,756.500 €,"Dr.-Friedrich-Kirchhoff-Straße -,
+Weisenau, 55130 Mainz",3,94 m²,8.048 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"**provisionsfreie** ETW mit 3 ZKB Wohnung mit Balkon in Lebach, Talstraße",97.000 €,"66822 Lebach, Saarlouis (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,66 m²,1.470 €/m²,nil,nil,sofort,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"SB-STADT, ERSTBEZUG - Nähe Fußgängerzone",239.000 €,"St. Johann, 66111 Saarbrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,68 m²,3.515 €/m²,Etagenwohnung,nil,ab sofort,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 Eigentumswohnungen im Paket im Stadtzentrum von Völklingen zu verkaufen,89.000 €,"66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,1.000 €/m²,Etagenwohnung,nil,vermietet,3,2,nil,2% zzgl. der gesetzl. MwSt.,{'is24qa-balkon-terrasse-label': ''}
+Zukunftswohnen: 3-Zimmerwohnung mit Balkon und minimalen Energiekosten in KH-Süd! Provisionsfrei!,541.500 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"95,41 m²",5.676 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"Ressourcenschonendes Wohnen, ohne den Verzicht auf Luxus! Provisionsfreie 3-Zimmer-Wohnung.",556.200 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"99,96 m²",5.564 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+**provisionsfrei** große Maisonetten-ETW mit Terrasse / zentrumsnah in Neunkirchen,215.000 €,"66538 Neunkirchen, Neunkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,126 m²,1.706 €/m²,nil,nil,sofort,3,2,3 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sie wollen auch 20 Jahre lang eine feste Mieteinnahme?,218.775 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,59 m²,3.708 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einzigartig in Bad Kreuznach: 3-Zimmer-Neubauwohnung fast ohne Energiekosten & provisionsfrei,591.400 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"99,96 m²",5.916 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Exklusive Neubau-4-Zimmerwohnung mit Balkon in KH-Süd - Fast ohne Energiekosten & provisionsfrei,533.300 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"88,83 m²",6.004 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Schöne ETW mit Balkon im Herzen von Homburg zu verkaufen,195.000 €,"66424 Homburg, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,1.857 €/m²,Etagenwohnung,105 m²,01.01.2023,2,1,1 Garage,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Provisionsfrei und einzigartig in Bad Kreuznach: lichtdurchflutete 3-Zimmerwohnung mit Garten!,421.700 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,49 m²",5.373 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+Wohnen in der Barockstadt Blieskastel,267.000 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,76 m²",4.623 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Provisionsfreie 2-Zimmer-Neubauwohnung mit Balkon im Null Energiehaus PLUS Standard,321.200 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,95 m²",5.543 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Provisionsfrei und einzigartig in Bad Kreuznach: lichtdurchflutete 3-Zimmerwohnung mit Garten!,542.165 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"93,82 m²",5.779 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+"Provisionsfrei! Ressourcenschonendes Wohnen, ohne den Verzicht auf Luxus!",421.700 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,03 m²",5.404 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': ''}"
+Jetzt einziehen: Barrierefreie 3 Zimmer am Wasser mit zwei Terrassen und Garten an der Gracht,745.000 €,"Flößerhof 1-21,
+Neustadt, 55120 Mainz",3,"87,9 m²",8.476 €/m²,Erdgeschosswohnung,nil,sofort,2,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Bezugsfertig* 1-Zimmer-Wohnung auf der Hafeninsel im Zollhafen Mainz. Balkon zum ruhigen Innenhof.,289.000 €,"Flößerhof 1-21,
+Neustadt, 55120 Mainz",1,"33,1 m²",8.731 €/m²,Etagenwohnung,nil,sofort,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen in der Barockstadt Blieskastel,279.000 €,"66440 Blieskastel, Saarpfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"69,09 m²",4.038 €/m²,Etagenwohnung,nil,nil,nil,nil,Tiefgaragen-Stellplatz,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Wohnraum ist Lebensraum - Entspannen Sie sich auf dem Balkon oder der Loggia mit Blick auf den Rhein,449.500 €,"Dr.-Friedrich-Kirchhoff-Straße -,
+Weisenau, 55130 Mainz",2,"55,1 m²",8.158 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

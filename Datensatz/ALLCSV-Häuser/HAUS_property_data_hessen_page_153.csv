@@ -1,0 +1,43 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Einfamilienhaus, Loggia, Balkon, Schuppen",217.000 €,"Sandgasse XXX,
+Groß-Auheim, 63457 Hanau",4,"101,23 m²",145 m²,2.144 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freundliches Reihenendhaus, voll ausgestattet, mit sechs Zimmern in Meinhard",329.000 €,"37276 Meinhard, Werra-Meißner-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,140 m²,407 m²,2.350 €/m²,Reiheneckhaus,25 m²,2.9.2024,2,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+von privat: Geräumiges Einfamilienhaus in idyllischer Südausrichtung,549.000 €,"64686 Lautertal (Odenwald), Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,195 m²,515 m²,2.815 €/m²,Einfamilienhaus (freistehend),65 m²,1.8.2024,5,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Von Privat: Großzügiges Mehrfamilienhaus, Garten mit Südausrichtung und Doppelgarage",670.000 €,"64546 Mörfelden-Walldorf, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,208 m²,624 m²,3.221 €/m²,Mehrfamilienhaus,nil,nil,4,3,2 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Für Gartenliebhaber: DHH in Egelsbach in ruhiger Lage mit guter Verkehrsanbindung,900.000 €,"63329 Egelsbach, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",124 m²,1.081 m²,7.258 €/m²,Doppelhaushälfte,90 m²,nil,3,1,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus in zentraler Lage von Dorf-Erbach,339.000 €,"64711 Erbach, Odenwaldkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,140 m²,560 m²,2.421 €/m²,Einfamilienhaus (freistehend),nil,22.4.2024,3,2,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaftes Einfamilienhaus mit schönem Garten in perfekter Lage,479.000 €,"Auf der Weide 1,
+64560 Riedstadt, Groß-Gerau (Kreis)",5,141 m²,228 m²,3.397 €/m²,Reiheneckhaus,nil,nil,4,2,2 Außenstellplätze,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Exklusive Doppelhaushälfte mit atemberaubendem Ausblick auf die umliegende Natur,1.125.000 €,"Harheim, 60437 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,200 m²,8.396 €/m²,Doppelhaushälfte,nil,1.4.2023,4,2,2 Stellplätze,"3,57% inkl. MwSt. vom beurkundeten Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Mainzer Straße 28, 65719 Hofheim am Taunus",660.000 €,"Mainzer Straße 28,
+65719 Hofheim am Taunus, Main-Taunus-Kreis",5,118 m²,330 m²,5.593 €/m²,Reiheneckhaus,nil,24.08.2024,nil,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegtes Einfamilienhaus mit Nebengebäude,495.000 €,"Mainz-Kostheim, 55246 Wiesbaden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",106 m²,331 m²,4.670 €/m²,Einfamilienhaus (freistehend),nil,sofort,nil,nil,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Günstiges 5-Zimmer-Einfamilienhaus in Braunfels,280.000 €,"Hans-Kudlich-Str. 4,
+35619 Braunfels, Lahn-Dill-Kreis",5,128 m²,627 m²,2.188 €/m²,Einfamilienhaus (freistehend),nil,3.6.2024,1,1,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stilvoller Altbau mit kleinem Garten in Limburg a.d. Lahn,875.000 €,"65549 Limburg an der Lahn, Limburg-Weilburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,220 m²,240 m²,3.977 €/m²,Reihenmittelhaus,nil,1.2.2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Familiendomizil mitten in Lohfelden,99.900 €,"Vollmarshäuser Straße 21,
+34253 Lohfelden, Kassel (Kreis)",12,260 m²,500 m²,384 €/m²,Einfamilienhaus (freistehend),50 m²,nil,6,2,2 Außenstellplätze,"3,57%",{}
+Praktisch und top gepflegt! Reihenendhaus zum Kauf in Heidenrod-Laufenselden!,259.000 €,"65321 Heidenrod, Rheingau-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"126,21 m²",400 m²,2.052 €/m²,Reiheneckhaus,"46,07 m²",01.11.2024,nil,nil,3 Außenstellplätze,"Die Provision für den Käufer beträgt 3,00% des Kaufpreises inkl. der gesetzlichen MwSt. von 19%",{'is24qa-keller-label': ''}
+Provisionsfrei! Grundstück mit Einfamilienhaus im Hardtwald Bad Homburg vor der Höhe,1.980.000 €,"Theodor-Storm-Str. 27,
+61350 Bad Homburg vor der Höhe, Hochtaunuskreis",5,163 m²,1.071 m²,12.147 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,2 Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Idyllische Hofreite mit Potenzial,349.000 €,"35606 Solms, Lahn-Dill-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",95 m²,675 m²,3.674 €/m²,nil,nil,12.11.2023,nil,2,3 Außenstellplätze,3.57%,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+**Einfamilienhaus mit großem Grundstück in Gundhelm**,185.000 €,"36381 Schlüchtern, Main-Kinzig-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,130 m²,1.451 m²,1.423 €/m²,Einfamilienhaus (freistehend),nil,sofort,5,1,2 Garagen,"3,57% inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Mobilheim im Freizeitpark Rodenbach,146.000 €,"63517 Rodenbach, Main-Kinzig-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,44 m²,300 m²,3.318 €/m²,Wohnimmobilie (sonstige),44 m²,20.5.2024,1,1,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Neues Angebot EUR 1.200.000,- VHB: Traumhaftes Objekt in sehr guter Lage",1.200.000 €,"Biebrich, 65187 Wiesbaden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,146 m²,846 m²,8.219 €/m²,Einfamilienhaus (freistehend),50 m²,1.7.2024,2,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+großzügige Doppelhaushälfte in Toplage - Oberwiesen Dreieich,1.290.000 €,"63303 Dreieich, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,175 m²,300 m²,7.371 €/m²,Doppelhaushälfte,50 m²,2025,4,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Repräsentatives Einfamilienhaus in Top-Lage,1.580.000 €,"63303 Dreieich, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,208 m²,400 m²,7.596 €/m²,Einfamilienhaus (freistehend),nil,2025,4,2,2 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

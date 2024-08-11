@@ -1,0 +1,201 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+""" RESERVIERT "" Großzügiges Einfamilienhaus in bester Lage !!",298.000 €,"32120 Hiddenhausen, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,55 m²",617 m²,1.822 €/m²,Einfamilienhaus (freistehend),"101,76 m²",Nach Vereinbarung,4,2,1 Garage,"3,57 % inkl. 19 % Mehrwertsteuer",{'is24qa-keller-label': ''}
+"Gepflegtes, familienfreundliches Einfamilienhaus mit 8 Zimmern und Baugrundstück (ca. 650 m²)",399.000 €,"58730 Fröndenberg/Ruhr, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,1.521 m²,1.995 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,3,1 Garage,"3,57 % inkl. MwSt.",{'is24qa-keller-label': ''}
+Großes Einfamilienhaus mit Einliegerwohnung in begehrter Lage,398.000 €,"33034 Brakel, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,200 m²,1.214 m²,1.990 €/m²,Einfamilienhaus (freistehend),244 m²,nach Vereinbarung,nil,2,2 Garagen,"3,57 % inkl. 19 % MwSt.","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Ein Haus mit vielen Möglichkeiten: 4 Wohnungen, 3 Garagen u. Ladengeschäft in begehrter Lage",475.000 €,"32584 Löhne, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,308 m²,717 m²,1.542 €/m²,Mehrfamilienhaus,224 m²,Nach Absprache,nil,nil,nil,"5,95% des Kaufpreises inkl. MwSt.",{'is24qa-keller-label': ''}
+Entkerntes Einfamilienhaus mit ehem. Ladenlokal in Alsdorf,129.000 €,"52477 Alsdorf, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,120 m²,190 m²,1.075 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,nil,"3,57 % vom Kaufpreis inkl. gesetzlicher MwSt. zahlbar nach Abschluss des notariellen Kaufvertrages",{}
+"Beeindruckendes MFH mit 4 Wohnungen, 2 Balkonen, Innenhof und Keller in attraktiver Lage",589.000 €,"Mülheim (Ortsteil), 51063 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,232 m²,185 m²,2.539 €/m²,nil,nil,nil,nil,nil,nil,"7,14 % inkl. ges. MwSt",{}
+"Außergewöhnliches Reihenmittelhaus, fortlaufend modernisiert, mit PV, Nebengebäuden und Stellfläche",239.000 €,"52538 Selfkant, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,158 m²,475 m²,1.513 €/m²,Reihenmittelhaus,nil,nach Vereinbarung,4,1,3 Stellplätze,"zzgl. 3,57 % Maklerprovision inkl. 19 % MwSt. vom notariell beurkundeten Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Dreifamilienhaus mit Wohlfühlgarten | Bochum Westenfeld Grenze Höntrop,399.000 €,"Wilkenkamp 1a,
+Westenfeld, 44867 Bochum",7,200 m²,658 m²,1.995 €/m²,Mehrfamilienhaus,nil,01.07.2024,4,3,1 Garage,"3,57 %","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Saniertes Einfamilienhaus in Waldrandlage mit Fernblick über Vilkerath,580.000 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,151 m²,911 m²,3.841 €/m²,Einfamilienhaus (freistehend),75 m²,nach Rücksprache,4,2,1 Garage,"3,57% inklusive gesetzlicher MwSt.",{'is24qa-keller-label': ''}
+"Exklusives Stadthaus in Meerbusch-Büderich, stilvoll und hochkarätig mit vielen Extras...",1.740.000 €,"40667 Meerbusch, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,230 m²,425 m²,7.565 €/m²,Besondere Immobilie,50 m²,sofort oder nach Abstimmung,4,2,2 Außenstellplätze,"3,57 % inkl. der gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Geräumiges Einfamilienhaus mit Einliegerwohnung auf dem Sehlberg!,280.000 €,"32816 Schieder-Schwalenberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,210 m²,810 m²,1.333 €/m²,Einfamilienhaus (freistehend),nil,sofort,nil,3,Garage,"3,57 inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
++++ Reihenendhaus mit Potenzial in ruhiger Lage von Heinsberg +++,209.000 €,"52525 Heinsberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,317 m²,2.090 €/m²,Reiheneckhaus,nil,ab sofort,3,1,2 Außenstellplätze,"3,57% inkl. MwSt.",{}
+Individuelles 6-Zimmer-Einfamilienhaus in Dortmund Berghofen,510.000 €,"Berghofen, 44269 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,427 m²,3.188 €/m²,Einfamilienhaus (freistehend),10 m²,nil,3,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+PREISREDUZIERUNG: Ein Schmuckstück im Landhausstil erfüllt Ihre Wohnträume,495.000 €,"Von Diest Str. 29,
+47665 Sonsbeck, Wesel (Kreis)",10,192 m²,511 m²,2.578 €/m²,Einfamilienhaus (freistehend),60 m²,nil,4,4,1 Stellplatz,"17.671,50 €","{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Einfach zum Wohlfühlen!,265.000 €,"52538 Gangelt, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,110 m²,504 m²,2.409 €/m²,Einfamilienhaus (freistehend),nil,Vereinbarung,nil,nil,3 Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus nebst Garage,445.000 €,"Schloßallee XX,
+59439 Holzwickede, Unna (Kreis)",1,186 m²,680 m²,2.392 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Reihenmittelhaus mit Garage + provisionsfrei +,136.000 €,"Brockhauser Weg XX,
+58507 Lüdenscheid, Märkischer Kreis",3,104 m²,196 m²,1.308 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ihr neuer Lebensmittelpunkt!,229.000 €,"52538 Gangelt, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,840 m²,1.832 €/m²,Einfamilienhaus (freistehend),nil,Vereinbarung,nil,nil,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Moderne helle 7-Zimmer-Doppelhaushälfte mit gehobener Ausstattung,549.000 €,"42489 Wülfrath, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,164 m²,254 m²,3.348 €/m²,Doppelhaushälfte,"33,8 m²",1.8.2024,4,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Lobberich - Massiv gebaut für Selbstnutzer oder Investoren,480.800 €,"41334 Nettetal, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,148 m²,563 m²,3.249 €/m²,Einfamilienhaus (freistehend),"6,96 m²",2025,3,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erkelenz: Ihr förderfähiger EH 40 Bungalow mit PV Anlage - schlüsselfertig!,287.073 €,"41812 Erkelenz, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,115 m²,450 m²,2.496 €/m²,Bungalow,55 m²,nil,2,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütlicher Bungalow mit schönem Ausblick in Simmerath-Rurberg,283.580 €,"52152 Simmerath, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,606 m²,3.636 €/m²,Bungalow,nil,nil,2,1,nil,"2,38 %",{}
+"Gangelt: Ihr förderfähiges EH 40 Haus für 2.334,- € / m² inkl. PV-Anlage, schlüsselfertig!",317.513 €,"52525 Gangelt, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,500 m²,2.335 €/m²,nil,"6,6 m²",nil,2,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"NUR GRUNDSTÜCK in Hückelhoven-Zentrum, ruhig, perfekte Infrastruktur !",75.800 €,"Achenbachstr. 12,
+41836 Hückelhoven, Heinsberg (Kreis)",5,125 m²,325 m²,606 €/m²,Doppelhaushälfte,nil,2024,nil,nil,1 Stellplatz,"3,57 % Courtage",{}
+Mit einem Mitwachshaus in Simmerath-Rurberg für alle Lebensphasen gut gerüstet,384.120 €,"52152 Simmerath, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,148 m²,849 m²,2.595 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,"2,38 %",{'is24qa-gaeste-wc-label': ''}
+Entspanntes Leben auf einer Ebene in Simmerath-Rurberg,310.530 €,"52152 Simmerath, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,610 m²,3.105 €/m²,Bungalow,nil,nil,2,1,nil,"2,38",{}
+"Rufen Sie uns an, wir können Ihnen helfen. Don´t worry - Bau happy!",389.400 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,113 m²,490 m²,3.446 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mieten ist purer Luxus..Nicht mehr LÄNGER WARTEN. Don´t worry - Bau happy!!,334.450 €,"52391 Vettweiß, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,116 m²,281 m²,2.883 €/m²,Doppelhaushälfte,124 m²,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bauen aus einer Hand, dass Eigenheim ruft. Don´t worry - Bau happy!",389.400 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,113 m²,490 m²,3.446 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mieten ist purer Luxus, dass Eigenheim ruft. Don´t worry - Bau happy!",389.400 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,113 m²,490 m²,3.446 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sie brauchen nichts Großes .Don´t worry -Bau happy!,371.400 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,100 m²,490 m²,3.714 €/m²,Einfamilienhaus (freistehend),"4,6 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bauen für eine Große Familie. Don´t worry - Bau happy!,372.890 €,"Im Niederbusch 1,
+52385 Nideggen, Düren (Kreis)",8,192 m²,0 m²,1.942 €/m²,Mehrfamilienhaus,nil,2023,6,2,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sichern Sie sich den Baupreis noch heute. Don´t worry -Bau happy!,371.400 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,100 m²,490 m²,3.714 €/m²,Einfamilienhaus (freistehend),"4,6 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Das sichere Massivhaus bauen, auf eine Etage. Don´t worry - Bau happy!",239.090 €,"Am Steinacker 11,
+52457 Aldenhoven, Düren (Kreis)",3,110 m²,0 m²,2.174 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Lage, tolles Haus. . Don´t worry -Bau happy!",377.340 €,"In der Kamm 1,
+52391 Vettweiß, Düren (Kreis)",4,110 m²,490 m²,3.430 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alles aus einer Hand. Don´t worry - Bau happy!,407.150 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",5,129 m²,450 m²,3.156 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"geräumiges Einfamilienhaus auf sonnigem, ruhigem Grundstück. Don´t worry - Bau happy!",398.340 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,125 m²,490 m²,3.187 €/m²,Einfamilienhaus (freistehend),"6,43 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Lassen sie Ihr Haus vom Fachmann bauen. Don´t worry -Bau happy!,377.340 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,110 m²,490 m²,3.430 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Lage, tolles Haus. . Don´t worry -Bau happy!",377.340 €,"In der Kamm 1,
+52391 Vettweiß, Düren (Kreis)",4,110 m²,490 m²,3.430 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alles aus einer Hand. Don´t worry - Bau happy!,407.150 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",5,129 m²,450 m²,3.156 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nicht mehr LÄNGER WARTEN. Don´t worry - Bau happy!,398.340 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,125 m²,490 m²,3.187 €/m²,Einfamilienhaus (freistehend),"6,43 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Das sichere Massivhaus bauen, auf eine Etage. Don´t worry - Bau happy!",239.090 €,"Am Steinacker 11,
+52457 Aldenhoven, Düren (Kreis)",3,110 m²,0 m²,2.174 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Das meist Verkaufte Markenhaus. Don´t worry -Bau happy!,371.400 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,100 m²,490 m²,3.714 €/m²,Einfamilienhaus (freistehend),"4,6 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wir warten auf Sie... Don´t worry - Bau happy!!,372.890 €,"Im Niederbusch 1,
+52385 Nideggen, Düren (Kreis)",8,192 m²,0 m²,1.942 €/m²,Mehrfamilienhaus,nil,2023,6,2,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ich bin KLEIN aber doch GROß. Don´t worry -Bau happy!,371.400 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,100 m²,490 m²,3.714 €/m²,Einfamilienhaus (freistehend),"4,6 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wir bauen mit Ihnen GEMEINSAM. Don´t worry - Bau happy!,389.400 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,113 m²,490 m²,3.446 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Zentral, ruhig, im Grünen mitten in Alsdorf das Leben im Eigenheim geniessen.",394.660 €,"Robert-Koch-Str. 15,
+52477 Alsdorf, Aachen (Kreis)",4,124 m²,440 m²,3.183 €/m²,Einfamilienhaus (freistehend),"7,82 m²",2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Perfekt in Alsdorf, zentral jedoch ruhig im Eigenheim das Leben geniessen.",429.320 €,"Robert-Kochstr. 15,
+52477 Alsdorf, Aachen (Kreis)",5,152 m²,440 m²,2.824 €/m²,Einfamilienhaus (freistehend),"6,82 m²",2024,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mieten ist purer Luxus...Nicht mehr LÄNGER WARTEN. Don´t worry - Bau happy!,334.450 €,"52391 Vettweiß, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,116 m²,281 m²,2.883 €/m²,Doppelhaushälfte,124 m²,nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Rufen Sie uns an, wir können Ihnen helfen. Don´t worry - Bau happy!",389.400 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,113 m²,490 m²,3.446 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wir bauen mit Ihnen GEMEINSAM. Don´t worry - Bau happy!,389.400 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,113 m²,490 m²,3.446 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ich bin KLEIN aber doch GROß. Don´t worry -Bau happy!,371.400 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,100 m²,490 m²,3.714 €/m²,Einfamilienhaus (freistehend),"4,6 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wir warten auf Sie... Don´t worry - Bau happy!!,372.890 €,"Im Niederbusch 1,
+52385 Nideggen, Düren (Kreis)",8,192 m²,0 m²,1.942 €/m²,Mehrfamilienhaus,nil,2023,6,2,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Das meist Verkaufte Markenhaus. Don´t worry -Bau happy!,371.400 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,100 m²,490 m²,3.714 €/m²,Einfamilienhaus (freistehend),"4,6 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Das sichere Massivhaus bauen, auf eine Etage. Don´t worry! - Bau happy",239.090 €,"Am Steinacker 11,
+52457 Aldenhoven, Düren (Kreis)",3,110 m²,0 m²,2.174 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alles aus einer Hand. Don´t worry - Bau happy!,407.150 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",5,129 m²,450 m²,3.156 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Lage, tolles Haus. . Don´t worry -Bau happy!",377.340 €,"In der Kamm 1,
+52391 Vettweiß, Düren (Kreis)",4,110 m²,490 m²,3.430 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Lassen sie Ihr Haus vom Fachmann bauen. Don´t worry -Bau happy!,377.340 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,110 m²,490 m²,3.430 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nicht mehr LÄNGER WARTEN. Don´t worry - Bau happy!,398.340 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,125 m²,490 m²,3.187 €/m²,Einfamilienhaus (freistehend),"6,43 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** Vettweiß! Don´t worry - Bau happy!!!! Alles auf einer Ebene - für die Zukunft vorsorgen!! **,239.090 €,"52391 Vettweiß, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,121 m²,0 m²,1.976 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"** Düren! IHR neuer Bungalow, ein Traum auf einer Ebene!! Planen Sie Ihre Wohlfühloase! **",239.090 €,"Birgel, 52355 Düren
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,121 m²,0 m²,1.976 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"** Jülich!!!! IHR neuer Bungalow, ein Traum auf einer Ebene! Planen Sie Ihre Wohlfühloase!!! **",239.090 €,"52428 Jülich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,121 m²,0 m²,1.976 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** Nörvenich!!!! Im Alter sorgenfrei sein - Zukunftssicher bauen - ebenerdig genießen!!! **,239.090 €,"52388 Nörvenich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,121 m²,0 m²,1.976 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** Nörvenich! Geräumige Stadtvilla!!!! Raus aus der Miete - rein ins Eigenheim!! **,263.500 €,"52388 Nörvenich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,0 m²,1.952 €/m²,Einfamilienhaus (freistehend),nil,2023,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** Langerwehe!! Große Stadtvilla sucht Ihre 1. Besitzer - Jetzt mit uns Häuslebauer werden!!! **,419.500 €,"Heisterner Straße 16 c,
+52379 Langerwehe, Düren (Kreis)",5,163 m²,450 m²,2.574 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"** Nörvenich!! Wohnglück auf einer Ebene, IHRE Altersvorsorge!!! **",220.650 €,"52388 Nörvenich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,103 m²,0 m²,2.142 €/m²,Bungalow,nil,2023,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+** Langerwehe!! Maximale Sicherheit in unsicheren Zeiten! Don´t worry - Bau happy **,396.150 €,"Heisterner Straße 16 c,
+52379 Langerwehe, Düren (Kreis)",4,140 m²,450 m²,2.830 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Aldenhoven : Leben und das Leben im Eigenheim geniessen.,398.390 €,"Südstr. 7,
+52457 Aldenhoven, Düren (Kreis)",5,152 m²,400 m²,2.621 €/m²,Einfamilienhaus (freistehend),nil,2024,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Aldenhoven : Leben und das Leben im Eigenheim geniessen.,388.350 €,"Südstr. 7,
+52457 Aldenhoven, Düren (Kreis)",4,124 m²,400 m²,3.132 €/m²,Einfamilienhaus (freistehend),"6,74 m²",2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bauen für eine Große Familie. Don´t worry - Bau happy!,372.890 €,"Im Niederbusch 1,
+52385 Nideggen, Düren (Kreis)",8,192 m²,0 m²,1.942 €/m²,Mehrfamilienhaus,nil,2023,6,2,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sie brauchen nichts Großes .Don´t worry -Bau happy!,371.400 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,100 m²,490 m²,3.714 €/m²,Einfamilienhaus (freistehend),"4,6 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gemütliches, sonniges Einfamilienhaus auf sonnigem Grundstück zu verkaufen. Don´t worry -Bau happy!!",377.340 €,"In der Kamm 1,
+52391 Vettweiß, Düren (Kreis)",4,110 m²,490 m²,3.430 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mieten ist purer Luxus, dass Eigenheim ruft. Don´t worry - Bau happy!",389.400 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,113 m²,490 m²,3.446 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"geräumiges Einfamilienhaus auf sonnigem, ruhigem Grundstück. Don´t worry - Bau happy!",398.340 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,125 m²,490 m²,3.187 €/m²,Einfamilienhaus (freistehend),"6,43 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bauen aus einer Hand, dass Eigenheim ruft. Don´t worry - Bau happy!",389.400 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,113 m²,490 m²,3.446 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit viel Licht und Platz für die ganze Familie . Don´t worry -Bau happy!,377.340 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",4,110 m²,490 m²,3.430 €/m²,Einfamilienhaus (freistehend),"6,73 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sichern Sie sich den Baupreis noch heute. Don´t worry -Bau happy!,371.400 €,"In der Kamm 15,
+52391 Vettweiß, Düren (Kreis)",4,100 m²,490 m²,3.714 €/m²,Einfamilienhaus (freistehend),"4,6 m²",nil,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Aldenhoven-Siersdorf: Ruhig in perfekter Infrastruktur. die LETZTEN 2 Doppelhäuser warten auf Sie!,347.480 €,"Südstr. 7,
+52457 Aldenhoven, Düren (Kreis)",5,125 m²,280 m²,2.780 €/m²,Doppelhaushälfte,"5,78 m²",2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Aldenhoven: Ruhig, zentral - in den letzten beiden Doppelhäusern das Leben geniessen!",347.760 €,"Südstr. 7,
+52457 Aldenhoven, Düren (Kreis)",5,128 m²,280 m²,2.717 €/m²,Doppelhaushälfte,"5,78 m²",2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gangelt: In 2024 einziehen: Ihr förderfähiges EH 40 KFWG Haus.,267.385 €,"52538 Gangelt, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,500 m²,2.325 €/m²,Bungalow,"5,96 m²",nil,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+In 18 Monate zum Festpreis einziehen! Dieses schöne Stadthaus könnte Ihres sein!,263.450 €,"41812 Erkelenz, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,138 m²,400 m²,1.909 €/m²,Einfamilienhaus (freistehend),"4,61 m²",nil,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hückelhoven-Zentrum: Ruhig, zentral, perfekte Infrastruktur. Doppelhaus mit Wohlfühlgarantie.",368.720 €,"Achenbachstr. 10,
+41836 Hückelhoven, Heinsberg (Kreis)",5,128 m²,325 m²,2.881 €/m²,Doppelhaushälfte,"5,78 m²",2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hückelhoven-Zentrum, ruhig, perfekte Infrastruktur, im modernen Doppelhaus das Leben geniessen.",365.580 €,"Schmeißerstr. 12,
+41836 Hückelhoven, Heinsberg (Kreis)",5,125 m²,325 m²,2.925 €/m²,Doppelhaushälfte,"5,78 m²",2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives 2-Familienhaus in Übach-Marienberg! LETZTES Grdst.in traumhafter S/W-Lage.,498.520 €,"Franz-von-Sales-Str. 19,
+52531 Übach-Palenberg, Heinsberg (Kreis)",5,180 m²,512 m²,2.770 €/m²,Mehrfamilienhaus,180 m²,2024,4,1,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Übach-Marienberg im neuen exklusiven Stadtteil + in S/W-Lage das Leben geniessen,458.680 €,"Franz-von-Sales-Str. 19,
+52531 Übach-Palenberg, Heinsberg (Kreis)",5,152 m²,512 m²,3.018 €/m²,Einfamilienhaus (freistehend),"6,82 m²",2024,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heinsberg: förderfähiges Stadthaus EH 40 mit PV-Anlage. Hier ist Platz für alle und etwas mehr.,317.513 €,"52525 Heinsberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,400 m²,2.335 €/m²,Einfamilienhaus (freistehend),"4,61 m²",nil,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gemütliches Einfamilienhaus auf pflegleichten, ruhigen, grünem Grundstück. Don´t worry - Bau happy!!",407.150 €,"Kolpingstraße 1,
+52428 Jülich, Düren (Kreis)",5,129 m²,450 m²,3.156 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"** Düren! Große, günstige Stadtvilla mit Festpreisgarantie!! **",290.500 €,"52353 Düren, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,0 m²,1.782 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** Langerwehe!! Ein wunderschönes Stadthaus wartet auf SIE! Don´t worry - Bau happy **,392.500 €,"Heisterner Straße 16 c,
+52379 Langerwehe, Düren (Kreis)",4,135 m²,450 m²,2.907 €/m²,Einfamilienhaus (freistehend),nil,2023,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** Langerwehe! Don´t worry - Bau happy!! Alles auf einer Ebene - für die Zukunft vorsorgen!! **,239.090 €,"52379 Langerwehe, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,121 m²,0 m²,1.976 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"** Aldenhoven!! Unser Bungalow für Ihre Zukunft! Unabhängig von steigenden Kosten, ebenerdig bauen",220.650 €,"52457 Aldenhoven, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,103 m²,0 m²,2.142 €/m²,Bungalow,nil,2023,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+** Jülich!!!! Zwei Vollgeschosse und viel Platz für die ganze Familie! Traumhafte Stadtvilla!!! **,290.500 €,"52428 Jülich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,0 m²,1.782 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** Aldenhoven! Geräumige Stadtvilla mit viel Platz für IHRE Ideen -OHNE Schrägen!,290.500 €,"52457 Aldenhoven, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,0 m²,1.782 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"** Aldenhoven!!!I HR neuer Bungalow, ein Traum auf einer Ebene! Planen Sie Ihre Wohlfühloase!! **",239.090 €,"52457 Aldenhoven, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,121 m²,0 m²,1.976 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Aldenhoven ** Sie wollen UNABHÄNGIG von steigenden Kosten sein? Lassen Sie sich beraten!! **,263.450 €,"52457 Aldenhoven, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,0 m²,1.951 €/m²,Einfamilienhaus (freistehend),nil,2023,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** Jülich!!! Energiesparend in die Zukunft starten! IHR neues Zuhause? Don´t worry - Bau happy! **,267.150 €,"52428 Jülich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,0 m²,1.842 €/m²,Einfamilienhaus (freistehend),nil,2023,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+** NIDEGGEN!!!! Maximale Sicherheit in unsicheren Zeiten!!! Don´t worry - Bau happy **,263.450 €,"52385 Nideggen, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,0 m²,1.951 €/m²,Einfamilienhaus (freistehend),nil,2023,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Das sichere Massivhaus bauen, auf eine Etage. Don´t worry - Bau happy!",239.090 €,"Am Steinacker 11,
+52457 Aldenhoven, Düren (Kreis)",3,110 m²,0 m²,2.174 €/m²,Bungalow,nil,2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+18 Monate Festpreisgarantie - keine Angst mehr vor rapide steigende Preise!,237.690 €,"41812 Erkelenz, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,500 m²,1.787 €/m²,nil,"5,17 m²",nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Übach-Marienberg: LETZTES Grdst.im exklusiven Stadtteil in S/W-Lage.,429.260 €,"Franz-von-Sales-Str. 19,
+52531 Übach-Palenberg, Heinsberg (Kreis)",4,124 m²,512 m²,3.462 €/m²,Einfamilienhaus (freistehend),"7,82 m²",2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

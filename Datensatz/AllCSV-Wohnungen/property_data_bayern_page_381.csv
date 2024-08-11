@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+5-Zimmer Maisonett Wohnung mit Garten,904.672 €,"83109 Großkarolinenfeld, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"147,94 m²",6.115 €/m²,Maisonette,nil,nil,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Haus im Haus sofort bezugsfertig. Mit Einzelgarage und toller hochwertiger Einbauküche.,460.000 €,"83549 Eiselfing, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"80,24 m²",5.733 €/m²,Maisonette,nil,sofort,3,1,1 Garage,"2,975% inkl.19% MWSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+A2 Immobilien GmbH - Wunderschöne 3 ZKB Wohnung mit Balkon,380.000 €,"85107 Baar-Ebenhausen, Pfaffenhofen an der Ilm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,82 m²,4.634 €/m²,Etagenwohnung,nil,2023,2,1,2 Stellplätze,"3,57",{'is24qa-balkon-terrasse-label': ''}
+Pflegeimmobilie - Das Investment mit Zukunft!,125.000 €,"87748 Fellheim, Unterallgäu (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,64 m²,1.953 €/m²,Etagenwohnung,nil,nach Absprache,1,1,nil,"3,57 % inkl. ges. MwSt.",{}
+"""Energieeffizienter Neubau: KfW-Förderung sichert bezahlbares Wohnen!""",370.071 €,"94060 Pocking, Passau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"94,89 m²",3.900 €/m²,Etagenwohnung,nil,Nach Vereinbarung,nil,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer Wohnung mit Blick ins Grüne,778.828 €,"83109 Großkarolinenfeld, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,36 m²",6.525 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Aufgepasst: Exklusives Penthouse mit großer Dachterrasse!,669.000 €,"86381 Krumbach (Schwaben), Günzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"128,79 m²",5.195 €/m²,Penthouse,"6,07 m²",nil,3,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer Wohnung mit großzügigem Grundriss,916.129 €,"83109 Großkarolinenfeld, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"141,31 m²",6.483 €/m²,Dachgeschoss,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geräumige 3-Zimmerwohnung mit herrlichem Ausblick über Augsburg,249.900 €,"Lechhausen-Ost, 86167 Augsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,3.124 €/m²,Etagenwohnung,nil,noch vermietet,2,1,1 Tiefgaragen-Stellplatz,"2,98 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Lichtdurchflutete 3-Zimmer-Wohnung in Neugablonz,285.000 €,"Neugablonz, 87600 Kaufbeuren
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,71 m²,4.014 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. 19% ges. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+4-Zimmer Maisonett Wohnung mit Garten,628.013 €,"83109 Großkarolinenfeld, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"101,24 m²",6.203 €/m²,Maisonette,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Erdgeschosswohnung mit Terrasse in Gachenbach OT Peutenhausen! Provisionsfrei!,367.710 €,"86565 Gachenbach, Neuburg-Schrobenhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"87,55 m²",4.200 €/m²,Erdgeschosswohnung,nil,Herbst 2023,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen über den Dächern von Freising: Charmante 3-Zimmer-Wohnung mit Panoramablick,359.000 €,"85356 Freising, Freising (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"81,23 m²",4.420 €/m²,Etagenwohnung,nil,nil,2,1,nil,3 % inkl. ges. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+4 Zimmerwohnung mit Balkon Bad Füssing/Egglfing,260.000 €,"94072 Bad Füssing, Passau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,2.167 €/m²,Etagenwohnung,nil,Nach Absprache,3,3,1 Garage,"3,57 %, (inkl. 19% MwSt.) vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+4-Zimmer Wohnung mit Blick ins Grüne,800.007 €,"83109 Großkarolinenfeld, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"122,79 m²",6.515 €/m²,Dachgeschoss,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche 3-Zimmer Etagenwohnung mit Balkon!,403.000 €,"86381 Krumbach (Schwaben), Günzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,17 m²",5.155 €/m²,Etagenwohnung,"5,84 m²",nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geräumige 3-Zimmerwohnung mit viel Platz in idealer Lage in Neusäß,390.000 €,"86356 Neusäß, Augsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,3.900 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Duplex-Stellplatz,"3,57 % inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Barrierefreie 2-Zi.-Wohnung mit Balkon in Piflas, TG, Keller, Wohnkonzept 50+",399.000 €,"84030 Ergolding, Landshut (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,63 m²,6.333 €/m²,Etagenwohnung,nil,sofort,1,1,1 Tiefgaragen-Stellplatz,"2,38 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+"Neubau-ETW in Ingolstadt - Mailing 1. OG mit Balkon, TG und Aufzug Provisionsfrei für Käufer!",399.000 €,"Brunellenstraße 6,
+Mailing, 85055 Ingolstadt",3,"69,04 m²",5.779 €/m²,Etagenwohnung,nil,Ende 2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer Wohnung mit Dachterrasse,835.624 €,"83109 Großkarolinenfeld, Rosenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"129,88 m²",6.434 €/m²,Dachgeschoss,nil,nil,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Mobilheim im Schweden Stil,75.000 €,"Am Aueweg 6,
+63517 Rodenbach, Main-Kinzig-Kreis",2,38 m²,341 m²,1.974 €/m²,Wohnimmobilie (sonstige),45 m²,Nach Vereinbarung,1,1,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes 5-Raum-Haus mit traumhaftem Ausblick in Rockenberg-Oppershofen Rockenberg,398.000 €,"35519 Rockenberg, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,155 m²,250 m²,2.568 €/m²,Einfamilienhaus (freistehend),25 m²,1.7.2024,4,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Idyllische Lage mit Fernblick aufs Schloss Lichtenberg,525.000 €,"64405 Fischbachtal, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",150 m²,330 m²,3.500 €/m²,Einfamilienhaus (freistehend),nil,Ab sofort bezugsfrei,nil,2,1 Carport,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaushälfte in Meinhard,171.000 €,"Siedlungsstraße 8,
+37276 Meinhard, Werra-Meißner-Kreis",7,135 m²,650 m²,1.267 €/m²,Doppelhaushälfte,500 m²,13.5.2024,2,2,1 Außenstellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaus mit Garagengebäude ++ provisionsfrei ++,112.000 €,"Bornbachstraße XXX,
+35789 Weilmünster, Limburg-Weilburg (Kreis)",8,160 m²,459 m²,700 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Terrasse und Garten,480.000 €,"Lessingstraße XXX,
+63533 Mainhausen, Offenbach (Kreis)",6,161 m²,591 m²,2.981 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Renovierungsbedürftiges Einfamilienhaus mit Potenzial (OT Braunshardt),435.000 €,"64331 Weiterstadt, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,108 m²,643 m²,4.028 €/m²,Einfamilienhaus (freistehend),85 m²,nil,3,2,2 Stellplätze,"3,57 % inkl. MwSt.",{'is24qa-keller-label': ''}
+Traumhafte freistehende Villa auf sonnigem Grundstück – provisionsfrei + Glasfaserhausanschluss,750.000 €,"65817 Eppstein, Main-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,300 m²,1.454 m²,2.500 €/m²,Einfamilienhaus (freistehend),80 m²,2.5.2024,4,3,4 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kleines Haus für eine glückliche Familie!,212.000 €,"65388 Schlangenbad, Rheingau-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"106,13 m²",311 m²,1.998 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Charmanter Bauernhof mit Nebengebäude und Scheune überzeugt mit tollem Raumkonzept zum Wohlfühlen,249.000 €,"34311 Naumburg, Kassel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"256,28 m²","1.833,28 m²",972 €/m²,Einfamilienhaus (freistehend),nil,ab sofort,4,2,2 Außenstellplätze,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Unglaublich - aber wahr!!!,265.000 €,"Vogelsbergstraße 32,
+63679 Schotten, Vogelsbergkreis",6,180 m²,1.400 m²,1.472 €/m²,Einfamilienhaus (freistehend),130 m²,Sofort,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Einfamilienhaus mit Einlieger, Werkstatt und Garagengebäude",325.000 €,"Bergstraße XXX,
+34253 Lohfelden, Kassel (Kreis)",8,147 m²,798 m²,2.211 €/m²,Wohnimmobilie (sonstige),68 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Bürohaus nebst Lagerhalle,950.000 €,"Waitzstraße XXX,
+Waldau, 34123 Kassel",1,"283,32 m²",2.776 m²,3.353 €/m²,Wohnimmobilie (sonstige),"1.231,24 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus - provisionsfrei,222.000 €,"Burg XXX,
+63654 Büdingen, Wetteraukreis",4,1 m²,329 m²,222.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Provisionsfreies, geräumiges und modernisiertes 6-Zimmer-Einfamilienhaus mit geh. Innenausstattung",819.000 €,"65719 Hofheim am Taunus, Main-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,200 m²,430 m²,4.095 €/m²,Einfamilienhaus (freistehend),80 m²,1.11.2024,5,3,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+von Privat: Zweifamilienhaus traumhafter Blick über Fulda bis zur Rhön,435.000 €,"Mainzer Str. 5,
+36039 Fulda, Fulda (Kreis)",9,229 m²,873 m²,1.900 €/m²,Mehrfamilienhaus,65 m²,nil,nil,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Geräumiges 8,5-Raum-Einfamilienhaus in Nentershausen",290.000 €,"Eichelsberg 5,
+36214 Nentershausen, Hersfeld-Rotenburg (Kreis)","8,5",250 m²,1.350 m²,1.160 €/m²,Einfamilienhaus (freistehend),nil,31.7.2024,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Das Haus im Haus ! XXL-Wohnungspaket mit Garten für's XXL-Wohnen aller Art,1.125.000 €,"63128 Dietzenbach, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,331 m²,1.037 m²,3.399 €/m²,Mehrfamilienhaus,80 m²,nach Absprache,8,4,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes 5-Zimmer-Reihenhaus mit gehobener Innenausstattung in Kelkheim (Taunus),650.000 €,"65779 Kelkheim (Taunus), Main-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,147 m²,4.333 €/m²,Reihenmittelhaus,58 m²,20.5.2024,4,2,2 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiger u- repräsentativer Bungalow auf sehr großem Südwestgrundstück i.bester Lage Groß Karbens,695.000 €,"Holunderweg 13,
+61184 Karben, Wetteraukreis","5,5",228 m²,916 m²,3.048 €/m²,Bungalow,240 m²,sofort oder nach Vereinbarung,3,2,1 Garage,"2,5 % plus gesetzl. MWSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"

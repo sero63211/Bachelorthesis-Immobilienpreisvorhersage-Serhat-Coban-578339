@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Sie haben ein Grundstück? Wir haben Ihr neues Heim zum Festpreis!,374.500 €,"59379 Selm, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,1 m²,2.656 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sie haben ein Grundstück? Wir haben Ihr Wohlfühlhaus zum Festpreis!,336.700 €,"59348 Lüdinghausen, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,1 m²,2.532 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Grundstück vorhanden? Modernes Wohnen auf einer Ebene zum Festpreis!,301.400 €,"48329 Havixbeck, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,103 m²,1 m²,2.926 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sie haben ein Grundstück? Ihr neues Heim mit GEG-Standard zum Festpreis!,336.700 €,"48734 Reken, Borken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,1 m²,2.532 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr neues schlüsselfertiges Massivhaus zum Festpreis mit neuem GEG-Standard,302.800 €,"48308 Senden, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,114 m²,1 m²,2.656 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alfter: Hofanlage bestehend aus charmantem Fachwerkhaus und vier Wohneinheiten zu verkaufen,660.000 €,"53347 Alfter, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,307 m²,420 m²,2.150 €/m²,Mehrfamilienhaus,72 m²,nil,7,5,3 Außenstellplätze,"2,38%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-vermietet-label': ''}"
+Sie haben ein Grundstück? Schlüsselfertiger Neubau zum Festpreis!,336.700 €,"48249 Dülmen, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,1 m²,2.532 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""EHRENSACHE..."" Einfamilienhaus mit Charme in ruhiger Lage",475.000 €,"Resse, 45892 Gelsenkirchen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,1.276 m²,2.969 €/m²,Einfamilienhaus (freistehend),37 m²,ab sofort,2,1,1 Carport,"3,57%",{'is24qa-keller-label': ''}
+"Kleines Einfamilienhaus in idyllischer Lage! Carport, Balkon & Garten",156.000 €,"51570 Windeck, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"96,53 m²",484 m²,1.616 €/m²,Wohnimmobilie (sonstige),53 m²,nach Vereinbarung,4,1,1 Carport,keine,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Viel Platz für die ganze Familie,380.000 €,"Lützenkirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,371 m²,2.714 €/m²,Reihenmittelhaus,86 m²,nil,3,2,1 Garage,3 % zzgl. ges. MwSt.,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Bezahlbarer Wohnraum in Brüggen: Das funktionelle Einfamilienhaus. Ansehen!,279.000 €,"41379 Brüggen, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,113 m²,403 m²,2.469 €/m²,Doppelhaushälfte,nil,nach Vereinbarung,3,1,4 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehende Fabrikantenvilla in Erftstadt Liblar,759.000 €,"50374 Erftstadt, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,340 m²,1.620 m²,2.232 €/m²,Einfamilienhaus (freistehend),200 m²,sofort,5,5,2 Stellplätze,3.57 %,{'is24qa-keller-label': ''}
+Lobberich - 3-Familienhaus in zentraler Ortslage,399.000 €,"41334 Nettetal, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,"283,04 m²",1.387 m²,1.410 €/m²,Mehrfamilienhaus,nil,- vermietet -,nil,nil,nil,"3,57 % Maklerprovision, inkl. 19% Mehrwertsteuer",{}
+Auf ins Familiennest!,458.000 €,"West, 40880 Ratingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,107 m²,273 m²,4.280 €/m²,Reiheneckhaus,53 m²,01.07.2023,3,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Historisches Einfamilienhaus mit kleiner Gewerbefläche,249.000 €,"51647 Gummersbach, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,186 m²,597 m²,1.339 €/m²,Einfamilienhaus (freistehend),142 m²,nil,3,1,1 Carport,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Geräumiges 4-Familienhaus mit vielfältigen Selbstnutzungsmöglichkeiten,499.000 €,"Frohnhausen, 45145 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,248 m²,199 m²,2.012 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,1 Garage,"4,76 inkl. MwSt.",{'is24qa-keller-label': ''}
+Investoren aufgepasst! - Münster-Innenstadt / Solides Mehrfamilienhaus mit 10 Wohnungen,1.790.000 €,"Hansaplatz, 48155 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",30,540 m²,252 m²,3.315 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"4,76 %",{'is24qa-keller-label': ''}
+Großzügiges Zweifamilienhaus mit Doppelgarage in ruhiger Sackgasse,649.000 €,"Dohlenweg 6,
+58256 Ennepetal, Ennepe-Ruhr-Kreis",7,258 m²,959 m²,2.516 €/m²,Bungalow,50 m²,nach Vereinbarung,4,2,4 Garagen,"1,785%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+WOHNEN PLUS BÜRO/ PRAXIS/ LADENLOKAL UNTER EINEM DACH !!!,585.000 €,"Emst, 58093 Hagen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"127,53 m²","523,9 m²",4.587 €/m²,Wohnimmobilie (sonstige),"120,64 m²",Nach Vereinbarung,2,1,6 Stellplätze,"4,76% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Renovierungsbedürftig // Vermietetes Zwei-Familienhaus,590.000 €,"Humboldtstr. 265,
+Haarzopf, 45149 Essen",5,138 m²,510 m²,4.275 €/m²,nil,118 m²,nil,5,4,3 Garagen,"4,76",{'is24qa-vermietet-label': ''}

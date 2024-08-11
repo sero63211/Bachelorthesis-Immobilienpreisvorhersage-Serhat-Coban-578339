@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Entfaltungsmöglichkeiten für Ihre Geschäftsideen!,235.000 €,"99734 Nordhausen, Nordhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,220 m²,2.706 m²,1.068 €/m²,nil,350 m²,nil,nil,nil,nil,"3,57 %",{}
+Außergewöhnlich großes Grundstück in der Stadt gesucht?,235.000 €,"99734 Nordhausen, Nordhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,220 m²,2.706 m²,1.068 €/m²,Einfamilienhaus (freistehend),250 m²,nil,nil,nil,nil,"3,57 %",{}
+"Trusetal, EFH + ELW",220.000 €,"Über den Gärten 31,
+98596 Trusetal, Schmalkalden-Meiningen (Kreis)",8,191 m²,581 m²,1.152 €/m²,Einfamilienhaus (freistehend),nil,nach verkauf,nil,2,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Suhl-OT, 1-2 Fam.Haus",129.000 €,"Zum Zimmergrund 15,
+Albrechts, 98529 Suhl",6,190 m²,450 m²,679 €/m²,Mehrfamilienhaus,nil,nil,nil,1,2 Außenstellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schwallungen, Doppelhaushälfte",99.000 €,"Hauptstr. 116,
+98590 Schwallungen, Schmalkalden-Meiningen (Kreis)",5,137 m²,1.190 m²,723 €/m²,Doppelhaushälfte,nil,nil,nil,2,2 Garagen,Nein,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Buhla, Doppelhaushälfte",130.000 €,"Ascheröder Str. 11,
+37339 Buhla, Eichsfeld (Kreis)",6,120 m²,800 m²,1.083 €/m²,Doppelhaushälfte,nil,nach Verkauf,nil,2,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Luisenthal, EFH",179.000 €,"Siedlung 9,
+99885 Luisenthal, Gotha (Kreis)",4,110 m²,724 m²,1.627 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Sondershausen-OT, EFH + Nebengebäude",49.000 €,"Marktstr. 47,
+99706 Sondershausen, Kyffhäuserkreis",8,196 m²,730 m²,250 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Bleicherode-OT, EFH",65.000 €,"Hauptstr. 35,
+99752 Bleicherode, Nordhausen (Kreis)",6,120 m²,332 m²,542 €/m²,Einfamilienhaus (freistehend),nil,nach Verkauf,nil,2,1 Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Bad Salzungen-OT, EFH + Nebengeb.",48.000 €,"An der Trift 5,
+36469 Frauensee, Wartburgkreis",9,178 m²,425 m²,270 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,1,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sondershausen-OT, 2 Fam.Hs.",238.000 €,"Ziegelhüttenweg 10,
+99706 Sondershausen, Kyffhäuserkreis",8,200 m²,650 m²,1.190 €/m²,Mehrfamilienhaus,nil,nil,nil,3,6 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sondershausen-OT, EFH + Nebengebäuden",129.000 €,"Kirchgasse 1,
+99706 Sondershausen, Kyffhäuserkreis",7,187 m²,862 m²,690 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,1,3 Garagen,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Lehesten, EFH",120.000 €,"Brennersgrün 27,
+07349 Lehesten, Saalfeld-Rudolstadt (Kreis)",5,130 m²,2.300 m²,923 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,1,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bad Langensalza, Wohn-u.Geschäftshaus",80.000 €,"Neustädter Str. 19,
+99947 Bad Langensalza, Unstrut-Hainich-Kreis",8,165 m²,190 m²,485 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Floh-Seligenthal-Kleinschmalkalden, EFH",85.000 €,"Ortsstr. 63,
+98593 Floh-Seligenthal, Schmalkalden-Meiningen (Kreis)",6,160 m²,160 m²,531 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,1,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hörsel-OT, EFH + Nebengeb.",49.000 €,"Unter den Linden 4,
+99880 Trügleben, Gotha (Kreis)",5,80 m²,470 m²,613 €/m²,Einfamilienhaus (freistehend),nil,nach Ableben,nil,1,5 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Frankenroda, EFH + Nebengb.",165.000 €,"Carl-Grübel-Str. 16,
+99826 Frankenroda, Wartburgkreis",3,120 m²,405 m²,1.375 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,1,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Notterthal-Heilinger Höhen-Bothenheiligen, EFH+Nebengeb.",65.000 €,"Anger 102,
+99994 Bothenheilingen, Unstrut-Hainich-Kreis",4,85 m²,1.000 m²,765 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Friedrichroda, DHH",179.000 €,"Tambacher Str. 12,
+99894 Friedrichroda, Gotha (Kreis)",7,93 m²,323 m²,1.925 €/m²,Doppelhaushälfte,nil,nil,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ilmenau, MFH",795.000 €,"Karl-Liebknecht-Str. 16,
+98693 Ilmenau, Ilm-Kreis",17,478 m²,981 m²,1.663 €/m²,Mehrfamilienhaus,300 m²,nil,nil,4,5 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

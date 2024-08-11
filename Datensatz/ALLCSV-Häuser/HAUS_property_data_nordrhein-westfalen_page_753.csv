@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"DHH, Effizienzklasse A+, KfW 40 mit PV-Anlage, Fußbodenheizung, Grundstück, Keller",849.000 €,"Hetjensstraße 0,
+Rath, 40472 Düsseldorf",5,180 m²,190 m²,4.717 €/m²,Doppelhaushälfte,nil,nil,4,1,nil,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"DHH, Effizienzklasse A+, KfW 40 mit PV-Anlage, Fußbodenheizung, Grundstück, Wohnkeller.",899.000 €,"Hetjensstraße 0,
+Rath, 40472 Düsseldorf",5,180 m²,190 m²,4.994 €/m²,Doppelhaushälfte,nil,nil,4,1,nil,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"KfW 40 Effizienzklasse A+ mit Grundstück, Keller als Büro ausgebaut, PV-Anlage, Wärmepumpe!",1.489.000 €,"Droste-Hülshoff-Straße 0,
+Stockum, 40474 Düsseldorf",4,200 m²,560 m²,7.445 €/m²,Doppelhaushälfte,nil,nil,3,2,nil,"2,38 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Familientraum: Stilvolles Anwesen in begehrter Lage von Bad Lippspringe,1.550.000 €,"Wilhelmstr. 23,
+33175 Bad Lippspringe, Paderborn (Kreis)",12,630 m²,1.400 m²,2.460 €/m²,Villa,nil,nil,4,4,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegtes Dreifamilienhaus in ruhiger Lage von Essen-Gerschede/Dellwig,310.000 €,"Gerschede, 45357 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,180 m²,238 m²,1.722 €/m²,Mehrfamilienhaus,180 m²,nil,3,3,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Reserviert!!! Neuwertiges Familiennest gesucht ? .... Sie sind bald da...,560.000 €,"53783 Eitorf, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,140 m²,541 m²,4.000 €/m²,Einfamilienhaus (freistehend),65 m²,nil,4,1,3 Stellplätze,"2,38 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Denkmalgeschütztes Bauernhaus,Auf Anfrage,"Kölner Straße 253,
+Saarn, 45481 Mülheim an der Ruhr",8,300 m²,1.000 m²,nil,Bauernhaus,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+#FÜHLDICHWOHL - schöne Doppelhaushälfte in Marl Drewer,378.000 €,"Drewer-Nord, 45772 Marl
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",104 m²,262 m²,3.635 €/m²,Doppelhaushälfte,56 m²,nil,2,1,2 Stellplätze,"4,76 % inkl. ges. MwSt.",{}
+Glückstreffer - Charmantes freistehendes Mehrfamilienhaus mit großem Garten,475.000 €,"Ehringhausen, 42859 Remscheid
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,335 m²,1.150 m²,1.418 €/m²,Villa,131 m²,Nach Absprache,8,3,2 Stellplätze,"4,76% inklusive gesetzlicher MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Geräumiges, günstiges und modernisiertes 9-Raum-Reihenhaus mit gehobener Innenausstattung von privat",489.000 €,"52441 Linnich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,254 m²,760 m²,1.925 €/m²,Reihenmittelhaus,nil,nil,8,4,4 Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Provisionsfreier Verkauf ! Toller Bungalow mit Pool (stillgelegt) + großem Garten in Essen-Gerschede,415.000 €,"Gerschede, 45357 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,125 m²,1.160 m²,3.320 €/m²,Bungalow,42 m²,nach Absprache,2,1,3 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neues Heim - Einziehen und wohlfühlen - ohne Provision inkl. Einbauküche,440.000 €,"Alkenrath, 51377 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,120 m²,184 m²,3.667 €/m²,Reihenmittelhaus,nil,1.12.2024,nil,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Natur & Architektur im Einklang! Exklusive Architektenvilla in Best-Lage von Leverkusen,1.690.000 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,265 m²,1.170 m²,6.377 €/m²,Wohnimmobilie (sonstige),60 m²,nil,5,3,4 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderner Purismus! Exklusive Bauhausvilla als Neubau in Best-Lage von Leverkusen,1.560.000 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,250 m²,1.170 m²,6.240 €/m²,Wohnimmobilie (sonstige),80 m²,nil,5,3,4 Stellplätze,15000€,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Zwei-Familienhaus mit großem idyllischen Grundstück in Top citynaher Lage MS-Mauritz 100 m v. Kanal,849.000 €,"Mauritz-Mitte, 48155 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,136 m²,992 m²,6.243 €/m²,Einfamilienhaus (freistehend),20 m²,Nach Vereinbarung,4,3,2 Garagen,"3,57% vom Kaufpreis inkl. 19% MwSt.",{'is24qa-keller-label': ''}
+"Bezugsfertiges, frisch renoviertes Reihenmittelhaus",525.000 €,"Loewensteinstraße 7,
+Borbeck-Mitte, 45355 Essen",5,135 m²,160 m²,3.889 €/m²,Reihenmittelhaus,50 m²,1.6.2024,4,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein- bis Zweifamilienhaus mit gehobener Innenausstattung in Sprockhövel,549.000 €,"45549 Sprockhövel, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,180 m²,762 m²,3.050 €/m²,Einfamilienhaus (freistehend),110 m²,1.10.2024,4,2,5 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche Doppelhaushälfte in Top-Lage von Kaarst mit großem Garten - von Privat,499.000 €,"41564 Kaarst, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,107 m²,650 m²,4.664 €/m²,Doppelhaushälfte,nil,1.9.2024,nil,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stadtnahes Einfamilienhaus mit schönem Garten in Südlage,220.000 €,"52511 Geilenkirchen, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"147,51 m²",478 m²,1.491 €/m²,Einfamilienhaus (freistehend),50 m²,nach Absprache,3,2,nil,"3,57% inkl. 19% MwSt.",{'is24qa-keller-label': ''}
+Denkmalgeschützte Wohnanlage,1.500.000 €,"Beeckerwerth, 47139 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",72,1.654 m²,6.767 m²,907 €/m²,Mehrfamilienhaus,1.654 m²,nil,nil,nil,8 Stellplätze,"4,76%",{}

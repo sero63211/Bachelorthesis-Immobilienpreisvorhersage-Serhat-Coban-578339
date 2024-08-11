@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Gemütliche 1-Zimmer-Wohnung mit TG-Stellplatz - provisionsfrei,98.000 €,"Käthe-Kollwitz-Weg XXXX,
+73207 Plochingen, Esslingen (Kreis)",1,24 m²,4.083 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-Zimmer-Wohnung mit überdachtem Balkon - provisionsfrei,83.000 €,"Bergseestraße XXXX,
+79713 Bad Säckingen, Waldshut (Kreis)",1,"41,26 m²",2.012 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 4-Zimmer-Wohnung im Dachgeschoss - provisionsfrei,265.000 €,"Strohstraße XXXX,
+72622 Nürtingen, Esslingen (Kreis)",4,105 m²,2.524 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision! 2-Zimmer-Wohnung mit Garage,82.000 €,"Welkerstraße XXXX,
+72213 Altensteig, Calw (Kreis)",2,"59,6 m²",1.376 €/m²,nil,"9,6 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung - provisionsfrei,125.000 €,"Nordbahnhofstraße XXXX,
+Auf der Prag, 70191 Stuttgart",2,"42,64 m²",2.932 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Schöne 3-Zimmer-Wohnung mit Balkon - provisionsfrei,230.000 €,"Dr.-Pilet-Spur XXXX,
+79868 Feldberg (Schwarzwald), Breisgau-Hochschwarzwald (Kreis)",3,"91,36 m²",2.518 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung - provisionsfrei,185.000 €,"Bismarckstraße XXXX,
+89547 Gerstetten, Heidenheim (Kreis)",3,"103,76 m²",1.783 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Terrasse und Gartenanteil - provisionsfrei,248.000 €,"Am Steingrüble XXXX,
+77656 Offenburg, Ortenaukreis",3,"82,47 m²",3.007 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon - provisionsfrei,195.000 €,"Neckarstraße XXXX,
+Feudenheim, 68259 Mannheim",2,68 m²,2.868 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1-Zimmer-Wohnung - provisionsfrei,43.000 €,"Im Neuenbühl XXXX,
+71287 Weissach, Böblingen (Kreis)",1,16 m²,2.688 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Pkw-Stellplatz ++ ohne Provision ++,145.000 €,"Brahmsstraße XXXX,
+97999 Igersheim, Main-Tauber-Kreis",2,"66,61 m²",2.177 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Pkw-Stellplatz - provisionsfrei,170.000 €,"Pamiersring XXXX,
+74564 Crailsheim, Schwäbisch Hall (Kreis)",3,76 m²,2.237 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-Zimmer-Wohnung - provisionsfrei,38.000 €,"Im Neuenbühl XXXX,
+71287 Weissach, Böblingen (Kreis)",1,16 m²,2.375 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Gepflegte 4-Zimmer-Wohnung - provisionsfrei,202.000 €,"Pommernweg XXXX,
+89168 Niederstotzingen, Heidenheim (Kreis)",4,"87,7 m²",2.303 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Geplante Wohnung - provisionsfrei,99.000 €,"Bahnhofstraße XXXX,
+76676 Graben-Neudorf, Karlsruhe (Kreis)",1,105 m²,943 €/m²,nil,"13,5 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision! 2-Zimmer-Wohnung mit überdachtem Balkon,270.000 €,"Haußmannstraße XXXX,
+Uhlandshöhe, 70188 Stuttgart",2,"57,31 m²",4.711 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche 1-Zimmer-Wohnung mit Loggia - provisionsfrei,92.000 €,"Römerstraße XXXX,
+77933 Lahr/Schwarzwald, Ortenaukreis",1,"36,04 m²",2.553 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gut erhaltene 4-Zimmer-Wohnung mit Terrasse - provisionsfrei,335.000 €,"Pestalozzistraße XXXX,
+Reutlingen, 72762 Reutlingen",4,"97,5 m²",3.436 €/m²,nil,"5,5 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung im guten Erhaltungszustand - provisionsfrei,194.000 €,"Baccarat-Straße XXXX,
+76593 Gernsbach, Rastatt (Kreis)",4,90 m²,2.156 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 5-Zimmer-Wohnung - provisionsfrei,283.000 €,"Bismarckstraße XXXX,
+89547 Gerstetten, Heidenheim (Kreis)",5,"158,53 m²",1.785 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

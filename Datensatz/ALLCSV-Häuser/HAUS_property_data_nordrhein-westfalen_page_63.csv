@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Freistehendes Einfamilienhaus,560.000 €,"Hauptstraße XX,
+53721 Siegburg, Rhein-Sieg-Kreis",4,137 m²,800 m²,4.088 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn-/Geschäftshaus,215.000 €,"Bünder Straße XX,
+32120 Hiddenhausen, Herford (Kreis)",1,1 m²,3.759 m²,215.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus mit 2 Appartements, Garten, Doppelgarage",460.000 €,"Schlesierweg XX,
+53804 Much, Rhein-Sieg-Kreis",11,324 m²,492 m²,1.420 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Freistehendes Einfamilienhaus mit Ausblick ins Grüne +,464.500 €,"Schwelmer Straße XX,
+Hackenberg, 42897 Remscheid",7,194 m²,730 m²,2.394 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 2-Familienhaus mit Gartenhaus und Garage +,509.000 €,"Sander Straße XX,
+Sand, 51465 Bergisch Gladbach",8,230 m²,522 m²,2.213 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlag + Sechsfamilienhaus, 4 Garagen +",310.000 €,"Salzuflener Straße XX,
+32602 Vlotho, Herford (Kreis)",1,515 m²,454 m²,602 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Dreifamilienhaus +,112.000 €,"Friemersheimer Straße XX,
+Wanheim-Angerhausen, 47249 Duisburg",9,213 m²,207 m²,526 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenmittelhaus, Garten, Stellplatz + provisionsfrei +",390.000 €,"Kurt-Schumacher-Straße XX,
+53773 Hennef (Sieg), Rhein-Sieg-Kreis",5,"124,14 m²",194 m²,3.142 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus,68.000 €,"Charlottenstraße XX,
+Altstadt, 47053 Duisburg",1,475 m²,305 m²,143 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus,54.500 €,"Charlottenstraße XX,
+Altstadt, 47053 Duisburg",1,300 m²,259 m²,182 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Garten, Garage + provisionsfrei +",384.000 €,"Windröschenstraße XX,
+Avenwedde, 33335 Gütersloh",6,140 m²,278 m²,2.743 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Terrasse und Garten,365.000 €,"Nikolausstraße XX,
+52457 Aldenhoven, Düren (Kreis)",1,"177,74 m²",688 m²,2.054 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenendhaus, Garten, Carport + provisionsfrei +",678.000 €,"Am Heidbergdamm XX,
+40668 Meerbusch, Neuss (Rhein-Kreis)",4,"144,75 m²",391 m²,4.684 €/m²,Wohnimmobilie (sonstige),77 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus + provisionsfrei +,426.000 €,"Am Sohlenkamp XX,
+58239 Schwerte, Unna (Kreis)",4,115 m²,1.006 m²,3.704 €/m²,Wohnimmobilie (sonstige),14 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus nebst Garten und Garage,283.000 €,"Schillingsstraße XX,
+Gürzenich, 52355 Düren",8,166 m²,855 m²,1.705 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlage + 2 Mehrfamilienhäuser (16 Wohnungen), 18 Stellplätze",2.386.700 €,"Vinhovenweg XX,
+41564 Kaarst, Neuss (Rhein-Kreis)",1,1.169 m²,2.021 m²,2.042 €/m²,Wohnimmobilie (sonstige),150 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte nebst Terrasse und Garten,320.000 €,"Ottweiler Weg XX,
+Leithe, 45307 Essen",4,99 m²,759 m²,3.232 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 2-Familienhaus mit Garten und 5 Garagen +,100.000 €,"Auf der Mühlenbreite XX,
+32816 Schieder-Schwalenberg, Lippe (Kreis)",7,150 m²,1.195 m²,667 €/m²,Wohnimmobilie (sonstige),"74,42 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes 2-Familienhaus und Garage im Außenbereich,155.000 €,"Im Laasphetal XX,
+57334 Bad Laasphe, Siegen-Wittgenstein (Kreis)",1,1 m²,901 m²,155.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte mit 3 Garagen + provisionsfrei +,77.000 €,"Haagstraße XX,
+41334 Nettetal, Viersen (Kreis)",1,238 m²,533 m²,324 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

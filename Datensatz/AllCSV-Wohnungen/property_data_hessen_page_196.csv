@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Geschmackvolle 3-Raum-Wohnung in Bad Nauheim,300.000 €,"Am Ölberg 11,
+61231 Bad Nauheim, Wetteraukreis",3,82 m²,3.659 €/m²,Erdgeschosswohnung,82 m²,15.9.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Rendezvous mit Ihrer 58,21 qm Wohnung - Balkon - Frankfurt Westend - ohne Maklerprovision",628.668 €,"Westend-Süd, 60325 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"58,21 m²",10.800 €/m²,nil,nil,nil,1,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kapitalanlage ! Gemütliche 3-Zimmer-Wohnung mit Loggia und Garage,185.000 €,"61231 Bad Nauheim, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"66,48 m²",2.783 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"VON PRIVAT: Stilvolle sanierte 2,5-Zimmer-ETW mit gehobener Innenausstattung in Schwalbach am Taunus",299.000 €,"65824 Schwalbach am Taunus, Main-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",76 m²,3.934 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3 Zimmer Wohnung direkt am Schlosspark,273.000 €,"64807 Dieburg, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,79 m²,3.456 €/m²,Dachgeschoss,nil,sofort,2,1,1 Garage,"2,98%",{'is24qa-keller-label': ''}
+"3-Zimmer-Maisonette - EBK, *LUXUS*-Bad, Loggia uvm.",695.000 €,"Nordend-West, 60318 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,8.176 €/m²,Terrassenwohnung,8 m²,nil,2,1,nil,"3,57% inkl. 19% MwSt. des KP","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Großartige und gemütliche Wohnung mit privatem Garten in sehr zentraler und ruhiger Lage,690.000 €,"Gallus, 60326 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,7.841 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhafte EG-Wohnung am Waldrand – Besichtigung am 31.05. möglich,Auf Anfrage,"35580 Wetzlar, Lahn-Dill-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,91 m²,nil,Erdgeschosswohnung,nil,nil,2,1,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne 3 ZKB Wohnung in zentraler Lage - top saniert als Kapitalanlage,270.000 €,"68642 Bürstadt, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"67,52 m²",3.999 €/m²,Dachgeschoss,nil,nil,2,1,nil,"2,975% inkl. MwSt. (2,5% netto)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+"Luxuriöse 3,5 Zimmerwohnung direkt am Wald in Buchrain",700.000 €,"Buchrainweg 107,
+Lauterborn, 63069 Offenbach am Main","3,5",116 m²,6.034 €/m²,Etagenwohnung,9 m²,nil,2,1,1 Carport,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer Eigentumswohnung in Lollar von Privat – ohne Provision,295.000 €,"Holzmühler Weg 14,
+35457 Lollar, Gießen (Kreis)",4,"102,92 m²",2.866 €/m²,Etagenwohnung,nil,nil,3,2,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"4,5 Zimmer-Wohnung als Kapitalanlage in Kalbach-Riedberg zu verkaufen!",925.000 €,"Kalbach-Riedberg, 60438 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"117,9 m²",7.846 €/m²,Terrassenwohnung,nil,Ab sofort,3,2,nil,"2,98exkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Offen für Angebote: 3.0-Zimmer Wohnung in Wiesbaden,nil,"Nordost, 65191 Wiesbaden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,5.890 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,nil,{}
+"Großzügige 1,5 Zimmerwohnung mit Balkon in zentraler Lage in Dreieich zu verkaufen",170.000 €,"63303 Dreieich, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"49,82 m²",3.412 €/m²,Etagenwohnung,2 m²,nil,1,1,1 Außenstellplatz,"3,57 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+OHNE KÄUFERPROVISION-EXKLUSIVE 3 ZIMMER WOHNUNG (MÖBLIERT),300.000 €,"63263 Neu-Isenburg, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,3.409 €/m²,Etagenwohnung,0 m²,nil,0,0,Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Offen für Angebote: 2.0-Zimmer Wohnung in Frankfurt am Main,nil,"Nied, 65934 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,4.873 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,nil,{}
+"Exklusive 3,5-Zimmer-Wohnung mit Balkon und EBK in Frankfurt/City",688.000 €,"Allerheiligenstr. 15,
+Innenstadt, 60313 Frankfurt am Main","3,5",80 m²,8.600 €/m²,Etagenwohnung,80 m²,nil,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 2.0-Zimmer Wohnung in Frankfurt am Main,nil,"Sachsenhausen-Süd, 60598 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,6.552 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Von Privat, Exklusive 4-Raum-Wohnung mit gehobener Innenausstattung mit Einbauküche in Dieburg",305.000 €,"Johann Sebastian Straße 8G,
+64807 Dieburg, Darmstadt-Dieburg (Kreis)",4,80 m²,3.813 €/m²,Etagenwohnung,nil,1.9.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Raum-Wohnung mit Balkon in Friedrichsdorf,259.000 €,"Im Dammwald 16,
+61381 Friedrichsdorf, Hochtaunuskreis",3,"75,75 m²",3.419 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Großzügige Eigentumswohnung mit Balkon in ruhiger Lage,185.000 €,"48346 Ostbevern, Warendorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"77,44 m²",2.389 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,"2,975","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Sanierte 2-Zi-Eigentumswohnung in Bielefeld Quelle,285.000 €,"Brackwede, 33649 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,56 m²,5.089 €/m²,nil,nil,nil,1,1,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+"""Stilvolle 4-Zimmer-Eigentumswohnung für höchsten Wohnkomfort""",279.000 €,"Brackwede, 33649 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,2.632 €/m²,Etagenwohnung,nil,nil,3,2,29 Tiefgaragen-Stellplätze,"2,38","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Luxuriöse Loft-Wohnung in Wuppertal,399.000 €,"Heckinghausen, 42289 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"161,1 m²",2.477 €/m²,Loft,nil,nil,nil,1,nil,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Einziehen und wohlfühlen: Charmante Wohnoase auf zwei Ebenen in Raesfeld,208.000 €,"46348 Raesfeld, Borken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"80,8 m²",2.574 €/m²,Maisonette,nil,nil,1,2,1 Außenstellplatz,"1,9%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Velbert-Nierenhof**Erdgeschosswohnung im Exklusiven Neubauprojekt mit Garten in traumhafter Wohnlage,428.000 €,"Zum Heinenberg 4,
+Langenberg, 42555 Velbert","3,5","96,62 m²",4.430 €/m²,Erdgeschosswohnung,10 m²,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne Etagenwohnung in Bonn zum Sofortbezug,282.000 €,"Bonner Logsweg 87,
+Lessenich/Meßdorf, 53123 Bonn",4,99 m²,2.848 €/m²,Etagenwohnung,8 m²,sofort,3,nil,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Krefeld - Bismarckviertel! Wunderschöne 3-Zimmer Wohnung in AAA Lage und Sonnenbalkon!,348.000 €,"Cracau, 47799 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"103,2 m²",3.372 €/m²,Dachgeschoss,nil,nach Vereinbarung,2,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sanierte 3-Zi-Eigentumswohnung in Bielefeld Quelle,285.000 €,"Brackwede, 33649 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,91 m²,3.132 €/m²,nil,nil,nil,2,1,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Geringe Heizkosten. Tolle Lage. Maisonettewohnung mit 3 Zimmern und 3 Balkonen!,259.999 €,"Burg/Höhscheid, 42659 Solingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,122 m²,2.131 €/m²,Maisonette,nil,NACH ABSPRACHE!,2,1,1 Tiefgaragen-Stellplatz,"1,99 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Lichtdurchflutete ETW mit renoviertem Bad und Einbauküche - ohne Makler,190.000 €,"Wielandstraße 7,
+32545 Bad Oeynhausen, Minden-Lübbecke (Kreis)",3,104 m²,1.827 €/m²,Maisonette,nil,nach Absprache,2,2,Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Penthousewohnung „Stadtvillen am Habichtsbach“,405.000 €,"Am Habichtsbach 32-38,
+48329 Havixbeck, Coesfeld (Kreis)",2,70 m²,5.786 €/m²,Penthouse,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Preisreduzierung !!!! Helle, sanierte Citywohnung mit großem Wohnraum nähe Bunter Garten",195.000 €,"Gladbach, 41061 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,71 m²,2.746 €/m²,Etagenwohnung,nil,sofort,1,1,1 Außenstellplatz,"1,785 inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Velbert-Nierenhof**DG-Wohnung mit Balkon im exklusiven Neubauprojekt in traumhafter Wohnlage,358.000 €,"Zum Heinenberg 4,
+Langenberg, 42555 Velbert","2,5","74,1 m²",4.831 €/m²,Dachgeschoss,10 m²,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Top renoviert! 2 Zi KDB / Balkon Reichsstr. Wupperfeld,129.000 €,"Reichsstr. 24,
+Heckinghausen, 42275 Wuppertal",2,63 m²,2.048 €/m²,nil,nil,sofort,1,1,1 Tiefgaragen-Stellplatz,"3,57% incl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Lichtdurchflutende 3 Zimmerwohnung im Aachen zu verkaufen,170.000 €,"Hochhausring 5-11,
+Walheim, 52076 Aachen",3,80 m²,2.125 €/m²,Etagenwohnung,10 m²,sofort,2,1,1 Außenstellplatz,"5,95% inkl. 19 % MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+2 Dachterrassen und einem guten Schnitt in MG am Schillerplatz,115.000 €,"Gladbach, 41061 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",52 m²,2.212 €/m²,Penthouse,nil,nach Absprache,1,1,nil,Provisionsfrei für den Käufer,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"2 Zimmer, großer Balkon, Aufzug, Garage - 360 Grad Rundgang",144.600 €,"41564 Kaarst, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,2.493 €/m²,Etagenwohnung,6 m²,01.07,1,1,1 Garage,"4,76","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Ruhiges Zuhause mit Sonnengarantie,155.000 €,"40822 Mettmann, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"61,4 m²",2.524 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % vom Kaufpreis (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Hollenders Immobilien: Endetagenwohnung im ""Palais du Rhin"" mit 118 m2 Dachterrasse und Rheinblick",2.650.000 €,"Alteburger Straße 363-375,
+Bayenthal, 50968 Köln",5,"271,63 m²",9.756 €/m²,Penthouse,9 m²,ab sofort,2,2,2 Garagen,"Die Courtage beträgt 3,57% inkl. 19% gesetzlicher Mehrwertsteuer.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

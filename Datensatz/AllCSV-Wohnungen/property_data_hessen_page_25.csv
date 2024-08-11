@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2-Zimmer-Wohnung + provisionsfrei +,45.000 €,"Stadtgasse XXXX,
+35216 Biedenkopf, Marburg-Biedenkopf (Kreis)",2,"66,7 m²",675 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"3-Zimmer-Wohnung, Garage, Carport",279.965 €,"Reisener Weg XXXX,
+69509 Mörlenbach, Bergstraße (Kreis)",3,112 m²,2.500 €/m²,nil,"87,82 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit 2 Stellplätzen ++ provisionsfrei ++,459.500 €,"Taunusstraße XXXX,
+65835 Liederbach am Taunus, Main-Taunus-Kreis",4,131 m²,3.508 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung Dachloggia und Stellplatz + provisionsfrei +,260.000 €,"Am Pfarrweiher XXXX,
+64372 Ober-Ramstadt, Darmstadt-Dieburg (Kreis)",3,78 m²,3.333 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2-Zimmer-Wohnung, Balkon, Dachterrasse",600.000 €,"Deutschherrnufer XXXX,
+Oberrad, 60594 Frankfurt am Main",2,"76,4 m²",7.853 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,45.500 €,"Stadtgasse XXXX,
+35216 Biedenkopf, Marburg-Biedenkopf (Kreis)",2,"68,7 m²",662 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung,260.000 €,"Götzenhainer Weg XXXX,
+63303 Dreieich, Offenbach (Kreis)",3,"79,55 m²",3.268 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1½-Zimmer-Wohnung,100.000 €,"Burgsiedlung XXXX,
+61169 Friedberg (Hessen), Wetteraukreis",1,"35,38 m²",2.826 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mit Blick auf den Main ++ 3-Zimmer-Wohnung ++,1.000.000 €,"Walther-von-Cronberg-Platz XXXX,
+Sachsenhausen-Nord, 60594 Frankfurt am Main",3,124 m²,8.065 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung + provisionsfrei +,61.500 €,"Stadtgasse XXXX,
+35216 Biedenkopf, Marburg-Biedenkopf (Kreis)",3,"91,7 m²",671 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4-Zimmer-Wohnung ++ ohne Provision ++,350.000 €,"Weidigstraße XXXX,
+35510 Butzbach, Wetteraukreis",4,102 m²,3.431 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung und Stellplatz,207.000 €,"Am Seegraben XXXX,
+64572 Büttelborn, Groß-Gerau (Kreis)",3,78 m²,2.654 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"3-Zimmer-Wohnung, Stellplatz + provisionsfrei +",230.000 €,"Theodor-Heuss-Straße XXXX,
+64572 Büttelborn, Groß-Gerau (Kreis)",3,"82,33 m²",2.794 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Loggia,170.000 €,"Julius-Brecht-Straße XXXX,
+Frankfurter Berg, 60433 Frankfurt am Main",3,70 m²,2.429 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Stellplatz,190.000 €,"Harzweg XXXX,
+Groß-Auheim, 63457 Hanau",2,"57,96 m²",3.278 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Dachterrasse,37.000 €,"Stadtgasse XXXX,
+35216 Biedenkopf, Marburg-Biedenkopf (Kreis)",2,50 m²,740 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 2-Zimmer-Wohnung mit Balkon und 2 TG-Stellplätzen +,378.000 €,"Am Monfelder See XXXX,
+64807 Dieburg, Darmstadt-Dieburg (Kreis)",2,"76,53 m²",4.939 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Stellplatz,190.000 €,"Harzweg XXXX,
+Groß-Auheim, 63457 Hanau",2,"57,96 m²",3.278 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Zimmer-Wohnung, Loggia, Stellplatz",182.000 €,"Bahnhofstraße XXXX,
+64569 Nauheim, Groß-Gerau (Kreis)",2,57 m²,3.193 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Erdgeschoss-Wohnung, Balkon, Doppelgarage",190.000 €,"Unterm Buchwald XXXX,
+35794 Mengerskirchen, Limburg-Weilburg (Kreis)",4,"118,53 m²",1.603 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

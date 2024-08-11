@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2-Zimmer-Wohnung,16.500 €,"Helmkestraße XXXX,
+Letmathe, 58642 Iserlohn",2,"48,13 m²",343 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Loggia - provisionsfrei,49.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",2,62 m²,790 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,47.000 €,"Oststraße XXXX,
+Neudorf-Nord, 47057 Duisburg",2,43 m²,1.093 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+++ Ohne Provision: Gemütliche 1-Zimmer-Wohnung im Erdgeschoss ++,40.000 €,"Oberdießemer Straße XXXX,
+Dießem/Lehmheide, 47805 Krefeld",2,"31,3 m²",1.278 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber Mein ++ Appartement mit Loggia und TG-Stellplatz ++",147.000 €,"Kaarster Heide XXXX,
+Furth Nord, 41462 Neuss",1,"47,75 m²",3.079 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung - provisionsfrei,56.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",3,67 m²,836 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1-Zimmer-Wohnung,5.000 €,"Helmkestraße XXXX,
+Letmathe, 58642 Iserlohn",1,"35,5 m²",141 €/m²,nil,"8,26 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3½-Zimmer-Wohnung + provisionsfrei +,81.000 €,"Blumenstraße XXXX,
+Hafen, 44147 Dortmund",3,"63,5 m²",1.276 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ohne Provision - 3-Zimmer-Wohnung,55.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",3,67 m²,821 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Maisonette-Wohnung in guter Wohnlage - provisionsfrei,281.000 €,"Hülser Straße XXXX,
+Buer, 45894 Gelsenkirchen",3,"114,53 m²",2.454 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon ++ provisionsfrei ++,85.000 €,"Hügelstraße XXXX,
+Beckhausen, 45899 Gelsenkirchen",3,68 m²,1.250 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Loggia ++ ohne Provision ++,53.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",3,74 m²,716 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung,25.000 €,"Helmkestraße XXXX,
+Letmathe, 58642 Iserlohn",3,"54,42 m²",459 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung - provisionsfrei,43.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",2,62 m²,694 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Loggia und Gartenanteil - provisionsfrei,130.000 €,"Pappenstraße XXXX,
+Neudorf-Nord, 47057 Duisburg",3,"76,13 m²",1.708 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+5-Zimmer-Wohnung ++ provisionsfrei ++,327.000 €,"Oppenhoffallee XXXX,
+Frankenberg, 52066 Aachen",5,114 m²,2.868 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4-Zimmer-Wohnung mit Garage + provisionsfrei +,131.000 €,"Uhlandstraße XXXX,
+58809 Neuenrade, Märkischer Kreis",4,"90,95 m²",1.440 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-Zimmer-Wohnung - provisionsfrei,5.500 €,"Helmkestraße XXXX,
+Letmathe, 58642 Iserlohn",1,"32,66 m²",168 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung - provisionsfrei,55.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",3,67 m²,821 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung + provisionsfrei +,50.000 €,"Südwall XXXX,
+Stadtmitte, 47798 Krefeld",2,57 m²,877 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

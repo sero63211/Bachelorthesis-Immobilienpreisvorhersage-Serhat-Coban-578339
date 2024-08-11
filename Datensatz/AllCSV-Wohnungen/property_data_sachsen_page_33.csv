@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Schöne 4-Raum-Wohnung mit Balkon, Stellplatz und Küche m. Fenster! Vermietet!",85.000 €,"Kastanienstraße 14,
+08485 Lengenfeld, Vogtlandkreis",4,"79,99 m²",1.063 €/m²,Dachgeschoss,nil,nil,3,1,1 Außenstellplatz,"2.975,- EUR inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Vermietete 3-Raum Wohnung mit Balkon, Hobbyraum und Garage in traumhafter Lage!",100.000 €,"Sonnenhang 4,
+08107 Kirchberg, Zwickau (Kreis)",3,73 m²,1.370 €/m²,nil,nil,nil,2,1,1 Garage,"3,57 % inkl. gesetzlicher MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wundervolle 2-Raum-Wohnung im Gründerzeit-Altbau in Vorzugslage von Leipzig,312.000 €,"Zentrum-Ost, 04103 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,75 m²,4.160 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Erstbezug nach Renovierung- ruhige 3-Raum-Eigentumswohnung,130.000 €,"An der Gänseweide 1,
+Holzhausen, 04288 Leipzig",3,"64,51 m²",2.015 €/m²,Hochparterre,nil,sofort,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"3-Raumwohnung im sanierten Altbau+sehr gute Raumaufteilung *Kapitalanlage 4,02%Rendite*",179.000 €,"Georg-Schwarz-Str. 40,
+Altlindenau, 04177 Leipzig",3,75 m²,2.387 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ideal für die ""kleine"" Familie! Modernisierte 3-Zi-ETW in Zwickau *PROVISIONSFREI* zu erwerben",57.000 €,"Eckersbacher Höhe (E5/2-3), 08066 Zwickau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,66 m²,864 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 2-Raum-Wohnung im Dachgeschoss mit Balkon und TG-Stellplatz! Aufzug! BJ. 1995!,81.000 €,"Steinpleiser Straße 69,
+Marienthal West, 08060 Zwickau",2,68 m²,1.191 €/m²,Dachgeschoss,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"pauschal 2.975 EUR, inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Große gut vermietete 2-Raumwohn. im liebevoll gepflegten Altbau *als Kapitalanlage & 4,11%Rendite**",130.000 €,"Dieskaustraße 198,
+Großzschocher, 04249 Leipzig",2,65 m²,2.000 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*4,40% Rendite*3-Raumwohn.+Designboden+ EBK *Kapitalanlage*",109.000 €,"Böttgerstraße 12,
+Paunsdorf, 04328 Leipzig",3,50 m²,2.180 €/m²,Dachgeschoss,nil,nil,2,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"4,38% Rendite* Stilvolles Wohnen- große Einbauküche + Laminat + Dusch-Wannenbad + vermietet",130.000 €,"Landsbergerstraße 150,
+Lindenthal, 04158 Leipzig",2,67 m²,1.940 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnungspaket - 3 Wohnungen - 2 TG-Stellplätze in gepflegter Wohnanlage im Grünen!,225.000 €,"Gutenbergstraße 17/19,
+08209 Auerbach/Vogtland, Vogtlandkreis",9,"260,76 m²",863 €/m²,nil,nil,nil,nil,nil,2 Tiefgaragen-Stellplätze,"2,38 % des Kaufpreises inkl. 19 % MwSt.",{'is24qa-keller-label': ''}
+"*Kapitalanlage 4,49% Rendite *vermietet*Schöne Hochparterrewohnung+EBK",115.000 €,"Georg-Schwarz-Straße 200,
+Leutzsch, 04179 Leipzig",2,49 m²,2.347 €/m²,Hochparterre,nil,nil,1,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Grün Wohnen am Stadtpark,380.028 €,"Kapellenberg, 09120 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,4.419 €/m²,nil,nil,ab sofort,2,1,1 Tiefgaragen-Stellplatz,siehe Sonstiges,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Zentrumsnahe 2-Raum-Wohnung mit Balkon! Vermietet!,65.000 €,"Kolpingstraße 46,
+Mitte-Nord, 08058 Zwickau",2,"61,75 m²",1.053 €/m²,nil,nil,nil,1,1,nil,"2.975,- EUR inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Zentrumsnahe 2-Raum-Wohnung mit Balkon! Vermietet!,69.000 €,"Äußere Schneeberger Str. 33,
+Mitte-Süd, 08056 Zwickau",2,"66,75 m²",1.034 €/m²,Hochparterre,nil,nil,1,1,nil,2.975 EUR inkl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Charmante Etagenwohnung in Bannewitz,146.000 €,"01728 Bannewitz, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"80,5 m²",1.814 €/m²,Etagenwohnung,0 m²,nil,2,1,1 Außenstellplatz,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Hochpart. 2-Raumwohnung+Laminatboden*Kapitalanlage*vermietet*4,28% Rendite*",115.000 €,"Döllingstraße 22,
+Paunsdorf, 04328 Leipzig",2,50 m²,2.300 €/m²,Hochparterre,3 m²,nil,1,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ideal für Singles oder Paare! Modernisierte 2-Zi-ETW in Zwickau *PROVISIONSFREI* zu erwerben,49.000 €,"Eckersbacher Höhe (E5/2-3), 08066 Zwickau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,817 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 2-Raum-Whg. mit Balkon und EBK; Kühlschrank und Herd neu!,59.000 €,"Bosestraße 44,
+Mitte-Nord, 08056 Zwickau",2,54 m²,1.093 €/m²,nil,nil,nil,1,1,nil,"2.975,- EUR inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Moderne Maisonettewohnung mit EBK in ruhiger Lage *Kapitalanlage*vermietet*4,62%Rendite**",130.000 €,"Hauptstraße 48,
+Holzhausen, 04288 Leipzig","1,5",58 m²,2.241 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

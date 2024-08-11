@@ -1,0 +1,69 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wohn- und Geschäftshaus am Marktplatz,395.000 €,"Marktplatz 8,
+97688 Bad Kissingen, Bad Kissingen (Kreis)",6,210 m²,70 m²,1.881 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+HISTORISCHES BAUERNHAUS MIT BERGBLICK,2.100.000 €,"82499 Wallgau, Garmisch-Partenkirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,400 m²,8.053 m²,5.250 €/m²,Bauernhaus,65 m²,nil,5,4,Garage,"3,57% inkl. MwSt.",{'is24qa-gaeste-wc-label': ''}
+6-Zimmer-RMH in Hagau,598.000 €,"Süd, 85051 Ingolstadt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"140,64 m²",110 m²,4.252 €/m²,Reihenmittelhaus,44 m²,01.11.2023,3,1,Carport,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sanierungsobjekt - Ein- bis Zweifamilienhaus in Hailing,159.000 €,"94339 Leiblfing, Straubing-Bogen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,270 m²,747 m²,589 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"3,57 % inkl. MwSt. vom Kaufpreis",{}
+Exklusives Einfamilienhaus mit Wintergarten und Kachelofen,735.000 €,"86653 Monheim, Donau-Ries (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,360 m²,962 m²,2.042 €/m²,Einfamilienhaus (freistehend),100 m²,Frühsommer 2025,7,2,2 Garagen,"2,38 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Sanierungsbedürftiger Bungalow mit Einliegerwohnung unweit der Spickelwiese,1.500.000 €,"Spickel, 86161 Augsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,186 m²,722 m²,8.065 €/m²,Bungalow,nil,nil,4,2,1 Garage,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Das Sonnendeck: Ihr einladendes Gasthaus""",550.000 €,"84066 Mallersdorf-Pfaffenberg, Straubing-Bogen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,500 m²,900 m²,1.100 €/m²,nil,100 m²,nil,nil,3,11 Stellplätze,3.57%,{}
+Platz für Ihre Familie zum Entfalten,849.000 €,"84561 Mehring, Altötting (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,180 m²,388 m²,4.717 €/m²,nil,nil,nil,nil,2,3 Stellplätze,3.57%,{'is24qa-gaeste-wc-label': ''}
+3-Familienhaus +Baugrundstück in bester Lage!,690.000 €,"94447 Plattling, Deggendorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,241 m²,1.512 m²,2.863 €/m²,Mehrfamilienhaus,nil,vermietet,6,3,2 Garagen,"3,57% inklusive 19 % gesetzl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+3-Familienhaus in bester Lage!,440.000 €,"94447 Plattling, Deggendorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,241 m²,600 m²,1.826 €/m²,Mehrfamilienhaus,nil,vermietet,6,3,2 Garagen,"3,57% inklusive 19 % gesetzl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Vermietetes Zweiparteienhaus in guter Lage von Schwürbitz!,319.000 €,"96247 Michelau in Oberfranken, Lichtenfels (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"193,37 m²",1.618 m²,1.650 €/m²,Mehrfamilienhaus,nil,nil,nil,2,2 Stellplätze,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+*** Wohnhaus in zentraler Lage von Krumbach ***,479.000 €,"86381 Krumbach (Schwaben), Günzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,271 m²,3.548 €/m²,Einfamilienhaus (freistehend),60 m²,Ab Dezember 2024,3,2,1 Garage,"1,19 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Bereits 50 % Verkauft/Reserviert: Sichern Sie sich Ihr Reiheneckhaus in Kissing!,734.620 €,"86438 Kissing, Aichach-Friedberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,133 m²,231 m²,5.523 €/m²,Reiheneckhaus,nil,Nach Fertigstellung,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1 Haus - 3 Wohneinheiten in Großkötz,719.000 €,"89359 Kötz, Günzburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,275 m²,652 m²,2.615 €/m²,Mehrfamilienhaus,nil,nach Absprache,nil,nil,3 Stellplätze,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+Wohn- und Geschäftshaus in Top-Lage von Pleinfeld,575.000 €,"91785 Pleinfeld, Weißenburg-Gunzenhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,227 m²,307 m²,2.533 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+"Provisionsfrei - Luxuriöse EFH-Villa mit rd. 250qm Wfl, 80qm Nfl. auf 900 qm Süd-West-Grundstück",3.790.000 €,"Obersendling, 81477 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,250 m²,900 m²,15.160 €/m²,Villa,80 m²,1.9.2024,4,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Zuhause im Glück. Zeitloses Einfamilienhaus.,2.150.000 €,"82131 Gauting, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,210 m²,640 m²,10.238 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Mit großer Wirkung. Modernes Einfamilienhaus.,2.090.000 €,"82131 Gauting, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,216 m²,623 m²,9.676 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Entspanntes Innenleben. Große Doppelhaushälfte.,1.980.000 €,"82131 Gauting, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,204 m²,771 m²,9.706 €/m²,Doppelhaushälfte,nil,nil,nil,2,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Phantastisches Flair. Charmante Doppelhaushälfte.,1.870.000 €,"82131 Gauting, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,204 m²,451 m²,9.167 €/m²,Doppelhaushälfte,nil,nil,nil,2,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Schlicht. Doppelhaushälfte mit modernem Komfort.,Auf Anfrage,"82131 Gauting, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,137 m²,577 m²,nil,Doppelhaushälfte,nil,nil,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Clever. Doppelhaushälfte mit genialer Raumaufteilung.,1.190.000 €,"82131 Gauting, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,137 m²,341 m²,8.686 €/m²,Doppelhaushälfte,nil,nil,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Wirkungsraum. Zeitlose Doppelhaushälfte.,Auf Anfrage,"82131 Gauting, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,138 m²,404 m²,nil,Doppelhaushälfte,nil,nil,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Ruhepol. Familienfreundliche Doppelhaushälfte.,Auf Anfrage,"82131 Gauting, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,138 m²,479 m²,nil,Doppelhaushälfte,nil,nil,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FORMHAUS | Heimvorteil. Moderne Doppelhaushälfte.,Auf Anfrage,"82131 Gauting, Starnberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,157 m²,349 m²,nil,Doppelhaushälfte,nil,nil,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"***Neubau KFW55*** Modernes Einfamilienhaus mit Doppelgarage in Bestlage, Neufahrn (S1)",1.950.000 €,"Trentiner Straße XX,
+85375 Neufahrn bei Freising, Freising (Kreis)",5,220 m²,476 m²,8.864 €/m²,Einfamilienhaus (freistehend),78 m²,nil,4,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+**Moderne Reihenhäuser in höchster Qualität und Bauausführung**,1.350.000 €,"Trentiner Straße XX,
+85375 Neufahrn bei Freising, Freising (Kreis)",4,146 m²,320 m²,9.247 €/m²,Reiheneckhaus,57 m²,nil,3,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"**Neubau KFW55** Modernes Einfamilienhaus mit Doppelgarage in Bestlage, Neufahrn (S1)",1.950.000 €,"Trentiner Straße XX,
+85375 Neufahrn bei Freising, Freising (Kreis)",5,211 m²,472 m²,9.242 €/m²,Einfamilienhaus (freistehend),78 m²,nil,4,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Den Park direkt vor der Haustüre - Raffinierte Doppelhaushälfte am Kunstpark,699.900 €,"Kasernenviertel, 93053 Regensburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",143 m²,88 m²,4.894 €/m²,Doppelhaushälfte,12 m²,nil,nil,nil,Tiefgaragen-Stellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Familientraum in bester innerstädtischen Lage,734.900 €,"Kasernenviertel, 93053 Regensburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",155 m²,104 m²,4.741 €/m²,Reiheneckhaus,"14,27 m²",nil,nil,nil,2 Tiefgaragen-Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Bei uns gibt es noch das KfW-Darlehen zu 1,03% Zins!",599.900 €,"Agnes-Pütreich-Straße 128,
+Kasernenviertel, 93053 Regensburg","5,5","129,69 m²","87,46 m²",4.626 €/m²,Reihenmittelhaus,"11,63 m²",nil,nil,nil,1 Tiefgaragen-Stellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"33.750 EUR geschenkt! ""Wohlfühlhäuser"" vom Feinsten!",544.000 €,"94333 Geiselhöring, Straubing-Bogen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"162,25 m²",268 m²,3.353 €/m²,Doppelhaushälfte,"43,88 m²",nil,4,1,2 Außenstellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ihr neues ZUHAUSE - Einziehen und Genießen!,498.000 €,"94333 Geiselhöring, Straubing-Bogen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,132 m²,189 m²,3.773 €/m²,Doppelhaushälfte,34 m²,Ab sofort,4,1,2 Außenstellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einziehen, Wohlfühlen + Raum für HOMEOFFICE!",498.000 €,"94333 Geiselhöring, Straubing-Bogen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,132 m²,189 m²,3.773 €/m²,Doppelhaushälfte,34 m²,nil,4,1,2 Außenstellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

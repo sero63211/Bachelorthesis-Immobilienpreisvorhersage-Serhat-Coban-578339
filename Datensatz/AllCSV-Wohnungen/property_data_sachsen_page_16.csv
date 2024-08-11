@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Maisonette-Wohnung mit Stellplatz,32.500 €,"Mühlpfortstraße XXXX,
+Nordvorstadt, 08058 Zwickau",2,"41,4 m²",785 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Unweit von Oper & Gewandhaus: Große 5-Zimmer-Altbauwohnung mit Galerieebene,935.000 €,"Auguste-Schmidt-Straße 12,
+Zentrum-Südost, 04103 Leipzig",4,"160,22 m²",5.836 €/m²,Etagenwohnung,nil,sofort bezugsfertig,3,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Spazieren Sie zum Cospudener See,212.000 €,"04416 Markkleeberg, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"66,05 m²",3.210 €/m²,Hochparterre,nil,nil,nil,1,nil,keine,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Wohnung mit Terrasse und Stellplatz,62.000 €,"Fliederweg XXXX,
+09669 Frankenberg/Sachsen, Mittelsachsen (Kreis)",3,"68,58 m²",904 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+*Möblierte Wohnung auf dem Kaßberg - perfekt für Airbnb-Vermittlung*,80.000 €,"Franz-Mehring-Straße 3,
+Kaßberg, 09112 Chemnitz",2,"59,2 m²",1.351 €/m²,Erdgeschosswohnung,nil,sofort,1,1,1 Außenstellplatz,"4,76% inkl. MwSt. jedoch mind. 3.570,00€ inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+1-Zimmer-Wohnung in guter Lage,29.000 €,"Fürstenstraße XXXX,
+Sonnenberg, 09130 Chemnitz",1,"32,09 m²",904 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Tolle 2-Raum-Eigentumswohnung mit Terrasse,Einbauküche u. Stellplatz, in Zeithain bei Riesa!",42.000 €,"01619 Zeithain, Meißen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,700 €/m²,nil,nil,sofort,nil,nil,1 Außenstellplatz,2.500 EUR inkl. 19 % MwSt.,{}
+2-Zimmer-Wohnung mit Keller,53.400 €,"Mühlpfortstraße XXXX,
+Nordvorstadt, 08058 Zwickau",2,"70,6 m²",756 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Idyllische Wohnung ++provisionsfrei ++,12.000 €,"Birkenstraße XXXX,
+08468 Reichenbach im Vogtland, Vogtlandkreis",1,"31,75 m²",378 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Für Kapitalanleger UND Eigennutzer: 3-Raum-WE in Freital!,134.000 €,"01705 Freital, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"63,91 m²",2.097 €/m²,Hochparterre,nil,01.04.2024,2,1,1 Außenstellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Apartment in ruhiger Lage,75.000 €,"Lausicker Straße 53,
+Stötteritz, 04299 Leipzig",1,25 m²,3.000 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57% inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+2-Zimmer-Wohnung mit Kellerraum,32.000 €,"Goethestraße XXXX,
+04651 Bad Lausick, Leipzig (Kreis)",2,47 m²,681 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4-Zimmer-Wohnung in gutem baulichen Zustand,63.000 €,"Elterleiner Straße XXXX,
+08344 Grünhain-Beierfeld, Erzgebirgskreis",4,100 m²,630 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+**schöne 4 Raum Wohnung als Kapitalanlage**,168.000 €,"Altendorfer Straße 13,
+Schloßchemnitz, 09113 Chemnitz",4,"100,41 m²",1.673 €/m²,Dachgeschoss,nil,nil,3,2,2 Außenstellplätze,"4,76 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+3-Zimmer Maisonettewohnung mit Balkon und Abendsonne unterm Dach in Dresden Cotta,218.000 €,"Roquettestr. 33,
+Cotta (Stadtteil), 01157 Dresden","3,5","89,1 m²",2.447 €/m²,Maisonette,5 m²,01.08.2024,2,1,1 Tiefgaragen-Stellplatz,"3,5% Käuferprovision zuzügl. Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+2-Zimmer-Wohnung mit Stellplatz,11.000 €,"Geschwister-Scholl-Straße XXXX,
+09232 Hartmannsdorf, Mittelsachsen (Kreis)",2,"41,5 m²",265 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Nr. 26 ""SISSI"" – Ihr märchenhafter Wohntraum im Renaissanceschloss!",299.990 €,"01665 Diera-Zehren, Meißen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"95,68 m²",3.135 €/m²,Sonstige,"95,68 m²",nil,1,nil,1 Außenstellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Loggia,15.000 €,"Christgrün XXXX,
+08543 Pöhl, Vogtlandkreis",2,"51,13 m²",293 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Loggia und Stellplatz,57.000 €,"Amseltalt XXXX,
+Eckersbach Siedlung, 08058 Zwickau",3,"65,54 m²",870 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"+++ 2-Raumwohnung mit Loggia, EBK und TG-Stellplatz im Dresdner Zentrum +++",259.000 €,"Friedrichstadt, 01067 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,65 m²,3.985 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"

@@ -1,0 +1,43 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Klassische Kaffeemühle mit sonnigem Garten,1.100.000 €,"Wellingsbütteler Landstraße 44,
+Ohlsdorf, 22337 Hamburg","8,5","189,71 m²",574 m²,5.798 €/m²,nil,nil,nil,nil,nil,nil,"3,57 % inkl. Mehrwertsteuer",{}
+Sanierungsbedürftiges Haus DIREKT AM NATURSCHUTZGEBIET in Hamburg - Rahlstedt,550.000 €,"Rahlstedt, 22145 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,120 m²,478 m²,4.583 €/m²,nil,nil,ab sofort,5,2,nil,3 % vom Kaufpreis inkl. MwSt.,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Schöne Doppelhaushälfte in citynaher Umgebung,370.000 €,"Lohbrügge, 21033 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,77 m²,120 m²,4.805 €/m²,Doppelhaushälfte,15 m²,Nach Vereinbarung,2,1,nil,"keine Courtage, da direkt vom Eigentümer",{'is24qa-vermietet-label': ''}
+"ZWEIFAMILIENHAUS: ein ganzes Doppelhaus mit zwei Hälften zu verkaufen, renoviert und gut vermietet",670.000 €,"Lohbrügge, 21033 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,145 m²,260 m²,4.621 €/m²,Mehrfamilienhaus,nil,nach Vereinbarung,3,2,1 Außenstellplatz,"Keine Käufercourtage, direkt vom Eigentümre",{'is24qa-keller-label': ''}
+"Haus/Luxuswohnung 481,54qm Wohn- und Nutzfläche über 2 Etagen in Klein Flottbek",Auf Anfrage,"Othmarschen, 22605 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"371,95 m²",1.200 m²,nil,Besondere Immobilie,75 m²,sofort,2,2,3 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmantes EFH in Top Lage von Bramfeld/Wellingsbüttel sucht neue Eigentümer,879.000 €,"Bramfeld, 22175 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",170 m²,908 m²,5.171 €/m²,Einfamilienhaus (freistehend),nil,Nach Absprache,nil,nil,3 Stellplätze,"3,15 inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Bungalow in Top Lage von Marmstorf sucht neue Eigentümer,479.000 €,"Marmstorf, 21077 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,666 m²,3.832 €/m²,Bungalow,nil,Nach Absprache,nil,nil,nil,"3,57 inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Rahlstedter Villenviertel: Familienfreundliche Doppelhaushälfte mit Vollkeller in ruhiger Lage!,450.000 €,"Rahlstedt, 22143 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,536 m²,4.091 €/m²,Einfamilienhaus (freistehend),55 m²,nil,nil,nil,nil,3 % zzgl. Mwst.,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Schöner Wohnen"" auf Top-Süd-Grundstück",508.000 €,"Lurup, 22549 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,120 m²,247 m²,4.233 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,"6,25 % inkl. MwSt. auf das Grundstück",{'is24qa-gaeste-wc-label': ''}
+Helles Reihenhaus mit Vollkeller am Öjendorfer Park in Hamburg,549.000 €,"Billstedt, 22117 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,369 m²,4.991 €/m²,nil,51 m²,ab sofort,4,nil,nil,3 % (inkl. MwSt.),"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Reihenendhaus mit grossem Grundstück in Langenhorn mit Sanierungsbedarf direkt vom Eigentümer,449.000 €,"Langenhorn, 22419 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,407 m²,3.184 €/m²,Reiheneckhaus,55 m²,19.4.2024,1,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau von 2 Einfamilienhäusern mit Vollkeller,1.099.000 €,"Am Botterbarg 20,
+Osdorf, 22589 Hamburg","4,5",150 m²,480 m²,7.327 €/m²,Einfamilienhaus (freistehend),nil,2025,3,2,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Von Privat: Ihr neues Zuhause in gesuchter Lage von HH-Poppenbüttel,750.000 €,"Poppenbüttel, 22399 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,774 m²,4.545 €/m²,Einfamilienhaus (freistehend),150 m²,17.4.2024,4,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+idyllisch und stadtnah in Bergedorf,398.000 €,"Eschenhofweg 33,
+Bergedorf (Ortsteil), 21039 Hamburg",4,"126,62 m²",988 m²,3.143 €/m²,Einfamilienhaus (freistehend),40 m²,nil,3,2,3 Stellplätze,"3,57 % inkl. ges. MwSt.",{}
+Einfamilienhaus in bester Lage in Eißendorf von privat,599.000 €,"Eißendorf, 21077 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,452 m²,3.915 €/m²,Einfamilienhaus (freistehend),nil,Ab sofort bezugsfrei,nil,2,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Zeit für Wohnträume in den Elbvororten! Seltenes ""Schmuckstück"" in Toplage auf tollem Grundstück",1.590.000 €,"Othmarschen, 22605 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",162 m²,604 m²,9.815 €/m²,Einfamilienhaus (freistehend),90 m²,Navh Vereinbarung,3,1,nil,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Neubau-Doppelhaus in Hamburg-Sasel,655.800 €,"Sasel, 22393 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,440 m²,5.246 €/m²,Doppelhaushälfte,nil,nil,3,2,Außenstellplatz,"Vermittlung an Eigentümer über Makler mit 11.500,- €uro Provision.",{'is24qa-gaeste-wc-label': ''}
+Stadtnah und doch grün: Einfamilienhaus in begehrter Lage von Hausbruch,549.000 €,"Hausbruch, 21147 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,709 m²,3.786 €/m²,Einfamilienhaus (freistehend),nil,sofort,3,2,1 Garage,3 % inkl. ges. MwSt.,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Großes (Bau-)Grundstück mit freistehendem Einfamilienhaus – Sofort Bauen oder erst Wohnen?,780.000 €,"Niendorf, 22455 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,945 m²,6.240 €/m²,Einfamilienhaus (freistehend),60 m²,8.4.2024,3,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Niendorf . Neubau . Niedrigenergie Stadthaus mit Wärmepumpe in Bestlage,579.000 €,"Niendorf, 22453 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,115 m²,230 m²,5.035 €/m²,nil,nil,nil,nil,nil,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Winterhude am Stadtpark . Neubau . Exklusives Stadthaus in einzigartiger Villenlage mit Wärmepumpe,1.399.000 €,"Winterhude, 22299 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,323 m²,8.229 €/m²,nil,nil,nil,4,3,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

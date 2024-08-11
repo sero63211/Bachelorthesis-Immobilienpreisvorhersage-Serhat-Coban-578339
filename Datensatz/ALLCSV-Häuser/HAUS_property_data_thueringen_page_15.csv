@@ -1,0 +1,57 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Thal, EFH",439.000 €,"Am Sportplatz 6,
+99842 Ruhla, Wartburgkreis",7,185 m²,861 m²,2.373 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,2 Außenstellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Potenzial - Reihenendhaus in sehr schöner Lage von Eisenach,120.000 €,"Stadtzentrum, 99817 Eisenach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,149 m²,165 m²,805 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,1,nil,"5,95 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Schnäppchen für 25.000,- Euro!",25.000 €,"37345 Stöckey, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,120 m²,1.530 m²,208 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"Käuferprovision beträgt 2500,00 € (inkl. MwSt.)",{}
+separate Doppelhaushälfte mit 3 vermieteten Wohnungen,205.000 €,"98617 Sülzfeld, Schmalkalden-Meiningen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,195 m²,400 m²,1.051 €/m²,Mehrfamilienhaus,233 m²,nil,5,3,3 Außenstellplätze,3% inkl. MwSt.,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Attraktives 1-2-Familienhaus, gehobene Ausstattung in Zeulenroda",360.000 €,"Krötenbachgrund 18,
+07937 Zeulenroda-Triebes, Greiz (Kreis)",8,215 m²,735 m²,1.674 €/m²,Einfamilienhaus (freistehend),nil,1.10.2024,5,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ihr Traumhaus wartet darauf, Ihr Zuhause zu werden!",455.000 €,"Büßleben, 99098 Erfurt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,127 m²,556 m²,3.583 €/m²,Einfamilienhaus (freistehend),"75,52 m²",nil,3,2,nil,"3,57 % Käuferprovision (inkl. gesetzl. MwSt.)",{'is24qa-keller-label': ''}
+"++ Einfamilienhaus in ländlicher Idylle mit großem Grundstück, Scheune & Nebengelasse! ++",89.000 €,"Steinbrücken 6,
+07806 Linda bei Neustadt an der Orla, Saale-Orla-Kreis",8,100 m²,2.660 m²,890 €/m²,Einfamilienhaus (freistehend),nil,nächstmöglich,nil,nil,nil,"3,57% inkl. 19% Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Großzügiges Mehrfamilienhaus im Grünen,270.000 €,"98693 Gehren, Ilm-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,210 m²,1.100 m²,1.286 €/m²,Mehrfamilienhaus,70 m²,nil,6,3,1 Garage,"3,57","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Mehrfamilienhaus nahe am Stadtpark - Wohnen für Generationen oder Vermietung nach Sanierung,159.000 €,"96515 Sonneberg, Sonneberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,256 m²,1.845 m²,621 €/m²,Mehrfamilienhaus,128 m²,01.07.2024,6,3,3 Garagen,"2,38 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Haus in Erfurt Altstadt - Provisionsfrei,258.180 €,"Webergasse 31,
+Altstadt, 99084 Erfurt",10,148 m²,353 m²,1.744 €/m²,Reihenmittelhaus,nil,13.5.2024,nil,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Attraktives 4-Familienhaus mit Balkonen in Eisenach,429.000 €,"Stadtzentrum, 99817 Eisenach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,343 m²,314 m²,1.251 €/m²,Mehrfamilienhaus,nil,1.4.2024,15,4,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktives MFH mit 3 WE und 3 bebaubaren Flurstücken,99.000 €,"37308 Hohes Kreuz, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"176,29 m²","759,29 m²",562 €/m²,Mehrfamilienhaus,15 m²,nach Absprache,6,3,6 Außenstellplätze,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+***Endlich! Einfamilienhaus in Ilmenau Südviertel,370.000 €,"Peter-Eckermann-Straße 19,
+98693 Ilmenau, Ilm-Kreis",5,130 m²,858 m²,2.846 €/m²,Einfamilienhaus (freistehend),60 m²,nil,nil,nil,1 Garage,"Der Käufer zahlt 2,98 % inkl. Mwst. vom notariell beglaubigten Kaufpreis. inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Historisches Fachwerkhaus mit Scheune und Grundstück in Lindenau, Heldburg",39.990 €,"Geiergasse 10,
+98663 Bad Colberg-Heldburg, Hildburghausen (Kreis)",9,150 m²,527 m²,267 €/m²,Einfamilienhaus (freistehend),nil,11.6.2024,4,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrfamilienhaus mit Nebengelassen,110.800 €,"Mittelstraße XXX,
+99974 Mühlhausen/Thüringen, Unstrut-Hainich-Kreis",1,346 m²,660 m²,320 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit Garagen,255.000 €,"Forststraße XXX,
+37339 Kirchworbis, Eichsfeld (Kreis)",1,310 m²,1.291 m²,823 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Zuhause ist, wo das Herz ist - Finden Sie Ihr neues Glück hier!",547.240 €,"07333 Kamsdorf, Saalfeld-Rudolstadt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,875 m²,4.975 €/m²,Bungalow,nil,nil,2,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Verwirklichen Sie Ihre Träume: Ihr perfektes Heim steht bereit!,405.071 €,"07333 Kamsdorf, Saalfeld-Rudolstadt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,875 m²,3.682 €/m²,Bungalow,nil,nil,2,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+In Schkölen: Seltener Traum-Bauplatz! Jetzt zugreifen und Förderung sichern!,295.346 €,"07619 Schkölen, Saale-Holzland-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,90 m²,509 m²,3.282 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen in Sonneberg - Aura 125,Auf Anfrage,"96515 Sonneberg, Sonneberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,1.079 m²,nil,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Traumhaus in Kahla: Erstklassiges Grundstück wartet! Entdecken und sichern Sie jetzt!,338.290 €,"07768 Kahla, Saale-Holzland-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,90 m²,550 m²,3.759 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Ergreifen Sie Ihre Chance in Bibra: Sichere Zukunft in den eigenen 4 Wänden bei Kahla & Jena!",369.320 €,"xxx x,
+07768 Bibra, Saale-Holzland-Kreis",4,113 m²,522 m²,3.268 €/m²,Einfamilienhaus (freistehend),nil,nil,1,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Verwirklichen Sie Ihren Traum in Kahla! Eigene 4 Wände nahe Jena – Jetzt Förderung sichern!,390.270 €,"07768 Kahla, Saale-Holzland-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,129 m²,550 m²,3.025 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jetzt in Magdala: Sichern Sie Ihr zukunftssicheres Town & Country Traumhaus mit Förderung!,381.400 €,"99441 Magdala, Weimarer Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,529 m²,3.101 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,1,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jetzt in Apolda: Ihr zukunftssicheres Traumhaus mit Town & Country! Eigene 4 Wände + Förderung siche,381.400 €,"99510 Apolda, Weimarer Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,508 m²,3.101 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,1,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaus in Hermstedt bei Apolda: Sichern Sie jetzt Ihre 4 Wände + Förderung!,414.340 €,"99510 Apolda, Weimarer Land (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,129 m²,815 m²,3.212 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jetzt Chance nutzen: Zuhause in Bibra bei Jena mit Town & Country sichern + Förderung!,347.860 €,"xxx x,
+07768 Bibra, Saale-Holzland-Kreis",4,110 m²,489 m²,3.162 €/m²,Einfamilienhaus (freistehend),nil,nil,1,1,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau in Jena,520.000 €,"Göschwitz, 07745 Jena
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,300 m²,4.000 €/m²,Doppelhaushälfte,140 m²,nil,4,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

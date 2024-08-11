@@ -1,0 +1,59 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Provisionsfreies Wohn- und Geschäftshaus Baujahr 2003,950.000 €,"Resse, 45892 Gelsenkirchen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",22,812 m²,1.082 m²,1.170 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,29 Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Porz-Libur, Einfamilienhaus in Ruhiglage, charmant und sehr energieeffizient",685.000 €,"Libur, 51147 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,184 m²,409 m²,3.723 €/m²,Einfamilienhaus (freistehend),70 m²,nach Vereinbarung,nil,nil,3 Stellplätze,"3,57 % inkl. MwSt",{}
+"Bad Münstereifel Fachwerkhaus mit Scheune auf 1,3 Hektar Areal, ideal für Pferdeliebhaber",445.000 €,"53902 Bad Münstereifel, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,131 m²,13.000 m²,3.397 €/m²,Einfamilienhaus (freistehend),"182,3 m²",nach Vereinbarung,nil,nil,4 Außenstellplätze,"3,57 % inkl. MwSt",{}
+Schleiden Landhausvilla von 1910 mit 13 Zimmern auf 2.124 m² Grundstück,525.000 €,"53937 Schleiden, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",13,281 m²,2.124 m²,1.868 €/m²,Villa,128 m²,nach Vereinbarung,nil,nil,5 Stellplätze,"3,57 % inkl. MwSt",{}
+"""PROVISIONSFREI"" Schlüsselfertige Doppelhaushälfte mit Fußbodenheizung, Solaranlage und Garage",549.000 €,"50189 Elsdorf, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"157,97 m²",393 m²,3.475 €/m²,Doppelhaushälfte,nil,nil,4,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ehemaliger Gutshof in Steinheim,950.000 €,"32839 Steinheim, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",29,2.342 m²,27.792 m²,406 €/m²,Besondere Immobilie,nil,nil,nil,nil,20 Außenstellplätze,"7,14% inkl. MwSt. aus dem notariell beurkundeten Kaufpreis",{'is24qa-keller-label': ''}
+Einfamilienhaus mit Teilunterkellerung und Garage,333.000 €,"58710 Menden (Sauerland), Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,165 m²,751 m²,2.018 €/m²,Einfamilienhaus (freistehend),nil,August 2025,5,1,1 Garage,"3,57 % inkl. MwSt. vom Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Wenn aus einem Tapetenwechsel, die beste Entscheidung des Lebens wird.",298.000 €,"59558 Lippstadt, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,135 m²,680 m²,2.207 €/m²,Einfamilienhaus (freistehend),nil,sofort,2,3,3 Garagen,"3,57","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Schon das Grundstück ist ein kleines Paradies!,750.000 €,"Esch 16,
+48366 Laer, Steinfurt (Kreis)",7,"226,06 m²",2.221 m²,3.318 €/m²,Villa,nil,nach Vereinbarung,nil,nil,2 Garagen,"3,57 % inkl. 19 % Mehrwertsteuer",{'is24qa-keller-label': ''}
+Traumhaftes Stadthaus mit optionalem Baugrundstück in der Altstadt von Xanten,499.000 €,"46509 Xanten, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,168 m²,154 m²,2.970 €/m²,Reihenmittelhaus,nil,nil,3,2,Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Neubau-Einfamilienhaus mit tollem Blick in B.O.-Werste,465.500 €,"32549 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,161 m²,809 m²,2.891 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Modernes Neubau-Einfamilienhaus in attraktiver Wohnlage von Werste,459.900 €,"32549 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,149 m²,809 m²,3.087 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Geschmackvoller Neubau-Bungalow mit Ausbaureserve in Bad Oeynhausen-Werste,408.600 €,"32549 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,118 m²,809 m²,3.463 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Schickes Neubau-Einfamilienhaus in attraktiver Wohnlage von Werste!,487.150 €,"32549 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,171 m²,809 m²,2.849 €/m²,Einfamilienhaus (freistehend),nil,nach Fertigstellung,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Traumhaftes Einfamilienhaus mit Einliegerwohnung und Garten-Paradies!,459.300 €,"59192 Bergkamen, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"188,09 m²",608 m²,2.442 €/m²,Einfamilienhaus (freistehend),nil,nil,4,3,nil,"3,57 % inkl. MwSt.",{'is24qa-gaeste-wc-label': ''}
+Rohdiamant: Bungalow mit Traumgrundstück in begehrter Lage von Berghofen!,525.800 €,"Berghofen, 44269 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",125 m²,614 m²,4.206 €/m²,Bungalow,nil,nil,3,2,3 Garagen,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Das Leben meint es gut mit Ihnen! Bildschöne, weiße Villa in Bestlage Kaiserswerth.",4.950.000 €,"Kaiserswerth, 40489 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,450 m²,1.200 m²,11.000 €/m²,Villa,50 m²,nach Vereinbarung,4,3,4 Garagen,"3,57 % Käufer-Maklerprovision (inkl. 19% Mehrwertsteuer)","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Exclusive Liegenschaft mit Traumgarten in absoluter Toplage,1.690.000 €,"Zentrum, 40878 Ratingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,235 m²,949 m²,7.191 €/m²,Einfamilienhaus (freistehend),100 m²,Nach Vereinbarung,4,3,3 Garagen,"3,57 % inkl. MwSt. vom beurkundeten Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Freistehendes Ein-/ Zweifamilienhaus mit schönem Garten in bester Wohnlage,349.000 €,"Lintorf, 40885 Ratingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,102 m²,585 m²,3.422 €/m²,Einfamilienhaus (freistehend),56 m²,Nach Vereinbarung,5,2,1 Garage,"3,57 % inkl. MwSt. vom beurkundeten Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Selbst Vermieter werden und günstig bauen,447.628 €,"58849 Herscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","8,5",216 m²,504 m²,2.072 €/m²,Mehrfamilienhaus,nil,nil,6,2,4 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modern wohne im schönen Kierspe,338.500 €,"58566 Kierspe, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",133 m²,510 m²,2.545 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Nachhaltig bauen, fast ohne Energiekosten",372.000 €,"59540 Meinerzhagen, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,134 m²,490 m²,2.776 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mit Freunden bauen oder Vermieter werden,479.000 €,"58540 Meinerzhagen, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","8,5",215 m²,800 m²,2.228 €/m²,Mehrfamilienhaus,nil,nil,6,2,4 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Glücklich im Grünen ohne Miete wohnen,386.000 €,"58553 Halver, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,159 m²,500 m²,2.428 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heute noch sicher bauen? Ja ich zeige wie..,326.400 €,"58553 Halver, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,169 m²,520 m²,1.931 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Nachhaltig bauen, fast ohne Energiekosten",392.000 €,"58256 Ennepetal, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,134 m²,490 m²,2.925 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ruhige Lage / Individuelles Niedrigenergiehaus,442.800 €,"Buchenstraße 4b,
+45739 Oer-Erkenschwick, Recklinghausen (Kreis)",5,159 m²,460 m²,2.785 €/m²,Einfamilienhaus (freistehend),nil,nil,4,3,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaus in ruhiger Lage,435.999 €,"Buchenstraße 4b,
+45739 Oer-Erkenschwick, Recklinghausen (Kreis)",5,160 m²,460 m²,2.725 €/m²,Einfamilienhaus (freistehend),160 m²,nil,4,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Toller Ausblick, Lage, Lage, Lage",470.500 €,"Detmolder Straße 3,
+Haspe-Ost, 58135 Hagen",5,160 m²,700 m²,2.941 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

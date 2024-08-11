@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+4-Zimmer-Wohnung mit TG-Stellplatz - provisionsfrei,287.000 €,"Moltkestraße XXXX,
+71116 Gärtringen, Böblingen (Kreis)",4,92 m²,3.120 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon und Garage - provisionsfrei,188.000 €,"Neuffenstraße XXXX,
+71679 Asperg, Ludwigsburg (Kreis)",3,79 m²,2.380 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung nebst Balkon - provisionsfrei,300.000 €,"Windhalmweg XXXX,
+Plieningen (Ortsteil), 70599 Stuttgart",2,61 m²,4.918 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 4-Zimmer-Wohnung mit Balkon - provisionsfrei,245.500 €,"Bahnhofstraße XXXX,
+72406 Bisingen, Zollernalbkreis",4,128 m²,1.918 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"4-Zimmer-Wohnung, Terrasse und Garage",325.000 €,"Schelmenstraße XXXX,
+östliche Bahnlinie, 73431 Aalen",4,134 m²,2.425 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gut geschnittene 2-Zimmer-Wohnung mit Pkw-Stellplatz - provisionsfrei,175.000 €,"Obere Ortsstraße XXXX,
+71570 Oppenweiler, Rems-Murr-Kreis",2,"59,52 m²",2.940 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Maisonette-Wohnung mit TG-Stellplatz - provisionsfrei,225.500 €,"Neuffener Straße XXXX,
+72622 Nürtingen, Esslingen (Kreis)",2,"75,29 m²",2.995 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ohne Provision! Wohnung nebst Pkw-Stellplatz,126.000 €,"Westendstraße XXXX,
+Oos, 76532 Baden-Baden",2,"64,72 m²",1.947 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung in ruhiger Ortsrandlage mit Blick ins Grüne - provisionsfrei,265.000 €,"Hegensberger Straße XXXX,
+Oberesslingen, 73730 Esslingen am Neckar",3,"72,9 m²",3.635 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Individuelle 4-Zimmer-Wohnung mit Garage - provisionsfrei,325.000 €,"Stettiner Straße XXXX,
+71032 Böblingen, Böblingen (Kreis)",3,"95,73 m²",3.395 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung + provisionsfrei +,228.000 €,"Brahmsstraße XXXX,
+71696 Möglingen, Ludwigsburg (Kreis)",3,77 m²,2.961 €/m²,nil,15 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"3-Zimmer-Wohnung, Balkon, Stellplatz",151.000 €,"In den Morgenäckern XXXX,
+77694 Kehl, Ortenaukreis",3,"76,45 m²",1.975 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit schönem Balkon - provisionsfrei,215.000 €,"Erwin-Bälz-Straße XXXX,
+74321 Bietigheim-Bissingen, Ludwigsburg (Kreis)",3,76 m²,2.829 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung nebst Balkon in parkähnlicher Umgebung,271.500 €,"Grünewaldstraße XXXX,
+72622 Nürtingen, Esslingen (Kreis)",3,"77,5 m²",3.503 €/m²,nil,11 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit TG-Stellplatz in familienfreundlicher Wohnlage,157.000 €,"Hanfgraben XXXX,
+74343 Sachsenheim, Ludwigsburg (Kreis)",2,"59,13 m²",2.655 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Terrassen- und Gartenanteil in guter Wohnlage - provisionsfrei,220.000 €,"Konrad-Adenauer-Straße XXXX,
+69221 Dossenheim, Rhein-Neckar-Kreis",2,61 m²,3.607 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung nebst Balkon - provisionsfrei,360.000 €,"Windhalmweg XXXX,
+Plieningen (Ortsteil), 70599 Stuttgart",3,83 m²,4.337 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit schönem Balkon - provisionsfrei,230.000 €,"Friedrich-Schofer-Straße XXXX,
+71332 Waiblingen, Rems-Murr-Kreis",3,62 m²,3.710 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4-Zimmer-Wohnung mit überdachtem Balkon und Garage - provisionsfrei,205.000 €,"Kugelbergstraße XXXX,
+71691 Freiberg am Neckar, Ludwigsburg (Kreis)",4,80 m²,2.563 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 4-Zimmer-Wohnung im Erdgeschoss - provisionsfrei,204.000 €,"Karlstraße XXXX,
+73540 Heubach, Ostalbkreis",4,99 m²,2.061 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

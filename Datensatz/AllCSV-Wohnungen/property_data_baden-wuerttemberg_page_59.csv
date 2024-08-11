@@ -1,0 +1,77 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Moderne stufenlose Eigentumswohnung Nähe Schlosspark Weinheim,635.000 €,"69469 Weinheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,114 m²,5.570 €/m²,Etagenwohnung,22 m²,kurzfristig nach Vereinbarung,2,1,2 Tiefgaragen-Stellplätze,nil,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"""Friedrichspark"": Große Dachterrasse, 2 Tageslichtbäder, Fernblick, barriererfrei nach LBO, KfW 55!",578.950 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",3,"102,78 m²",5.633 €/m²,Penthouse,nil,nil,2,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Parkblick, große Südwesterrasse, Tageslichtbad, WC mit Dusche, Privatgarten!",453.680 €,"Vöhrenbacher Straße 53,
+Villingen, 78050 Villingen-Schwenningen",3,"94,9 m²",4.781 €/m²,Erdgeschosswohnung,nil,nil,2,1,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Große Südwesterrasse mit 26 m², zwei Tageslichtbäder, 94 m² Privatgarten, KfW 55!",438.400 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",3,"86,68 m²",5.058 €/m²,Erdgeschosswohnung,nil,nil,2,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Großer Wohnbereich, sonnige Südwest-Terrasse, Tageslichtbad, offene Wohnküche!",349.100 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",2,"68,98 m²",5.061 €/m²,Erdgeschosswohnung,nil,nil,1,1,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+360° I Sofort bezugsfrei! Attraktive 3-Zimmer-Wohnung mit Balkon in Aichstetten,219.000 €,"88317 Aichstetten, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,87 m²,2.517 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Kapitalanleger und aufgepasst! Gut vermietete Dreizimmerwohnung in sehr guter Lage von Sindelfingen,281.000 €,"71065 Sindelfingen, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,63 m²,4.460 €/m²,Etagenwohnung,nil,nil,2,1,nil,"Die Käuferprovision beträgt 3% zzgl. gesetzl. USt. von derzeit 19 % somit 3,57%","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Bevorzugte Lage, sonnige Südost-Terrasse, große Fenster, separate Küche, KfW 55!",290.950 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",2,"57,43 m²",5.066 €/m²,Erdgeschosswohnung,nil,nil,1,1,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+""" Potenzial für Kreative! Sofort freie 5-Zimmer-Wohnung mit Charme in Mochenwangen/Wolpertswende",170.000 €,"88284 Wolpertswende, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,115 m²,1.478 €/m²,Etagenwohnung,nil,nil,nil,nil,5 Außenstellplätze,"3,57 %",{'is24qa-keller-label': ''}
+Dem Himmel ganz nah!,199.400 €,"73527 Schwäbisch Gmünd, Ostalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",78 m²,2.556 €/m²,nil,nil,nil,1,1,1 Garage,"3,57 % inkl. MwSt","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Maisonette-Wohnung, Parkblick, Terrasse+ Privatgarten, Balkon, 2 Tageslichtbäder!",602.700 €,"Friedrich-Wilhelm-Straße 12,
+Villingen, 78050 Villingen-Schwenningen",4,"127,24 m²",4.737 €/m²,Maisonette,nil,nil,3,1,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Bevorzugte Lage, sonniger Balkon, große Fenster, separate Küche, 2.-3. OG, KfW 55!",309.050 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",2,"58,62 m²",5.272 €/m²,nil,nil,nil,1,1,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Großer Wohnbereich, sonniger SW-Balkon, Tageslichtbad, offene Wohnküche, KfW 55!",352.300 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",2,"68,2 m²",5.166 €/m²,nil,nil,nil,1,1,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Tolle Etagenwohnung im schönen Söflingen mit Balkon und Tiefgaragenstellplatz""",329.000 €,"Söflingen, 89081 Ulm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,3.917 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Großer sonniger Südwestbalkon mit 24 m², zwei Tageslichtbäder, 1.-2.OG, KfW 55!",449.500 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",3,"87,08 m²",5.162 €/m²,nil,nil,nil,2,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+360° I Großartige Gelegenheit – Zwei-Zimmer-Wohnung in Langenargen,249.000 €,"88085 Langenargen, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,53 m²,4.698 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 %",{'is24qa-balkon-terrasse-label': ''}
+"""Friedrichspark"": Südwesterrasse mit 25 m², Tageslichtbad, WC mit Dusche, 30 m² Privatgarten, KfW 55",431.050 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",3,"85,22 m²",5.058 €/m²,Erdgeschosswohnung,nil,nil,2,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Großer Südwestbalkon mit 17 m², Tageslichtbad, WC mit Dusche, 1.-3.OG, KfW 55!",422.300 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",3,"81,79 m²",5.163 €/m²,nil,nil,nil,2,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"360° I Lichtdurchflutete 3,5-Zimmer-Wohnung in Wangen i. A.",288.000 €,"88239 Wangen im Allgäu, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",90 m²,3.200 €/m²,Hochparterre,nil,nil,nil,nil,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Kleine Wohneinheit, Parkblick, große Terrasse, 2 Tageslichtbäder, Privatgarten!",539.930 €,"Friedrich-Wilhelm-Straße 14,
+Villingen, 78050 Villingen-Schwenningen",3,"105,66 m²",5.110 €/m²,Erdgeschosswohnung,nil,nil,2,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+360° I Investitionsmöglichkeit: Zentral gelegene 1-Zimmer-Wohnung mit Balkon in Tettnang!,109.000 €,"88069 Tettnang, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,32 m²,3.406 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Schicke Zweieinhalbzimmerwohnung mit Galerie und Garage im Herzen von Loßburg in Toplage.,165.000 €,"72290 Loßburg, Freudenstadt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","67,24 m²",2.454 €/m²,Maisonette,"14,4 m²",nach Absprache,1,1,1 Garage,"Die Käuferprovision beträgt 3% zzgl. gesetzl. USt. von derzeit 19 % somit 3,57%","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+360° I Lichtdurchflutete 4-Zimmer-Wohnung in Immenstaad am Bodensee,469.000 €,"88090 Immenstaad am Bodensee, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,108 m²,4.343 €/m²,Souterrain,nil,nil,nil,nil,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Sonniger Südwest-Balkon, große bodentiefe Fenster, 2 Bäder, 1.-3.OG, KfW 55!",516.550 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",4,"99,99 m²",5.166 €/m²,nil,nil,nil,3,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+360° I 2-Zimmer Erdgeschosswohnung in Ehingen zum Verlieben,189.000 €,"89584 Ehingen (Donau), Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,48 m²,3.938 €/m²,Etagenwohnung,nil,nil,nil,nil,2 Garagen,"3,57 %",{'is24qa-keller-label': ''}
+"""Moderne und schöne 4,5-Zimmer-Wohnung mit Balkon und TG-Stellplatz in Bad Waldsee - SOFORT FREI!""",379.000 €,"88339 Bad Waldsee, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,3.989 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Große Südwesterrasse, Tageslichtbad, WC mit Dusche, Privatgarten mit 17 m², KfW55!",484.200 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",3,"95,75 m²",5.057 €/m²,Erdgeschosswohnung,nil,nil,2,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""In Kürze bezugsfrei! 2-Zimmer-Wohnung mit Terrasse und TG in Weingartens Oberstadt""",219.000 €,"88250 Weingarten, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,54 m²,4.056 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+"""Friedrichspark"": Kleine Wohneinheit, Parkblick, großer sonniger Balkon, 2 Tageslichtbäder, KfW 55!",552.430 €,"Friedrich-Wilhelm-Straße 14,
+Villingen, 78050 Villingen-Schwenningen",3,"105,93 m²",5.215 €/m²,nil,nil,nil,2,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Parkblick, sonniger Balkon, große bodentiefe Fenster, offene Küche, 1.-2. OG!",490.220 €,"Vöhrenbacher Straße 53,
+Villingen, 78050 Villingen-Schwenningen",4,"100,36 m²",4.885 €/m²,nil,nil,nil,3,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Sonnige Dachterrasse, Tageslichtbad, Fernblick, barriererfrei nach LBO, KfW 55!",597.750 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",3,"106,14 m²",5.632 €/m²,Penthouse,nil,nil,2,1,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+360° I Über den Dächern: Großzügige Galeriewohnung mit atemberaubendem Naturpanorama,420.000 €,"73349 Wiesensteig, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,148 m²,2.838 €/m²,Maisonette,nil,nil,nil,nil,1 Garage,"3,57 %",{'is24qa-balkon-terrasse-label': ''}
+360° I In Ruhe genießen! 2-Zimmer Gartenwohnung in Ummendorf,249.000 €,"88444 Ummendorf, Biberach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,72 m²,3.458 €/m²,Etagenwohnung,nil,nil,nil,nil,2 Außenstellplätze,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Penthaus-Charakter, große Dachterrasse, Balkon, zwei vollwertige Bäder, KfW 55!",806.600 €,"Vöhrenbacher Straße 49,
+Villingen, 78050 Villingen-Schwenningen",5,"153,91 m²",5.241 €/m²,nil,nil,nil,4,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Friedrichspark"": Maisonette-Wohnung, Terrasse mit Privatgarten, Balkon, 2 Tageslichtbäder, KfW 55!",642.550 €,"Friedrich-Wilhelm-Straße 2,
+Villingen, 78050 Villingen-Schwenningen",4,"127,24 m²",5.050 €/m²,Maisonette,nil,nil,3,2,Tiefgaragen-Stellplatz,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Gut vermietete Vierzimmerwohnung mit zwei Stellplätzen im Herzen von Waiblingen. Super Zentral!!!,410.000 €,"71332 Waiblingen, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,94 m²,4.362 €/m²,Etagenwohnung,15 m²,nil,2,1,2 Außenstellplätze,"Die Käuferprovision beträgt 2% zzgl. gesetzl. USt. von derzeit 19 % somit 2,38%","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"""Live smart! 3-Zimmer-Dachgeschosswohnung in Emerkingen""",180.000 €,"89607 Emerkingen, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,69 m²,2.609 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,"3,57 %","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"""Großzügige und helle 3,5-Zimmer-Wohnung mit traumhaftem Ausblick""",385.000 €,"88212 Ravensburg, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,96 m²,4.010 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Garage,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"

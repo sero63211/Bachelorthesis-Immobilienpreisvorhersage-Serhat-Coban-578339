@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wohnen in Mitte - helle 2 Zimmerwohnung als Kapitalanlage oder zur Eigennutzung,498.000 €,"Mitte (Ortsteil), 10115 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"72,48 m²",6.871 €/m²,Etagenwohnung,"73,67 m²",nil,nil,nil,nil,"3,57% inkl. 19% USt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Stilvolle, gepflegte 2-Raum-Wohnung in Berlin Friedrichshain",347.000 €,"Koppenstraße 25,
+Friedrichshain, 10243 Berlin",2,52 m²,6.673 €/m²,Etagenwohnung,52 m²,1.8.2024,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 2.0-Zimmer Wohnung in Berlin,nil,"Lankwitz, 12247 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"59,5 m²",4.538 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+Juwel im Wedding,690.000 €,"Exerzierstraße 17,
+Gesundbrunnen, 13357 Berlin",3,125 m²,5.520 €/m²,Sonstige,nil,nil,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Altbauwohnung im Graefekiez mit einzigartiger Stuck-Klinker-Fassade,569.000 €,"Schönleinstraße 6,
+Kreuzberg, 10967 Berlin",3,"88,4 m²",6.437 €/m²,Etagenwohnung,"88,4 m²",sofort,3,1,nil,"3,57 des Kaufpreises inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Direkter Waldblick, ruhige 3 Zimmer Wohnung in der Königsheide",369.000 €,"Johannisthal, 12487 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,87 m²,4.241 €/m²,nil,nil,nil,nil,nil,nil,"3,57 % vom Kaufpreis (inkl. der gesetzlich gültigen Umsatzsteuer)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+3-Zi.-Etagenwohnung mit hohem Wohnkomfort in Lichterfelde-Ost (von privat),865.000 €,"Lichterfelde, 12207 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,120 m²,7.208 €/m²,Etagenwohnung,18 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen am Schlosspark - im grünen Berlin - Frei sofort beziehbar,368.750 €,"Biesdorf, 12683 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"62,65 m²",5.886 €/m²,Dachgeschoss,66 m²,sofort,1,1,1 Tiefgaragen-Stellplatz,13.950 €,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Offen für Angebote: 3.0-Zimmer Wohnung in Berlin,nil,"Biesdorf, 12683 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,3.986 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+Bezugsfreie 2-Zimmer-Wohnung mit Balkon im idyllischen Westend,385.000 €,"Westend, 14050 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"62,5 m²",6.160 €/m²,Etagenwohnung,"62,5 m²",1.7.2024,2,1,Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+BEZUGSFREIE SZENEWOHNUNG DACHGESCHOSS MIT BALKON,249.000 €,"Ostender Str. 12,
+Wedding, 13353 Berlin",2,47 m²,5.298 €/m²,Dachgeschoss,5 m²,01.05.2024,1,1,nil,"8.889,30€","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Eigentumswohnung in Kiez-Lage,304.000 €,"Beusselstraße 18,
+Moabit, 10553 Berlin",3,"62,06 m²",4.898 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 %","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Eigentumswohnung in beliebter Lage,143.000 €,"Beusselstraße 18,
+Moabit, 10553 Berlin",1,"30,46 m²",4.695 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57 %","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Lichtdurchflutete Eigentumswohnung zum sofort Bezug im grünen Lichterfelde,289.000 €,"Lichterfelde, 12203 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"56,55 m²",5.111 €/m²,Etagenwohnung,nil,sofort,2,1,1 Tiefgaragen-Stellplatz,"3,57 % des Kaufpreises inkl. USt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Offen für Angebote: Wohnung in Berlin,nil,"Wedding, 13347 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,70 m²,4.557 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schönes und sonniges Apartment in Marzahn,185.900 €,"Marzahn, 12685 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"45,76 m²",4.063 €/m²,Etagenwohnung,12 m²,nil,nil,nil,nil,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Offen für Angebote: 4.0-Zimmer Wohnung in Berlin,nil,"Grunewald, 14193 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,7.724 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Charmante 2-Zimmer-Wohnung mit großem Dachstock in Neukölln,409.000 €,"Fontanestraße 31,
+Neukölln (Ortsteil), 12049 Berlin",2,"61,21 m²",6.682 €/m²,Etagenwohnung,nil,sofort,nil,1,nil,2.38% Käuferprovision inkl. MwSt.,{'is24qa-einbaukueche-label': ''}
+Offen für Angebote: 1.0-Zimmer Wohnung in Berlin,nil,"Charlottenburg, 10587 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,34 m²,4.824 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+provisionsfreie renovierte 2-Zimmer Wohnung in Berlin Mitte,285.000 €,"Gesundbrunnen, 13355 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"50,66 m²",5.626 €/m²,Etagenwohnung,"50,66 m²",nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

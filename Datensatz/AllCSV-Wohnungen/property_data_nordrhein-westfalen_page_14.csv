@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Kleine, schnuckelige 1-Zimmer-Wohnung",110.000 €,"Johannes-Prassel-Straße x,
+Esch/Auweiler, 50765 Köln",1,41 m²,2.683 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision! 3-Zimmer-Wohnung mit Pkw-Stellplatz,165.000 €,"Fichtestraße x,
+40789 Monheim am Rhein, Mettmann (Kreis)",3,76 m²,2.171 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit Garage - provisionsfrei,255.000 €,"Rheindorfer Straße x,
+40764 Langenfeld (Rheinland), Mettmann (Kreis)",4,137 m²,1.861 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Stilvoll modernisierte Eigentumswohnung in Köln-Ehrenfeld – Liebigstraße 161-163, WE 15",244.000 €,"Liebigstraße 161-163,
+Neuehrenfeld, 50823 Köln",2,"41,47 m²",5.884 €/m²,Etagenwohnung,4 m²,2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*** Das glaube ich nicht, sowas schönes habe ich lange nicht gesehen ***",995.220 €,"Rüttenscheid, 45130 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"169,84 m²",5.860 €/m²,Etagenwohnung,nil,nach Vereinbarung,1,1,1 Garage,"2,38 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+6-Zimmer-Wohnung im Terrassenhaus ++ provisionsfrei ++,221.000 €,"Lindenstraße x,
+40699 Erkrath, Mettmann (Kreis)",6,"103,95 m²",2.126 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Graf 1 - ETW in direkter Wasserlage,Auf Anfrage,"Bismarck, 45889 Gelsenkirchen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","115,96 m²",nil,Etagenwohnung,nil,Ende 2025,nil,nil,1 Tiefgaragen-Stellplatz,"Käuferprovision beträgt 2,0825 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Wohnung mit 2 Balkonen und Stellplatz,254.000 €,"Maarweg x,
+Duisdorf, 53123 Bonn",3,77 m²,3.299 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+le flair blanc! Designküche! Terrasse! Aufzug! exklusiv und urban leben im Herzen Düsseldorfs!,699.000 €,"Marc-Chagall-Straße 166,
+Pempelfort, 40477 Düsseldorf",3,"88,91 m²",7.862 €/m²,Etagenwohnung,nil,sofort,2,2,1 Tiefgaragen-Stellplatz,"2,5% inkl. 19%. MwSt. des beurkundeten Kaufpreises","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+M'GLADBACH-HEYDEN GEPFLEGTE 2-ZIMMER WOHNUNG INKL. BALKON & AUFZUG!,139.000 €,"Heyden, 41236 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,68 m²,2.044 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% Käuferprovision inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Moderne taghelle Garten-Maisonettewohnung in Hösel,385.000 €,"Hösel, 40883 Ratingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,123 m²,3.130 €/m²,Erdgeschosswohnung,6 m²,01.09.2024,2,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt. vom Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Wohnung mit Terrasse,215.000 €,"Fichtestraße x,
+40789 Monheim am Rhein, Mettmann (Kreis)",3,79 m²,2.722 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung nebst Balkon + provisionsfrei +,98.000 €,"Am Bahnhof x,
+49504 Lotte, Steinfurt (Kreis)",4,"87,13 m²",1.125 €/m²,nil,"10,7 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 3 1/2 Zimmer Erdgeschosswohnung direkt am Melanchthonplatz,99.000 €,"Melanchthonplatz 27,
+Wanheimerort, 47055 Duisburg",3,64 m²,1.547 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stilvolle Eigentumswohnung in Top-Lage: Modernes City-Leben in der Kölner-Südstadt - WE 21,412.000 €,"Eifelstraße 74-76,
+Neustadt/Süd, 50677 Köln",3,"67,92 m²",6.066 €/m²,Etagenwohnung,4 m²,2024,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit Terrassen- und Gartenanteil - provisionsfrei,147.000 €,"Meigenstraße x,
+52223 Stolberg (Rheinland), Aachen (Kreis)",4,114 m²,1.289 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LIFT/ BARRIERE-ARM/ LOGGIA/ FUSSBODEN-HEIZUNG ++ FULL-SERVICE,152.000 €,"Wickrath-Mitte, 41189 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,1.949 €/m²,nil,6 m²,ab sofort,2,1,nil,"3,57 % vom beurkundeten Kaufpreis inkl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Traumwohnung im Bielefelder Westen: 2 Balkone, 2 Wintergärten, Kamin, Weitblick",515.000 €,"Melanchthonstrasse 53,
+Mitte, 33615 Bielefeld",3,128 m²,4.023 €/m²,Dachgeschoss,nil,sofort,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MITTENDRIN - TOP LAGE - BELGISCHES - URBAN LIVING UND TROTZDEM RUHIG,515.000 €,"Neustadt/Nord, 50674 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",80 m²,6.438 €/m²,Etagenwohnung,5 m²,sofort,2,1,nil,"3,57%","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Wohnung mit Balkon - Ohne Provision!,73.000 €,"Artur-Ladebeck-Straße x,
+Gadderbaum, 33617 Bielefeld",3,"71,45 m²",1.022 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

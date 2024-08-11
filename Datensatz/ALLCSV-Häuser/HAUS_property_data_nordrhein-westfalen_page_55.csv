@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Freistehendes Einfamilienhaus in guter Wohnlage - provisionsfrei,310.000 €,"Schopenhauerstraße XX,
+53842 Troisdorf, Rhein-Sieg-Kreis",3,89 m²,420 m²,3.483 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familien-Reihenendhaus nebst Doppelgarage - provisionsfrei,220.000 €,"Achternbergstraße XX,
+Kray, 45309 Essen",6,"121,52 m²",658 m²,1.810 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Garage - provisionsfrei,290.000 €,"Kuckelsberg XX,
+Uellendahl-Katernberg, 42113 Wuppertal",1,169 m²,607 m²,1.716 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus nebst Garage - provisionsfrei,142.000 €,"Weststraße XX,
+59602 Rüthen, Soest (Kreis)",1,127 m²,686 m²,1.118 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus nebst Doppelgarage - provisionsfrei,380.000 €,"Hillegosser Straße XX,
+Heepen, 33719 Bielefeld",8,183 m²,803 m²,2.077 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Zwei 2-Familienhäuser, Garage, 7 Stellplätze",494.000 €,"Alte Landstraße XX,
+41844 Wegberg, Heinsberg (Kreis)",1,"335,05 m²",1.221 m²,1.474 €/m²,Wohnimmobilie (sonstige),"111,68 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Grünlage Mettmann-Mitte: Großzügiges, freistehendes Architekten Haus mit Fitnessbereich/Bürotrakt",1.685.000 €,"40822 Mettmann, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,383 m²,1.414 m²,4.399 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,2 Garagen,"3,57% inkl. MwSt. des Kaufpreises.",{'is24qa-gaeste-wc-label': ''}
+2-Familienhaus mit 3 Garagen,480.000 €,"Sandstraße XX,
+49492 Westerkappeln, Steinfurt (Kreis)",5,"234,69 m²",24.594 m²,2.045 €/m²,Wohnimmobilie (sonstige),160 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Platz für Alle + 2-Familienhaus mit Garage +,510.000 €,"Am Kellerhansberg XX,
+42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis",7,160 m²,679 m²,3.188 €/m²,Wohnimmobilie (sonstige),15 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ehem. Hofstelle auf großem Grundstück + provisionsfrei +,304.000 €,"Bergstraße XX,
+52445 Titz, Düren (Kreis)",8,217 m²,2.198 m²,1.401 €/m²,Wohnimmobilie (sonstige),31 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Nebengebäude,398.000 €,"Waldstraße XX,
+Urbach, 51145 Köln",1,92 m²,486 m²,4.326 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Einzelgarage,267.000 €,"Gohrstraße XX,
+42579 Heiligenhaus, Mettmann (Kreis)",1,102 m²,482 m²,2.618 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus und Garage + provisionsfrei +,175.000 €,"Im Boden XX,
+59602 Rüthen, Soest (Kreis)",1,160 m²,758 m²,1.094 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn-/Geschäftshaus +,115.500 €,"Gänsemarkt XX,
+Lennep Altstadt, 42897 Remscheid",1,598 m²,912 m²,193 €/m²,Wohnimmobilie (sonstige),318 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit 6 Wohnungen + Kapitalanlage +,115.000 €,"Siedlung Loewen XX,
+58553 Halver, Märkischer Kreis",1,284 m²,635 m²,405 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilien-Doppelhaushälfte, bezugsfertig, inkl. Baugrundstück u. bis zu 20.000€ sparen!",374.300 €,"Auf dem Buhrlande 1,
+59423 Unna, Unna (Kreis)",7,130 m²,300 m²,2.879 €/m²,Doppelhaushälfte,165 m²,2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Klein, aber Mein + Reihenmittelhaus +",278.000 €,"Katzengasse XX,
+Niehl, 50735 Köln",2,76 m²,241 m²,3.658 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus (3 Wohnbereiche) + provisionsfrei +,148.000 €,"Jägerstraße XX,
+45699 Herten, Recklinghausen (Kreis)",8,"151,46 m²",353 m²,977 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+gut vermietetes Mehrfamilienhaus in Willich (Anrath),899.000 €,"47877 Willich, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",19,490 m²,750 m²,1.835 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,6 Stellplätze,"4,76",{'is24qa-vermietet-label': ''}
+"Einfamilien-Reihenmittelhaus, Garten, Garage + provisionsfrei +",685.000 €,"Ensener Weg XX,
+Weiß, 50999 Köln",5,"135,93 m²",154 m²,5.039 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

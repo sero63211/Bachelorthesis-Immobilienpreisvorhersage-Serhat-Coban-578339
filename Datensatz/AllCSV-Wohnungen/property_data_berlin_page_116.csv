@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Provisionsfreie - vermietete ETW mit Top Anbindung - Friedrichsfelde Ost,199.000 €,"Rosenfelder Ring 78,
+Friedrichsfelde, 10315 Berlin",3,"74,82 m²",2.660 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kapitalanlage - Vermietetes Apartment in ruhiger Lage,197.500 €,"Stadtrandstraße 490,
+Falkenhagener Feld, 13589 Berlin",3,"77,68 m²",2.542 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschöne 3-Zimmerwohnung mit Balkon in saniertem Altbau in Berlin-Kreuzberg,581.000 €,"Kreuzberg, 10961 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,35 m²",7.415 €/m²,Etagenwohnung,nil,nach Vereinbarung,nil,1,nil,"3,57 % inkl. MwSt",{'is24qa-vermietet-label': ''}
+Sanierte 2-Zimmer-Altbauwohnung mit Terrasse und Garten,551.080 €,"Westfälische Straße 32,
+Halensee, 10709 Berlin",2,"77,9 m²",7.074 €/m²,Terrassenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sofortbezug am Hackeschen Markt - provisionsfrei,499.000 €,"Rochstraße 9,
+Mitte (Ortsteil), 10178 Berlin",3,"74,02 m²",6.741 €/m²,Etagenwohnung,nil,sofort,2,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartiges Penthouse der Extraklasse!,2.000.000 €,"Prenzlauer Berg, 10407 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"194,9 m²",10.262 €/m²,Penthouse,nil,02.08.2024,3,2,3 Garagen,"2,38 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"""Urbanes Wohnen mit Naturblick: Renovierte 2-Zimmer-Wohnung mit Einbauküche und Gemeinschaftsgarten",288.990 €,"Pettenkoferstraße 42,
+Friedrichshain, 10247 Berlin",2,46 m²,6.282 €/m²,Etagenwohnung,46 m²,Ab sofort bezugsfrei,2,1,nil,"10.316,94","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Helle, vermietete 2-Zimmerwohnung mit Balkon",265.000 €,"Friedrichsfelde, 10315 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,69 m²,3.841 €/m²,Etagenwohnung,69 m²,nil,1,1,nil,"3,57 % inkl. der gesetzlichen Umsatzsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Kapitalanlage - Vermietetes Apartment in ruhiger Lage,210.200 €,"Stadtrandstraße 490,
+Falkenhagener Feld, 13589 Berlin",2,"82,7 m²",2.542 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"**Luxuriöses Apartment, mit Balkon und EBK**",799.000 €,"Wilmersdorf, 10707 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,91 m²,8.780 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Vermietete Zweieinhalbzimmerwohnung in zentraler Lage in Wilmersdorf,461.000 €,"Zähringerstr. 13,
+Wilmersdorf, 10707 Berlin","2,5","77,57 m²",5.943 €/m²,Etagenwohnung,nil,sofort,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Dachgeschoss-Maisonette mit 3 Zimmern und Traumterrasse,552.996 €,"Donaustraße 69,
+Neukölln (Ortsteil), 12043 Berlin",3,"69,09 m²",8.004 €/m²,Maisonette,nil,sofort bezugsfertig,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche Oase unterm Dach: 3-Zimmer-Dachgeschosswohnung umgeben von Natur in Köpenick,395.000 €,"Köpenick, 12555 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"77,29 m²",5.111 €/m²,Dachgeschoss,"77,29 m²",01.03.2024,2,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Energieeffizienz und Weitblick Penthouse mit fantastischen Aussichten,1.750.000 €,"Friedrichshain, 10245 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,215 m²,8.140 €/m²,Penthouse,nil,nach Vereinbarung,4,2,1 Garage,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Gemütliches Zuhause im Hochparterre: Stil und Komfort perfekt vereint!,450.000 €,"Reinickendorf (Ortsteil), 13403 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,4.737 €/m²,Hochparterre,20 m²,nach Absprache,2,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Bezugsfrei! Moderne 3-Zimmer-Neubauwohnung mit großem Balkon,519.000 €,"Köpenick, 12557 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,99 m²,5.242 €/m²,Etagenwohnung,nil,01.07.2024,3,2,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+1-Zimmerwohnung im Bayrischen Viertel mit Balkon und viel Ruhe,235.000 €,"Schwäbische Straße 6a,
+Schöneberg, 10781 Berlin",1,45 m²,5.222 €/m²,Dachgeschoss,nil,sofort,1,nil,nil,"8.389,50 € (3,57 % inkl. MwSt.)",{'is24qa-balkon-terrasse-label': ''}
+Lukrative Kapitalanlage in Berlin Reinickendorf!,495.000 €,"Reinickendorf (Ortsteil), 13403 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",79 m²,6.266 €/m²,Etagenwohnung,nil,nil,3,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 3-Zimmerwohnung in gefragter Lage von Tempelhof,535.000 €,"Tempelhof, 12103 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"95,71 m²",5.590 €/m²,Etagenwohnung,"95,71 m²",nil,2,2,nil,"3,57 % inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Exklusive Altbauwohnung im kernsanierten Denkmalgebäude in Spitzenlage,971.200 €,"Sophienstr. 34,
+Mitte (Ortsteil), 10178 Berlin",2,"57,13 m²",17.000 €/m²,Etagenwohnung,nil,Q2 2024,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

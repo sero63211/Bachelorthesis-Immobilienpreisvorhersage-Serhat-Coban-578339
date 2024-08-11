@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+RHEIN-RESIDENZ-PLUS Lorch - Betreute Senioren-Eigentumswohnung im attraktiven Rheingau,201.872 €,"Lohwiese 5a,
+65391 Lorch, Rheingau-Taunus-Kreis",2,"54,56 m²",3.700 €/m²,Erdgeschosswohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Großzügige, sonnige Sechs-Zimmer-Wohnung in saniertem Gebäude",1.279.000 €,"Sachsenhausen-Süd, 60599 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,160 m²,7.994 €/m²,Etagenwohnung,nil,nil,4,2,2 Außenstellplätze,"Käuferprovision beträgt 2,5 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Lichtdurchflutete Drei-Zimmer-Wohnung fußläufig zum Oeder Weg,558.000 €,"Nordend-West, 60318 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"71,64 m²",7.789 €/m²,Etagenwohnung,6 m²,nil,2,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Großzügige Wohnetage für Familien mit sechs Zimmern in grüner Wohnlage,1.198.000 €,"Sachsenhausen-Süd, 60599 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,154 m²,7.779 €/m²,Etagenwohnung,8 m²,nil,4,2,2 Außenstellplätze,"Käuferprovision beträgt 2,5 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Katzensprung zum Bhf. Wilhelmshöhe, 3 ZKB!",175.595 €,"Wilhelmshöher Allee 266,
+Bad Wilhelmshöhe, 34131 Kassel",3,"60,55 m²",2.900 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmante Drei-Zimmer-Wohnung im historischen Altbau mit Balkon,475.000 €,"Ostend, 60385 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"75,2 m²",6.316 €/m²,nil,nil,nil,1,1,nil,"Käuferprovision beträgt 2,97 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+NEUBAU! Energieeffiziente 3- Zimmer Terrassenwohnung für gehobene Ansprüche,430.000 €,"Falltorstr. 10,
+Wixhausen, 64291 Darmstadt",3,"93,62 m²",4.593 €/m²,Terrassenwohnung,nil,sofort,nil,nil,1 Außenstellplatz,"3,57 % des Kaufpreises (inkl. 19 % MwSt.)",{'is24qa-balkon-terrasse-label': ''}
+Sonnige Drei-Zimmer-Wohnung in ruhiger Wohnlage im Erstbezug,584.000 €,"Sachsenhausen-Süd, 60599 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"75,6 m²",7.725 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"Käuferprovision beträgt 2,5 % (inkl. MwSt.) des beurkundeten Kaufpreises",{}
+Penthouse-Wohnung mit großer Terrasse mitten im Westend,1.770.000 €,"Westend-Süd, 60325 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"152,64 m²",11.596 €/m²,nil,nil,nil,3,2,1 Duplex-Stellplatz,"3,57% des Kaufpreises inkl. gesetzl. MwSt., jeweils von Käufer und Verkäufer","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Provisionsfrei* Helle sonnige 3-Zimmer Wohnung mit Balkon in Obertshausen,220.000 €,"Westendstraße 1,
+63179 Obertshausen, Offenbach (Kreis)",3,63 m²,3.492 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Symbiose aus modern und gemütlich,490.000 €,"65812 Bad Soden am Taunus, Main-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,105 m²,4.667 €/m²,nil,nil,nach Vereinbarung,2,1,1 Garage,3.57 inkl. gesetzl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+"NEUBAU - Energieeffiziente 4-Zi. MAISONETTE-WOHNUNG mit Südbalkon, 2 Bädern und eigenem Eingang",530.000 €,"Falltorstr. 10a,
+Wixhausen, 64291 Darmstadt",4,"113,3 m²",4.678 €/m²,Maisonette,nil,sofort,nil,2,1 Außenstellplatz,"3,57 % des Kaufpreises (inkl. 19 % MwSt.)",{'is24qa-balkon-terrasse-label': ''}
+"Taunusstein Wehen: Vermietete 3,5 Zimmer-Wohnung mit TG-Platz!",210.000 €,"65232 Taunusstein, Rheingau-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","92,3 m²",2.275 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"2,975 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Moderne Erdgeschosswohnung mit Gewerbepotenzial und hochwertiger Ausstattung,469.000 €,"65462 Ginsheim-Gustavsburg, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,78 m²,6.013 €/m²,Erdgeschosswohnung,68 m²,Nach Vereinbarung,4,1,3 Außenstellplätze,"2,99% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Hervorragende 3 Zimmer Eigentumswohnung mit Balkon & PKW-Stellplatz in Dietzenbach!,219.000 €,"63128 Dietzenbach, Offenbach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,2.959 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"2,975 % v. Netto-VKPreis (inkl. MwSt)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Sonnige Drei-Zimmer-Wohnung mit Balkon in ruhiger Lage nähe Henninger Turm,625.000 €,"Sachsenhausen-Süd, 60599 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,8.013 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"Käuferprovision beträgt 2,5 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-balkon-terrasse-label': ''}
+*Kapitalanlage* lichtdurchflutet und top vermietet in gepflegter Umgebung,145.000 €,"34260 Kaufungen, Kassel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,2.500 €/m²,Dachgeschoss,10 m²,nil,1,1,Außenstellplatz,"4,76%","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+NEUBAU! Energieeffiziente 4- Zimmer Wohnung mit Südbalkon für gehobene Ansprüche,460.000 €,"Falltorstr. 10,
+Wixhausen, 64291 Darmstadt",4,"99,54 m²",4.621 €/m²,Etagenwohnung,nil,sofort,nil,nil,1 Außenstellplatz,"3,57 % des Kaufpreises (inkl. 19 % MwSt.)",{'is24qa-balkon-terrasse-label': ''}
+ToFa: sonnige Balkonwohnung mit Tageslichtwannenbad und Tiefgaragenstellplatz - FESTPREIS/VERMIETET,170.000 €,"Robert-Bunsenstr. 2,
+65428 Rüsselsheim am Main, Groß-Gerau (Kreis)",3,87 m²,1.954 €/m²,Etagenwohnung,24 m²,nach Vereinbarung,1,1,1 Außenstellplatz,"3,57 inkl. MwSt. vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Moderne Wohnung mit Wintergarten und viel Licht,654.000 €,"Sachsenhausen-Süd, 60599 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,7.976 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"Käuferprovision beträgt 2,5 % (inkl. MwSt.) des beurkundeten Kaufpreises",{}

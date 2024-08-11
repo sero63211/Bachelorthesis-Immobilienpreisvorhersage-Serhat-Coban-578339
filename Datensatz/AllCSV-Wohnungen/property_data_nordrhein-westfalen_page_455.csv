@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Glücksgriff - Exklusive, neuwertige Erdgeschosswohnung",425.000 €,"Speldorf, 45478 Mülheim an der Ruhr
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,98 m²,4.337 €/m²,Erdgeschosswohnung,nil,31.12.2024,nil,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigentumswohnung im Stadtteil Hillerheide der Kreisstadt Recklinghausen,199.000 €,"Heidestraße 12,
+Hillerheide, 45659 Recklinghausen",2,72 m²,2.764 €/m²,Dachgeschoss,18 m²,01.05.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Appartement in Marl Sinsen Lenkerbeck,69.000 €,"Sinsen-Lenkerbeck, 45770 Marl
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,38 m²,1.816 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"4,76 % inkl. ges. MwSt.",{}
+Gestalten Sie sich Ihre 5 Zimmer 105 m² ETW nach Ihren Wünschen,199.000 €,"Fahrn, 47179 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,105 m²,1.895 €/m²,Erdgeschosswohnung,nil,nil,3,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Penthouse mit Fahrstuhl. Erstbezug,1.200.000 €,"Nordviertel, 45657 Recklinghausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,175 m²,6.857 €/m²,Penthouse,25 m²,Sofort,2,2,2 Garagen,"3,57 % Käuferprovision inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"3,5-Zimmer-ETW mit Balkon und Garage in Oberhausen",129.000 €,"Weseler Str. 19,
+Sterkrade-Mitte, 46149 Oberhausen","3,5",73 m²,1.767 €/m²,Etagenwohnung,nil,5.5.2024,nil,1,1 Garage,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Exklusive, gepflegte 2-Zimmer-Dachgeschosswohnung mit Loggia /Balkon in Münster, Nähe Uni Klinik",355.000 €,"Sentrup, 48149 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,5.547 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive 3-Zimmer-Seniorenwohnung mit gehobener Innenausstattung mit Einbauküche in Nettetal,405.000 €,"Hauptstrasse 42,
+41334 Nettetal, Viersen (Kreis)",3,104 m²,3.894 €/m²,Etagenwohnung,6 m²,3.5.2024,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne und gepflegte 3-Zimmer-Wohnung KDB in der Nähe des Harkortsees in Wetter,147.990 €,"58300 Wetter (Ruhr), Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,66 m²,2.242 €/m²,Etagenwohnung,nil,1.6.2024,2,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Provisionsfreie, sehr helle und ruhige 3,5 Zimmer-Dachgeschoss-Wohnung mit großer Terrasse",297.000 €,"Südostviertel, 45138 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",125 m²,2.376 €/m²,Terrassenwohnung,6 m²,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+HILDEN - zentralgelegene 2-Zi-ETW im Musikantenviertel - 1.OG,149.000 €,"40724 Hilden, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"52,04 m²",2.863 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+3-Zimmer-Penthaus in modernem Neubau in Uerdingen,390.679 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",3,"75,86 m²",5.150 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Niveauvolle vermietete 3,5-Zi.-Erdgeschosswohnung mit Garten in Meerbusch-Büderich am Deutschen Eck",495.000 €,"Neusser Straße 22,
+40667 Meerbusch, Neuss (Rhein-Kreis)","3,5",95 m²,5.211 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: Wohnung in Düsseldorf,nil,"Heerdt, 40549 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,92 m²,5.457 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"modernisierte 5 Raum-Wohnung mit offener Empore, Dachterrasse, und großem Wohn-/Essbereich",298.000 €,"Dahlhausen, 44879 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,124 m²,2.403 €/m²,Maisonette,28 m²,nach Vereinbarung,2,nil,nil,"Die Käuferprovision beträgt 2,975 % inkl. MWST.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Offen für Angebote: 2.0-Zimmer Wohnung in Unna,nil,"59425 Unna, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,69 m²,1.430 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,nil,{}
+"Attraktive 2,5-Raum-Wohnung mit Balkon in Bad Lippspringe",145.000 €,"33175 Bad Lippspringe, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",56 m²,2.589 €/m²,Erdgeschosswohnung,"1,5 m²",1.4.2025,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Attraktive 79 m² Wohnung mit Aufzug, Balkon & Stellplatz im beliebten Köln-Nippes",439.000 €,"Niehler Straße X,
+Nippes (Ortsteil), 50733 Köln",3,79 m²,5.557 €/m²,Etagenwohnung,6 m²,nil,2,1,1 Duplex-Stellplatz,"4,76%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+❤️ Rüttenscheid ❤️ Haumannviertel ❤️ SOFORT Einziehen ❤️ KEIN MAKLER ❤️ Erstbezug nach Sanierung ❤️,410.000 €,"Pelmanstraße 9,
+Rüttenscheid, 45131 Essen","3,5",107 m²,3.832 €/m²,Etagenwohnung,10 m²,3.5.2024,2,1,1 Stellplatz,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnung mit Gartenanteil in Köln-Mehrheim,455.000 €,"Hohensyburgstraße 128,
+Merheim, 51109 Köln",3,"70,8 m²",6.427 €/m²,Etagenwohnung,6 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

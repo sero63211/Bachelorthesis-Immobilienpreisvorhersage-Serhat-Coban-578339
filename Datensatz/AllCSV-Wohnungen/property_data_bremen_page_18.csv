@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Top 3 Zimmerwohnung in Schwachhausen, Käufer provisionsfrei",198.000 €,"Gerhart-Hauptmann-Straße 29,
+Neu-Schwachhausen, 28213 Bremen",3,"65,9 m²",3.005 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4 Zimmer Wohnung in City Lage.,275.000 €,"Bahnhofsvorstadt, 28195 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,94 m²,2.926 €/m²,Etagenwohnung,4 m²,nil,3,1,nil,"2,975 % inkl. der gesetzlichen MwSt. vom beurkundeten Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Renovierte 4-Zimmer-Wohnung in Bremerhaven-Lehe,145.000 €,"Lehe, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,86 m²,1.686 €/m²,Etagenwohnung,0 m²,nach Vereinbarung,nil,1,1 Garage,"3,57 % inkl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Charmante 2-Zimmer-Eigentumswohnung im Erdgeschoss mit Garten und Terrasse,155.000 €,"Hemelingen (Ortsteil), 28309 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,2.672 €/m²,Hochparterre,10 m²,nach Vereinbarung!,1,1,nil,"7,14 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': ''}"
+BRUNE IMMOBILIEN - Bremerhaven-Mitte: Modern - Zentral - Geräumig,249.000 €,"Mitte, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,2.075 €/m²,Etagenwohnung,nil,nach Vereinbarung,nil,1,Tiefgaragen-Stellplatz,"zzgl. 3,57 % Käuferprovision (inkl. MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Vermietete 3-Zi-ETW Beim Ohlenhof,121.700 €,"Beim Ohlenhof 23,
+Gröpelingen (Ortsteil), 28237 Bremen",3,"60,84 m²",2.000 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+20 Jahre garantierte Mietzahlungen (Indexiert) I Kein Verwaltungsaufwand,350.000 €,"Radio Bremen, 28329 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",25,89 m²,3.933 €/m²,nil,89 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Pflegeapartments | 20 Jahre garantierte Rendite | Kaum Verwaltungsaufwand,250.000 €,"Schiffdorferdamm, 27574 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,4.167 €/m²,nil,60 m²,2024,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mitte // Vermietete gemütliche 2-Zimmer-Wohnung mit Blick auf den Neuen Hafen als Kapitalanlage,339.000 €,"Mitte, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,75 m²,4.520 €/m²,nil,"9,5 m²",nach Absprache,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Kapitalanlage: Mitte // 2-Zimmer-Wohnung mit Ausblick auf den Neuen Hafen und die Weser,449.000 €,"Lehe, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"85,01 m²",5.282 €/m²,Etagenwohnung,6 m²,nach Absprache,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+2 Zimmer in zentraler Lage und Wesernähe,285.000 €,"Altstadt, 28195 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"55,32 m²",5.152 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % (inkl. 19 % ges. MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Neuer Preis!!! Schöne möblierte EG Wohnung nahe Kennedy Platz - ideal für junge Leute!,159.000 €,"Ostertor, 28203 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,45 m²,3.533 €/m²,Erdgeschosswohnung,nil,nach Absprache,1,1,1 Außenstellplatz,"7,14 incl.19 % MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Mitte // Kapitalanlage - Großzügige ETW mit Terrasse und Garten,649.000 €,"Mitte, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,166 m²,3.910 €/m²,Erdgeschosswohnung,28 m²,nach Absprache,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+2- 3 Zimmer ETW Hochparterre mit Balkon + Garage zu verkaufen,150.000 €,"Burgdamm, 28717 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"69,7 m²",2.152 €/m²,Hochparterre,10 m²,nach Absprache,nil,1,nil,"3,57 % des Kaufpreises inklusive 19 % Mehrwertsteuer. Zahlbar nach notarieller Beurkundung","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+3-Zimmer-Wohnung in Schwachhausen-Riensberg.,219.000 €,"Thomas-Mann-Straße 25,
+Neu-Schwachhausen, 28213 Bremen",3,"71,42 m²",3.066 €/m²,Etagenwohnung,nil,sofort,2,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 4-Zi-ETW in Walle - keine Selbstnutzung!,208.000 €,"Bremerhavener Straße 109,
+Walle (Ortsteil), 28219 Bremen",4,"85,54 m²",2.432 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Renovierte Eigentumswohnung im Hochparterre + Einbauküche + Balkon Einfach schick!,170.000 €,"Burgdamm, 28719 Bremen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"64,17 m²",2.649 €/m²,Hochparterre,12 m²,nach Vereinbarung,2,1,nil,"3,57 % inkl. 19 % MwSt. (Selbstnutzer) 5,95 % inkl. 19 % MwSt. (Kapitalanleger)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kapitalanleger gesucht: 4 ETW im Paket in der östl. Vorstadt,879.000 €,"Roonstraße 82,
+Fesenfeld, 28203 Bremen",5,"95,83 m²",9.172 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mitte // Vermietete schicke 2-Zimmer Eigentumswohnung mit seitlichem Blick auf den Neuen Hafen,419.000 €,"Lehe, 27568 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"85,01 m²",4.929 €/m²,nil,nil,01.02.2022,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+BRUNE IMMOBILIEN - Bremerhaven-Geestemünde: Zentrales Wohnen genießen,89.000 €,"Geestemünde, 27570 Bremerhaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,68 m²,1.309 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"zzgl. 3,57 % Käuferprovision (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

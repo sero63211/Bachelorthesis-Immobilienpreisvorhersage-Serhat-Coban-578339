@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Schöne 2,5 Zimmer Wohnung in zentraler Lage von Kirn",85.000 €,"Schmale Gasse 2,
+55606 Kirn, Bad Kreuznach (Kreis)",2,51 m²,1.667 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Trier-Süd, ETW mit 150 m² aufgeteilt in 4 WE / ME rd. 23.000,00 € p.a. Provisionsfrei",398.000 €,"Saarstrasse 66,
+Süd, 54290 Trier",7,150 m²,2.653 €/m²,Dachgeschoss,nil,nil,4,4,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geschmackvolle und geräumige Penthouse-Wohnung mit vier Zimmern sowie 3 Dach Terrassen,899.000 €,"Heinrich Prott Strasse 26,
+67269 Grünstadt, Bad Dürkheim (Kreis)",4,273 m²,3.293 €/m²,Penthouse,273 m²,20.2.2024,3,2,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*** Nähe UNI und Uniklinik, Provisionsfrei *** Lichtdurchflutete Eigentumswohng. Mainzer Oberstadt",168.500 €,"Berliner Str. 31,
+Oberstadt, 55131 Mainz",1,40 m²,4.213 €/m²,Etagenwohnung,nil,8.5.2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wohnung mit Küche, Bad und Balkon in Limburgerhof",175.000 €,"67117 Limburgerhof, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,2.734 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57%inkl. MwSt",{}
+Top EG-Wohnung mit Garten im Zentrum Eisenberg,239.000 €,"Hauptstr. 72,
+67304 Eisenberg (Pfalz), Donnersbergkreis",2,"83,8 m²",2.852 €/m²,Erdgeschosswohnung,nil,01.10.2024,1,1,Außenstellplatz,"3,57 % vom Kaufpreis inkl. 19% Mwst. Gleiche Provisionsvereinbarung mit Verkäufer.","{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+**PROVSIONSFREI** ... und vom Balkon blickt man ins Aubachtal!,259.500 €,"Finthen, 55126 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,56 m²,4.634 €/m²,Etagenwohnung,6 m²,nil,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Anteil an Objekt,25.000 €,"Rohrlachstraße 29,
+Nord-Hemshof, 67063 Ludwigshafen am Rhein",1,25 m²,1.000 €/m²,Sonstige,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige EG-Wohnung mit Terrasse und kleinem Garten incl. Garage ohne Makler,249.000 €,"Frankstraße 7,
+West, 67346 Speyer",2,70 m²,3.557 €/m²,Erdgeschosswohnung,nil,8.5.2024,1,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 4 Zimmer Wohnung mit Balkon und Aufzug,199.000 €,"Am Deutschhof 4,
+67105 Schifferstadt, Rhein-Pfalz-Kreis",4,90 m²,2.211 €/m²,Etagenwohnung,nil,sofort,3,1,2 Garagen,"3,57 inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Freundliche 2-Zimmer-Wohnung in Koblenz, renoviert mit neuen Belägen, Türen u. Bad u. Gäste WC neu",150.000 €,"Dechant-Plein-Straße 7,
+Lützel, 56070 Koblenz",2,65 m²,2.308 €/m²,Etagenwohnung,65 m²,10.5.2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Fantastische 2ZKB im Herzen der Mainzer Neustadt,349.000 €,"Neustadt, 55118 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,5.453 €/m²,Etagenwohnung,nil,09/2024,1,1,1 Duplex-Stellplatz,3%,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Offen für Angebote: 2.5-Zimmer Wohnung in Lahnstein,nil,"56112 Lahnstein, Rhein-Lahn-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",70 m²,2.343 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+Reserviert* Exklusive Wohnung mit Blick auf den Yachthafen,399.000 €,"Hafenstrasse 12,
+Ost, 67346 Speyer",2,71 m²,5.620 €/m²,Etagenwohnung,nil,01.07.2024,1,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer Wohnung,179.000 €,"Oberer Mauergarten 29,
+Herrnsheim, 67550 Worms",3,"72,48 m²",2.470 €/m²,Dachgeschoss,nil,nil,nil,nil,1 Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne und modernisierte 4-Raum-DG-Wohnung in Koblenz,220.000 €,"Dechant-Plein-Straße 7,
+Lützel, 56070 Koblenz",4,78 m²,2.821 €/m²,Dachgeschoss,78 m²,10.5.2024,3,1,1 Außenstellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Stilvolle, sanierte 3-Zimmer-Terrassenwohnung mit atemberaubenden Blick auf Koblenz",420.000 €,"Brentanostraße 58b,
+Ehrenbreitstein, 56077 Koblenz",3,102 m²,4.118 €/m²,Terrassenwohnung,nil,Ab sofort bezugsfrei,nil,2,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige neuwertige Eigentumswohnung im Energiesparhaus Trier-Biewer mit gut Anbindung Luxemburg,487.000 €,"Biewer, 54293 Trier
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,132 m²,3.689 €/m²,Etagenwohnung,nil,nil,3,1,2 Außenstellplätze,"2,38 % icl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Schön geschnittene 2 Zimmerwohnung mit Loggia,219.000 €,"Eberhard-Anheuser-Straße 12,
+55543 Bad Kreuznach, Bad Kreuznach (Kreis)",2,"72,5 m²",3.021 €/m²,Etagenwohnung,4 m²,August 2024,1,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Traumhafte Erstbezugswohnung im Herzen der Pfalz,324.000 €,"Kernstadt, 67434 Neustadt an der Weinstraße
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,3.857 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': ''}"

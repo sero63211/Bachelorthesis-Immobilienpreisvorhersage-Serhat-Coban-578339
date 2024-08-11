@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Doppelhaushälfte mit Garage,240.000 €,"Zu den Eichen XXX,
+19260 Vellahn, Ludwigslust-Parchim (Kreis)",1,165 m²,2.719 m²,1.455 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus - provisionsfrei,48.000 €,"Gliner Straße XXX,
+18273 Güstrow, Rostock (Kreis)",1,1 m²,569 m²,48.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Dachterrasse,393.000 €,"Hauptstraße XXX,
+19217 Rehna, Nordwestmecklenburg (Kreis)",5,"178,39 m²",1.000 m²,2.203 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Tiefgarage mit Dachterrasse und Garten",197.000 €,"Fischerweg XXX,
+18273 Güstrow, Rostock (Kreis)",4,121 m²,466 m²,1.628 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Einfamilienhaus mit Einliegerwohnung,495.000 €,"Saaler Chaussee XXX,
+18311 Ribnitz-Damgarten, Vorpommern-Rügen (Kreis)",7,"233,6 m²",6.249 m²,2.119 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus + provisionsfrei +,190.000 €,"Zum Butterberg XXX,
+Stadtgebiet Ost, 17036 Neubrandenburg",1,1 m²,523 m²,190.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber Fein + Einfamilienhaus - provisionsfrei +",88.600 €,"Brauereistraße XXX,
+Datzeviertel, 17033 Neubrandenburg",3,"73,59 m²",621 m²,1.204 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte mit 4 Reihengaragen,105.200 €,"An der Linde XXX,
+17039 Blankenhof, Mecklenburgische Seenplatte (Kreis)",4,88 m²,1.620 m²,1.195 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Anbau + provisionsfrei +,118.000 €,"Wallstraße XXX,
+18246 Bützow, Rostock (Kreis)",1,1 m²,124 m²,118.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Gewerbenutzung,18.000 €,"Wariner Straße XXX,
+19412 Brüel, Ludwigslust-Parchim (Kreis)",1,112 m²,281 m²,161 €/m²,Wohnimmobilie (sonstige),34 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn-/Geschäftshaus + provisionsfrei +,2.400.000 €,"Am Strom XXX,
+Seebad Warnemünde, 18119 Rostock",1,"109,8 m²",252 m²,21.858 €/m²,Wohnimmobilie (sonstige),"23,94 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus mit Nebengelass,241.000 €,"Im Wiesengrund XXX,
+18230 Bastorf, Rostock (Kreis)",1,"103,5 m²",1.877 m²,2.329 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Tiny House, Garten, Stellplätze",226.000 €,"An der Haferkoppel XXX,
+18184 Broderstorf, Rostock (Kreis)",1,140 m²,2.110 m²,1.614 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte - provisionsfrei,4.416 €,"Lange Straße XXX,
+17089 Siedenbollentin, Mecklenburgische Seenplatte (Kreis)",1,1 m²,184 m²,4.416 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"+ Sechsfamilienhaus, Doppelcarport, Doppelgarage +",151.000 €,"Schulstraße XXX,
+19386 Gehlsbach, Ludwigslust-Parchim (Kreis)",1,386 m²,1.732 m²,391 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Wohnhaus + provisionsfrei ü+,180.000 €,"Neustädter Straße XXX,
+19300 Muchow, Ludwigslust-Parchim (Kreis)",1,364 m²,12.031 m²,495 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Bezugsfreier Familientraum: Schönes Reihenmittelhaus mit viel Potential in zentraler Lage,99.000 €,"17166 Teterow, Rostock (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,26 m²","300,26 m²",852 €/m²,Reihenmittelhaus,nil,ab sofort,2,2,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Charmante 3-Zi.-DHH mit großem Garten auf der Halbinsel Mönchgut / Rügen,299.000 €,"18586 Gager, Vorpommern-Rügen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"76,24 m²","751,24 m²",3.922 €/m²,Doppelhaushälfte,nil,nach Absprache,2,1,1 Carport,"3,57 %",{'is24qa-online-besichtigung-moeglich-label': ''}
+Wohnhaus mit Büroräumen und Garage,421.000 €,"Hauptstraße XXX,
+23996 Bad Kleinen, Nordwestmecklenburg (Kreis)",6,112 m²,2.000 m²,3.759 €/m²,Wohnimmobilie (sonstige),103 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, Wintergarten, Carport, Garage",313.800 €,"Zum Gutshaus XXX,
+23974 Blowatz, Nordwestmecklenburg (Kreis)",4,183 m²,1.870 m²,1.715 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

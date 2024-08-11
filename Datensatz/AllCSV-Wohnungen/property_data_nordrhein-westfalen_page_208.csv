@@ -1,0 +1,79 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Ihr neues Zuhause in Grimlinghausen,219.000 €,"Grimlinghausen, 41468 Neuss
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,56 m²,3.911 €/m²,nil,nil,nil,nil,nil,1 Außenstellplatz,3.57%,{'is24qa-balkon-terrasse-label': ''}
+"*Grünewald* Exklusive, Lichtdurchflutete 4-Zimmer Etagenwohnung, in Jugendstilhaus mit Stellplatz",260.000 €,"Burg/Höhscheid, 42657 Solingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,116 m²,2.241 €/m²,Etagenwohnung,nil,1.7.2024,nil,1,1 Außenstellplatz,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Penthaus in modernem Neubau in Uerdingen,390.679 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",3,"75,86 m²",5.150 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau-Wohnung...jetzt schon im Rohbau besichtigen,361.224 €,"Ardeystraße 175,
+Innenstadt, 58453 Witten","3,5","100,34 m²",3.600 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne Erdgeschosswohnung mit eigenem Garten,345.514 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",2,"67,09 m²",5.150 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche 2-Zimmer-Wohnung mit eigenem Garten,345.514 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",2,"67,09 m²",5.150 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöne, moderne 4-Raumwohnung mit Balkon und Blick ins Grüne",468.025 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",4,"96,5 m²",4.850 €/m²,Etagenwohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Haus im Haus"", ganz nah am Wurmtal (von privat, ohne Makler)",369.000 €,"52134 Herzogenrath, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,3.690 €/m²,Erdgeschosswohnung,127 m²,11.6.2024,2,2,3 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Geschmackvolle, gepflegte 3-Raum-DG-Wohnung mit Balkon u. Einbauküche in Lohmar - PROVISIONSFREI-",299.000 €,"Weegener Straße 36,
+53797 Lohmar, Rhein-Sieg-Kreis",3,99 m²,3.020 €/m²,Dachgeschoss,33 m²,6.5.2024,2,1,2 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Provisionsfrei! Sofort freie 4-Zimmer-Eigentumswohnung in Krefeld-Uerdingen,229.000 €,"Uerdingen, 47829 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,102 m²,2.245 €/m²,Dachgeschoss,nil,Sofort,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Sonntag 2.06. von 11-12.3O Uhr Beratung und Modellbesichtigung - 2- bis 4-Zimmer Neubau KFW40/QNG,289.069 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",2,"56,13 m²",5.150 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Komfortables Wohnen im modernen Neubau,425.000 €,"59427 Unna, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,124 m²,3.427 €/m²,nil,nil,nil,nil,1,1 Außenstellplatz,1.79%,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Schöne 3-Zimmer-Wohnung in ruhiger Lage von Troisdorf-Spich PROVISIONSFREI,239.000 €,"53842 Troisdorf, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,3.414 €/m²,Etagenwohnung,nil,1.8.2024,nil,1,nil,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Einfach mal die Aussicht genießen...,396.343 €,"Ardeystraße 175,
+Innenstadt, 58453 Witten","3,5","100,34 m²",3.950 €/m²,nil,nil,Ende 2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ansprechende 3-Zimmer-Wohnung,390.679 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",3,"75,86 m²",5.150 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"ANLAGEPERLE MIT BLICK AUF DEN KÖLNER DOM MIT 5,0%",148.000 €,"Klettenberg, 50939 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,43 m²,3.442 €/m²,Etagenwohnung,5 m²,nil,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Blömker! Moderne 3,5-Raum Eigentumswohnung mit Süd-Balkon und Garage in Gladbeck Alt-Rentfort!",159.000 €,"45966 Gladbeck, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","79,13 m²",2.009 €/m²,Etagenwohnung,6 m²,nach Absprache,2,1,1 Garage,"3,57 % inkl. 19 % MwSt. vom Verkaufspreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Lichte 3-Zimmer-Wohnung in ruhiger Lage,408.227 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",3,"82,47 m²",4.950 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Wohnung mit schöner Aufteilung, großem Balkon und Stellplatz!",105.000 €,"45731 Waltrop, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,1.221 €/m²,Etagenwohnung,15 m²,nil,nil,nil,1 Außenstellplatz,"2,38 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Traumhafte, lichtdurchflutete 4-Zimmer-Wohnung im Maisonette-Stil",626.416 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",4,"133,28 m²",4.700 €/m²,Maisonette,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schönes, helles 2-Raum Penthouse",389.443 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",2,"75,62 m²",5.150 €/m²,Penthouse,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wir zeigen Ihnen gerne ihre neue Wohnung im Rohbau....,386.309 €,"Ardeystraße 175,
+Innenstadt, 58453 Witten","3,5","100,34 m²",3.850 €/m²,nil,nil,Ende 2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wundervolle Wohnung mit 2 Zimmern und Balkon mit Aussicht,315.592 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",2,"61,29 m²",5.149 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau Wohnung mit Terrasse und Wintergarten,305.472 €,"Ardeystraße 175,
+Innenstadt, 58452 Witten","2,5","82,56 m²",3.700 €/m²,Souterrain,nil,Ende 2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Platz für die Familie! 4-Zimmer-Erdgeschoss mit Garten,484.079 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",4,"99,81 m²",4.850 €/m²,Erdgeschosswohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Moderne, lichtdurchflutete 4-Zimmerwohnung",468.025 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",4,"96,5 m²",4.850 €/m²,Etagenwohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erstbezug nach Sanierung: Barrierearme 2-Zimmer-Erdgeschosswohnung mit geh. Innenausstattung,135.000 €,"Uellendahl-Katernberg, 42111 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,47 m²,2.872 €/m²,Erdgeschosswohnung,nil,26.5.2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Eigentumswohnung mit Ausblick,315.644 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",2,"61,29 m²",5.150 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Von privat: Loftartige Wohnung mit Balkon und Garten in Hofanlage zu verkaufen,320.000 €,"50374 Erftstadt, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,3.200 €/m²,Etagenwohnung,nil,14.4.2024,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wohnkomfort der Extraklasse - Neubau - 3,5 Zimmer ETW mit Balkon",361.224 €,"Ardeystraße 175,
+Innenstadt, 58452 Witten","3,5","100,34 m²",3.600 €/m²,Erdgeschosswohnung,nil,Ende 2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Genießen Sie die Aussicht in ihrer neuen Wohnung....,386.309 €,"Ardeystraße 175,
+Innenstadt, 58453 Witten","3,5","100,34 m²",3.850 €/m²,nil,nil,Ende 2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familienfreundliche 4-Zimmer-Erdgeschoss mit Garten,484.079 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",4,"99,81 m²",4.850 €/m²,Erdgeschosswohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+gemütliche 2 Zimmer Wohnung in Wuppertal,130.000 €,"Bockmühle 3,
+Heckinghausen, 42289 Wuppertal",2,58 m²,2.241 €/m²,Etagenwohnung,8 m²,nil,1,1,nil,nil,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Luxus muss nicht teuer sein - Mein neues Zuhause in Haan,299.000 €,"42781 Haan, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,3.477 €/m²,nil,nil,nil,nil,1,nil,3.57%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Traumhafte Wohnung in historischer Villa am Waldrand,130.000 €,"Winkelsen 21 a,
+58762 Altena, Märkischer Kreis",2,110 m²,1.182 €/m²,Erdgeschosswohnung,nil,7.4.2024,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Provisionsfreie, helle 4,5-Zimmer-Wohnung für gehobene Ansprüche, ""Grünen Mitte"", direkt am Uni-Park",499.000 €,"Westviertel, 45127 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",124 m²,4.024 €/m²,Etagenwohnung,5 m²,1.5.2024,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Relaxen im Grünen in Zündorf,313.500 €,"Zündorf, 51143 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,3.300 €/m²,Etagenwohnung,nil,5.8.2024,1,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stilvolle 4-Raum-Wohnung mit luxuriöser Innenausstattung mit Balkon und Einbauküche in Pempelfort,1.250.000 €,"Schinkelstraße 35,
+Pempelfort, 40211 Düsseldorf",4,140 m²,8.929 €/m²,Etagenwohnung,nil,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Barriefreie Neubau-Wohnung mit Aussicht...,396.343 €,"Ardeystraße 175,
+Innenstadt, 58452 Witten","3,5","100,34 m²",3.950 €/m²,Etagenwohnung,nil,Ende 2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,65 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Zimmer-Wohnung mit Balkon und Garage - provisionsfrei,188.000 €,"Neuffenstraße XXXX,
+71679 Asperg, Ludwigsburg (Kreis)",3,79 m²,2.380 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4½-Zimmer-Wohnung mit Garage - provisionsfrei,285.000 €,"Hauptstraße XXXX,
+78345 Moos, Konstanz (Kreis)",4,1 m²,285.000 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+4-Zimmer-Wohnung - provisionsfrei,185.000 €,"Brackenheimer Straße XXXX,
+74363 Güglingen, Heilbronn (Kreis)",4,"88,17 m²",2.098 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügige 4-Zimmer-Wohnung mit Balkon - provisionsfrei,245.500 €,"Bahnhofstraße XXXX,
+72406 Bisingen, Zollernalbkreis",4,128 m²,1.918 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Sonderwunsch-Variante der Wohnung 112! 3-Zimmer-Wohnung mit großer Dachterrasse. Barrierefrei!,736.500 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",3,111 m²,6.635 €/m²,Dachgeschoss,nil,sofort,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ohne Provision! Wohnung nebst Pkw-Stellplatz,126.000 €,"Westendstraße XXXX,
+Oos, 76532 Baden-Baden",2,"64,72 m²",1.947 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-Zimmer-Wohnung mit großer Terrasse - provisionsfrei,80.000 €,"In den Matten XXXX,
+77652 Offenburg, Ortenaukreis",1,44 m²,1.818 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit TG-Stellplatz - provisionsfrei,287.000 €,"Moltkestraße XXXX,
+71116 Gärtringen, Böblingen (Kreis)",4,92 m²,3.120 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kurzfristig bezugsfertig! 4-Zimmer-Wohnung im EG mit Terrasse nach Süden und Gartenanteil,599.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",4,107 m²,5.598 €/m²,Erdgeschosswohnung,nil,Q4/2023,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sonderwunsch-Variante der Wohnung 204! 4-Zimmer-Wohnung im 1.OG mit 2 Loggien nach Süden,700.500 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",4,122 m²,5.742 €/m²,Etagenwohnung,nil,sofort,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mit Sonderausstattung! 2-Zimmer-Wohnung im EG mit Einbauküche, Bad-Ausstattung und Terrasse",322.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",2,59 m²,5.458 €/m²,Erdgeschosswohnung,nil,Ende 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit TG-Stellplatz in familienfreundlicher Wohnlage,157.000 €,"Hanfgraben XXXX,
+74343 Sachsenheim, Ludwigsburg (Kreis)",2,"59,13 m²",2.655 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kurzfristig bezugsfertig! 2-Zimmer-Wohnung im 2. Obergeschoss mit Loggia.,419.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",2,67 m²,6.254 €/m²,Etagenwohnung,nil,Q4/2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kurzfristig bezugsfertig! 1-Zimmer-Wohnung im 2. OG mit Loggia,255.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",1,39 m²,6.538 €/m²,Etagenwohnung,nil,Q4/2023,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung - provisionsfrei,160.000 €,"Hauptstraße XXXX,
+78345 Moos, Konstanz (Kreis)",2,1 m²,160.000 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kurzfristig bezugsfertig! 4-Zimmer-Wohnung mit großer Dachterrasse. Barrierefrei!,735.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",4,111 m²,6.622 €/m²,Dachgeschoss,nil,Q4/2023,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kurzfristig bezugsfertig! 3-Zimmer-Wohnung im 2.OG mit Süd-Balkon,498.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",3,80 m²,6.225 €/m²,Etagenwohnung,nil,Q4/2023,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mit Sonderausstattung! 2-Zimmer-Wohnung im EG mit Einbauküche, Bad-Ausstattung und Terrasse",329.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",2,60 m²,5.483 €/m²,Erdgeschosswohnung,nil,Ende 2023,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon in gepflegtem Wohnumfeld - provisionsfrei,149.000 €,"Hinter der Mühle XXXX,
+69226 Nußloch, Rhein-Neckar-Kreis",3,77 m²,1.935 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kurzfristig bezugsfertig! 5-Zimmer-Wohnung im 1.OG mit 2 Loggien nach Süden,699.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",5,122 m²,5.730 €/m²,Etagenwohnung,nil,Q4/2023,4,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit schönem Balkon - provisionsfrei,230.000 €,"Friedrich-Schofer-Straße XXXX,
+71332 Waiblingen, Rems-Murr-Kreis",3,62 m²,3.710 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kurzfristig bezugsfertig! 3-Zimmer-Wohnung im 2. Obergeschoss mit Loggia,449.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",3,72 m²,6.236 €/m²,Etagenwohnung,nil,Q4/2023,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Garage - provisionsfrei,146.000 €,"Birkenweg XXXX,
+71546 Aspach, Rems-Murr-Kreis",3,"76,5 m²",1.908 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1½-Zimmer-Wohnung - provisionsfrei,120.000 €,"Bollstetterstraße XXXX,
+78315 Radolfzell am Bodensee, Konstanz (Kreis)",1,"32,8 m²",3.659 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Außergewöhnliche 2-Zimmer-Wohnung mit Wintergarten - provisionsfrei,190.000 €,"Hauptstraße XXXX,
+79183 Waldkirch, Emmendingen (Kreis)",2,"69,66 m²",2.728 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung - provisionsfrei,95.000 €,"Tüfinger Straße XXXX,
+88690 Uhldingen-Mühlhofen, Bodenseekreis",2,1 m²,95.000 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kurzfristig bezugsfertig! 2-Zimmer-Wohnung im 1. Obergeschoss mit Loggia.,395.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",2,67 m²,5.896 €/m²,Etagenwohnung,nil,sofort,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Terrassen- und Gartenfläche - provisionsfrei,444.000 €,"Koboldweg XXXX,
+Möhringen-Süd, 70567 Stuttgart",3,78 m²,5.692 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"4-Zimmer-Wohnung, Terrasse und Garage",325.000 €,"Schelmenstraße XXXX,
+östliche Bahnlinie, 73431 Aalen",4,134 m²,2.425 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sonderwunsch-Variante der Wohnung 108/109! 4 -Zimmer-Wohnung mit 2 Bädern und 2 Balkonen,765.000 €,"Merlotweg 3+5,
+71404 Korb, Rems-Murr-Kreis",4,"118,62 m²",6.449 €/m²,Etagenwohnung,nil,sofort,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Individuelle 3-Zimmer-Wohnung mit 2 Pkw-Stellplätzen - provisionsfrei,195.000 €,"Sudetenstraße XXXX,
+72654 Neckartenzlingen, Esslingen (Kreis)",3,76 m²,2.566 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliche 1-Zimmer-Wohnung ++ Ohne Provision ++,141.000 €,"Scheffelstraße XXXX,
+Weststadt, 76135 Karlsruhe",1,"46,76 m²",3.015 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Einfamilienhaus, Garage, 2 Stellplätze",414.000 €,"Uferweg xxxx,
+67821 Alsenz, Donnersbergkreis",6,"172,54 m²",919 m²,2.399 €/m²,Wohnimmobilie (sonstige),"154,45 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus und Garage + provisionsfrei +,636.000 €,"Nicetiusstraße xxxx,
+Irsch, 54296 Trier",1,1 m²,441 m²,636.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus,367.800 €,"Butzweiler Straße xxxx,
+54306 Kordel, Trier-Saarburg (Kreis)",1,1 m²,803 m²,367.800 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wochenend-/Ferienhaus + provisionsfrei +,68.000 €,"Weierwäldchen xxxx,
+56357 Bogel, Rhein-Lahn-Kreis",5,72 m²,647 m²,944 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn-/Geschäftshaus mit Garage +,241.000 €,"Kreuznacher Straße xxxx,
+67806 Rockenhausen, Donnersbergkreis",1,"84,87 m²",168 m²,2.840 €/m²,Wohnimmobilie (sonstige),"94,37 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Mehrfamilienhaus, Gartenland",37.032 €,"Wiedmühle xxxx,
+53577 Neustadt (Wied), Neuwied (Kreis)",1,1 m²,2.214 m²,37.032 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Terrasse und Garten + provisionsfrei +,310.000 €,"Hauptstraße xxxx,
+67725 Börrstadt, Donnersbergkreis",5,140 m²,648 m²,2.214 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+++ Freistehendes Einfamilienhaus mit Terrasse und Stellplatz ++,236.000 €,"Friedenstraße xxxx,
+53560 Vettelschoß, Neuwied (Kreis)",5,135 m²,1.337 m²,1.748 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Ältere Hofstelle - Einfamilienhaus, Scheune, Nebengebäude",222.000 €,"Rheinstraße xxxx,
+55276 Dienheim, Mainz-Bingen (Kreis)",1,"116,82 m²",711 m²,1.900 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Heimwerker aufgepasst + Wohnhaus im Rohbau +,134.200 €,"Naheweinstraße xxxx,
+55585 Duchroth, Bad Kreuznach (Kreis)",1,175 m²,1.077 m²,767 €/m²,Wohnimmobilie (sonstige),200 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlage + Mehrfamilienhaus, 2 Garagen +",871.800 €,"Zuckerbergstraße xxxx,
+Mitte/Gartenfeld, 54290 Trier",12,"337,37 m²",1.154 m²,2.584 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus,92.600 €,"Mühlenstraße xxxx,
+54456 Tawern, Trier-Saarburg (Kreis)",1,1 m²,116 m²,92.600 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Historisches Anwesen - 2 Wohnhäuser, Garagen",288.000 €,"Hauptstraße xxxx,
+67149 Meckenheim, Bad Dürkheim (Kreis)",1,292 m²,900 m²,986 €/m²,Wohnimmobilie (sonstige),"214,5 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Mehrfamilienhaus mit 5 Wohnungen +,531.100 €,"Wingertstraße xxxx,
+Kernstadt, 67227 Frankenthal (Pfalz)",10,"238,82 m²",230 m²,2.224 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Doppelgarage - provisionsfrei,138.000 €,"Deutschherrnstraße xxxx,
+Hohenecken, 67661 Kaiserslautern",1,97 m²,462 m²,1.423 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus - provisionsfrei,130.100 €,"Talweg xxxx,
+57612 Helmenzen, Altenkirchen (Westerwald) (Kreis)",1,195 m²,2.272 m²,667 €/m²,Wohnimmobilie (sonstige),95 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Provisionsfrei + Sehr großes Einfamilienhaus mit Einliegerwohnung +,950.000 €,"Steinbacher Äcker xxxx,
+67685 Eulenbis, Kaiserslautern (Kreis)",1,537 m²,730 m²,1.769 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, Terrasse, Garage, Stellplatz",531.000 €,"Vor dem Sandgraben xxxx,
+55278 Selzen, Mainz-Bingen (Kreis)",6,134 m²,527 m²,3.963 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + provisionsfrei +,238.000 €,"Kaiserstraße xxxx,
+67727 Lohnsfeld, Donnersbergkreis",1,179 m²,1.076 m²,1.330 €/m²,Wohnimmobilie (sonstige),127 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Wohnhaus, Garten, Carport",302.000 €,"Hauptstraße xxxx,
+53506 Hönningen, Ahrweiler (Kreis)",5,200 m²,1.217 m²,1.510 €/m²,Wohnimmobilie (sonstige),283 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

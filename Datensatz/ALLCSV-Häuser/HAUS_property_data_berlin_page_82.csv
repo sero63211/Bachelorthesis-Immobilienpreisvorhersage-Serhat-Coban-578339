@@ -1,0 +1,17 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Neues Reihenhaus,875.000 €,"Lichtenrade, 12305 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,175 m²,350 m²,5.000 €/m²,Reihenmittelhaus,40 m²,ab sofort,5,1,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit Keller und großem Garten,739.000 €,"Wilhelm-Marquordt-Straße 29,
+14547 Beelitz, Potsdam-Mittelmark (Kreis)",5,"133,56 m²",660 m²,5.533 €/m²,Einfamilienhaus (freistehend),"72,25 m²",Ab Sommer 2025,4,2,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Schönes Reihenendhaus in Südwestausrichtung,559.000 €,"Narzissenweg 27,
+14547 Beelitz, Potsdam-Mittelmark (Kreis)","4,5","129,58 m²",275 m²,4.314 €/m²,Reiheneckhaus,nil,Ab Sommer 2025,3,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmantes Reihenendhaus mit Keller und Wintergarten,529.000 €,"An den Brunnen 8,
+14547 Beelitz, Potsdam-Mittelmark (Kreis)",4,"109,46 m²",227 m²,4.833 €/m²,Reiheneckhaus,"55,32 m²",Ab Sommer 2025,3,1,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Reihenendhaus mit Südterrasse und eigenem Garten,575.000 €,"Narzissenweg 9,
+14547 Beelitz, Potsdam-Mittelmark (Kreis)","4,5","129,1 m²",312 m²,4.454 €/m²,Reiheneckhaus,nil,Ab Sommer 2025,3,1,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus auf großem Sonnengrundstück,689.000 €,"Wilhelm-Marquordt-Straße 25,
+14547 Beelitz, Potsdam-Mittelmark (Kreis)",4,"131,15 m²",628 m²,5.254 €/m²,Einfamilienhaus (freistehend),nil,Ab Sommer 2025,3,2,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Geräumiges Einfamilienhaus mit schönem Grundriss,729.000 €,"Wilhelm-Marquordt-Straße 10,
+14547 Beelitz, Potsdam-Mittelmark (Kreis)",5,"147,65 m²",688 m²,4.937 €/m²,Einfamilienhaus (freistehend),nil,Ab Sommer 2025,4,2,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit viel Platz für die ganze Familie,689.000 €,"Wilhelm-Marquordt-Straße 31,
+14547 Beelitz, Potsdam-Mittelmark (Kreis)",5,"137,55 m²",522 m²,5.009 €/m²,Einfamilienhaus (freistehend),nil,Ab Sommer 2025,4,2,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

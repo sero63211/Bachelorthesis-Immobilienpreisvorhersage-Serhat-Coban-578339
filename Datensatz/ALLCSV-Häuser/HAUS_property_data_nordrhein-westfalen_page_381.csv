@@ -1,0 +1,127 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Mal was Anderes gefällig?,699.000 €,"53797 Lohmar, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,185 m²,636 m²,3.778 €/m²,Wohnimmobilie (sonstige),nil,nil,3,2,3 Carports,"3,57 % inkl. 19 % MwSt. vom notariellen Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+"Klein, aber mein!",249.000 €,"47652 Weeze, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,262 m²,2.767 €/m²,Einfamilienhaus (freistehend),15 m²,Vereinbarung,nil,nil,1 Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+*Provisonsfrei* Modernes Einfamilienhaus in Xanten mit gehobener Ausstattung,600.000 €,"Am Heeser Wald 3,
+46509 Xanten, Wesel (Kreis)","5,5",150 m²,530 m²,4.000 €/m²,Einfamilienhaus (freistehend),nil,1.7.2024,4,2,3 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Flexible Nutzung: Gepflegter Bungalow mit großer Terrasse in Duisburg-Untermeiderich,95.000 €,"Untermeiderich, 47137 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,61 m²,654 m²,1.557 €/m²,Bungalow,nil,nach Absprache,1,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-vermietet-label': ''}"
+Ebenerdiges Wohnen in Senden,369.000 €,"48308 Senden, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,111 m²,450 m²,3.324 €/m²,Bungalow,nil,nil,3,1,nil,"2,975inkl. MwSt",{'is24qa-keller-label': ''}
+Freistehendes Okal-Fertighaus in bevorzugter Lage von Meckenheim,345.000 €,"53340 Meckenheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"152,57 m²",620 m²,2.261 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"3,57% des Kaufpreises inkl. MwSt.",{}
+Neunkirchen - SEELSCHEID: Wohn- und Geschäftshaus in bester Lage mit Erweiterungsoption!,990.000 €,"53819 Neunkirchen-Seelscheid, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,252 m²,474 m²,3.929 €/m²,nil,nil,Nach Vereinbarung,nil,nil,nil,"3,57 % inkl. gesetzl. MwSt.",{'is24qa-keller-label': ''}
+Elten: Charmantes Einfamilienhaus in ruhiger Sackgassenlage mit Garage und Untergeschoss,395.000 €,"46446 Emmerich am Rhein, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,121 m²,574 m²,3.264 €/m²,Einfamilienhaus (freistehend),35 m²,nil,3,1,Garage,"2,38% vom Kaufpreis (inkl. MwSt.)","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+""" RESERVIERT "" Ihr neues zu Hause .. für kleines Geld !!",187.000 €,"32584 Löhne, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"140,16 m²",503 m²,1.334 €/m²,Einfamilienhaus (freistehend),"87,55 m²",Nach Vereinbarung,4,2,1 Garage,"3,57 % inkl. 19 % Mehrwertsteuer",{'is24qa-keller-label': ''}
++++Freistehendes Einfamilienhaus in sehr guter Lage von Tönisvorst +++,368.000 €,"47918 Tönisvorst, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,128 m²,587 m²,2.875 €/m²,Einfamilienhaus (freistehend),78 m²,sofort,4,1,2 Garagen,"2,98 % inkl 19 % MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Viel Platz in ruhiger Lage,299.000 €,"59192 Bergkamen, Unna (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,102 m²,316 m²,2.931 €/m²,Doppelhaushälfte,"41,66 m²",nil,3,2,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Reihenendhaus im Rittercarré,689.000 €,"Ritterstraße 42,
+Mittelmeiderich, 47137 Duisburg","5,5","160,88 m²",248 m²,4.283 €/m²,Reiheneckhaus,nil,sofort,4,2,1 Außenstellplatz,"3,57%",{'is24qa-gaeste-wc-label': ''}
+Gepflegtes Mehrfamilienhaus mit Gewerbe -Anlageobjekt-,949.000 €,"Hochstrasse 47+49,
+Wattenscheid-Mitte, 44866 Bochum",33,1.178 m²,1.144 m²,806 €/m²,Mehrfamilienhaus,1.178 m²,sofort,nil,nil,4 Außenstellplätze,"4,76%","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Waldnahes Wohnen in 195 m² Villa verwirklichen,545.000 €,"41540 Dormagen, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"140,29 m²",871 m²,3.885 €/m²,Einfamilienhaus (freistehend),nil,sofort,2,1,2 Garagen,"3,57%",{'is24qa-keller-label': ''}
+Historisches Anwesen mit zeitlosem Charme in Blankenheim - Lommersdorf!,215.000 €,"53945 Blankenheim, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"268,8 m²",1.228 m²,800 €/m²,Einfamilienhaus (freistehend),"243,6 m²",nil,5,2,1 Garage,"3,57%",{'is24qa-keller-label': ''}
+Klimafreundliches Reihenendhaus mit KfW–40–NH (QNG zertifiziert) – Nachhaltiges Wohnen,479.900 €,"Mengede (Ortsteil), 44359 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",121 m²,232 m²,3.966 €/m²,Reiheneckhaus,nil,Fertigstellung 2025,3,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Klimafreundliches Wohngebäude mit KfW–40–NH (QNG zertifiziert) – Nachhaltiges Wohnen,449.900 €,"Mengede (Ortsteil), 44359 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",121 m²,159 m²,3.718 €/m²,Reihenmittelhaus,nil,Fertigstellung 2025,3,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Klimafreundliches Reihenendhaus mit KfW–40–NH (QNG zertifiziert) – Nachhaltiges Wohnen,529.900 €,"Mengede (Ortsteil), 44359 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",143 m²,266 m²,3.706 €/m²,Reiheneckhaus,nil,Fertigstellung 2025,4,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Klimafreundliches Reihenmittelhaus mit KfW–40–NH (QNG zertifiziert),499.900 €,"Mengede (Ortsteil), 44359 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",143 m²,169 m²,3.496 €/m²,Reihenmittelhaus,nil,Fertigstellung 2025,4,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Stadtteil Mengede im Nordwesten Dortmunds | Energieeffizientes Reihenendhaus,429.900 €,"Mengede (Ortsteil), 44359 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",121 m²,232 m²,3.553 €/m²,Reiheneckhaus,nil,Fertigstellung 2025,3,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Stadtteil Mengede im Nordwesten Dortmunds | Neubau von familienfreundlichen Häusern,399.900 €,"Mengede (Ortsteil), 44359 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",121 m²,159 m²,3.305 €/m²,Reihenmittelhaus,nil,Fertigstellung 2025,3,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Stadtteil Mengede im Nordwesten Dortmunds| Energieeffizienter und familienfreundlicher Neubau,479.900 €,"Mengede (Ortsteil), 44359 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",143 m²,266 m²,3.356 €/m²,Reiheneckhaus,nil,Fertigstellung 2025,4,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Dortmund-Mengede | Energieeffizienter und familienfreundlicher Neubau,449.900 €,"Mengede (Ortsteil), 44359 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",143 m²,169 m²,3.146 €/m²,Reihenmittelhaus,nil,Fertigstellung 2025,4,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52382 Niederzier, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+BAU-INFOTAG am 23.06 - Ihr Stück vom Glück! Neubau-Doppelhaushälfte in Holzwickede,632.720 €,"Sommerfliederweg 78,
+59439 Holzwickede, Unna (Kreis)",5,142 m²,532 m²,4.456 €/m²,Doppelhaushälfte,49 m²,Dezember 2024,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+BAU-INFOTAG am 23.06 - Hier trifft Bauqualität auf Wohnkomfort - Doppelhaushälfte in Holzwickede,612.720 €,"Sommerfliederweg 78,
+59439 Holzwickede, Unna (Kreis)",5,142 m²,413 m²,4.315 €/m²,Doppelhaushälfte,49 m²,Dezember 2024,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kurzfristig bezugsfertig! - Sichern Sie sich jetzt das letzte Haus dieses Typs!,547.340 €,"Sommerfliederweg 78,
+59439 Holzwickede, Unna (Kreis)",5,140 m²,271 m²,3.910 €/m²,Doppelhaushälfte,"44,94 m²",Frühjahr 2024,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen. Leben. Wohlfühlen! Vollunterkellertes KfW 40 Effizienzhaus,594.293 €,"Bonnstraße 198j,
+50321 Brühl, Rhein-Erft-Kreis",5,120 m²,302 m²,4.952 €/m²,Reiheneckhaus,45 m²,Frühjahr 2026,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sichern Sie sich die KfW Effizienzhaus 40 Förderung mit QNG-Zertifizierung,569.586 €,"Bonnstraße 198k,
+50321 Brühl, Rhein-Erft-Kreis",5,120 m²,299 m²,4.747 €/m²,Reiheneckhaus,5 m²,nil,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen. Leben. Wohlfühlen! Im KfW 40 Effizienzhaus,536.223 €,"Bonnstraße 198l,
+50321 Brühl, Rhein-Erft-Kreis",5,126 m²,208 m²,4.256 €/m²,Reihenmittelhaus,5 m²,Ende 2025,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen auf der Sonnenseite - Energieeffizient mit Westausrichtung,572.242 €,"Bonnstraße 198m,
+50321 Brühl, Rhein-Erft-Kreis",5,120 m²,323 m²,4.769 €/m²,Reiheneckhaus,5 m²,nil,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Lage, Raumwunder für die ganze Familie",735.000 €,"Rheydter Straße 176 c,
+41352 Korschenbroich, Neuss (Rhein-Kreis)",5,189 m²,297 m²,3.889 €/m²,Reihenmittelhaus,nil,nil,4,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sonnige Aussichten - modernes Wohnen im familienfreundlichen Korschenbroich,729.000 €,"Rheydter Straße 176c,
+41352 Korschenbroich, Neuss (Rhein-Kreis)",5,180 m²,284 m²,4.050 €/m²,Reiheneckhaus,nil,nil,4,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen. Leben. Wohlfühlen!,772.000 €,"Rheydter Straße 180,
+41352 Korschenbroich, Neuss (Rhein-Kreis)",6,208 m²,346 m²,3.712 €/m²,Doppelhaushälfte,nil,Frühjahr 2026,5,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52399 Merzenich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52388 Nörvenich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52391 Vettweiß, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52372 Kreuzau, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52385 Nideggen, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52396 Heimbach, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"Niederau/Krauthausen, 52355 Düren
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52152 Simmerath, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"Laurensberg (Statistischer Bezirk), 52072 Aachen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52159 Roetgen, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52459 Inden, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"Echtz-Konzendorf, 52353 Düren
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52379 Langerwehe, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52393 Hürtgenwald, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52445 Titz, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52445 Titz, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52441 Linnich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52428 Jülich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52428 Jülich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52457 Aldenhoven, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52156 Monschau, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52134 Herzogenrath, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52499 Baesweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52146 Würselen, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+****Was darf es für Sie sein? Ihr Traumhaus nach Maß!****,Auf Anfrage,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,140 m²,412 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Wenn aus träumen wohnen wird!,459.900 €,"52457 Aldenhoven, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,369 m²,4.339 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Design - Traumhaus ganz individuell,381.900 €,"52223 Stolberg (Rheinland), Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,0 m²,2.829 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Altersgerechtes Wohnen? Mit uns ein Klacks!,488.900 €,"52222 Stolberg (Rheinland), Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,347 m²,4.612 €/m²,Bungalow,nil,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartige Stadtvilla - Bauen Sie Ihr Traumhaus!,499.000 €,"52223 Stolberg (Rheinland), Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,124 m²,357 m²,4.024 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

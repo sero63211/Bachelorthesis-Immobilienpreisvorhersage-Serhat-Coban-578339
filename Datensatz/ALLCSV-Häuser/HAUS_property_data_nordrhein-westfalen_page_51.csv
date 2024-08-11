@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Doppelhaushälfte, Garten, Garage",360.000 €,"Gustav-Bohm-Straße XX,
+58256 Ennepetal, Ennepe-Ruhr-Kreis",5,140 m²,412 m²,2.571 €/m²,Wohnimmobilie (sonstige),140 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, Doppelgarage + provisionsfrei +",255.000 €,"Weberstraße XX,
+59757 Arnsberg, Hochsauerlandkreis",6,1 m²,2.260 m²,255.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Platz für alle - Großes Wohnhaus, Doppelgarage, Carport",303.000 €,"Schwarzenbrinker Straße XX,
+32758 Detmold, Lippe (Kreis)",6,198 m²,13.001 m²,1.530 €/m²,Wohnimmobilie (sonstige),180 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Mehrfamilienhaus mit 8 Wohnungen +,263.000 €,"Koopmanns Hude XX,
+Altenessen-Süd, 45326 Essen",1,245 m²,246 m²,1.073 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage + provisionsfrei +,264.000 €,"Am Buchenhang XX,
+Langenberg, 42555 Velbert",1,118 m²,326 m²,2.237 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn-/Geschäftshaus +,115.500 €,"Gänsemarkt XX,
+Lennep Altstadt, 42897 Remscheid",1,598 m²,912 m²,193 €/m²,Wohnimmobilie (sonstige),318 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Wohn- und Geschäftshaus (7 Wohnungen, Büro)",301.000 €,"Freiheitstraße XX,
+Stachelhausen, 42853 Remscheid",1,"401,18 m²",310 m²,750 €/m²,Wohnimmobilie (sonstige),69 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, Garten, Garage",276.000 €,"Wacholderweg XX,
+53945 Blankenheim, Euskirchen (Kreis)",5,134 m²,700 m²,2.060 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn-/Geschäftshaus + Kapitalanlage +,2.583.000 €,"Teichstraße XX,
+Pluggendorf, 48151 Münster",1,730 m²,392 m²,3.538 €/m²,Wohnimmobilie (sonstige),106 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus nebst Wohnhausanbau,686.000 €,"Gartenstraße XX,
+52445 Titz, Düren (Kreis)",1,324 m²,2.435 m²,2.117 €/m²,Wohnimmobilie (sonstige),173 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Mehrfamilienhaus mit 3 Wohnungen +,298.000 €,"Steinhauser Bergstraße XX,
+Langerfeld-Beyenburg, 42389 Wuppertal",8,375 m²,770 m²,795 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familien-Doppelhaushälfte,140.000 €,"Schützenstraße XX,
+59229 Ahlen, Warendorf (Kreis)",8,"122,82 m²",375 m²,1.140 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + ohne Provision +,310.000 €,"Eiler Straße XX,
+Rath/Heumar, 51107 Köln",1,110 m²,191 m²,2.818 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Reihenendhaus,640.000 €,"Ruhrstraße XX,
+40822 Mettmann, Mettmann (Kreis)",6,"170,11 m²",844 m²,3.762 €/m²,Wohnimmobilie (sonstige),"55,62 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus nebst Terrasse und Garage in guter Lage,460.000 €,"Essener Straße XX,
+45529 Hattingen, Ennepe-Ruhr-Kreis",5,219 m²,390 m²,2.100 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Reihenmittelhaus nebst Garage,305.000 €,"Am Vogelspott XX,
+Weitmar-Mitte, 44795 Bochum",4,101 m²,211 m²,3.020 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit 2 Garagen,198.000 €,"Kiefernstraße XX,
+49497 Mettingen, Steinfurt (Kreis)",6,"106,26 m²",1.749 m²,1.863 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Einliegerwohnung und Garagen,373.000 €,"Frankenstraße XX,
+50374 Erftstadt, Rhein-Erft-Kreis",6,"207,15 m²",744 m²,1.801 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus und Garage + provisionsfrei +,569.000 €,"Am Elschatt XX,
+46359 Heiden, Borken (Kreis)",1,179 m²,809 m²,3.179 €/m²,Wohnimmobilie (sonstige),35 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, Garten, Garage",446.000 €,"Kreuzbrüderstraße XX,
+50259 Pulheim, Rhein-Erft-Kreis",6,"121,37 m²",733 m²,3.675 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

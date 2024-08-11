@@ -1,0 +1,53 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2x 3-Zimmerwhg mit Holzboden + liebevoll angelegtem Garten,440.000 €,"08289 Schneeberg, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,149 m²,2.953 €/m²,nil,nil,nil,nil,nil,nil,"2,38 %",{}
+3 Zimmer-Wohnung am Park,395.000 €,"04416 Markkleeberg, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,4.938 €/m²,Etagenwohnung,12 m²,7/2023,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Maisonette Wohnung (WE8) mit Balkon in zentraler Top-Lage in Ismaning,840.360 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",3,"89,4 m²",9.400 €/m²,nil,nil,Sommer/Herbst 2025,1,1,1 Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2,5-Zimmer-Wohnung mit Garage",79.000 €,"01917 Kamenz, Bautzen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"46,02 m²",1.717 €/m²,Etagenwohnung,50 m²,nil,2,1,1 Garage,"3,57 % auf den Kaufpreis","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gepflegte Eigentumswohnungen,82.500 €,"Dobenau, 08523 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,1.375 €/m²,nil,nil,nil,nil,1,Außenstellplatz,"4,76 % vom Kaufpreis inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+3-Zimmer-Maisonette Wohnung (WE6) mit Balkon in zentraler Top-Lage in Ismaning,840.360 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",3,"89,4 m²",9.400 €/m²,Maisonette,nil,Sommer/Herbst 2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Helle, gemütliche 2-Zimmer-Wohnung in ruhiger Lage",33.000 €,"08451 Crimmitschau, Zwickau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,45 m²,733 €/m²,nil,nil,nil,nil,nil,nil,3570 Euro,{}
+Attraktive vermietete 3-Zimmer-Wohnung,69.000 €,"08606 Oelsnitz/Vogtland, Vogtlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,76 m²,908 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,"3,57 %",{}
+Bezugsfreie 2-Zimmer-ETW im DG mit Dusche in Plauen,29.000 €,"Hofer Vorstadt, 08527 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"46,1 m²",629 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,"3.570,- € inkl. 19 % Mwst.",{'is24qa-keller-label': ''}
+Eigentumswohnung zu verkaufen,229.585 €,"09392 Auerbach, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,46 m²,4.991 €/m²,nil,nil,nil,nil,nil,nil,"2,38 %",{}
+Traumwohnung mit Weitblick über den Dächern von Chemnitz,275.000 €,"Sonnenberg, 09130 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",109 m²,2.523 €/m²,Dachgeschoss,140 m²,nach Vereinbarung,3,1,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Maisonette Wohnung (WE7) mit Balkon in zentraler Top-Lage in Ismaning,840.360 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",3,"89,4 m²",9.400 €/m²,Maisonette,nil,Sommer/Herbst 2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zentrumsnahe Eigentumswohnung,44.500 €,"Bahnhofsvorstadt, 08525 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,46 m²,967 €/m²,nil,nil,nil,nil,1,Außenstellplatz,"2.975,- Euro inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Bezahlbare Traumwohnung.hell freundlich lichtdurchflutet,48.500 €,"Eugen-Fritsch-Str. 46,
+Bahnhofsvorstadt, 08523 Plauen",2,55 m²,882 €/m²,Etagenwohnung,10 m²,nil,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+vermietete 3-Raum-Eigentumswohnung,160.000 €,"01705 Freital, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"76,19 m²",2.100 €/m²,Etagenwohnung,nil,vermietet,2,1,nil,"4,76 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+4-Zimmer-Erdgeschoss Wohnung (WE10) mit Gartenanteil in zentraler Top-Lage in Ismaning,913.440 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",4,"95,15 m²",9.600 €/m²,Erdgeschosswohnung,nil,Sommer/Herbst 2025,3,2,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Erdgeschoss Wohnung (WE2) mit Gartenanteil in zentraler Top-Lage in Ismaning,636.480 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",2,"66,3 m²",9.600 €/m²,Erdgeschosswohnung,nil,Sommer/Herbst 2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wundervolles Renditeobjekt mit zuverlässigen Mieterin,42.000 €,"08393 Meerane, Zwickau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,54 m²,778 €/m²,nil,nil,nil,nil,nil,nil,3570 Euro,{}
+4-Zimmer-Erdgeschoss Wohnung (WE9) mit Gartenanteil in zentraler Top-Lage in Ismaning,913.440 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",4,"95,15 m²",9.600 €/m²,Erdgeschosswohnung,nil,Sommer/Herbst 2025,3,2,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Maisonette Wohnung (WE5) mit Balkon in zentraler Top-Lage in Ismaning,840.360 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",3,"89,4 m²",9.400 €/m²,Maisonette,nil,Sommer/Herbst 2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+modernisierte 2-Zimmer Wohnung,80.000 €,"Mitte-West, 08056 Zwickau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,45 m²,1.778 €/m²,nil,nil,nil,nil,nil,nil,"2,38 %",{}
+2-Zimmer-Erdgeschoss Wohnung (WE3) mit Gartenanteil in zentraler Top-Lage in Ismaning,636.480 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",2,"66,3 m²",9.600 €/m²,Erdgeschosswohnung,"66,3 m²",Sommer/Herbst 2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Erdgeschoss Wohnung (WE1) mit Gartenanteil in zentraler Top-Lage in Ismaning,636.480 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",2,"66,3 m²",9.600 €/m²,Erdgeschosswohnung,nil,Sommer/Herbst 2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Erdgeschoss Wohnung (WE4) mit Gartenanteil in zentraler Top-Lage in Ismaning,636.480 €,"Schloßfeldstr. 39,
+85737 Ismaning, München (Kreis)",2,"66,3 m²",9.600 €/m²,Erdgeschosswohnung,nil,Sommer/Herbst 2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gemütliches 1,5- Zimmer- Apartment mit Loggia und Garten",213.000 €,"Grillparzer Straße 9,
+Cotta (Stadtteil), 01157 Dresden","1,5","40,73 m²",5.230 €/m²,Erdgeschosswohnung,"40,73 m²",31.12.2023,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Lichtdurchflutete 4-Zi.-Wohnung mit Masterbereich und zwei Loggien inmitten der Maxvorstadt,4.295.000 €,"Türkenstraße 50,
+Universität, 80799 München",4,"166,3 m²",25.827 €/m²,Etagenwohnung,"178,85 m²",nil,3,3,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

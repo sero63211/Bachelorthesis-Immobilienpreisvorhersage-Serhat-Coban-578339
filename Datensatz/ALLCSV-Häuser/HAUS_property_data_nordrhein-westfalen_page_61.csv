@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus + provisionsfrei +,58.000 €,"Bogengasse XX,
+51588 Nümbrecht, Oberbergischer Kreis",1,124 m²,298 m²,468 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einseitig angebautes Einfamilienhaus, Garten, 2 Garagen",380.000 €,"Am Emberg XX,
+Höhenhaus, 51061 Köln",5,98 m²,319 m²,3.878 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Sechsfamilienhaus +,599.000 €,"Bogenstraße XX,
+50389 Wesseling, Rhein-Erft-Kreis",1,"381,04 m²",750 m²,1.572 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage ++ Mehrfamilienhaus mit 4 Wohnungen ++,150.000 €,"Knappenstraße XX,
+52457 Aldenhoven, Düren (Kreis)",8,173 m²,477 m²,867 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Vierfamilienhaus, Garten, 12 Stellplätze",842.000 €,"Gohrer Straße XX,
+Weckhoven, 41466 Neuss",1,164 m²,1.195 m²,5.134 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte + provisionsfrei +,315.000 €,"Heimstättenweg XX,
+32052 Herford, Herford (Kreis)",5,106 m²,889 m²,2.972 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garten,300.000 €,"Brudtlachstraße XX,
+32052 Herford, Herford (Kreis)",4,201 m²,316 m²,1.493 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Platz für die ganze Familie + Großzügiges Einfamilienhaus mit Garten und Garage +,2.140.000 €,"Bayenthalgürtel XX,
+Marienburg, 50968 Köln",7,211 m²,392 m²,10.142 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage ++ Mehrfamilienhaus mit 4 Wohnungen ++,180.000 €,"Knappenstraße XX,
+52457 Aldenhoven, Düren (Kreis)",8,173 m²,1.006 m²,1.040 €/m²,Wohnimmobilie (sonstige),80 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Platz für alle + Großzügiges Einfamilienhaus, Garten, Garage, Stellplätze +",745.000 €,"Pützgasse XX,
+53913 Swisttal, Rhein-Sieg-Kreis",6,"250,98 m²",12.688 m²,2.968 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlage + Dreifamilienhaus, Garten, Garage +",191.000 €,"Hansastraße XX,
+37671 Höxter, Höxter (Kreis)",11,228 m²,96 m²,838 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2 Bungalows, Geschäftshaus und Doppelgarage ++ provisionsfrei ++",3.120.000 €,"Massener Straße XX,
+59423 Unna, Unna (Kreis)",8,306 m²,4.650 m²,10.196 €/m²,Wohnimmobilie (sonstige),1.965 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilien-Bungalow als Kapitalanlage auf großem Grundstück,635.000 €,"Küppersteg, 51373 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,185 m²,940 m²,3.432 €/m²,Mehrfamilienhaus,nil,nil,4,3,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wohnhaus mit Einlieger im Anbau, Garten, Garage",176.000 €,"An der Bahn XX,
+32457 Porta Westfalica, Minden-Lübbecke (Kreis)",3,3 m²,957 m²,58.667 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlage + Dreifamilienhaus, Garage, Garten +",212.000 €,"Wittekindsallee XX,
+Innenstadt, 32423 Minden",9,200 m²,451 m²,1.060 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Einlieger und Doppelgarage,180.000 €,"Probst-Böckler-Straße XX,
+59581 Warstein, Soest (Kreis)",1,255 m²,1.092 m²,706 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familien-Doppelhaushälfte - provisionsfrei,117.000 €,"Ackerstraße XX,
+58762 Altena, Märkischer Kreis",8,286 m²,225 m²,409 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Garage ++ ohne Provision ++,279.000 €,"Hehler XX,
+41366 Schwalmtal, Viersen (Kreis)",8,207 m²,627 m²,1.348 €/m²,Wohnimmobilie (sonstige),114 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Mehrfamilienhaus mit 4 Wohnungen, Garage und Stellplätzen",480.000 €,"Am Heidchen XX,
+51570 Windeck, Rhein-Sieg-Kreis",12,488 m²,2.590 m²,984 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garten + provisionsfrei +,255.000 €,"Hauptstraße XX,
+52146 Würselen, Aachen (Kreis)",8,1.873 m²,722 m²,136 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

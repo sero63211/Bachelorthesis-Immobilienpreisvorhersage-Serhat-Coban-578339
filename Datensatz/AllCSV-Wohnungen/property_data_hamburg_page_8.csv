@@ -1,0 +1,55 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Charmante Altbauwohnung mit Dachterrasse in Top-Lage,773.000 €,"Eimsbüttel (Ortsteil), 20257 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,8.137 €/m²,nil,19 m²,nil,nil,1,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+2-Zimmer-Wohnung nebst Balkon mit Blick über die Hamburger Innenstadt,214.000 €,"Reeperbahn XXXX,
+St. Pauli, 20359 Hamburg",2,"42,52 m²",5.033 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1/2 Anteil an einer Wohnung,200.000 €,"Görlitzer Straße XXXX,
+Jenfeld, 22045 Hamburg",5,"117,42 m²",1.703 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Aufzug in die eigene Etage - 4 Zimmer mit Südblick,999.000 €,"Langfeld 16,
+Volksdorf, 22359 Hamburg",4,"134,36 m²",7.435 €/m²,Penthouse,nil,nil,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Luxuriöse Maisonette-Wohnung, A+ Haus mit Wärmepumpe, inkl. Marken-Einbauküche, barrierefrei!",1.795.000 €,"Osdorf, 22609 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"213,6 m²",8.404 €/m²,Maisonette,12 m²,nach Vereinbarung,4,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Strandhaus - 11. OG mit atemberaubenden Blick!,Auf Anfrage,"HafenCity, 20457 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"161,26 m²",nil,Etagenwohnung,nil,nil,2,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neuwertige Erdgeschosswohnung mit Terrasse - provisionsfrei,440.000 €,"Lohkampstraße XXXX,
+Eidelstedt, 22523 Hamburg",1,66 m²,6.667 €/m²,nil,"67,12 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhafte Penthousewohnung in beliebter Lage am Hagenbecks Tierpark,729.000 €,"Stellingen, 22527 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,108 m²,6.750 €/m²,Dachgeschoss,49 m²,sofort,2,1,2 Tiefgaragen-Stellplätze,"3,13% Käuferprovision inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Das könnte Ihr Blick auf Boberg sein,495.000 €,"Lohbrügge, 21033 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,113 m²,4.381 €/m²,Terrassenwohnung,20 m²,nach Absprache,2,1,1 Garage,"3,57 % inkl. gesetzl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Luxuriöse 5-Zimmer-Wohnung mit eigenem Garten und direktem Aufzug aus der Tiefgarage!,1.249.000 €,"Langfeld 12,
+Volksdorf, 22359 Hamburg",5,"160,92 m²",7.762 €/m²,Erdgeschosswohnung,nil,nil,4,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Rarität direkt an der Alster!,Auf Anfrage,"Winterhude, 22301 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,270 m²,nil,Etagenwohnung,nil,nil,nil,nil,3 Garagen,laut Info inkl. MwSt.,{}
+5-Zimmer-Wohnung mit Tiefgarage und traumhaftem Garten am Naturschutzgebiet!,1.249.000 €,"Langfeld 16,
+Volksdorf, 22359 Hamburg",5,"160,92 m²",7.762 €/m²,Erdgeschosswohnung,nil,nil,4,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 4-Zimmer-Wohnung mit Aufzug und Naturblick!,999.000 €,"Langfeld 14,
+Volksdorf, 22359 Hamburg",4,"134,36 m²",7.435 €/m²,Penthouse,nil,nil,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Von Privat: Hochwertige Eigentumswohnung am Schwanenwik,2.950.000 €,"Schwanenwik 35,
+Uhlenhorst, 22087 Hamburg",7,"199,5 m²",14.787 €/m²,Etagenwohnung,nil,nil,3,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmante Altbauwohnung mit Dachterrasse in Top-Lage,565.000 €,"Eimsbüttel (Ortsteil), 20257 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,71 m²,7.958 €/m²,nil,15 m²,nil,nil,1,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Großzügige 5-Zimmer-Wohnung mit Garten an einem Naturschutzgebiet und Komfort-Tiefgarage!,1.249.000 €,"Langfeld 14,
+Volksdorf, 22359 Hamburg",5,"160,02 m²",7.805 €/m²,Erdgeschosswohnung,nil,nil,4,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stilvolle 3-Zimmer-Wohnung mit Terrasse und Schwimmbad - provisionsfrei,1.700.000 €,"Feldbrunnenstraße XXXX,
+Rotherbaum, 20148 Hamburg",3,152 m²,11.184 €/m²,nil,120 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer mit Aufzug und bestem Naturblick,1.099.000 €,"Langfeld 18,
+Volksdorf, 22359 Hamburg",4,"134,36 m²",8.180 €/m²,Penthouse,nil,nil,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Natur und Komfort vereint: 5-Zimmer-Wohnung mit direktem Zugang zu Tiefgarage und idyllischem Garten,1.449.000 €,"Langfeld 18,
+Volksdorf, 22359 Hamburg",5,"156,96 m²",9.232 €/m²,Erdgeschosswohnung,nil,nil,4,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+5½-Zimmer-Wohnung mit 2 Balkone in gefragter Wohnlage - provisionsfrei,1.162.800 €,"Abendrothsweg XXXX,
+Hoheluft-Ost, 20251 Hamburg",5,171 m²,6.800 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"**Reserviert** 2-/3-Zimmer-Wohnung mit eigenem Garten im Grindelviertel, ohne Maklerprovision",489.000 €,"Rotherbaum, 20146 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,72 m²,6.792 €/m²,Souterrain,6 m²,nach Absprache,1,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon - Ohne Provision!,280.000 €,"Sillemstraße XXXX,
+Eimsbüttel (Ortsteil), 20257 Hamburg",3,"62,27 m²",4.497 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Loftwohnung mit 2 Terrassen - provisionsfrei,790.000 €,"Barmbeker Straße XXXX,
+Winterhude, 22303 Hamburg",2,112 m²,7.054 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Individuelle 3-Raumwohnung zwischen Stadtpark und Alster!,599.000 €,"Winterhude, 22299 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",79 m²,7.582 €/m²,Etagenwohnung,nil,nil,1,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Zwei attraktive 3-Zimmer-Eigentumswohnungen in Hamburg-Harburg,458.000 €,"Heimfeld, 21075 Hamburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,124 m²,3.694 €/m²,nil,nil,nil,nil,nil,nil,"3,57 % inkl. gesetzlicher Mehrwertsteuer aus dem notariell beurkundeten Kaufpreis.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Aufzug ins Obergeschoss und Blick in die Natur - 4 Zimmer Wohnung,999.000 €,"Langfeld 12,
+Volksdorf, 22359 Hamburg",4,"134,36 m²",7.435 €/m²,Penthouse,nil,nil,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 4-Zimmer-Wohnung mit 2 Terrassen ++ provisionsfrei ++,830.000 €,"Bussestraße XXXX,
+Winterhude, 22299 Hamburg",4,111 m²,7.477 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

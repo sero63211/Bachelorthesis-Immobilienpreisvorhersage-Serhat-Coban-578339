@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wunderschöne Eigentumswohnung in Bochum-Werne,215.000 €,"Rolandstr. 24,
+Werne, 44894 Bochum","4,5",92 m²,2.337 €/m²,Etagenwohnung,nil,nach Vereinbarung,3,1,1 Außenstellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Kapitalanlage im weißen Riesen, (5,4%er) zum Schnäppchenpreis!",187.000 €,"Am Berg Fidel 64,
+Berg Fidel, 48153 Münster",4,96 m²,1.948 €/m²,Etagenwohnung,96 m²,nil,3,2,1 Tiefgaragen-Stellplatz,"6675,90","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kaufen statt Mieten! Gemütliche 4-Zimmer-Dachgeschosswohnung in Sundern,119.000 €,"59846 Sundern (Sauerland), Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,87 m²,1.368 €/m²,Dachgeschoss,nil,nil,3,1,1 Stellplatz,"3,57% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Moderne und helle Wohnung in beliebter Lage von Lücklemberg,205.000 €,"Rombergpark-Lücklemberg, 44229 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"81,76 m²",2.507 €/m²,Etagenwohnung,nil,nach Vereinbarung,2,1,1 Garage,"2,38 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Charmante 3 Zimmer Wohnung mit Loggia,199.900 €,"Grengel, 51147 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"63,8 m²",3.133 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Großzügige 4-Zimmer-Wohnung in Köln-Weiden,360.000 €,"Weiden, 50858 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,119 m²,3.025 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,3 % inkl. ges. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Zentral und Geborgen: Herrliches Wohnen für Senioren in Gerresheim,485.000 €,"Gerresheim, 40625 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,68 m²,7.132 €/m²,nil,6 m²,01.05.2024,1,1,nil,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Barrierefreie 2-Zimmer-Wohnung - KfW 40 EE Klimawohnraum,187.000 €,"32479 Hille, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,53 m²,3.528 €/m²,Erdgeschosswohnung,6 m²,nil,1,1,nil,"2,38% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"Schön, praktisch, ruhig: 3-Zimmer-Eigentumswohnung am Rott",164.800 €,"Barmen, 42283 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"75,2 m²",2.191 €/m²,Etagenwohnung,5 m²,nach Vereinbarung,2,1,nil,"2,975 % Käuferprovision (inkl. 19 % Mwst.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Attraktive Maisonette Wohnung mit viel Platz für die ganze Familie.,489.000 €,"Wahnheide, 51147 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",155 m²,3.155 €/m²,Maisonette,40 m²,nil,4,2,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"""Genießen Sie die Freiheit: Bezugsfreie ETW in Essen Rellinghausen ab 01.08.2024""",199.000 €,"Bergerhausen, 45136 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,67 m²,2.970 €/m²,nil,nil,nil,2,1,nil,"3,57 % inkl. Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Klasse-Grundriss! Modernisiertes Wohnhaus!,165.000 €,"Sennestadt, 33689 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,2.012 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"3,57 % inkl. 19% MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Emmerich: Geräumige Obergeschosswohnung mit Balkon im Herzen von Emmerich,249.000 €,"46446 Emmerich am Rhein, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,139 m²,1.791 €/m²,Etagenwohnung,nil,nil,3,1,nil,"2,38% vom Kaufpreis (inkl. MwSt.)","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Wo Natur und Stadt harmonisch verschmelzen,280.000 €,"40668 Meerbusch, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,79 m²,3.544 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+großzügige Erdgeschosswohnung mit Garten,199.000 €,"Kaiserbrunnen, 44143 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"113,71 m²",1.750 €/m²,Erdgeschosswohnung,nil,nach Absprache,2,1,1 Garage,"3,57% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Attraktive 4-Zimmer-Wohnung mit Balkon zentral & im Grünen,349.000 €,"Holthausen, 40589 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,3.674 €/m²,Etagenwohnung,nil,Nach Absprache,2,1,Außenstellplatz,"2,97% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Luxusappartement in bester Lage,465.000 €,"Kirchhörde-Löttringhausen, 44229 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","90,4 m²",5.144 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Einmalige Chance! Moderne 1,5-Zimmer-Wohnung mit großer Terrasse + PKW-Stellplatz in Köln Marienburg",295.000 €,"Marienburg, 50968 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5","51,75 m²",5.700 €/m²,Erdgeschosswohnung,nil,nach Absprache,nil,1,1 Stellplatz,"3,57 % vom Kaufpreis inkl. 19% MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Traumhafte Eigentumswohnungen mit Blick auf den Hermann,595.000 €,"Grundstr. 5a,
+32760 Detmold, Lippe (Kreis)",5,"122,78 m²",4.846 €/m²,Penthouse,nil,sofort,3,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne trifft auf Altbaucharme - saniert - bezugsfrei- provisionsfrei,385.000 €,"Krefelder Wall 50,
+Neustadt/Nord, 50670 Köln",3,57 m²,6.754 €/m²,Dachgeschoss,nil,sofort,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

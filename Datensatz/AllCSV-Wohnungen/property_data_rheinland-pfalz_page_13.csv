@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wohnung im 3. OG - guter Zustand + provisionsfrei +,258.000 €,"Langendorfer Straße XXXX,
+56564 Neuwied, Neuwied (Kreis)",1,"82,45 m²",3.129 €/m²,nil,"4,64 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Balkon,186.000 €,"Ritterstraße XXXX,
+00000 Mutterstadt, Rhein-Pfalz-Kreis",3,"98,59 m²",1.887 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 ZKB Wohnung neben Dom und Jugendherberge (vermietet als 1ZKB ohne Nutzung des zusätzlichen Raumes),99.000 €,"Stadtzentrum, 67547 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,47 m²,2.106 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 % inkl. gesetzl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+**exklusive Eigentumswohnung mit Garage und Balkon in Aussichtslage von Betzdorf**,259.000 €,"57518 Betzdorf, Altenkirchen (Westerwald) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"123,51 m²",2.097 €/m²,Dachgeschoss,nil,nil,1,1,nil,"3,57% des Kaufpreises inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Küche nach Wahl * bezaubernde Altbauwohnung inclusive !,373.000 €,"55411 Bingen am Rhein, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,93 m²,4.011 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"2,975 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Charmante Eigentumswohnung in Worms-Neuhausen!,98.000 €,"Neuhausen, 67549 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,33 m²,2.970 €/m²,Etagenwohnung,nil,nach Absprache,nil,1,nil,"3,57 % inkl. gesetzl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+"Moderne Eigentumswohnung in der Nähe der Innenstadt und des ""Wäldchens"", 2010 renoviert (360° Tour)",225.000 €,"Innenstadt Süd, 67547 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,2.616 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Großzügige 2-Zimmer-Wohnung mit Loggia und Stellplatz,122.000 €,"Yorckstraße XXXX,
+Süd, 67061 Ludwigshafen am Rhein",2,"85,3 m²",1.430 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Behindertengerechte 2-Zimmer-Wohnung, Terrasse und 2 Stellplätze",213.000 €,"Albert-Haueisen-Ring XXXX,
+Oggersheim, 67071 Ludwigshafen am Rhein",2,66 m²,3.227 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen im historischen Stadtkern,249.000 €,"Kernstadt, 67346 Speyer
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"72,51 m²",3.434 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+Lichtdurchflutete Wohnung mit Balkon und praktischer Raumaufteilung in zentraler Lage von Worms,240.000 €,"Stadtzentrum, 67547 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,2.791 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Hübsche Dachgeschosswohnung mit 2 Balkonen,159.000 €,"55411 Bingen am Rhein, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,69 m²,2.304 €/m²,Dachgeschoss,nil,01.08.2024,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Modernes Wohnen in begehrter Lage,275.000 €,"67354 Römerberg, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,72 m²,3.819 €/m²,Dachgeschoss,10 m²,sofort,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Penthouse-Wohnung nebst 2 Stellplätzen in sehr gutem Zustand,513.000 €,"Berliner Straße XXXX,
+Kaiserslautern-West, 67659 Kaiserslautern",1,1 m²,513.000 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Schön sanierte Etagenwohnung mit Balkon in KO auf der Pfaffendorfer Höhe! *Sofort bezug,288.000 €,"Pfaffendorfer Höhe, 56076 Koblenz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,49 m²",3.183 €/m²,Erdgeschosswohnung,"3,35 m²",sofort,2,nil,nil,"2,38% inklusive gesetzlicher MwSt.",{'is24qa-gaeste-wc-label': ''}
+Wohnung mit Garage,178.000 €,"Nordring XXXX,
+Landau, 76829 Landau in der Pfalz",1,"106,47 m²",1.672 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Geräumige 4-Zimmer-Wohnung in Koblenz-Horchheim zu verkaufen. Erstbezug nach Sanierung!,284.900 €,"Horchheim, 56076 Koblenz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"85,1 m²",3.348 €/m²,Etagenwohnung,"8,8 m²",sofort,3,1,nil,"2,38% inklusive gesetzlicher MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Sonnendurchflutete, energieeffiziente Dachwohnung mit Fernblick",378.000 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,94 m²,4.021 €/m²,Dachgeschoss,nil,Nach Vereinbarung,2,2,2 Stellplätze,"3,57% inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wohnung mit Loggia + provisionsfrei +,245.000 €,"Pfarrhofstraße XXXX,
+55411 Bingen am Rhein, Mainz-Bingen (Kreis)",2,"55,04 m²",4.451 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-ZKB-Neubau Wohnung am Fasaneriewald!,220.000 €,"Stadtmitte, 66482 Zweibrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,72 m²,3.056 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Außenstellplatz,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

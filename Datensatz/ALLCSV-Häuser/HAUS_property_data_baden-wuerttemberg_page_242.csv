@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Charmante 7-Zimmer-Doppelhaushälfte in Karlsruhe (3Whg. möglich),550.000 €,"Herweghstraße 28,
+Knielingen, 76187 Karlsruhe",7,139 m²,590 m²,3.957 €/m²,Doppelhaushälfte,50 m²,14.11.2023,3,3,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"THE HOUSE - Kernsanierter Luxus mit Pool, Sauna, Gym, separatem Büro + Boot - 5 Minuten vom Seeufer",Auf Anfrage,"78345 Moos, Konstanz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,202 m²,404 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,2,2 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+RESERVIERT Hausanteil mit großem Garten im Luftkurort Bad Wildbad-Calmbach,50.000 €,"xx-Straße in Calmbach xx,
+75323 Bad Wildbad, Calw (Kreis)",5,97 m²,775 m²,515 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Lukratives Mehrfamilienhaus zum Kauf in Heidelberg Rohrbach,1.200.000 €,"Viktoria 14,
+Rohrbach, 69126 Heidelberg",11,245 m²,310 m²,4.898 €/m²,Mehrfamilienhaus,60 m²,1.4.2024,4,4,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Familien-Haus in Wannweil,525.000 €,"72827 Wannweil, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,155 m²,1.101 m²,3.387 €/m²,Mehrfamilienhaus,100 m²,2.2.2024,5,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Einfamilienhaus mit Einliegerwohnung in idyllischer, einzigartiger und ruhiger Lage",Auf Anfrage,"79618 Rheinfelden (Baden), Lörrach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,200 m²,926 m²,nil,Einfamilienhaus (freistehend),245 m²,16.12.2023,3,3,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Keltern - Weiler : gemütliches und individuelles Haus mit großem Garten,349.000 €,"75210 Keltern, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,520 m²,3.173 €/m²,Einfamilienhaus (freistehend),150 m²,7.1.2024,2,1,2 Außenstellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehendes Einfamilienhaus mit Einliegerwohnung und großem Garten in Südhanglage,849.000 €,"70771 Leinfelden-Echterdingen, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,193 m²,706 m²,4.399 €/m²,Einfamilienhaus (freistehend),113 m²,4.11.2023,nil,2,1 Garage,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geräumiges 8-Zimmer-Haus in Graben-Neudorf in direkter Waldrandlage,749.000 €,"Waldstr. 13,
+76676 Graben-Neudorf, Karlsruhe (Kreis)",8,246 m²,901 m²,3.045 €/m²,Einfamilienhaus (freistehend),99 m²,nil,nil,1,4 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Provisionsfrei! Gepflegtes Ein- bis Zweifamilienhaus mit viel Platz zur flexiblen Nutzung,349.000 €,"89547 Gerstetten, Heidenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,196 m²,249 m²,1.781 €/m²,Einfamilienhaus (freistehend),108 m²,nil,6,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte Doppelhaushälfte 4 Zimmer in Nordheim-Nordhausen,460.000 €,"74226 Nordheim, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",109 m²,240 m²,4.220 €/m²,Doppelhaushälfte,nil,1.9.2023,3,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schönes Mehrfamilienhaus im Ostalbkreis, Spraitbach (provisionsfrei)",720.000 €,"Heugarten 2,
+73565 Spraitbach, Ostalbkreis",9,267 m²,712 m²,2.697 €/m²,Mehrfamilienhaus,55 m²,ab sofort,nil,4,7 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schönes Haus mit sieben Zimmern in Trochtelfingen, Kreis Reutlingen/Das Haus wird kurzfristig frei.",574.000 €,"72818 Trochtelfingen, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,195 m²,792 m²,2.944 €/m²,Einfamilienhaus (freistehend),110 m²,nil,nil,2,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schönes 4-Zimmer-Einfamilienhaus in Efringen-Kirchen, Efringen-Kirchen",380.000 €,"Im Innerdorf 18,
+79588 Efringen-Kirchen, Lörrach (Kreis)",4,120 m²,336 m²,3.167 €/m²,Einfamilienhaus (freistehend),120 m²,14.7.2024,nil,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehendes Einfamilienhaus nebst 4 Balkonen ++ ohne Provision! ++,270.000 €,"Plettenbergstraße XXX,
+72355 Schömberg, Zollernalbkreis",8,193 m²,407 m²,1.399 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ideales Haus für die Familie,499.000 €,"76571 Gaggenau, Rastatt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,341 m²,3.838 €/m²,Reiheneckhaus,49 m²,nach Absprache,3,1,nil,"Käuferprovision 3,57 % inkl. gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Mehrfamilienhaus mit 5 Wohnungen,277.200 €,"Kettengasse XXX,
+75031 Eppingen, Heilbronn (Kreis)",1,1 m²,101 m²,277.200 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Bauernhaus - provisionsfrei,27.000 €,"Bruckstraße XXX,
+72417 Jungingen, Zollernalbkreis",6,"287,42 m²",373 m²,94 €/m²,Wohnimmobilie (sonstige),"73,69 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Reihenmittelhaus in familienfreundlicher Wohnlage - provisionsfrei,486.000 €,"Stäudach XXX,
+Lustnau, 72074 Tübingen",5,99 m²,213 m²,4.909 €/m²,Wohnimmobilie (sonstige),80 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Gepflegte Immobilie in bester Lage!,500.000 €,"75217 Birkenfeld, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,151 m²,520 m²,3.311 €/m²,Einfamilienhaus (freistehend),113 m²,nil,4,2,4 Stellplätze,"4,76 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"

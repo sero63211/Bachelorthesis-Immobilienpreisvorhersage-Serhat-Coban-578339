@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+*RUHIGE LAGE! ** BUNGALOW-NEUBAU - KFW 55 - PROVISIONSFREI IN HALBEMOND,449.000 €,"26524 Halbemond, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,115 m²,913 m²,3.904 €/m²,Bungalow,nil,nach Vereinbarung,2,2,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Doppelhaushälfte in Isenbüttel (Modernisiert, Vollkeller)",399.000 €,"38550 Isenbüttel, Gifhorn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,369 m²,3.800 €/m²,Doppelhaushälfte,nil,2.9.2024,3,2,2 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bauernhaus mit 3 Wohneinheiten 280qm Wohnfläche, großes Baugrundstück optional",365.000 €,"30890 Barsinghausen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,280 m²,1.200 m²,1.304 €/m²,Bauernhaus,nil,nil,nil,nil,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"SANIERTES HAUS MIT NEBENGEBÄUDE, POOL UND WEITBLICK IN WALD- UND SEENÄHE",244.000 €,"26632 Ihlow, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,1.000 m²,2.033 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,3,1,3 Garagen,"3,40 % inkl. MwSt.",{}
+MASSIVES HAUS MIT GARAGE UND GROßZÜGIGEM GARTEN NAHE DER NORDSEE,279.000 €,"26506 Norden, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,897 m²,2.146 €/m²,Einfamilienhaus (freistehend),nil,ab sofort,4,2,2 Garagen,"2,98 % Käuferprovision inkl. Mwst., verdient und fällig bei Beurkundung.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+GEPFLEGTES FERIENHAUS ODER FESTWOHNSITZ AM WALDRAND/SEENÄHE,219.000 €,"26524 Hage, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,250 m²,3.129 €/m²,Doppelhaushälfte,nil,nach Vereinbarung,2,1,2 Carports,"3,40 % Käuferprovision inkl. Mwst., verdient und fällig bei Beurkundung.","{'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+"""EIN ZUHAUSE FÜR NATURFREUNDE"": LANDHAUS MIT PFERDEKOPPEL",209.000 €,"26532 Großheide, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,95 m²,4.155 m²,2.200 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,3 Stellplätze,"3,40 % Käuferprovision inkl. Mwst., verdient und fällig bei Beurkundung.",{'is24qa-gaeste-wc-label': ''}
+EINFAMILIENHAUS MIT 2 GETRENNTEN WOHNEINHEITEN MITTEN IM ZENTRUM VON NORDEN!,215.000 €,"26506 Norden, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,136 m²,606 m²,1.581 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,2 Stellplätze,"2,98 % Käuferprovision inkl. Mwst., verdient und fällig bei Beurkundung.","{'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+"ATTRAKTIVER WALMDACHBUNGALOW MIT EINLIEGERWOHNUNG/LIFT, GARAGEN IN NORDSEENÄHE!",359.000 €,"26556 Westerholt, Wittmund (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,260 m²,1.868 m²,1.381 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,5,4,5 Garagen,"3,40 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+"MODERNES SMART-HAUS MIT WEITBLICK, SAUNA UND GARAGE AN DER KÜSTE",339.000 €,"26553 Dornum, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,340 m²,3.082 €/m²,Doppelhaushälfte,nil,sofort,3,2,2 Garagen,"3,40 % inkl. MwSt.",{'is24qa-als-ferienhaus-geeignet-label': ''}
+"Einfamilienhaus, saniert, mit gehobener Innenausstattung in Bovenden-Reyershausen",430.000 €,"Am Oberen Felde 5,
+37120 Bovenden, Göttingen (Kreis)",5,135 m²,841 m²,3.185 €/m²,Einfamilienhaus (freistehend),140 m²,1.8.2024,2,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Repräsentativer Rohdiamant in Toplage wartet auf den letzten Schliff!,695.000 €,"28865 Lilienthal, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,223 m²,1.257 m²,3.117 €/m²,Einfamilienhaus (freistehend),81 m²,nach Absprache,6,2,3 Garagen,"2,975 % Käuferprovision auf den Kaufpreis",{}
+"Hooksiel-Kleines Haus mit Garage, Top-Zustand, komplett ausgestattet als Ferien- oder Dauerwohnsitz!",289.000 €,"26434 Wangerland, Friesland (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,71 m²,260 m²,4.070 €/m²,Reiheneckhaus,30 m²,Sofort!,2,2,Garage,"Maklercourtage 2,975% inkl. MwSt.",{'is24qa-als-ferienhaus-geeignet-label': ''}
+Portfolio Verkauf mit insgesamt 17 Wohneinheiten in A-Lage,1.700.000 €,"49152 Bad Essen, Osnabrück (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,1.000 m²,5.000 m²,1.700 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"5,95 % inkl. ges. MwSt.",{}
+Exklusiver Architekten-Bungalow mit Gästehaus im begehrten Seeviertel,470.000 €,"Lebenstedt, 38226 Salzgitter
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,256 m²,928 m²,1.836 €/m²,Einfamilienhaus (freistehend),nil,ab sofort,4,2,4 Garagen,"3,57% inkl. MwSt inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Am Erholungsgebiet SALZGITTERSEE!,372.000 €,"Lebenstedt, 38228 Salzgitter
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,196 m²,652 m²,1.898 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,2 Garagen,"3,57 % inkl. ges. MwSt.",{}
+Ein kleines Einfamilienhaus in Meinsen,175.000 €,"31675 Bückeburg, Schaumburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,95 m²,665 m²,1.842 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Wohnen mit Weitsicht,210.000 €,"Einum, 31135 Hildesheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,90 m²,845 m²,2.333 €/m²,Doppelhaushälfte,nil,nach Absprache,nil,nil,2 Stellplätze,"3,57 % inkl. ges. MwSt.",{}
+Großzügiges Einfamilienhaus in Hohenkirchen,380.000 €,"26434 Wangerland, Friesland (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,1.291 m²,1.900 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,nil,2,3 Garagen,"3,57 inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+++ Entwickeln Sie Ihr Traumhäuschen ++ Baugrundstück inkl. DHH in City-Nähe ++,335.000 €,"Ebensberg, 21337 Lüneburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,105 m²,1.020 m²,3.190 €/m²,Doppelhaushälfte,nil,nach Vereinbarung,3,nil,nil,"3,57 %",{}

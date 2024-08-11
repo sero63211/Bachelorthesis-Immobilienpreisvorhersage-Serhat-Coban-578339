@@ -1,0 +1,445 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Willkommen in Ihrer neuen Wohlfühloase!,447.500 €,"51597 Morsbach, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,206 m²,1.722 m²,2.172 €/m²,Mehrfamilienhaus,350 m²,Sofort,4,3,nil,27500 € Käuferprovision inkl. 19 % MwSt.,{'is24qa-keller-label': ''}
+"MANNELLA *Landleben pur - Einfamilienhaus im Vorort vor Much, sensationelle Aussicht + Einliegerwohn",430.000 €,"53804 Much, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"238,24 m²",637 m²,1.805 €/m²,Einfamilienhaus (freistehend),"137,69 m²",nil,6,2,2 Garagen,"3,57% Käuferprovision (inkl. MwSt)",{'is24qa-einliegerwohnung-label': ''}
+Mehrfamilienhaus mit 3 Einheiten in bester Lage *provisionsfrei*,550.000 €,"An der Marienlinde 5,
+48291 Telgte, Warendorf (Kreis)",8,260 m²,700 m²,2.115 €/m²,Mehrfamilienhaus,nil,nil,nil,4,7 Stellplätze,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sehr gepflegte Doppelhaushälfte mit kleinem Garten in gesuchter Lage,497.000 €,"41564 Kaarst, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,129 m²,226 m²,3.853 €/m²,Doppelhaushälfte,65 m²,nil,3,2,Garage,"3,57% inklusive Mehrwertsteuer vom Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+PROVISIONSFREI !!!Top gepflegte Wohnhaus mi Lokal oder Geschäftsräume 500m² + 2 Garagen,180.000 €,"Kirchgasse 5,
+34434 Borgentreich, Höxter (Kreis)",14,500 m²,180 m²,360 €/m²,Einfamilienhaus (freistehend),240 m²,24.5.2024,8,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Großzügige, vermietete DHH mit Charme und in Kurparknähe!",265.000 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,265 m²,646 m²,1.000 €/m²,Doppelhaushälfte,nil,vermietet,6,3,nil,"3,57 % inkl. MwSt","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-vermietet-label': ''}"
+"Großzügiges und stilvolles Ein-, Zweifamilienhaus im Münster, Stadtteil Rumphorst",980.000 €,"Rumphorst, 48147 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,235 m²,720 m²,4.170 €/m²,Wohnimmobilie (sonstige),100 m²,nil,4,4,2 Garagen,"3,57% inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+PHI AACHEN - Großzügiges Drei-Parteienhaus in Stolberg-Liester!,239.900 €,"52223 Stolberg (Rheinland), Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"200,46 m²",313 m²,1.197 €/m²,Mehrfamilienhaus,50 m²,nil,3,3,nil,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+== Schnäppchenjäger aufgepasst! Sanierungsobjekt als Erbbaurecht mit zwei Garagen ==,100.000 €,"32791 Lage, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,100 m²,0 m²,1.000 €/m²,Einfamilienhaus (freistehend),nil,sofort,1,1,2 Garagen,"3,57 % inkl. MwSt",{'is24qa-gaeste-wc-label': ''}
+Freihstehendes Einfamilienhaus (3-FH) mit 2 ELW in Traumlage mit großem Grundstück in Haltern Sythen,950.000 €,"Reiherhorst 4,
+45721 Haltern am See, Recklinghausen (Kreis)",10,410 m²,894 m²,2.317 €/m²,Mehrfamilienhaus,"380,3 m²",sofort o.n. Vereinbarung,6,4,2 Garagen,"4,76 % inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+PHI AACHEN - Gepflegtes 7-Zimmer Familienhaus mit Doppelgarage in begehrter Lage von Stolberg!,499.900 €,"52223 Stolberg (Rheinland), Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,206 m²,829 m²,2.427 €/m²,Einfamilienhaus (freistehend),104 m²,sofort,5,2,nil,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Freistehendes Einfamilienhaus mit Einliegerwohnung auf einem herrlichem Sonnengrundstück,795.000 €,"41564 Kaarst, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,190 m²,1.026 m²,4.184 €/m²,Einfamilienhaus (freistehend),90 m²,nil,4,2,2 Garagen,"3,57% inklusive Mehrwertsteuer vom Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Solide Kapitalanlage in beliebter Lage von Mönchengladbach,389.000 €,"Hardterbroich-Pesch, 41061 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,220 m²,195 m²,1.768 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"4,76",{}
+"2024 modernisiertes MFH in zentraler guter Lage mit großen Balkonen , Garten usw.",690.000 €,"Mittelstadt, 58095 Hagen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,396 m²,317 m²,1.742 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"4,76inkl. MwSt",{}
+Tolle Lage mit Blick auf die Felder ! Hier werden Träume als EFH oder Mehrgenerationshaus wahr,589.000 €,"Essel, 45665 Recklinghausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,195 m²,592 m²,3.021 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,1 Garage,"4,76 %exkl. MwSt",{'is24qa-keller-label': ''}
+"Harmonischer Einklang von Stil und Lage! Geschmackvolle, junge Stadtvilla mit Blick ins Grüne",619.000 €,"48739 Legden, Borken (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",411 m²,4.630 €/m²,Einfamilienhaus (freistehend),nil,Nach Vereinbarung,3,1,Garage,"2,98 % inkl. MwSt",{'is24qa-gaeste-wc-label': ''}
+Attraktive Immobilie auf großem Grund in ruhiger Wohnlage !,349.000 €,"47551 Bedburg-Hau, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"96,96 m²",2.022 m²,3.599 €/m²,Einfamilienhaus (freistehend),"22,64 m²",nil,3,1,3 Stellplätze,"3,57 % inkl. gesetzl. MwST","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+3 Neubau-Doppelhaushälften - Ausgebaut bis in die Spitze mit Platz für eine große Familie,408.000 €,"Alt-Homberg, 47198 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,128 m²,227 m²,3.188 €/m²,Doppelhaushälfte,nil,2025,5,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ihr Traumhaus in Odenthal: Individuell geplant, gehoben ausgestattet und zukunftssicher",482.622 €,"51519 Odenthal, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,119 m²,510 m²,4.056 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Burscheid: Exklusive Ausstattung und individuelle Gestaltung,474.557 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,147 m²,520 m²,3.228 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Bergisch Gladbach: Individuell geplant, hochwertig ausgestattet",472.826 €,"Refrath, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,119 m²,430 m²,3.973 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Bergisch Gladbach: Individuell geplant, gehoben ausgestattet!",592.726 €,"Refrath, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,193 m²,620 m²,3.071 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Mönchengladbach: Maßgeschneiderte Eleganz und Komfort,494.282 €,"Hardt-Mitte, 41068 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,510 m²,3.433 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Overath - Individuell geplant, gehoben ausgestattet",472.663 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,120 m²,450 m²,3.939 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Bergisch Gladbach: Exklusive Planung und individuelle Gestaltung,493.726 €,"Hand, 51469 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,560 m²,3.429 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Luxuriöse Villa in Bergisch Gladbach: Ihr maßgeschneidertes Traumhaus wartet!,642.373 €,"Hand, 51469 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,195 m²,510 m²,3.294 €/m²,Villa,nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives projektiertes Einfamilienhaus in Overath - Ihr Traum nach Maß,492.336 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,171 m²,500 m²,2.879 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Mönchengladbach: Exklusives Einfamilienhaus nach Ihren Wünschen gestaltet!,492.736 €,"Hardt-Mitte, 41068 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,480 m²,3.422 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individuelles Traumhaus in Rösrath: Modernes Wohnen auf 143 m² mit gehobener Ausstattung,582.373 €,"51503 Rösrath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,520 m²,4.073 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leichlingen - Individuell geplant und maßgeschneidert nach Ihren Wünschen,562.927 €,"42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,166 m²,450 m²,3.391 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leverkusen: Individualität und Qualität auf 163 m²,523.856 €,"Schlebusch, 51375 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,520 m²,3.214 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leverkusen: Maßgeschneidertes Wohnen auf 133m² mit gehobener Ausstattung,492.637 €,"Opladen, 51391 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,510 m²,3.704 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Leverkusen: Exklusive 144 m² Wohnfläche auf 500 m² Grundstück,512.992 €,"Alkenrath, 51377 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,500 m²,3.562 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Luxuriöses, projektiertes Einfamilienhaus in Overath - Ihr Traumhaus wird Wirklichkeit!",487.223 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,158 m²,420 m²,3.084 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Bergisch Gladbach: Individuell geplant und hochwertig ausgestattet,582.526 €,"Kaule, 51429 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,205 m²,500 m²,2.842 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leverkusen: Modernes Einfamilienhaus nach Ihren Wünschen,573.664 €,"Opladen, 51391 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,158 m²,540 m²,3.631 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leverkusen: Luxuriöses Mehrfamilienhaus nach Maß,635.226 €,"Steinbüchel, 51377 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,265 m²,700 m²,2.397 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Odenthal: Maßgeschneidertes Einfamilienhaus mit gehobener Ausstattung!,482.732 €,"51519 Odenthal, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,120 m²,500 m²,4.023 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leichlingen: Exklusive Gestaltung und maximale Flexibilität,526.464 €,"42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,166 m²,520 m²,3.171 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Overath: Individuell geplant, luxuriös ausgestattet!",537.335 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",510 m²,3.287 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Kürten: Luxus und Individualität vereint!,4.928.821 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,530 m²,34.467 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Bergisch Gladbach: Individuell und luxuriös - Ihr zukünftiges Wohlfühlzuhause!,516.282 €,"Moitzfeld, 51429 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,420 m²,3.585 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Erleben Sie Ihr Traumhaus in Kürten: Individuell geplant, gehoben ausgestattet",592.736 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,196 m²,660 m²,3.024 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Bergisch Gladbach: Individuell projektiertes Einfamilienhaus mit gehobener Ausstatt,496.456 €,"Frankenforst, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,520 m²,3.448 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leverkusen: Ein maßgeschneidertes Einfamilienhaus mit gehobener Ausstattung,476.309 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,153 m²,650 m²,3.113 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leverkusen: Maßgeschneidertes Wohnen auf 163 m²,512.025 €,"Schlebusch, 51375 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,450 m²,3.141 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Burscheid: Individuelle Gestaltung auf 153 m² Wohnfläche,492.826 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,490 m²,3.221 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Kürten: Individuell geplant, hochwertig ausgestattet und energieeffizient",511.826 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,181 m²,510 m²,2.828 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Rösrath: Individuelle Planung, gehobene Ausstattung und maximale Flexibilität",615.182 €,"51503 Rösrath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,196 m²,710 m²,3.139 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Burscheid: Exklusive Planung und Ausstattung auf 147 m²,514.182 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,147 m²,500 m²,3.498 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Leverkusen: Exklusives Wohnen auf 151 m²,486.517 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,151 m²,490 m²,3.222 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Leverkusen: Individuell geplant, gehobene Ausstattung und vollendete Sicherheit",554.529 €,"Opladen, 51391 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,158 m²,490 m²,3.510 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Rommerskirchen: Individuell geplant und hochwertig ausgestattet!,518.827 €,"41569 Rommerskirchen, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,166 m²,550 m²,3.125 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Overath: Individuell geplant, hochwertig ausgestattet - Ein Paradies für Heimwerker",496.765 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,440 m²,3.821 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Bergisch Gladbach: Maßgeschneidert und hochwertig ausgestattet!,496.262 €,"Heidkamp, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,500 m²,3.446 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Burscheid: Individuell geplant und gehoben ausgestattet!,526.827 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,500 m²,3.443 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Einfamilienhaus in Rösrath: Ihr maßgeschneidertes Traumdomizil,625.383 €,"51503 Rösrath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,196 m²,690 m²,3.191 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Overath: Individuell geplant, hochwertig ausgestattet, sofort startklar!",510.272 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,520 m²,3.131 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Bergisch Gladbach: Luxuriöses Wohnen nach Ihren Wünschen gestalten,512.736 €,"Frankenforst, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,510 m²,3.351 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Overath: Individuell gestaltbares Einfamilienhaus mit gehobener Ausstattung,512.836 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,171 m²,560 m²,2.999 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leverkusen: Maßgeschneidertes Wohnen auf 151 m²,499.517 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,151 m²,510 m²,3.308 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Burscheid: Individuell geplant und hochwertig ausgestattet!,492.882 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,530 m²,3.423 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Overath: Höchste Flexibilität und Komfort,468.252 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,126 m²,490 m²,3.716 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Burscheid: Individuell geplant, hochwertig ausgestattet und kosteneffizient",524.827 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,510 m²,3.430 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Leverkusen: Exklusive Ausstattung und individuelle Gestaltung!,478.252 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,126 m²,420 m²,3.796 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Burscheid: Wohnen mit Charme und Komfort auf 144 m²,512.882 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,500 m²,3.562 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Rommerskirchen: Ein individuell gestaltbares Einfamilienhaus,452.822 €,"41569 Rommerskirchen, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,545 m²,3.167 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Einfamilienhaus in Overath: Ihr maßgeschneidertes Traumhaus mit Premium-Ausstattung,513.772 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,171 m²,520 m²,3.005 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Rommerskirchen: Maßgeschneidertes Wohnen mit gehobener Ausstattung!,524.827 €,"41569 Rommerskirchen, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,166 m²,520 m²,3.162 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Bergisch Gladbach: Individuell geplant und hochwertig ausgestattet!,498.272 €,"Heidkamp, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,490 m²,3.460 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Luxuriöses Einfamilienhaus in Wermelskirchen - Ihr Traumhaus nach Maß,492.546 €,"42929 Wermelskirchen, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,166 m²,630 m²,2.967 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Overath: 171 m² Wohnfläche, gehobene Ausstattung und individuelle Gestaltung",474.756 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,171 m²,560 m²,2.776 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Burscheid: Maßgeschneidertes Wohnen auf 153 m² mit gehobener Ausstattung,527.938 €,"Frankenforst, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,520 m²,3.451 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr maßgeschneidertes Traumhaus in Leverkusen: Luxus, Komfort und individuelle Gestaltung",497.527 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,151 m²,520 m²,3.295 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr maßgeschneidertes Traumhaus in Overath: Gehoben, geräumig und energieeffizient",512.746 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,510 m²,3.146 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Leichlingen: 133 m² purer Wohnkomfort!,472.817 €,"42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,420 m²,3.555 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr maßgeschneidertes Traumhaus in Leverkusen: 144 m² Wohnfläche, 470 m² Grundstück",499.594 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,470 m²,3.469 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Burscheid: Individuell geplantes Einfamilienhaus mit gehobener Ausstattung,527.182 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,147 m²,510 m²,3.586 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Rösrath: Maßgeschneidertes Wohnen auf 196 m² mit gehobener Ausstattung,635.282 €,"51503 Rösrath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,196 m²,720 m²,3.241 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Kürten: Exklusive Planung und Komfort auf 143 m²,495.367 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,520 m²,3.464 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Burscheid - Maßgeschneiderte Perfektion trifft gehobene Ausstattung,492.736 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,560 m²,3.220 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Bergisch Gladbach: Gestalten Sie Ihr Einfamilienhaus nach Ihren Wünschen!,591.259 €,"Frankenforst, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,510 m²,3.627 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Bergisch Gladbach: Individuell geplant, hochwertig ausgestattet",497.337 €,"Kaule, 51429 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,540 m²,3.454 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Mehrfamilienhaus in Burscheid: Ihr maßgeschneidertes Eigenheim,697.263 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,265 m²,830 m²,2.631 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Overath: Individuell geplant und hochwertig ausgestattet,498.273 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,171 m²,510 m²,2.914 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Leverkusen: Komfort und Qualität auf zwei Etagen,442.736 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,125 m²,430 m²,3.542 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Overath: Individuell gestaltbar und hochwertig ausgestattet!,498.272 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,570 m²,3.057 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr Traumhaus in Kürten: Individuell geplant, luxuriös ausgestattet und energieeffizient!",524.736 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,181 m²,520 m²,2.899 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Luxuriöse Villa in Mönchengladbach: Ihr maßgeschneidertes Traumhaus wird Wirklichkeit,611.827 €,"Venn, 41068 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,195 m²,590 m²,3.138 €/m²,Villa,nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Burscheid - Exklusivität trifft auf Individualität,512.736 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,560 m²,3.351 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Bergisch Gladbach: Exklusive Planung und maßgeschneiderte Ausstattung!,542.836 €,"Bensberg, 51429 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,460 m²,3.744 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Ihr maßgeschneidertes Traumhaus in Burscheid: Modern, komfortabel und energieeffizient",492.173 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,450 m²,3.418 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Erfüllen Sie sich Ihren Haustraum: Individuell gestaltetes Einfamilienhaus in Burscheid,486.366 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,153 m²,520 m²,3.179 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Kürten: Modernes Einfamilienhaus mit gehobener Ausstattung,512.846 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,181 m²,530 m²,2.833 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Burscheid: Exklusive Planung nach Ihren Wünschen!,485.352 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,460 m²,3.371 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Leverkusen: Individuell geplant und hochwertig ausgestattet!,496.244 €,"Schlebusch, 51375 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,480 m²,3.470 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Leverkusen - individuell nach Ihren Wünschen,513.953 €,"Schlebusch, 51375 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,480 m²,3.545 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Burscheid - Ihr Traumhaus nach Ihren Wünschen,487.557 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,530 m²,3.386 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+*Ihr neues Zuhause mit Grundstück *,524.839 €,"weber str 146,
+53347 Alfter, Rhein-Sieg-Kreis",4,150 m²,220 m²,3.499 €/m²,Doppelhaushälfte,nil,nil,nil,nil,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ihr individuelles Einfamilienhaus in Alfter - Projektiert nach Ihren Wünschen,529.839 €,"weber str 146,
+53347 Alfter, Rhein-Sieg-Kreis",4,150 m²,220 m²,3.532 €/m²,Doppelhaushälfte,nil,nil,nil,nil,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Modernes Einfamilienhaus in Overath: Ihr Traumhaus nach eigenen Wünschen,495.365 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,440 m²,3.811 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Leverkusen - Jetzt Ihren Traum vom Eigenheim verwirklichen!,523.973 €,"Schlebusch, 51375 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,420 m²,3.614 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Burscheid - Ihr Traumhaus nach Ihren Wünschen,514.459 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,560 m²,3.362 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Burscheid - Ihr Traumhaus nach Maß,496.266 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,550 m²,3.470 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Overath - Ihre individuellen Wünsche werden wahr!,527.532 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,500 m²,3.236 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Burscheid: Ihr Traumhaus nach Maß mit gehobener Ausstattung inklusive He,496.459 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,470 m²,3.448 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Moderne Villa in Odenthal - Wohnen nach Ihren Wünschen,585.829 €,"51519 Odenthal, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,195 m²,510 m²,3.004 €/m²,Villa,nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Burscheid: Gestalten Sie Ihr Eigenheim nach Ihren Wünschen!,481.459 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,490 m²,3.343 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Kürten nach Ihren Wünschen,548.659 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,181 m²,550 m²,3.031 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Overath: Ihr Traumhaus nach Ihren Wünschen,523.918 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,171 m²,520 m²,3.064 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Zuhause in Rösrath - Moderner Wohnkomfort nach Ihren Wünschen,444.884 €,"51503 Rösrath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,133 m²,420 m²,3.345 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einzigartiges Einfamilienhaus in Bergisch Gladbach - Ihr Traumhaus nach Maß!,478.264 €,"Bärbroich, 51429 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,133 m²,470 m²,3.596 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individueller Wohntraum in Leichlingen (Rheinland) - Projektiertes Einfamilienhaus mit gehobener,592.769 €,"42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,172 m²,600 m²,3.446 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Overath,517.542 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,570 m²,3.175 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau-Einfamilienhaus in Overath: Individuell geplant und hochwertig ausgestattet,468.567 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,470 m²,3.254 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Leichlingen - Gestalten Sie Ihr Traumhaus nach Ihren Vorstellungen!,552.769 €,"42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,172 m²,500 m²,3.214 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Burscheid: Gestalten Sie Ihr Traumhaus nach Ihren Wünschen!,438.567 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,780 m²,3.046 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Overath - individuell gestaltet und nach Ihren Wünschen projektiert,536.542 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,163 m²,470 m²,3.292 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus in Burscheid - Individuell nach Ihren Vorstellungen,486.276 €,"51399 Burscheid, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,974 m²,3.401 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+AKTION *- KLASSISCHES EINFAMILIENHAUS MIT OFFENER RAUMGESTALTUNG.,549.900 €,"52391 Vettweiß, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,614 m²,3.571 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Ein Haus im klassisch mediterranen Baustil,749.900 €,"52391 Vettweiß, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,222 m²,614 m²,3.378 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,nil,{}
+***DAS WOHLFÜHLHAUS MIT DURCHDACHTEM KONZEPT***,799.990 €,"52391 Vettweiß, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,242 m²,614 m²,3.306 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+DOPPELHAUS MIT WOHNRESERVEN,529.900 €,"53773 Hennef (Sieg), Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,141 m²,520 m²,3.758 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Relaxtes Wohnen in modernem Ambiente,587.500 €,"53809 Ruppichteroth, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,620 m²,4.052 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+DOPPELHAUS MIT ALLEM DRUM UND DRAN,625.000 €,"Wahn, 51147 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,107 m²,400 m²,5.841 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+AUS EINS MACH ZWEI: UNSER KLASSISCHES ZWEI­FA­MI­LI­EN­HAUS,808.000 €,"53819 Neunkirchen-Seelscheid, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,278 m²,1.010 m²,2.906 €/m²,Mehrfamilienhaus,nil,nil,3,2,nil,nil,{}
+DAS DESIGNHAUS MIT BESONDEREM AMBIENTE,579.900 €,"53894 Mechernich, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,192 m²,592 m²,3.020 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+WOHNEN AUF EINER EBENE - EIN BUNGALOW ALS MUSTERHAUS,549.900 €,"53902 Bad Münstereifel, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,428 m²,3.792 €/m²,Bungalow,nil,nil,3,2,nil,nil,{}
+EINGESCHOSSIGE STADTVILLA - EINZUGSFERZIG,529.900 €,"53902 Bad Münstereifel, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,154 m²,428 m²,3.441 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+***GROßZÜGIGES RAUMANGEBOT DANK WOHNKELLER***,635.900 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,200 m²,600 m²,3.180 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-keller-label': ''}
+Höchster Wohnkomfort auf 3 Etagen,764.900 €,"53639 Königswinter, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,235 m²,970 m²,3.255 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+***EIN DESIGNHAUS FÜR DIE BESONDERE LAGE***,694.900 €,"53804 Much, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,168 m²,610 m²,4.136 €/m²,nil,221 m²,nil,nil,nil,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+*** EINE TRAUMVILLA MIT VIEL SONNENLICHT***,659.000 €,"53947 Nettersheim, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,177 m²,500 m²,3.723 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{}
+Klare Formen treffen auf Wohnlichkeit,609.000 €,"51570 Windeck, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,124 m²,1.325 m²,4.911 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+EIN HAUS MIT VIELEN OFFENEN PLÄTZEN,558.000 €,"51702 Bergneustadt, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,154 m²,512 m²,3.623 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Schnörkellos und gut durchdacht,486.000 €,"51588 Nümbrecht, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,520 m²,3.574 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+So viel Raum in einem Haus,573.000 €,"51545 Waldbröl, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,185 m²,650 m²,3.097 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+LUXURIÖSES PULTHAUS MIT VIEL LICHT,939.900 €,"53919 Weilerswist, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,172 m²,791 m²,5.465 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+DOPPELHAUS MIT WOHNRESERVEN,599.900 €,"53919 Weilerswist, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,141 m²,358 m²,4.255 €/m²,Doppelhaushälfte,nil,nil,3,2,nil,nil,{}
+WOHNEN AUF EINER EBENE - EIN BUNGALOW ALS MUSTERHAUS,629.900 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,641 m²,4.344 €/m²,Bungalow,nil,nil,3,2,nil,nil,{}
+TÜR AN TÜR IM DOPPELHAUS,789.900 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,221 m²,641 m²,3.574 €/m²,Mehrfamilienhaus,nil,nil,3,2,nil,nil,{}
+RELAXTES WOHNHAUS MIT MODERNEM AMBIENTE,479.000 €,"53947 Nettersheim, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,500 m²,3.326 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Moderner Bungalow zur freien Entfalt,672.000 €,"51766 Engelskirchen, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,149 m²,517 m²,4.510 €/m²,Bungalow,nil,nil,3,2,nil,nil,{}
+REPRÄSENTATIVE STADTVILLA MIT VIEL LICHT,769.900 €,"53881 Euskirchen, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,211 m²,602 m²,3.649 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+DAS EINZUGSFERTIGE RAUMWUNDER,549.900 €,"53881 Euskirchen, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,152 m²,441 m²,3.618 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+LUXURIÖSES PULTHAUS MIT VIEL LICHT,629.900 €,"53881 Euskirchen, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,431 m²,3.662 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Ein Haus im klassisch mediterranen Baustil,1.019.900 €,"51519 Odenthal, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,222 m²,984 m²,4.594 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+AKTION SPRING JOY* MODERNES UND KOMFORTABLES WOHNEN UNTER EINEM DACH,564.900 €,"53909 Zülpich, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,209 m²,442 m²,2.703 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+AKTION *- KLASSISCHES EINFAMILIENHAUS MIT OFFENER RAUMGESTALTUNG.,499.900 €,"52428 Jülich, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,722 m²,3.246 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+URBANES FLAIR IM EIGENEN ZUHAUSE- AKTIONSPREIS*,479.900 €,"53881 Euskirchen, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,124 m²,1.325 m²,3.870 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+***DAS WOHLFÜHLHAUS MIT DURCHDACHTEM KONZEPT***,650.000 €,"53773 Hennef (Sieg), Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,242 m²,420 m²,2.686 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+*WIR SCHENKEN IHNEN FÜR 10 JAHRE DIE HEIZKOSTEN*,565.000 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,1.260 m²,5.330 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Gehobener Wohnkomfort - Maximale Flexibilität,1.890.000 €,"Langendreer, 44892 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,500 m²,1.400 m²,3.780 €/m²,nil,nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Reduktion trifft Funktion,858.000 €,"45711 Datteln, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,178 m²,550 m²,4.820 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Ambiente - Vielfältige Möglichkeiten,1.082.000 €,"Westpark, 52080 Aachen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,203 m²,940 m²,5.330 €/m²,nil,nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klassische Doppelhaushälfte - zeitlos schön,559.000 €,"53773 Hennef (Sieg), Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,520 m²,3.909 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Quadratisch und richtig gut.,685.000 €,"51688 Wipperfürth, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,177 m²,650 m²,3.870 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus mit offener Architektur,598.000 €,"53859 Niederkassel, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,480 m²,4.430 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Modern wohnen und direkt starten,580.000 €,"Heißen, 45472 Mülheim an der Ruhr
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,300 m²,3.766 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Modern - Effizient - Großzügig,818.000 €,"52355 Düren, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,211 m²,550 m²,3.877 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klassische Eleganz bis unters Dach,1.229.000 €,"50354 Hürth, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,257 m²,554 m²,4.782 €/m²,Mehrfamilienhaus,nil,nil,3,2,nil,nil,{}
+Eleganz vom Erdgeschoss bis unters Dach,1.103.000 €,"Wiemelhausen, 44799 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,252 m²,700 m²,4.377 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Ein Staffelhaus zum Wohnen und Arbeiten,763.000 €,"53909 Zülpich, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,218 m²,465 m²,3.500 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+***Ein Haus für die ganze Familie***,3.700.000 €,"Hahnwald, 50996 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,257 m²,2.500 m²,14.397 €/m²,Einfamilienhaus (freistehend),nil,nil,4,3,nil,nil,{}
+***Ihr sicheres Haus für Sie und Ihre Familie!***,620.000 €,"50129 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,161 m²,450 m²,3.851 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+***Mehr Stil - mehr Ambiente - OKAL***,690.000 €,"50129 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"143,55 m²",520 m²,4.807 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+***Ein Haus mit echtem Mehrwert!***,800.000 €,"50129 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,182 m²,520 m²,4.396 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Stilvoll und citynah Leben und Wohnen, was kann schöner sein?",880.000 €,"50129 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,250 m²,520 m²,3.520 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+***Ein Haus - so außergewöhnlich wie Sie!***,850.000 €,"50129 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,221 m²,520 m²,3.846 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+*** Bauen Sie mit uns Ihr Traumhaus ***,800.000 €,"50129 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,188 m²,520 m²,4.255 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+***Tolle Stadtvilla - Ganz individuell nach Ihren Bedürfnissen***,800.000 €,"50129 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,203 m²,520 m²,3.941 €/m²,Einfamilienhaus (freistehend),nil,nil,5,2,nil,nil,{}
+***Ihre Freunde werden Sie beneiden!***,570.000 €,"53773 Hennef (Sieg), Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,187 m²,420 m²,3.048 €/m²,Einfamilienhaus (freistehend),nil,nil,5,2,nil,nil,{}
+***Mehr Stil - mehr Ambiente - OKAL***,570.000 €,"53773 Hennef (Sieg), Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,187 m²,420 m²,3.048 €/m²,Einfamilienhaus (freistehend),nil,nil,5,2,nil,nil,{}
+***Mehr Stil - mehr Ambiente - OKAL***,930.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,282 m²,1.000 m²,3.298 €/m²,Einfamilienhaus (freistehend),nil,nil,5,2,nil,nil,{}
+***Ein Haus für die ganze Familie***,850.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,238 m²,1.000 m²,3.571 €/m²,Einfamilienhaus (freistehend),nil,nil,6,2,nil,nil,{}
+***Ein Haus für die ganze Familie***,890.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,232 m²,1.000 m²,3.836 €/m²,Einfamilienhaus (freistehend),nil,nil,6,2,nil,nil,{}
+***Ein Haus für die ganze Familie***,910.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,231 m²,1.000 m²,3.939 €/m²,Einfamilienhaus (freistehend),nil,nil,6,2,nil,nil,{}
+***Mehr Stil - mehr Ambiente - OKAL***,725.000 €,"50129 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,174 m²,500 m²,4.167 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus mit besonderer Architektur,1.129.000 €,"53359 Rheinbach, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,950 m²,7.786 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Ein großes Bauhaus auf kleinem Raum,658.000 €,"52379 Langerwehe, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,134 m²,523 m²,4.910 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Ein stattliches Bauhaus mit Perspektive,1.354.000 €,"51503 Rösrath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,154 m²,1.712 m²,8.792 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Einfamilienhaus mit integriertem Carport,2.764.000 €,"Bonn-Zentrum, 52127 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,256 m²,1.995 m²,10.797 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Ein Wohnhaus mit vielen wohnlichen Vorteilen,939.000 €,"50374 Erftstadt, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,206 m²,520 m²,4.558 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Bauhaus Architektur in OKAL Design,726.000 €,"51789 Lindlar, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,182 m²,600 m²,3.989 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Zwei in einem: Stadtvilla zweigeteilt,1.147.000 €,"52159 Roetgen, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,235 m²,3.550 m²,4.881 €/m²,Mehrfamilienhaus,nil,nil,3,2,nil,nil,{}
+Ein Haus mit vielen Optionen und Highlights,976.000 €,"51580 Reichshof, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,326 m²,1.200 m²,2.994 €/m²,Mehrfamilienhaus,nil,nil,3,2,nil,nil,{}
+Urbane Villa mit Charakter,858.000 €,"51597 Morsbach, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,280 m²,755 m²,3.064 €/m²,Mehrfamilienhaus,nil,nil,3,2,nil,nil,{}
+Here comes the Sun,989.000 €,"53639 Königswinter, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,310 m²,649 m²,3.190 €/m²,Mehrfamilienhaus,nil,nil,3,2,nil,nil,{}
+Ein Terrassenhaus der Extraklasse,1.849.000 €,"Hand, 51469 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,260 m²,2.789 m²,7.112 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Das Haus mit den EXTRAS,871.000 €,"53902 Bad Münstereifel, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,259 m²,545 m²,3.363 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Antike trifft Moderne - Das Musterhaus Bad Vilbel,7.253.000 €,"Braunsfeld, 50933 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,266 m²,2.130 m²,27.267 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Wohnen auf einer Ebene - Musterhaus Bungalow,684.000 €,"51429 Bergisch Gladbach, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,1.230 m²,4.717 €/m²,Bungalow,nil,nil,3,2,nil,nil,{}
+Der etwas andere Bungalow,635.000 €,"Cronenberg, 42349 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,126 m²,561 m²,5.040 €/m²,Bungalow,nil,nil,3,2,nil,nil,{}
+Bungalow mit Pultdach - Das besondere Haus,562.000 €,"53984 Mechernich, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,485 m²,4.683 €/m²,Bungalow,nil,nil,3,2,nil,nil,{}
+Tiny Single Bungalow mit schickem Walmdach,428.000 €,"53902 Bad Münstereifel, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,73 m²,399 m²,5.863 €/m²,Bungalow,nil,nil,3,2,nil,nil,{}
+Maximaler Wohnkomfort auf einer Ebene,973.000 €,"51519 Odenthal, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,161 m²,913 m²,6.043 €/m²,Bungalow,nil,nil,3,2,nil,nil,{}
+Luxuriöses Haus mit viel Licht,685.000 €,"53879 Euskirchen, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,172 m²,540 m²,3.983 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Wohnen mit Loftcharakter,608.000 €,"51688 Wipperfürth, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,640 m²,4.193 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Einfamilienhaus mit versetztem Pultdach,828.000 €,"42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,161 m²,819 m²,5.143 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Doppelhaus mit besonderer Ausstrahlung,849.000 €,"Urbach, 51145 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,141 m²,368 m²,6.021 €/m²,Doppelhaushälfte,nil,nil,3,2,nil,nil,{}
+Das Doppelhaus mit optimiertem Grundriss,521.000 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,250 m²,4.270 €/m²,Doppelhaushälfte,nil,nil,3,2,nil,nil,{}
+Noch 2025 einziehen !!,655.000 €,"50129 Bergheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,158 m²,500 m²,4.146 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Das Designhaus mit Vor- und Rücksprung,770.000 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,183 m²,770 m²,4.208 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Kellergeschoss für zusätzlichen Raum zum Leben,629.000 €,"58300 Wetter (Ruhr), Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,200 m²,400 m²,3.145 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Ein Klassiker eines Chalets,897.900 €,"51515 Kürten, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,266 m²,1.000 m²,3.376 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,nil,{}
+***Ihre Traumvilla ganz individuell nach Ihren Bedürfnissen***,620.000 €,"53947 Nettersheim, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,186 m²,500 m²,3.333 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+***Tolle Stadtvilla - Ganz individuell nach Ihren Bedürfnissen***,550.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,124 m²,0 m²,4.435 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{}
+Ihr Bungalow: Altersgerecht wohnen auf einer Ebene!,670.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,168 m²,0 m²,3.988 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Bungalow: Altersgerecht wohnen auf einer Ebene!,650.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,168 m²,0 m²,3.869 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Bungalow: Altersgerecht wohnen auf einer Ebene!,600.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,149 m²,0 m²,4.027 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+***Tolle Stadtvilla - Ganz individuell nach Ihren Bedürfnissen***,457.000 €,"53902 Bad Münstereifel, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,1.250 m²,2.968 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Klare Formen treffen auf Wohnlichkeit,827.000 €,"53332 Bornheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,124 m²,370 m²,6.669 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Klare Formen treffen auf Wohnlichkeit,609.000 €,"51570 Windeck, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,124 m²,1.325 m²,4.911 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Designhaus zum Wohlfühlen,546.000 €,"42477 Radevormwald, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,158 m²,870 m²,3.456 €/m²,nil,nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klassisch und behaglich: Das Design 9.2,419.000 €,"58256 Ennepetal, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,600 m²,3.953 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+***Ihr sicheres Haus für Sie und Ihre Familie!***,750.000 €,"41517 Grevenbroich, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,187 m²,1.186 m²,4.011 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ein Haus im klassisch mediterranen Baustil,1.209.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,222 m²,3.700 m²,5.446 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Das Designhaus mit Vor- und Rücksprung,770.000 €,"52249 Eschweiler, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,183 m²,770 m²,4.208 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Platzwunder mit viel Komfort,940.000 €,"52224 Stolberg (Rheinland), Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,251 m²,1.013 m²,3.745 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Wohntraum mit viel Licht und Leichtigkeit,630.000 €,"52396 Heimbach, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,187 m²,572 m²,3.369 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{}
+Erstwohnsitz oder Ferienhaus. Einfamilienhaus mit Garage und geräumiger Werkstatt für Handwerker,235.000 €,"Muhler Straße 7,
+Dahl, 58091 Hagen",3,124 m²,2.139 m²,1.895 €/m²,Einfamilienhaus (freistehend),51 m²,01.07.2024,2,1,2 Garagen,8389,"{'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Bungalow oder 1.5 geschossige Doppelhaushälften als Neubau in Alpen Menzelen im Angebot,339.000 €,"46519 Alpen, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,71 m²,450 m²,4.775 €/m²,Bungalow,6 m²,31.12.2024,2,1,nil,Nein,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

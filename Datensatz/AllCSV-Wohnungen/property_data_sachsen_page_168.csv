@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wunderschöne 4-Raum Wohnung,119.500 €,"04808 Wurzen, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,103 m²,1.160 €/m²,Etagenwohnung,nil,sofort,3,1,Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Anlageobjekt in Coswig zu verkaufen,189.000 €,"01640 Coswig, Meißen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",65 m²,2.908 €/m²,nil,10 m²,nil,nil,nil,nil,"3,57% inkl. Mwst.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+"Günstige, sanierte 2-Zimmer-Erdgeschosswohnung mit EBK in Mügeln",53.000 €,"Goethestraße 14,
+04769 Mügeln, Nordsachsen (Kreis)",2,"56,53 m²",938 €/m²,Erdgeschosswohnung,nil,28.11.2023,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete Drei-Zimmer Wohnung mit großem Balkon,139.000 €,"Kleinzschocher, 04229 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,72 m²,1.931 €/m²,Etagenwohnung,5 m²,nach Vereinbarung,1,1,nil,"4,76 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Traumwohnung in Altstadt-Bestlage,700.000 €,"Stresemannplatz 1,
+Striesen-Süd, 01309 Dresden",5,160 m²,4.375 €/m²,nil,nil,nil,nil,nil,nil,"3,57 % inkl. gesetzl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Studentenwohnung in Chemnitz - Bernsdorf,39.950 €,"Bernsdorf, 09126 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"33,5 m²",1.193 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"5,95 % inkl. ges. MwSt.",{}
+Vierraumwohnung in Geyer,49.000 €,"Am Stadtpark 8,
+09468 Geyer, Erzgebirgskreis",4,"65,62 m²",747 €/m²,Erdgeschosswohnung,nil,nil,3,1,nil,"2.975,00 €",{'is24qa-balkon-terrasse-label': ''}
+Zweiraumwohnung in Zwickau,55.000 €,"Heckenweg 17,
+Marienthal Ost, 08060 Zwickau",2,"92,5 m²",595 €/m²,Dachgeschoss,nil,nil,1,1,nil,"2.975,00 €",{'is24qa-keller-label': ''}
+"viel Platz für junge Familien - Aufzug, Wohnung im Leerstand",259.000 €,"Salzmannstr. 23,
+Eutritzsch, 04129 Leipzig",4,103 m²,2.515 €/m²,Sonstige,nil,nil,nil,nil,nil,"9.460,50 € inkl. 19% Mwst. in Höhe von 1.510,50 € (je 50%ige Provision)","{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Stylische Loftwohnung in der Königsmühle,295.000 €,"Tharandter Straße 109,
+Naußlitz, 01187 Dresden",3,"107,95 m²",2.733 €/m²,Etagenwohnung,nil,nil,2,1,2 Außenstellplätze,"2,38%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Zweiraum-Dachgeschoss ETW mit Balkon und Garage,62.000 €,"Paul-Seydel-Straße 14a,
+09212 Limbach-Oberfrohna, Zwickau (Kreis)",2,"62,13 m²",998 €/m²,Dachgeschoss,10 m²,01.01.2024,1,1,1 Garage,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
++vermietete 2-Zi-Wohnung im beliebten Reudnitz+,176.000 €,"Reudnitz-Thonberg, 04317 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"67,12 m²",2.622 €/m²,Etagenwohnung,nil,nach Vereinbarung,nil,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+++ Großzügiges Wohnen in absoluter Bestlage!++,1.750.000 €,"Gohlis-Süd, 04155 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"287,7 m²",6.083 €/m²,Maisonette,nil,nach Vereinbarung,nil,nil,2 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gut geschnittene 3 Zimmer Wohnung mit Balkon und Stellplatz,89.000 €,"Sebastian-Bach-Straße 22,
+Sonnenberg, 09112 Chemnitz",3,"80,79 m²",1.102 €/m²,Etagenwohnung,5 m²,Sofort,2,1,1 Außenstellplatz,"2.647,75","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+3 Zimmerwohnung in Denkmalschutzgebäude - Leipziger Nordosten,235.300 €,"Schönefeld-Abtnaundorf, 04347 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"81,5 m²",2.887 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 4-Zimmer-Wohnung mit Balkon als Kapitalanlage,175.000 €,"Grünau-Mitte, 04209 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"90,22 m²",1.940 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"5.206,25","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Leerstand ab 01.09.2024 - 3-Zimmerwohnung mit Balkon in Schönefeld,235.300 €,"Schönefeld-Abtnaundorf, 04347 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"81,5 m²",2.887 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+vermietete 2-Zimmer-Wohnung mit Terrasse direkt vom Eigentümer,189.000 €,"Johann-Meyer-Straße 9,
+Leipziger Vorstadt, 01097 Dresden",2,"63,5 m²",2.976 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+leerstehende 3-Zimmerwohnung im 90er Jahre Neubau,272.500 €,"Lindenau, 04177 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,3.062 €/m²,Etagenwohnung,nil,nil,2,1,nil,"9.728,25 €","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kapitalanlage in Gohlis - Parkett & Balkon - langjährig vermietet,138.000 €,"Gohlis-Mitte, 04157 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","58,43 m²",2.362 €/m²,Etagenwohnung,nil,nil,1,1,nil,"Die Maklercourtage in Höhe von 3,57 % inkl. MwSt. wird zusätzlich zum Kaufpreis erhoben.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

@@ -1,0 +1,101 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Traumhafte Altbauwohnung mit zwei Balkonen im Nordend,690.000 €,"Nordend-Ost, 60389 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,6.571 €/m²,nil,nil,nil,2,1,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Moderne 4-Zi.-Eigentumswohnung im 1. Obergeschoss am Waldrand in Maintal, Eichenheege",470.500 €,"Herbert-Belser-Ring 8,
+63477 Maintal, Main-Kinzig-Kreis",4,"111,8 m²",4.208 €/m²,Etagenwohnung,"5,27 m²",30.04.2026,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"KLEIN ABER OHO – 1,5 Zimmer-Küche-Bad in Wettenberg Krofdorf-Gleiberg",115.000 €,"35435 Wettenberg, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",55 m²,2.091 €/m²,Erdgeschosswohnung,nil,sofort,1,1,nil,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Leben und Arbeiten auf 35m² - Wohnung im 1.OG - W 11,205.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","34,93 m²",5.883 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Microappartement Wohnung, im EG - W 6, zu erwerben",239.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","42,16 m²",5.681 €/m²,Erdgeschosswohnung,"4,5 m²",07/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Wohnen auf zwei Ebenen!,329.000 €,"68642 Bürstadt, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,129 m²,2.550 €/m²,Maisonette,nil,nil,3,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.",{'is24qa-einbaukueche-label': ''}
+tolle 2. Baureihe - unverbaut - Wohnung im 2.OG - W 15,225.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","35,02 m²",6.439 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Penthouse als 1,5-Zi.-Eigentumswohnung in toller Wohnlage inkl. TG-Stellplatz am Waldrand in Maintal",303.000 €,"Herbert-Belser-Ring 8,
+63477 Maintal, Main-Kinzig-Kreis","1,5","59,15 m²",5.123 €/m²,Penthouse,"5,15 m²",30.04.2026,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Reserviert: 2-Zi.-Eigentumswohnung im 1. Obergeschoss inkl. TG-Stellplatz am Waldrand in Maintal,315.000 €,"Herbert-Belser-Ring 8,
+63477 Maintal, Main-Kinzig-Kreis",2,"71,43 m²",4.410 €/m²,Etagenwohnung,"5,11 m²",30.04.2026,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gut geschnittene 2-Zimmer-Wohnung mit Duschbad in Mühltal,178.000 €,"64367 Mühltal, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"45,85 m²",3.882 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"3,57% vom Kaufpreis inkl. MwSt.",{'is24qa-vermietet-label': ''}
+tolle 2. Baureihe - unverbaut - Wohnung im 2.OG - W 17,215.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","33,75 m²",6.385 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stilvolle Penthousewohnung,559.000 €,"68642 Bürstadt, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,153 m²,3.654 €/m²,Penthouse,8 m²,nach Absprache,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3-Zimmer-Eigentumswohnung inklusive Garten, Keller und TG - am Waldrand in Maintal, Eichenheege",449.000 €,"Herbert-Belser-Ring 8,
+63477 Maintal, Main-Kinzig-Kreis",3,"97,21 m²",4.619 €/m²,Erdgeschosswohnung,"5,77 m²",30.04.2026,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wohnen im neuen Kureck Turm! Helle 3-Zimmer-Wohnung mit Concierge, Dachterrasse und Fitnessbereich",714.000 €,"Taunusstraße 1,
+Mitte, 65183 Wiesbaden",3,"84,41 m²",8.459 €/m²,Etagenwohnung,nil,Q2 2025,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modern 3-Zi.-Wohnung in Wiesbaden-Medenbach am Wald,275.000 €,"Medenbach, 65207 Wiesbaden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,73 m²,3.767 €/m²,Erdgeschosswohnung,6 m²,nil,2,1,1 Außenstellplatz,"3,57% inkl. gesetzlicher Mwst.",{'is24qa-balkon-terrasse-label': ''}
+Penthouse - unverbaut - Wohnung im DG - W 22,485.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main",2,"74,34 m²",6.531 €/m²,Penthouse,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Leben und Arbeiten auf 34m² - Wohnung im 1.OG - W 10,209.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","33,75 m²",6.207 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Penthouse - unverbaut - Wohnung im DG - W 23,302.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main",2,"45,44 m²",6.657 €/m²,Penthouse,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+tolle 2. Baureihe - unverbaut - Wohnung im 2.OG - W 16,215.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","33,75 m²",6.385 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschöne Erdgeschoss-Altbauwohnung mit Garten im Nordend,645.000 €,"Nordend-Ost, 60389 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,6.515 €/m²,nil,nil,nil,2,1,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Idyllisches Wohnen in Hochstädten - 2 ZKB Dachgeschosswohnung mit Balkon,280.000 €,"64625 Bensheim, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,73 m²,3.836 €/m²,Dachgeschoss,nil,sofort,1,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Profi Concept: Langen tolle ETW mit PKW-Stellplatz und Südbalkon,315.000 €,"Albertus - Magnus - Platz 8 b,
+63225 Langen (Hessen), Offenbach (Kreis)","2,5",86 m²,3.663 €/m²,Etagenwohnung,1 m²,ab sofort,1,1,1 Außenstellplatz,"2,975% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Stilvolle Erdgeschosswohnung mit offenem Küchenbereich,158.000 €,"64367 Mühltal, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"39,55 m²",3.995 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohnen und Leben mit perfekter Infrastruktur im beliebten Norden von Oberursel,289.000 €,"61440 Oberursel (Taunus), Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,76 m²,3.803 €/m²,Etagenwohnung,6 m²,sofort,2,1,nil,"2,98% vom Kaufpreis inkl. gesetzl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Tolle Microappartement Wohnung, im EG - W 7, zu erwerben",269.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","47,01 m²",5.733 €/m²,Erdgeschosswohnung,"4,5 m²",07/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Leben und Arbeiten auf 47m² - Wohnung im 1.OG - W 14,295.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main",2,"46,99 m²",6.289 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"4-Zimmer-Penthouse mit offenen Grundriss am Waldrand in Maintal, Eichenheege",706.500 €,"Herbert-Belser-Ring 8,
+63477 Maintal, Main-Kinzig-Kreis",4,"145,75 m²",4.847 €/m²,Penthouse,"5,67 m²",30.04.2026,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Penthouse - unverbaut - Wohnung im DG - W 25,275.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","41,16 m²",6.693 €/m²,Penthouse,"4,5 m²",07/2025,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+tolle moderne Wohnung im 2.OG - W 18,217.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","34,93 m²",6.227 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+tolle 2. Baureihe - unverbaut - Wohnung im 2.OG - W 20,269.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","42,16 m²",6.392 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive 5-Zimmer-Maisonette-Wohnung mit Balkon und EBK in Dieburg,389.000 €,"64807 Dieburg, Darmstadt-Dieburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,2.992 €/m²,Maisonette,65 m²,22.5.2024,4,2,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"__Ohne Makler__ 2,5-Zimmer-Wohnung mit 2 Balkonen und Einbauküche in Viernheim",217.000 €,"68519 Viernheim, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",67 m²,3.239 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Vertriebsstart in Maintal - Waldrandlage zu Top-Preisen - KfW 40 Standard - 1,5-5 Zimmer-Wohnungen",308.500 €,"Herbert-Belser-Ring 8,
+63477 Maintal, Main-Kinzig-Kreis",2,"65,2 m²",4.732 €/m²,Erdgeschosswohnung,"5,77 m²",30.04.2026,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Leben und Arbeiten auf 42m² - Wohnung im 1.OG - W 13,259.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main",2,"42,16 m²",6.155 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Penthouse - unverbaut - Wohnung im DG - W 24,485.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main",2,"74,19 m²",6.544 €/m²,Penthouse,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Microappartement Wohnung, im EG - W 2, zu erwerben",187.500 €,"Mathildenschule, 63071 Offenbach am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5","33,75 m²",5.556 €/m²,Erdgeschosswohnung,5 m²,05/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+AUF SCHNÄPPCHENSUCHE? – Einmalige 2-Zimmer Wohnung in Wettenberg Krofdorf-Gleiberg,180.000 €,"35435 Wettenberg, Gießen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,84 m²,2.143 €/m²,Erdgeschosswohnung,nil,sofort,1,1,nil,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Leben und Arbeiten auf 47m² - Wohnung im 1.OG - W 12,295.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main",2,"46,91 m²",6.299 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Leben und Arbeiten auf 35m² - Wohnung im 1.OG - W 8,205.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","35,02 m²",5.868 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+tolle 2. Baureihe - unverbaut - Wohnung im 2.OG - W 21,305.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main",2,"46,98 m²",6.503 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Microappartement Wohnung, im EG - W 5, zu erwerben",266.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main",2,"46,91 m²",5.681 €/m²,Erdgeschosswohnung,"4,5 m²",07/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne und gepflegte Altbauwohnung im Nordend,695.000 €,"Nordend-Ost, 60389 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,106 m²,6.557 €/m²,nil,nil,nil,2,1,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Tolle Microappartement Wohnung, im EG - W 3, zu erwerben",187.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","33,75 m²",5.556 €/m²,Erdgeschosswohnung,"4,5 m²",07/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gut geschnittene 1-Zimmer-Wohnung mit Balkon und Duschbad in Rüsselsheim,167.000 €,"65428 Rüsselsheim am Main, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"32,5 m²",5.138 €/m²,Etagenwohnung,nil,nil,nil,1,nil,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+tolle 2. Baureihe - unverbaut - Wohnung im 2.OG - W 19,307.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main",2,"46,91 m²",6.555 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Microappartement Wohnung, im EG - W 1, zu erwerben",196.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","35,02 m²",5.611 €/m²,Erdgeschosswohnung,"4,5 m²",07/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Leben und Arbeiten auf 35m² - Wohnung im 1.OG - W 9,209.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","33,75 m²",6.207 €/m²,Etagenwohnung,"4,5 m²",07/2025,1,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zi.-Eigentumswohnung mit Gartenanteil und inkl. TG-Stellplatz am Waldrand in Maintal,298.500 €,"Herbert-Belser-Ring 8,
+63477 Maintal, Main-Kinzig-Kreis",2,"64,16 m²",4.652 €/m²,Erdgeschosswohnung,"5,59 m²",30.04.2026,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle Microappartement Wohnung, im EG - W 4, zu erwerben",198.500 €,"Austrasse 31 A,
+Mathildenschule, 63071 Offenbach am Main","1,5","34,93 m²",5.683 €/m²,Erdgeschosswohnung,"4,5 m²",07/2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KAPITALANLAGE ODER DOCH ZUR EIGENNUTZUNG? – Attraktive 3-Zimmer Wohnung in Rüsselsheim am Main,198.500 €,"65428 Rüsselsheim am Main, Groß-Gerau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,2.682 €/m²,Dachgeschoss,nil,nil,1,1,nil,"3,57% inkl. MwSt","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

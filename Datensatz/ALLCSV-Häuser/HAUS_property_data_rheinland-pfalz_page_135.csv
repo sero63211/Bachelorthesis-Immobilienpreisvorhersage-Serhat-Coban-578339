@@ -1,0 +1,357 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Alternative zur Eigentumswohnung,179.000 €,"Gartenstr. 1,
+67688 Rodenbach, Kaiserslautern (Kreis)",2,84 m²,209 m²,2.131 €/m²,nil,nil,sofort,1,1,1 Garage,"3,57% aus dem beurkundeten Kaufpreis",{}
+Leben in der Idylle! Einfamilienhaus für Naturliebhaber,320.000 €,"56154 Boppard, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,185 m²,2.021 m²,1.730 €/m²,Einfamilienhaus (freistehend),nil,nil,3,3,1 Garage,"3,57 & inkl. MwSt.",{}
+Einfamilienhaus mit Einliegerwohnung,395.000 €,"56587 Straßenhaus, Neuwied (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,241 m²,490 m²,1.639 €/m²,Einfamilienhaus (freistehend),"12,5 m²",nil,nil,2,nil,"3,57 % inkl. MwSt.",{'is24qa-einliegerwohnung-label': ''}
+Einzigartiges Grundstück mit Fernblick,165.000 €,"Stadtmitte, 66482 Zweibrücken
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,80 m²,1.131 m²,2.063 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Dreifamilienhaus mit drei abgeschlossenen Wohnungen,1.140.000 €,"Hubaleck-Siedlung 14,
+56575 Weißenthurm, Mayen-Koblenz (Kreis)",9,300 m²,712 m²,3.800 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,6 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Viel Platz zum Wohlfühlen in offen gebautem, freistehendem Einfamilienhaus",625.000 €,"55234 Bechtolsheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,211 m²,492 m²,2.962 €/m²,Einfamilienhaus (freistehend),40 m²,nach Absprache,3,3,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MAINZ/ BUDENHEIM Toplage an Spielstrasse,599.000 €,"55257 Budenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,177 m²,295 m²,3.384 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Top Wohnhaus mit großem Grundstück in guter Lage von Kusel-Diedelkopf gelegen,415.000 €,"66869 Kusel, Kusel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,190 m²,1.238 m²,2.184 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,6 Stellplätze,"2,975 % inkl. MwSt",{}
+"Top Wohnlage in Weilerbach, 2 Familienwohnhaus",475.000 €,"67685 Weilerbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,230 m²,756 m²,2.065 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,2 Garagen,"2,975 % inkl. MwSt",{}
+Ein neues Kapitel beginnt: Einzug in das Familienhaus,189.000 €,"56479 Liebenscheid, Westerwaldkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,300 m²,1.181 €/m²,nil,nil,nil,nil,2,1 Garage,3.57%,{'is24qa-keller-label': ''}
+"4 Familienhaus mit guter Rendite Ludwigshafen, Nähe BASF",675.000 €,"Oppau, 67069 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,289 m²,485 m²,2.336 €/m²,Mehrfamilienhaus,nil,nil,nil,4,nil,"4,76",{}
+"Schmuckstück *Traumhaftes, stilvoll saniertes EFH mit NG/Scheune in idylischer Ortslage",315.000 €,"55585 Duchroth, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,377 m²,2.423 €/m²,nil,nil,nach Absprache,3,1,2 Stellplätze,"3,00% inkl. Mwst. Käuferprovision","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-keller-label': ''}"
+Kleines Haus auf großem Grundstück unterhalb der Burg Neuleiningen.,439.000 €,"Am Schlossberg 1,
+67271 Neuleiningen, Bad Dürkheim (Kreis)",4,81 m²,2.111 m²,5.420 €/m²,Einfamilienhaus (freistehend),33 m²,30.5.2024,2,1,2 Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+5-Zimmer DHH + Einliegerwohnung,490.000 €,"Eichendorffstraße 36,
+56179 Vallendar, Mayen-Koblenz (Kreis)",6,212 m²,417 m²,2.311 €/m²,Doppelhaushälfte,nil,10.6.2024,5,3,3 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliches Einfamilienhaus mit wohnlich nutzbarer ELW Ortsrandlage,446.000 €,"55457 Gensingen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,140 m²,575 m²,3.186 €/m²,Einfamilienhaus (freistehend),nil,sofort,4,2,1 Garage,"2,97% inkl. MwSt. vom Käufer","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Jetzt zugreifen! Einfamilienhaus in ruhiger Lage mit Garten in Mainz Finthen zu verkaufen.,499.000 €,"Finthen, 55126 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,118 m²,535 m²,4.229 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,3 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Individuelle Grundrissgestaltung zum Wohlfühlen - Dein Neuer MASSA-HAUS BUNGALOW,718.520 €,"79112 Palzem, Trier-Saarburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,142 m²,568 m²,5.060 €/m²,Bungalow,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Flexibles Wohnkonzept mit modernster Haustechnik,676.995 €,"67705 Trippstadt, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"331,89 m²",800 m²,2.040 €/m²,nil,nil,nil,8,4,nil,nil,{}
+Exklusiver Wohnkomfort auf allen Ebenen!,659.999 €,"67378 Zeiskam, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"218,31 m²",550 m²,3.023 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Bauen mit Festpreisgarantie! QNG Förderung möglich!,599.000 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,143 m²,400 m²,4.189 €/m²,Einfamilienhaus (freistehend),143 m²,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Individuelle Grundrissgestaltung zum Wohlfühlen - Dein Neuer MASSA-HAUS BUNGALOW,718.520 €,"79117 Palzem, Trier-Saarburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,142 m²,568 m²,5.060 €/m²,Bungalow,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Connect 3: Gemeinsam Wohnen, Privatsphäre Bewahren",631.005 €,"67705 Trippstadt, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"313,78 m²",800 m²,2.011 €/m²,nil,nil,nil,8,4,nil,nil,{}
+Modernes Ausbauhaus mit großem Grundstück in ruhiger Wohngegend - Ideal für Ihre Familie!,453.813 €,"67722 Münchweiler an der Alsenz, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"192,91 m²",880 m²,2.352 €/m²,nil,nil,nil,4,1,3 Stellplätze,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhaus in Rüssingen: Individuell gestaltbares Ausbauhaus mit 8 Zimmern und großem Grundstück,736.608 €,"67308 Rüssingen, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"313,78 m²",1.000 m²,2.348 €/m²,nil,nil,nil,8,4,nil,nil,{}
+Traumhaus in ruhiger Wohngegend mit individueller Gestaltungsmöglichkeit,345.236 €,"67705 Stelzenberg, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",650 m²,2.582 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Charmantes Ausbauhaus mit großem Grundstück in ruhiger Lage,414.000 €,"67304 Eisenberg (Pfalz), Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",800 m²,3.357 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Ausbauhaus mit moderner Ausstattung in ruhiger Wohngegend,324.249 €,"67308 Zellertal, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,23 m²",550 m²,2.280 €/m²,nil,nil,nil,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Ausbauhaus in ruhiger Wohngegend mit großem Garten - Jetzt Traumhaus nach eigenen Wünschen,498.471 €,"67304 Eisenberg (Pfalz), Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"173,43 m²",800 m²,2.874 €/m²,nil,nil,nil,3,1,3 Stellplätze,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Ausbauhaus in ruhiger Wohngegend mit gehobener Ausstattung,315.019 €,"67308 Zellertal, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",550 m²,2.356 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Ausbauhaus mit viel Platz und grüner Umgebung in Winnweiler,585.063 €,"67722 Winnweiler, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"239,85 m²",870 m²,2.439 €/m²,nil,nil,nil,nil,nil,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+KICK-OFF 3 - Tag des deutschen Fertigbaus AKTION!,204.999 €,"Grübentälchen/Volkspark, 67657 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,07 m²",0 m²,1.507 €/m²,nil,nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Luxuriöse Villa für Stadt und Land! #CityVilla_6,455.616 €,"67821 Alsenz, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",680 m²,2.733 €/m²,nil,nil,nil,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Luxuriöse Villa für Stadt und Land! #CityVilla_6,541.579 €,"67705 Trippstadt, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",900 m²,3.249 €/m²,nil,nil,nil,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Traumhaus in Kottweiler-Schwanden: Luxus trifft auf individuelle Gestaltung!,350.849 €,"66879 Kottweiler-Schwanden, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",570 m²,2.147 €/m²,nil,nil,nil,4,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Kottweiler-Schwanden - Individuell nach Ihren Wünschen!,323.809 €,"66879 Kottweiler-Schwanden, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",570 m²,2.422 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Neubauprojekt in Landstuhl: Ihr individuelles Traumhaus nach Wunsch,650.439 €,"66849 Landstuhl, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"174,96 m²",678 m²,3.718 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Individuelles Traumhaus im Neubaugebiet Kottweiler-Schwanden - Ihre Wünsche, Ihr Zuhause!",339.839 €,"66879 Kottweiler-Schwanden, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"173,43 m²",540 m²,1.960 €/m²,nil,nil,nil,3,1,3 Stellplätze,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individuelles Traumhaus in Lambsborn - Wohnen nach Ihren Wünschen,293.479 €,"66894 Bechhofen, Südwestpfalz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",1.400 m²,2.195 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Hochwertiges Traumhaus nach Ihren Wünschen - Frankelbach Kaiserslautern,413.567 €,"67737 Frankelbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"192,54 m²",1.650 m²,2.148 €/m²,nil,nil,nil,5,2,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+Ihr individuelles Traumhaus in Obermoschel - Luxus und Komfort vereint!,517.530 €,"67823 Lettweiler, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"218,32 m²",595 m²,2.371 €/m²,nil,nil,nil,5,2,1 Garage,nil,"{'is24qa-einliegerwohnung-label': '', 'is24qa-vermietet-label': ''}"
+Ihr persönliches Traumhaus in Rüssingen - Individuell nach Ihren Wünschen gefertigt,567.614 €,"67308 Rüssingen, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"174,96 m²",550 m²,3.244 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Einfamilienhaus in Niederkirchen Kaiserslautern - Individuell nach Ihren Wünschen,438.632 €,"67700 Niederkirchen, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",970 m²,2.413 €/m²,nil,nil,nil,3,2,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Einfamilienhaus in Mölschbach - Ihr individueller Wohntraum,549.019 €,"Mölschbach, 67661 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"205,03 m²",940 m²,2.678 €/m²,nil,nil,nil,4,2,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Exklusives Traumhaus in Niederkirchen - Ihr individuell gestaltetes Zuhause,370.494 €,"67700 Niederkirchen, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"192,91 m²",1.068 m²,1.921 €/m²,nil,nil,nil,4,1,3 Stellplätze,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Großzügiges Traumhaus in Niederkirchen - Wohnen nach Ihren Wünschen,471.554 €,"67700 Niederkirchen, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"237,19 m²",1.070 m²,1.988 €/m²,nil,nil,nil,5,2,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Ihr individuelles Traumhaus im Neubaugebiet von Fischbach Kaiserslautern,408.670 €,"67693 Fischbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",709 m²,3.314 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus mit gehobener Ausstattung in ruhiger Wohngegend,401.219 €,"67822 Mannweiler-Cölln, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"192,83 m²",1.800 m²,2.081 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,2 Stellplätze,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ihr individuelles Traumhaus wartet auf Sie in Obermoschel - Komfort und Qualität vereint!,550.070 €,"67823 Lettweiler, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"239,85 m²",590 m²,2.293 €/m²,nil,nil,nil,nil,nil,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+Moderne Traumimmobilie im ruhigen Wohngebiet - Projektiert nach Ihren Wünschen,386.499 €,"67816 Dreisen, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,74 m²",655 m²,3.914 €/m²,nil,nil,nil,2,1,1 Garage,nil,{'is24qa-stufenloser-zugang-label': ''}
+Moderne Traumimmobilie in ruhiger Wohngegend mit vielen Extras,327.520 €,"66851 Bann, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",1.250 m²,2.656 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau mit gehobener Ausstattung: Wohnen nach Ihren Wünschen in Mölschbach,441.169 €,"Mölschbach, 67661 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,02 m²",920 m²,3.106 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ihr Traumhaus in Mölschbach Kaiserslautern - Perfektion nach Ihren Wünschen,464.889 €,"Mölschbach, 67661 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"158,39 m²",930 m²,2.935 €/m²,nil,nil,nil,3,1,2 Stellplätze,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhaftes Fertighaus in Hochspeyer Kaiserslautern: Nach Ihren Wünschen gefertigt.,379.805 €,"67691 Hochspeyer, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"173,12 m²",1.400 m²,2.194 €/m²,nil,nil,nil,3,2,3 Stellplätze,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhaftes Fertighaus in Hochspeyer Kaiserslautern: Nach Ihren Wünschen gefertigt.,528.235 €,"67691 Hochspeyer, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"255,63 m²",1.400 m²,2.066 €/m²,nil,nil,nil,5,2,3 Stellplätze,nil,{'is24qa-einliegerwohnung-label': ''}
+"Traumhaftes, individuell geplantes Neubauhaus in Kaiserslautern mit gehobener Ausstattung",412.547 €,"Betzen, 67657 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"195,51 m²",476 m²,2.110 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,3,2,3 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr individuelles Traumhaus in Ramstein-Miesenbach - Moderner Wohnkomfort nach Ihren Wünschen,546.491 €,"66877 Ramstein-Miesenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"173,12 m²",770 m²,3.157 €/m²,nil,nil,nil,3,2,3 Stellplätze,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Modernes Traumhaus in Krickenbach Kaiserslautern - Projektierung nach Ihren Wünschen,429.280 €,"67706 Krickenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",1.320 m²,3.481 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individuelles Traumhaus in Otterberg Kaiserslautern - Wohnen nach Ihren Vorstellungen,437.485 €,"67697 Otterberg, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",690 m²,2.677 €/m²,nil,nil,nil,4,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individuelles Traumhaus in Enkenbach-Alsenborn - Komfort und Qualität garantiert!,377.611 €,"67667 Enkenbach-Alsenborn, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"112,94 m²",480 m²,3.343 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Komfortable Wohnidylle in Ramstein-Miesenbach - Ihr maßgeschneidertes Traumhaus!,585.681 €,"66877 Ramstein-Miesenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"158,39 m²",780 m²,3.698 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhaus mit individueller Gestaltungsmöglichkeit in Bischheim - Ihr perfektes Zuhause wartet!,591.019 €,"67294 Bischheim, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"239,85 m²",2.180 m²,2.464 €/m²,nil,nil,nil,nil,nil,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+Traumhaus nach Ihren Wünschen - Luxus mit gehobener Ausstattung,371.029 €,"67822 Gaugrehweiler, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",870 m²,3.009 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus nach Ihren Wünschen und Vorstellungen - Projektiertes Objekt in Bischheim Donnersbergk,604.389 €,"67294 Orbis, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"192,54 m²",700 m²,3.139 €/m²,nil,nil,nil,5,2,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+Exklusives Traumhaus nach Ihren Wünschen - Luxus und Komfort in Mölschbach Kaiserslautern,582.594 €,"Mölschbach, 67661 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",1.670 m²,3.205 €/m²,nil,nil,nil,3,2,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives Traumhaus in Mölschbach Kaiserslautern - Jetzt nach Ihren Wünschen gestalten,704.304 €,"Mölschbach, 67661 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"255,63 m²",1.670 m²,2.755 €/m²,nil,nil,nil,5,2,3 Stellplätze,nil,{'is24qa-einliegerwohnung-label': ''}
+Modernes Traumhaus mit gehobener Ausstattung - individuell nach Ihren Wünschen gefertigt,694.921 €,"66877 Ramstein-Miesenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"255,63 m²",780 m²,2.718 €/m²,nil,nil,nil,5,2,3 Stellplätze,nil,{'is24qa-einliegerwohnung-label': ''}
+Einzigartiges Traumhaus in Ramstein-Miesenbach - Hier werden Ihre Wünsche wahr!,529.469 €,"66877 Ramstein-Miesenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",880 m²,2.913 €/m²,nil,nil,nil,3,2,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individuelles Traumhaus in ruhiger Wohngegend mit gehobener Ausstattung,407.604 €,"66892 Bruchmühlbach-Miesau, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",460 m²,2.906 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau-Traumhaus nach Maß: Luxuriöse Wohnfläche auf großem Grundstück in Bann Kaiserslautern,411.990 €,"66851 Bann, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"173,43 m²",1.300 m²,2.376 €/m²,nil,nil,nil,3,1,3 Stellplätze,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individuelles Traumhaus in Lambsborn - Leben Sie nach Ihren Vorstellungen,423.839 €,"66894 Bechhofen, Südwestpfalz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"239,85 m²",1.400 m²,1.767 €/m²,nil,nil,nil,nil,nil,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+"Neues Traumhaus nach Ihren Wünschen - Hochwertig, energieeffizient und perfekt gelegen",432.156 €,"66849 Landstuhl, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"151,22 m²",580 m²,2.858 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Landstuhl: Individuelles Einfamilienhaus im Neubaugebiet mit gehobener Ausstattung,422.226 €,"66849 Landstuhl, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",570 m²,3.011 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Neues Traumhaus nach Ihren Wünschen - Ihr eigenes Paradies in Otterberg[KOMMA] Kaiserslautern,458.455 €,"67697 Otterberg, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,74 m²",770 m²,4.643 €/m²,nil,nil,nil,2,1,1 Garage,nil,{'is24qa-stufenloser-zugang-label': ''}
+Ihr individuelles Traumhaus in Lambsborn - Wohnen nach Ihren Wünschen,434.819 €,"66894 Bechhofen, Südwestpfalz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",1.400 m²,1.657 €/m²,nil,nil,nil,6,2,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Ihr individuelles Traumhaus in Otterberg - Wohnen nach Ihren Wünschen,684.816 €,"67697 Otterberg, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"174,96 m²",1.400 m²,3.914 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr individuelles Traumhaus in Schopp Kaiserslautern - Wohnen nach Ihren Wünschen,310.729 €,"67707 Schopp, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"112,94 m²",51 m²,2.751 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ihr individuelles Traumhaus in Schopp Kaiserslautern - Projektiert nach Ihren Wünschen,327.479 €,"67707 Schopp, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"135,82 m²",520 m²,2.411 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhaftes projektiertes Haus in Imsweiler mit gehobener Ausstattung,337.077 €,"67808 Ransweiler, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"135,82 m²",450 m²,2.482 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhaftes Haus in Finkenbach-Gersweiler - Wohnen nach Ihren Wünschen,327.559 €,"67822 Winterborn, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",1.290 m²,1.802 €/m²,nil,nil,nil,3,2,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Ramstein-Miesenbach - Freuen Sie sich auf individuelles Wohnen!,484.689 €,"66877 Ramstein-Miesenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"151,22 m²",885 m²,3.205 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Attraktives Eigenheim in ruhiger Wohngegend mit luxuriöser Ausstattung | Bann Kaiserslautern,410.460 €,"66851 Bann, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"192,54 m²",1.300 m²,2.132 €/m²,nil,nil,nil,5,2,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+Ihr Traumhaus in Bann Kaiserslautern - Einzigartiges Wohnen nach Ihren Wünschen,408.280 €,"66851 Bann, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"158,39 m²",1.300 m²,2.578 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Traumhaftes, projektiertes Einfamilienhaus in ruhiger Wohngegend - Ihr perfektes Zuhause in Landstuh",498.966 €,"66849 Landstuhl, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",580 m²,2.993 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Ihr individuelles Traumhaus in Imsweiler - Wohnen nach Ihren Wünschen,314.874 €,"67808 Ransweiler, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,74 m²",450 m²,3.189 €/m²,nil,nil,nil,2,1,1 Garage,nil,{'is24qa-stufenloser-zugang-label': ''}
+Exklusives Traumhaus in Trippstadt - Luxuriöses Wohnen nach Ihren Wünschen,516.413 €,"67705 Trippstadt, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",960 m²,2.841 €/m²,nil,nil,nil,3,2,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaftes, individuelles Einfamilienhaus in Landstuhl - Ihre Wünsche werden Realität",500.731 €,"66849 Landstuhl, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"164,76 m²",580 m²,3.039 €/m²,nil,nil,nil,3,2,4 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
+Hochwertiges Traumhaus in Martinshöhe - Wohnen nach Ihren Wünschen,358.387 €,"66894 Martinshöhe, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"151,22 m²",755 m²,2.370 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr maßgeschneidertes Traumhaus in Enkenbach-Alsenborn - Perfektion bis ins kleinste Detail,480.133 €,"67677 Enkenbach-Alsenborn, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",540 m²,3.893 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau im Wohngebiet Otterberg - Erfüllen Sie sich Ihren Traum vom individuellen Eigenheim,474.925 €,"67697 Otterberg, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",770 m²,3.386 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Traumhaus in ruhiger Wohngegend mit gehobener Ausstattung,366.584 €,"66892 Bruchmühlbach-Miesau, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"135,82 m²",450 m²,2.699 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ihr maßgeschneidertes Traumhaus in Hohenecken-Kaiserslautern - Luxus und Komfort vereint,756.779 €,"Hohenecken, 67661 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"237,19 m²",795 m²,3.191 €/m²,nil,nil,nil,5,2,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Neubauobjekt in Hauptstuhl: Erfüllen Sie sich Ihren Wohntraum in ruhiger Lage!,420.219 €,"66851 Queidersbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,74 m²",511 m²,4.256 €/m²,nil,nil,nil,2,1,1 Garage,nil,{'is24qa-stufenloser-zugang-label': ''}
+"Traumhaftes, individuell geplantes Haus in Niederkirchen Kaiserslautern mit gehobener Ausstattung",518.404 €,"67700 Niederkirchen, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"205,03 m²",1.060 m²,2.528 €/m²,nil,nil,nil,4,2,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Modernes Traumhaus nach Ihren Wünschen in Weilerbach Kaiserslautern,555.308 €,"67685 Erzenhausen, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"164,76 m²",710 m²,3.370 €/m²,nil,nil,nil,3,2,4 Garagen,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Eigenheim in Krickenbach Kaiserslautern - Nach Ihren Wünschen gefertigt,543.340 €,"67706 Krickenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"192,54 m²",1.320 m²,2.822 €/m²,nil,nil,nil,5,2,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+Modernes Traumhaus in Enkenbach-Alsenborn - Nach Ihren Wünschen und Vorstellungen gefertigt,397.281 €,"67667 Enkenbach-Alsenborn, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"135,82 m²",490 m²,2.925 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Modernes Traumhaus in Ramstein-Miesenbach - Individuell nach Ihren Vorstellungen,572.139 €,"66877 Ramstein-Miesenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"192,54 m²",890 m²,2.972 €/m²,nil,nil,nil,5,2,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+Modernes Traumhaus in ruhiger Wohngegend - individuell nach Ihren Wünschen gefertigt,378.594 €,"66892 Bruchmühlbach-Miesau, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",460 m²,2.316 €/m²,nil,nil,nil,4,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Moderne Traumimmobilie in Ramstein-Miesenbach - Individuell nach Ihren Wünschen gestaltet,439.604 €,"66877 Ramstein-Miesenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",610 m²,2.690 €/m²,nil,nil,nil,4,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Traumhaftes Eigenheim auf großzügigem Grundstück in Frankelbach Kaiserslautern,420.667 €,"67722 Winnweiler, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"164,76 m²",1.680 m²,2.553 €/m²,nil,nil,nil,3,2,4 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
+"Ihr Traumhaus nach Ihren Wünschen - Exklusives Einfamilienhaus in Martinshöhe, Kaiserslautern",393.647 €,"66894 Martinshöhe, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,02 m²",755 m²,2.772 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Neubau-Traumhaus mit gehobener Ausstattung in ruhiger Wohngegend,427.971 €,"67677 Enkenbach-Alsenborn, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"115,41 m²",600 m²,3.708 €/m²,nil,nil,nach Vereinbarung,2,1,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neues Traumhaus in Landstuhl - Individuell nach Ihren Wünschen gefertigt,569.336 €,"66849 Landstuhl, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"192,54 m²",580 m²,2.957 €/m²,nil,nil,nil,5,2,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+Modernes Traumhaus mit gehobener Ausstattung - individuell nach Ihren Wünschen gefertigt,821.793 €,"Hohenecken, 67661 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"255,63 m²",790 m²,3.215 €/m²,nil,nil,nil,5,2,3 Stellplätze,nil,{'is24qa-einliegerwohnung-label': ''}
+"Neues Traumhaus nach Ihren Wünschen - Gehobene Ausstattung, kurze Lieferzeiten",603.705 €,"67697 Otterberg, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"174,96 m²",770 m²,3.451 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Moderne Villa nach Ihren Wünschen - Ihr Traumhaus in Hauptstuhl,518.879 €,"66851 Queidersbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",511 m²,3.113 €/m²,Villa,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Modernes Traumhaus mit gehobener Ausstattung in Sembach Kaiserslautern,412.049 €,"67681 Sembach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"164,76 m²",500 m²,2.501 €/m²,nil,nil,nil,3,2,4 Garagen,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau mit gehobener Ausstattung und großzügigem Garten in Enkenbach-Alsenborn,492.273 €,"67677 Enkenbach-Alsenborn, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,02 m²",540 m²,3.466 €/m²,nil,nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumhaftes projektiertes Haus in Obermoschel - individuell nach Ihren Wünschen,437.554 €,"67823 Obermoschel, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",555 m²,2.407 €/m²,nil,nil,nil,3,2,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr Traumhaus in Niederhausen - Wohnen nach Ihren Wünschen,396.836 €,"67822 Waldgrehweiler, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"164,76 m²",655 m²,2.409 €/m²,nil,nil,nil,3,2,4 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
+Modernes Einfamilienhaus nach Ihren Wünschen - Komfort und Individualität vereint,347.099 €,"67808 Ransweiler, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",820 m²,2.475 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Traumhaus nach Ihren Wünschen - großzügig, komfortabel und individuell",395.149 €,"67816 Dreisen, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"142,23 m²",660 m²,2.778 €/m²,nil,nil,nil,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaus im Wohngebiet Dreisen - Luxus und Individualität nach Ihren Wünschen,541.559 €,"67816 Dreisen, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"192,54 m²",660 m²,2.813 €/m²,nil,nil,nil,5,2,1 Garage,nil,{'is24qa-einliegerwohnung-label': ''}
+"Traumhaftes, projektiertes Wohnhaus in ruhiger Wohngegend mit gehobener Ausstattung",457.749 €,"67294 Bischheim, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"173,12 m²",2.190 m²,2.644 €/m²,nil,nil,nil,3,2,3 Stellplätze,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Modernes Traumhaus in ruhiger Wohngegend mit gehobener Ausstattung,362.719 €,"67822 Gaugrehweiler, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"171,77 m²",870 m²,2.112 €/m²,nil,nil,nil,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Traumhaus in Bischheim - Das perfekte Zuhause nach Ihren Wünschen,475.789 €,"67294 Stetten, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",700 m²,2.911 €/m²,nil,nil,nil,4,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Neubau-Traumhaus mit gehobener Ausstattung in ruhiger Wohngegend,315.234 €,"67808 Ransweiler, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"115,41 m²",820 m²,2.731 €/m²,nil,nil,nach Vereinbarung,2,1,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Wohnen nach Ihren Wünschen - Traumhaftes Neubauprojekt in Kirchheimbolanden,461.113 €,"67292 Kirchheimbolanden, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"115,41 m²",600 m²,3.995 €/m²,nil,nil,nach Vereinbarung,2,1,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Traumhaus in ruhiger Wohngegend mit gehobener Ausstattung,357.699 €,"67822 Winterborn, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"173,12 m²",1.290 m²,2.066 €/m²,nil,nil,nil,3,2,3 Stellplätze,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ihr Traumhaus: Neubau nach Ihren Wünschen in Kalkofen Donnersbergkreis,413.026 €,"67822 Niedermoschel, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"173,43 m²",810 m²,2.382 €/m²,nil,nil,nil,3,1,3 Stellplätze,nil,{'is24qa-gaeste-wc-label': ''}
+Moderne Traumimmobilie im Neubaugebiet mit gehobener Ausstattung und großem Grundstück,486.949 €,"67808 Steinbach am Donnersberg, Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"159,28 m²",697 m²,3.057 €/m²,nil,nil,nil,3,1,1 Garage,nil,{'is24qa-stufenloser-zugang-label': ''}
+Wunderschönes Einfamilienhaus mit Traum Lage!,605.999 €,"67378 Zeiskam, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,02 m²",540 m²,4.267 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ins Eigenheim mit Eigenkapital durch Eigenleistung !,549.999 €,"67378 Zeiskam, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",550 m²,4.114 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Das Leben ist zu kurz, um zu warten ! Jetzt Termin vereinbaren",599.999 €,"67378 Zeiskam, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"181,77 m²",540 m²,3.301 €/m²,Einfamilienhaus (freistehend),nil,nil,5,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Zwei Traumhäuser unter einem Dach! Jetzt Termin vereinbaren,694.999 €,"67378 Zeiskam, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",550 m²,2.649 €/m²,Mehrfamilienhaus,nil,nil,6,2,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Zwei Generationen unter einem Dach! Jetzt Termin vereinbaren,659.999 €,"67378 Zeiskam, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"237,19 m²",540 m²,2.783 €/m²,Mehrfamilienhaus,nil,nil,5,2,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Anspruchsvolles, modernes Wohnen auf zwei Geschossen!",655.999 €,"67378 Zeiskam, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",540 m²,3.355 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ins Eigenheim mit Eigenkapital durch Eigenleistung !,539.999 €,"76751 Jockgrim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,74 m²",455 m²,5.469 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,1 Garage,nil,{'is24qa-stufenloser-zugang-label': ''}
+Ins Eigenheim mit Eigenkapital durch Eigenleistung !,539.999 €,"76751 Jockgrim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",455 m²,4.039 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Ein Haus mit viel Licht, Luft und Lebensqualität!",625.999 €,"76751 Jockgrim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"187,63 m²",455 m²,3.336 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Anspruchsvolles, modernes Wohnen auf zwei Geschossen! Jetzt Termin vereinbaren",625.999 €,"76751 Jockgrim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",455 m²,3.755 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Einfamilienhaus Home 10 - für ein außergewöhnliches Wohngefühl,569.999 €,"76751 Jockgrim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",455 m²,3.487 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,2 Garagen,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusiver Wohnkomfort auf allen Ebenen!,619.999 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"218,31 m²",395 m²,2.840 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Wunderschönes Einfamilienhaus mit Traum Lage!,565.999 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,02 m²",395 m²,3.985 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ins Eigenheim mit Eigenkapital durch Eigenleistung !,509.999 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",395 m²,3.815 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus Home 10 - für ein außergewöhnliches Wohngefühl,539.999 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",395 m²,3.304 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,2 Garagen,nil,{'is24qa-gaeste-wc-label': ''}
+Zwei Generationen unter einem Dach,631.999 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"202,78 m²",395 m²,3.117 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Double 10-zeitlos, puristisch & elegant",405.999 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,24 m²",278 m²,3.294 €/m²,Doppelhaushälfte,nil,nil,3,1,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ins Eigenheim mit Eigenkapital durch Eigenleistung !,489.999 €,"76872 Freckenfeld, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",749 m²,3.665 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Das Leben ist zu kurz, um zu warten ! Jetzt Termin vereinbaren",549.999 €,"76872 Freckenfeld, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"181,77 m²",715 m²,3.026 €/m²,Einfamilienhaus (freistehend),nil,nil,5,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Zwei Traumhäuser unter einem Dach! Jetzt Termin vereinbaren,635.999 €,"76872 Freckenfeld, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",715 m²,2.424 €/m²,Mehrfamilienhaus,nil,nil,6,2,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Ein Haus mit viel Licht, Luft und Lebensqualität!",575.999 €,"76872 Freckenfeld, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"187,63 m²",749 m²,3.070 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Anspruchsvolles, modernes Wohnen auf zwei Geschossen! Jetzt Termin vereinbaren",575.999 €,"76872 Freckenfeld, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",749 m²,3.456 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Double 10-zeitlos, puristisch & elegant",489.999 €,"67360 Lingenfeld, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,24 m²",315 m²,3.976 €/m²,Doppelhaushälfte,nil,nil,3,1,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Double 10-zeitlos, puristisch & elegant",481.999 €,"76870 Kandel, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,24 m²",200 m²,3.911 €/m²,Doppelhaushälfte,nil,nil,3,1,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ins Eigenheim mit Eigenkapital durch Eigenleistung !,459.999 €,"67366 Weingarten (Pfalz), Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,74 m²",415 m²,4.659 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,1 Garage,nil,{'is24qa-stufenloser-zugang-label': ''}
+Ins Eigenheim mit Eigenkapital durch Eigenleistung !,459.999 €,"67366 Weingarten (Pfalz), Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",415 m²,3.441 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus Home 10 - für ein außergewöhnliches Wohngefühl,489.999 €,"67366 Weingarten (Pfalz), Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",415 m²,2.998 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,2 Garagen,nil,{'is24qa-gaeste-wc-label': ''}
+"Ein Haus mit viel Licht, Luft und Lebensqualität!",545.999 €,"67366 Weingarten (Pfalz), Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"187,63 m²",415 m²,2.910 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Anspruchsvolles, modernes Wohnen auf zwei Geschossen! Jetzt Termin vereinbaren",544.999 €,"67366 Weingarten (Pfalz), Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",415 m²,3.270 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Exklusiver Wohnkomfort auf allen Ebenen!,569.999 €,"76744 Wörth am Rhein, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"218,31 m²",480 m²,2.611 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ins Eigenheim mit Eigenkapital durch Eigenleistung !,469.999 €,"76744 Wörth am Rhein, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",495 m²,3.515 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+"Das Leben ist zu kurz, um zu warten ! Jetzt Termin vereinbaren",519.999 €,"76744 Wörth am Rhein, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"181,77 m²",480 m²,2.861 €/m²,Einfamilienhaus (freistehend),nil,nil,5,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Zwei Traumhäuser unter einem Dach! Jetzt Termin vereinbaren,605.999 €,"76744 Wörth am Rhein, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",480 m²,2.310 €/m²,Mehrfamilienhaus,nil,nil,6,2,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Anspruchsvolles, modernes Wohnen auf zwei Geschossen!",565.999 €,"76744 Wörth am Rhein, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",480 m²,2.895 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Traumbungalow in ruhiger Lage,444.999 €,"76779 Scheibenhardt, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,02 m²",499 m²,3.133 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Zwei Generationen unter einem Dach! Jetzt Termin vereinbaren,499.999 €,"76779 Scheibenhardt, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"237,19 m²",480 m²,2.108 €/m²,Mehrfamilienhaus,nil,nil,5,2,2 Garagen,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Anspruchsvolles, modernes Wohnen auf zwei Geschossen! Jetzt Termin vereinbaren",474.999 €,"76779 Scheibenhardt, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",499 m²,2.850 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Ins Eigenheim mit Eigenkapital durch Eigenleistung !,389.999 €,"76779 Scheibenhardt, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",480 m²,2.917 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,1 Garage,nil,{'is24qa-gaeste-wc-label': ''}
+Nur kurze Zeit*Haus für große Familie mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubventio,580.000 €,"Oggersheim, 67071 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",469 m²,3.190 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit*geräumiges Haus mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubvention,520.000 €,"Oggersheim, 67071 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"151,22 m²",469 m²,3.439 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schönes Haus mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubvention,500.000 €,"Oggersheim, 67071 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",469 m²,4.054 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit* Haus mit toller Einliegerwohnung* zusätzliche Mieteinnahme*Wärmepumpe*Photovoltaik m,660.000 €,"67254 Großniedesheim, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"241,6 m²",401 m²,2.732 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit* Stadtvilla*mit Wärmepumpe und möglicher Photovoltaik Anlage,570.000 €,"67254 Großniedesheim, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",401 m²,3.908 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit*Haus für große Familie mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubventio,580.000 €,"67254 Großniedesheim, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",401 m²,3.190 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit*Schönes Haus mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubvention,540.000 €,"67254 Großniedesheim, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",401 m²,3.850 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit* Haus mit toller Einliegerwohnung* zusätzliche Mieteinnahme*Wärmepumpe*Photovoltaik m,610.000 €,"76779 Scheibenhardt, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"241,6 m²",520 m²,2.525 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit* Stadtvilla*mit Wärmepumpe und möglicher Photovoltaik Anlage,520.000 €,"76779 Scheibenhardt, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",520 m²,3.565 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit*geräumiges Haus mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubvention,520.000 €,"76779 Scheibenhardt, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"164,76 m²",520 m²,3.156 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schönes Haus mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubvention,480.000 €,"76779 Scheibenhardt, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",520 m²,3.892 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit* Haus mit toller Einliegerwohnung* zusätzliche Mieteinnahme*Wärmepumpe*Photovoltaik m,650.000 €,"76777 Neupotz, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"241,6 m²",390 m²,2.690 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit* Stadtvilla*mit Wärmepumpe und möglicher Photovoltaik Anlage,560.000 €,"76777 Neupotz, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",390 m²,3.839 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit*Haus für große Familie mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubventio,570.000 €,"76777 Neupotz, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",390 m²,3.135 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit*Schönes Haus mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubvention,530.000 €,"76777 Neupotz, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"140,25 m²",390 m²,3.779 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit* Haus mit toller Einliegerwohnung* zusätzliche Mieteinnahme*Wärmepumpe*Photovoltaik m,770.000 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"241,6 m²",580 m²,3.187 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit* Stadtvilla*mit Wärmepumpe und möglicher Photovoltaik Anlage,680.000 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",580 m²,4.662 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nur kurze Zeit*Haus für große Familie mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubventio,690.000 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",580 m²,3.796 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schönes Haus mit Wärmepumpe und Photovoltaik* sowie möglicher Zinssubvention,640.000 €,"76726 Germersheim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",580 m²,5.190 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

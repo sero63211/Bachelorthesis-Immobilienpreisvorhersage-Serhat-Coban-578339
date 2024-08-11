@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Liebevoll saniertes, freistehendes Stadthaus aus der Gründerzeit",315.000 €,"Königstr. 93,
+Heyden, 41236 Mönchengladbach",4,117 m²,147 m²,2.692 €/m²,Reihenmittelhaus,56 m²,nil,2,2,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Schatzkästchen"" für die kleine Familie - Einziehen und wohlfühlen",265.000 €,"Resse, 45892 Gelsenkirchen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"89,34 m²",246 m²,2.966 €/m²,Reihenmittelhaus,nil,nil,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Raus aus der Miete,238.000 €,"53881 Euskirchen, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,149 m²,415 m²,1.597 €/m²,Reiheneckhaus,20 m²,nach Vereinbarung,3,2,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmantes Ein-/Zweifamilienhaus am Waldrand - Saniert und bereit für neue Eigentümer!,370.000 €,"Trupbach, 57072 Siegen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,192 m²,452 m²,1.927 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,2 Garagen,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Zwangsversteigerung - Einfamilienhaus in Warburg-Rimbeck - für den Käufer provisionsfrei,160.000 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,157 m²,919 m²,1.019 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Krefeld-Benrad - Besonderes Reiheneckhaus in guter Lage mit Sonnen-Garten und einer Garage!,283.000 €,"Benrad-Süd, 47804 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",110 m²,443 m²,2.573 €/m²,Reiheneckhaus,nil,nil,3,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Neubau Doppelhaushälfte in Krefeld Forstwald Holterhöfe: Eleganz und Komfort vereint!,745.000 €,"Forstwald, 47804 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,150 m²,342 m²,4.967 €/m²,Doppelhaushälfte,nil,01.06.2024,5,2,3 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Familienfreundliches Einfamilienhaus auf Erbpachtgrundstück in Bad Meinberg,140.000 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,119 m²,1.530 m²,1.176 €/m²,Einfamilienhaus (freistehend),nil,30.11.2024,nil,nil,nil,"4,76 % inkl. ges. MwSt.",{}
+Neubau einer DHH in Neudorf-Süd - Baubeginn Sommer 2024 - Fertigstellung ca. Frühjahr 2025,518.700 €,"Neudorf-Süd, 47057 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"130,43 m²",264 m²,3.977 €/m²,Doppelhaushälfte,64 m²,nil,3,1,2 Außenstellplätze,"2,38 % inkl. ges. MwSt.",{}
+"Spezialimmobilie - exklusiver Wohnbereich, Praxis und Werkhalle",495.000 €,"51597 Morsbach, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,138 m²,750 m²,3.587 €/m²,Einfamilienhaus (freistehend),317 m²,nil,2,1,4 Stellplätze,"2,38 % inkl. ges. MwSt.",{}
+Kleines Haus - große Träume! Be happy in Benrath.,249.000 €,"Benrath, 40597 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,83 m²,197 m²,3.000 €/m²,Reihenmittelhaus,30 m²,nach Vereinbarung,2,1,nil,"3,57 % inkl. ges. MwSt.",{}
+ohne Makler - Schöne DHH in bevorzugter Wohnlage - Privatverkauf,389.000 €,"Burg/Höhscheid, 42657 Solingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,109 m²,346 m²,3.569 €/m²,Doppelhaushälfte,nil,sofort,nil,nil,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Mehrfamilienhaus mit Gewerbeeinheit, 2 Garagen+2 Stellplätzen",419.900 €,"45549 Sprockhövel, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,242 m²,437 m²,1.735 €/m²,Mehrfamilienhaus,117 m²,sofort,7,3,4 Stellplätze,"3,57 % Käuferprovision inkl. 19% MwSt.",{'is24qa-vermietet-label': ''}
+Modern Saniertes Einfamilienhaus mit Garten und Doppelgarage,399.900 €,"Haddenbach, 42855 Remscheid
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,137 m²,400 m²,2.919 €/m²,Doppelhaushälfte,nil,sofort,3,2,2 Garagen,"3,57 % Käuferprovision inkl. 19 % MwSt.",{'is24qa-keller-label': ''}
+Gepflegtes Dreifamilienhaus in ruhiger Lage von Immekeppel !!!,470.000 €,"51491 Overath, Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"197,12 m²",709 m²,2.384 €/m²,Mehrfamilienhaus,23 m²,nach Vereinbarung,nil,3,3 Stellplätze,"3,57% vom Kaufpreis ink.19% MWST","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Exklusives Ein oder Zweifamilienhaus im Herzen von Engelskirchen,511.000 €,"51766 Engelskirchen, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,200 m²,1.010 m²,2.555 €/m²,nil,nil,nil,nil,4,2 Stellplätze,3.57%,{'is24qa-keller-label': ''}
+"Gemütliches Haus mit 3 Zimmern, Terrasse, Garten und Garage in Essen-Burgaltendorf",345.000 €,"Burgaltendorf, 45289 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,171 m²,4.059 €/m²,Doppelhaushälfte,45 m²,nach Vereinbarung,nil,1,1 Garage,"Die Käuferprovision beträgt 2,38% inkl. 19 % MWST","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Großzügiges Anwesen in erstklassiger Lage trifft auf Freiraum und Entfaltungsmöglichkeit,769.900 €,"Oberbarmen, 42279 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"195,23 m²",1.267 m²,3.944 €/m²,Einfamilienhaus (freistehend),106 m²,Nach Absprache,4,2,1 Garage,"3,57%",{'is24qa-online-besichtigung-moeglich-label': ''}
+"klein, fein....dein...barrierefreies wohnen in Zentrumsnähe",215.000 €,"Nordstadt, 32425 Minden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"64,5 m²",406 m²,3.333 €/m²,Einfamilienhaus (freistehend),nil,sofort,1,1,2 Stellplätze,Nein,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Freistehendes Wohnhaus mit Garage, Keller und schönem Grundstück in der Klever Oberstadt",348.000 €,"47533 Kleve, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,760 m²,2.852 €/m²,Einfamilienhaus (freistehend),nil,kurzfristig möglich,3,1,1 Garage,"2,975% inkl. MwSt.",{'is24qa-keller-label': ''}

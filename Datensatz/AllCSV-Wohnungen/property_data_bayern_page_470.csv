@@ -1,0 +1,47 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"1,5 Zimmerwohnung mit großen Balkon",178.000 €,"Alte Nürnberger Str. 69b,
+Steinweg-Pfaffenstein, 93059 Regensburg","1,5",42 m²,4.238 €/m²,Etagenwohnung,42 m²,nil,1,1,Außenstellplatz,"7413,70","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+NEU! Ganz oben mit sonniger Südloggia!!,377.893 €,"Am Klosterholz 18,
+Steudach, 91056 Erlangen",2,"61,13 m²",6.182 €/m²,Dachgeschoss,5 m²,30.06.2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Die muss es sein! Sehr schöne 2-Zi-DG.-Whg. mit besonderem Ambiente in kleiner, gepflegter Anlage.",455.000 €,"St. Ulrich, 80689 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,7.583 €/m²,Dachgeschoss,nil,nil,1,nil,1 Duplex-Stellplatz,"2,38 % inkl. MwSt. aus beurkundetem Kaufpreis. Verkäuferprovision in gleicher Höhe (§ 656cBGB)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"3-Zimmer Erdgeschosswohnung mit Einbauküche, Hobbykeller in zentraler Lage in Eurasburg",495.000 €,"Hauptstraße 6a,
+82547 Eurasburg, Bad Tölz-Wolfratshausen (Kreis)",3,91 m²,5.440 €/m²,nil,nil,01.08.2024,2,2,2 Außenstellplätze,2%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+"2-Zi.-Hobbyraum, zw. Erlangen und Herzogenaurach! Auch für Kapitalanleger bestens geeignet!","422.929,10 €","Am Klosterholz 18,
+Steudach, 91056 Erlangen",3,"59,64 m²","7.091,40 €/m²",Erdgeschosswohnung,"30,71 m²",30.06.2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 2-Zimmer-Wohnung mit Terrasse und Einbauküche in Stein,238.000 €,"Lebrunweg 5,
+90547 Stein, Fürth (Kreis)",2,"66,5 m²",3.579 €/m²,Erdgeschosswohnung,nil,3.5.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Provisionsfrei von Privat: Gepflegte 2-Raum-Wohnung in Taufkirchen am Wald,305.000 €,"82024 Taufkirchen, München (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,4.919 €/m²,Etagenwohnung,nil,5.5.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exklusive 3-Zimmer-DG-Wohnung mit Balkon, EBK und Alpenblick in München-Laim",995.000 €,"Agnes-Bernauer-Straße 27,
+Friedenheim, 80687 München",3,"89,16 m²",11.160 €/m²,Dachgeschoss,107 m²,5.5.2024,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ideal geschnittene Wohnung mit Loggia in Wolfratshausen,394.000 €,"Margeritenstraße 36,
+82515 Wolfratshausen, Bad Tölz-Wolfratshausen (Kreis)",3,"88,9 m²",4.432 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wohnpark Isartal - 3,5-Zimmer-Wohnung im Gartengeschoss",670.000 €,"82067 Schäftlarn, München (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",120 m²,5.583 €/m²,Erdgeschosswohnung,120 m²,07.2024,2,2,1 Duplex-Stellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Sonniges Apartment im Münchner Süden mit großem Balkon - sofort frei!,298.000 €,"Gulbranssonstraße 43,
+Solln, 81477 München",1,"38,7 m²",7.700 €/m²,Etagenwohnung,nil,5.5.2024,1,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Lichtdurchflutete 4-Raum-Wohnung in Nürnberg Zabo in grüner Umgebung,425.000 €,"Jochensteinstraße 3,
+Zerzabelshof, 90480 Nürnberg",4,"94,27 m²",4.508 €/m²,Etagenwohnung,"94,27 m²",1.6.2024,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Senden: Schöne 2-Zimmer-Maisonette-Wohnung für Singles,163.000 €,"Heinrich-Heine-Str. 25b,
+89250 Senden, Neu-Ulm (Kreis)",2,45 m²,3.622 €/m²,nil,nil,nach Vereinbarung,nil,nil,1 Tiefgaragen-Stellplatz,"1,79% inkl. MwSt. vom Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+NEU! Kleine Wohnanlage zw. Erlangen und Herzogenaurach! 10Jahre Mietgarantie! Weitere Grundrisse!,499.066 €,"Am Klosterholz 18,
+Steudach, 91056 Erlangen","3,5","83,78 m²",5.957 €/m²,Etagenwohnung,nil,30.06.2025,2,2,1 Duplex-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Stilvolle, gepflegte 5-Zimmer-Terrassenwohnung mit geh. Innenausstattung mit EBK",1.199.000 €,"Ridlerstr. 9,
+Westend, 80339 München",5,"134,33 m²",8.926 €/m²,Terrassenwohnung,nil,5.5.2024,4,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Provisionsfrei: Neu renovierte schöne 3-Zi-Wohnung sofort beziehbar,379.000 €,"85586 Poing, Ebersberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"66,74 m²",5.679 €/m²,Etagenwohnung,nil,nil,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"ERSTBEZUG nach SANIERUNG 2,5-Zimmer Wohnung in Regensburg (Nord)",269.800 €,"Reinhausen, 93057 Regensburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",59 m²,4.573 €/m²,Etagenwohnung,5 m²,1.6.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Gartenwohnung in Gersthofen -reserviert-,378.000 €,"86368 Gersthofen, Augsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,3.600 €/m²,Erdgeschosswohnung,nil,nach Absprache,nil,nil,1 Garage,"2,78 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"NEU! 2-Zi.-Hobbyraum, zw. Erlangen und Herzogenaurach! Auch für Kapitalanleger bestens geeignet!",422.929 €,"Am Klosterholz 18,
+Steudach, 91056 Erlangen",3,"59,63 m²",7.093 €/m²,Erdgeschosswohnung,"30,71 m²",30.06.2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+5 Zimmer in zwei Wohnungen + XL-Dachterrasse + Garten,1.098.000 €,"Untermenzing, 80999 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",155 m²,7.084 €/m²,nil,nil,nil,3,2,2 Duplex-Stellplätze,"1,785 % vom Kaufpreis inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Offen für Angebote: Wohnung in Nürnberg,nil,"Katzwang, Reichelsdorf Ost, Reichelsdorfer Keller, 90453 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,60 m²,3.883 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Stilvolle 3-Zimmer-Eigentumswohnung in Unterschleißheim,470.000 €,"85716 Unterschleißheim, München (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,6.351 €/m²,Sonstige,74 m²,1.7.2024,2,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gelegenheit! 4-ZI-EG-Whg. / WFL 118 m² / Neubau-Erstbezug / Terrasse mit eig. Gartenant. / inkl. 1,396.700 €,"92507 Nabburg, Schwandorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"118,47 m²",3.349 €/m²,Erdgeschosswohnung,nil,ca. 11-2025,3,1,2 Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,525 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus mit Garage - provisionsfrei,242.000 €,"Lauterer Straße xxxx,
+67659 Otterberg, Kaiserslautern (Kreis)",3,103 m²,395 m²,2.350 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Mehrfamilienhaus mit 3 Wohnungen und Parkplatz,253.000 €,"Freisheim xxxx,
+53505 Berg, Ahrweiler (Kreis)",7,230 m²,784 m²,1.100 €/m²,Wohnimmobilie (sonstige),125 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus mit Garage ++ provisionsfrei ++,83.900 €,"Saarburger Straße xxxx,
+54441 Ayl, Trier-Saarburg (Kreis)",1,174 m²,582 m²,482 €/m²,Wohnimmobilie (sonstige),65 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Geschäftshaus als Kapitalanlage - provisionsfrei,630.000 €,"Kirchstraße xxxx,
+56377 Nassau, Rhein-Lahn-Kreis",1,489 m²,773 m²,1.288 €/m²,Wohnimmobilie (sonstige),134 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"FAMILIENTRAUM, MODERN, MIT GROßEM GARTEN",450.000 €,"76767 Hagenbach, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,490 m²,3.214 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,2 Garagen,2.98% inkl. MwSt.,{}
+KAPITALANLAGE MIT POTENZIAL,2.600.000 €,"Nord-Hemshof, 67071 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",48,1.255 m²,845 m²,2.072 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,10 Außenstellplätze,5.95% inkl. MwSt.,{}
++++ Renditeobjekt - Exclusives modernes Einfamilienhaus in Schönenberg-Kübelberg (Gries) +++,649.000 €,"66903 Gries, Kusel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"378,91 m²",648 m²,1.713 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,5,2,2 Stellplätze,"3,57 % des Verkaufspreises incl. 19 % Steuer","{'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
+"Architektenhaus, bezugsfertig, 7 Zimmer, WO-Hochheim",589.000 €,"Richard-Kirn-Str. 7,
+Hochheim, 67549 Worms",7,185 m²,270 m²,3.184 €/m²,Reiheneckhaus,45 m²,1.6.2024,5,3,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Flair am Park,519.000 €,"Rheingönheim, 67067 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,155 m²,257 m²,3.348 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wundervolles Hofgut in gehauenem rotem Sandstein,1.100.000 €,"67686 Mackenbach, Kaiserslautern (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",17,380 m²,3.650 m²,2.895 €/m²,Bauernhaus,150 m²,01.07.2024,nil,3,8 Außenstellplätze,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Interessantes EFH mit 2 Garagen, Balkon, Terrasse, Garten",269.000 €,"54413 Gusenburg, Trier-Saarburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,178 m²,936 m²,1.511 €/m²,Einfamilienhaus (freistehend),80 m²,nach Absprache,5,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*** Großzügiges 2 Familienhaus in gesuchter Lage von Maxdorf***,829.000 €,"67133 Maxdorf, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,370 m²,741 m²,2.241 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{}
+Schöne Doppelhaushälfte mit Garage und Garten in ruhiger Lage,650.000 €,"Oggersheim, 67071 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,170 m²,270 m²,3.824 €/m²,Doppelhaushälfte,230 m²,nach Absprache,5,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Am Rande der Weinberge - Ihr neues Zuhause mit Platz und mehr....,159.000 €,"56843 Burg (Mosel), Bernkastel-Wittlich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,142 m²,453 m²,1.120 €/m²,Einfamilienhaus (freistehend),118 m²,kurzfristig nach Absprache,nil,nil,2 Garagen,"3,57 % inkl. MwSt",{}
+Ein ganzes Haus zum Preis einer Wohnung im ländlichen Ort Berg,269.800 €,"53505 Berg, Ahrweiler (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,245 m²,2.840 €/m²,Einfamilienhaus (freistehend),nil,kurzfristig nach Absprache,2,1,1 Stellplatz,"3,57",{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus in Maxdorf,595.500 €,"Hauptstraße 10-14,
+67133 Maxdorf, Rhein-Pfalz-Kreis",7,170 m²,244 m²,3.503 €/m²,Einfamilienhaus (freistehend),nil,2024,5,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eintreten-Wohlfühlen...modernes Einfamilienhaus inkl. Grundstück direkt vom Eigentümer,467.353 €,"55576 Zotzenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,337 m²,3.338 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Bungalow, FAST schlüsselfertig!",380.500 €,"56281 Emmelshausen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,96 m²,600 m²,3.964 €/m²,Bungalow,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück",798.313 €,"55270 Zornheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,513 m²,6.141 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Aktionshaus: Mach´s einfach! Mit Massa Haus *nur für kurze Zeit*,267.559 €,"66115 Burbach, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,112 m²,330 m²,2.389 €/m²,Einfamilienhaus (freistehend),nil,nil,2,2,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,1.348.824 €,"55270 Zornheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,909 m²,8.175 €/m²,Bungalow,nil,nil,1,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Eintreten-Wohlfühlen...modernes Einfamilienhaus inkl. Grundstück direkt vom Eigentümer,785.342 €,"Pfeddersheim, 67551 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,632 m²,6.283 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Endlich Hausherr/in...Keine hohen Nebenkostenabrechnungen - förderfähiges schickes Einfamilienhaus,685.323 €,"Pfeddersheim, 67551 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,620 m²,5.483 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Exklusives EFH mit Grundstück in ruhigem Baugebiet sucht neue Eigentümer/in -jetzt Fördermöglichkei,617.242 €,"Innenstadt West, 67551 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,562 m²,4.938 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Eintreten-Wohlfühlen...modernes Einfamilienhaus inkl. Grundstück direkt vom Eigentümer,627.451 €,"Wiesoppenheim, 67551 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,631 m²,5.020 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusive Doppelhaushälfte mit Fördermöglichkeiten inkl. Grundstück sucht Familie:-),498.362 €,"Wiesoppenheim, 67551 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,260 m²,3.692 €/m²,nil,nil,nil,3,1,nil,nil,{}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,570.126 €,"Wiesoppenheim, 67551 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,566 m²,5.183 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,598.341 €,"67593 Westhofen, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,541 m²,3.740 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... moderner Bungalow inkl. Baugrundstück",674.351 €,"55278 Weinolsheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,591 m²,4.087 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Eintreten-Wohlfühlen...modernes Einfamilienhaus inkl. Grundstück direkt vom Eigentümer,498.344 €,"55546 Volxheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,484 m²,3.020 €/m²,nil,nil,nil,1,1,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Doppelhaushälfte inkl,472.886 €,"55546 Volxheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,213 m²,3.378 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück - TOP LAGE -sucht neue Bauher",478.962 €,"55546 Volxheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,472 m²,4.354 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Endlich MEIN!!! Auch Ihr Traum ?? EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nut,634.253 €,"55278 Undenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,520 m²,3.844 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Moderne Doppelhaushälfte in ruhigem Baugebiet sucht neue Eigentümer/innen,487.311 €,"55278 Undenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,258 m²,3.481 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Tolles Einfamilienhaus -förderfähig inkl. Grundstück,734.722 €,"55271 Stadecken-Elsheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,510 m²,5.067 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,549.373 €,"55576 Sprendlingen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,477 m²,4.226 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusives Einfamilienhaus mit Fördermöglichkeiten sucht Familie:-),587.351 €,"55576 Sprendlingen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,152 m²,551 m²,3.864 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Großzügig geschnittenes Zweifamilienhaus inkl. Grundstück -Jetzt Fördermöglichkeiten nutzen-,748.671 €,"55576 Sprendlingen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,500 m²,3.743 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Doppelhaushälfte in ruhigem Baugebiet sucht Baupartner/in,632.185 €,"55270 Sörgenloch, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,320 m²,4.516 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+EFH mit Runderker...ein Traum... inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,897.589 €,"55270 Sörgenloch, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,200 m²,640 m²,4.488 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Endlich MEIN!!! Auch Ihr Traum ?? EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nut,314.251 €,"55469 Simmern/Hunsrück, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,430 m²,2.167 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schickes Einfamilienhaus - förderfähig inkl. Grundstück direkt vom Eigentümer,583.242 €,"55278 Selzen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,470 m²,4.022 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Moderne Doppelhaushälfte in ruhigem Baugebiet sucht neue Eigentümer/innen,735.853 €,"55291 Saulheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,300 m²,5.256 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,554.712 €,"55593 Rüdesheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,420 m²,5.043 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... moderner Bungalow inkl. Baugrundstück",554.423 €,"55593 Rüdesheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,423 m²,5.040 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Moderne Doppelhaushälfte mit Fördermöglichkeiten inkl. Grundstück sucht neue Bauherren,557.316 €,"55595 Roxheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,630 m²,4.459 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",574.343 €,"55276 Oppenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,369 m²,4.595 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Bauherren für modernes Einfamilienhaus gesucht- Top Lage- förderfähig-,737.351 €,"55437 Ockenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,431 m²,5.085 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Moderne Doppelhaushälfte inkl. Grundstück direkt vom Eigentümer such neue Baupartner/innen,687.512 €,"55270 Ober-Olm, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,322 m²,4.911 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Moderne Doppelhaushälfte in ruhigem Baugebiet sucht neue Bauherren,567.323 €,"55268 Nieder-Olm, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,253 m²,4.052 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Modernes Einfamilienhaus mit Fördermöglichkeiten sucht Familie:-),587.321 €,"55268 Nieder-Olm, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,470 m²,3.560 €/m²,nil,nil,nil,1,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Schickes EFH in modernem Style inkl. Baugrundstück,565.371 €,"55299 Nackenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,220 m²,4.188 €/m²,nil,nil,nil,3,1,nil,nil,{}
+Baupartner für Moderne Doppelhaushälfte in ruhigem Baugebiet gesucht!!,597.344 €,"55299 Nackenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,319 m²,4.267 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusive Doppelhaushälfte mit Fördermöglichkeiten inkl. Grundstück sucht Familie:-),597.313 €,"55299 Nackenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,273 m²,4.267 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... moderner Bungalow inkl. Baugrundstück",818.463 €,"55299 Nackenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,400 m²,4.960 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusivers Zweifamilienhaus +Grundstück direkt vom Eigentümer,899.782 €,"55299 Nackenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,410 m²,4.499 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Doppelhaushälfte mit Fördermöglichkeiten inkl. Grundstück sucht Familie:-),489.313 €,"55424 Münster-Sarmsheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,210 m²,3.495 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Statt Miete zahlen Fördermöglichkeiten nutzen und in ein schickes eigenes Einfamilienhaus ziehen,568.924 €,"55424 Münster-Sarmsheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,520 m²,3.793 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Doppelhaushälfte inkl,498.323 €,"55278 Mommenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,200 m²,3.559 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Baupartner für Moderne Doppelhaushälfte in ruhigem Baugebiet in Mommenheim gesucht!!,476.464 €,"55278 Mommenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,224 m²,3.403 €/m²,nil,nil,nil,1,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Das PERFEKTE Haus auf dem PERFEKTEN Grundstück, EFH inkl. Grundstück in Top Lage",653.733 €,"55278 Mommenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,433 m²,4.086 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schickes EFH in modernem Style inkl. Baugrundstück,876.318 €,"55270 Klein-Winternheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,600 m²,7.011 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Doppelhaushälfte inkl,627.352 €,"55270 Klein-Winternheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,324 m²,4.481 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",587.344 €,"55270 Jugenheim in Rheinhessen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,494 m²,3.560 €/m²,nil,nil,nil,1,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Exklusives EFH mit Grundstück in ruhigem Baugebiet -jetzt Fördermöglichkeiten nutzen-,968.322 €,"55218 Ingelheim am Rhein, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,562 m²,6.678 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Moderne Doppelhaushälfte in ruhigem Baugebiet sucht Familie:-),589.345 €,"55218 Ingelheim am Rhein, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,255 m²,4.064 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"SO könnte Ihr neues Traumhaus aussehen, oder individuell geplant inkl. Grundstück!!",968.320 €,"55218 Ingelheim am Rhein, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,520 m²,6.678 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+DenTraum vom Eigenheim verwirklichen und Bauherr/in einem exklusiven EFH werden,1.052.372 €,"55218 Ingelheim am Rhein, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",133 m²,590 m²,7.913 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Das PERFEKTE Haus auf dem PERFEKTEN Grundstück, EFH inkl. Grundstück in Top Lage",563.423 €,"67586 Hillesheim, Vulkaneifel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,430 m²,4.507 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Doppelhaushälfte inkl,588.432 €,"55296 Harxheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,286 m²,4.203 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Verwirklichen Sie Ihre Wohnwünsche mit einem exklusiven Bien Zenker Bungalow inkl. Grundstück,407.376 €,"67583 Guntersblum, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,97 m²,249 m²,4.200 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+EFH mit Runderker...ein Traum... inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,718.686 €,"67583 Guntersblum, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,200 m²,519 m²,3.593 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Sie möchten nicht viel Arbeit ums Haus, dann haben wir genau I H R Baugrundstück inkl. EFH!!!",534.970 €,"67583 Guntersblum, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,250 m²,3.689 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert im Bien Zenker Zweifamilienhaus inkl. Bau,826.763 €,"67583 Guntersblum, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,513 m²,4.073 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,583.362 €,"55452 Guldental, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,561 m²,4.667 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Endlich MEIN!!! Auch Ihr Traum ?? EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nut,478.564 €,"55459 Grolsheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,460 m²,3.829 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Baupartner für Moderne Doppelhaushälfte in ruhigem Baugebiet gesucht!!,521.384 €,"55457 Gensingen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,389 m²,3.724 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusive Doppelhaushälfte sucht Baupartner in ruhigem Baugebiet gesucht!!,474.572 €,"55288 Armsheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,310 m²,3.390 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Moderner Bungalow inkl. Baugrundstück sucht neue Bauherren,698.723 €,"55435 Gau-Algesheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,93 m²,530 m²,7.513 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Bauherren für modernes Einfamilienhaus in Gau -Algesheim gesucht- Top Lage- förderfähig-,683.477 €,"55435 Gau-Algesheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,545 m²,4.142 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,876.925 €,"55435 Gau-Algesheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,529 m²,7.015 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Doppelhaushälfte inkl. Bauplatz in kinderfreundlichem Baugebiet sucht neue Familie :-),676.981 €,"55435 Gau-Algesheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,241 m²,4.836 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Modernes Zweifamilienhaus Inklusive Grundstück direkt vom Eigentümer,1.129.875 €,"55435 Gau-Algesheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,430 m²,5.649 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Modernes Einfamilienhaus mit Fördermöglichkeiten sucht Familie:-),942.381 €,"55435 Gau-Algesheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",133 m²,470 m²,7.086 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Moderner Bungalow inkl. Baugrundstück sucht neuen Türöffner,856.321 €,"55270 Essenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,421 m²,7.785 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,687.229 €,"67575 Eich, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,323 m²,5.498 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Nie wieder Miete zahlen-Bauherren für modernes Einfamilienhaus gesucht- Top Lage- förderfähig-,689.328 €,"55276 Dienheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,425 m²,5.515 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,761.354 €,"55257 Budenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,93 m²,314 m²,8.187 €/m²,nil,nil,nil,1,1,nil,nil,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Großzügig geschnittener Bungalow inkl.Grundstück,761.361 €,"55257 Budenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,93 m²,340 m²,8.187 €/m²,nil,nil,nil,1,1,nil,nil,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück",761.334 €,"55257 Budenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,93 m²,304 m²,8.186 €/m²,nil,nil,nil,1,1,nil,nil,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Schickes Zweifamilienhaus Inklusive Grundstück direkt vom Eigentümer,1.429.863 €,"55257 Budenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,655 m²,7.149 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Baupartner für Moderne Doppelhaushälfte in ruhigem Baugebiet gesucht!!,826.787 €,"55257 Budenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,347 m²,5.906 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Nicht zu groß & nicht zu klein!!! Exklusives EFH mit Grundstück in ruhigem Baugebiet in Budenhe,1.242.392 €,"55257 Budenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",133 m²,691 m²,9.341 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",487.377 €,"55576 Badenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,162 m²,557 m²,3.009 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Neugierig?? Modernes förderfähiges Einfamilienhaus sucht neue Bauherren,487.366 €,"55576 Badenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,162 m²,540 m²,3.008 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! Modernes Einfamilienhaus inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten n,1.158.573 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,320 m²,1.100 m²,3.621 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,724.454 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,194 m²,1.064 m²,3.734 €/m²,nil,nil,nil,nil,nil,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,667.913 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,643 m²,6.072 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert im Bien Zenker Zweifamilienhaus inkl. Bau,937.433 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,212 m²,643 m²,4.422 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",811.943 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,637 m²,4.921 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Doppelhaushälfte inkl,566.964 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,324 m²,4.050 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,987.323 €,"55232 Alzey, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,523 m²,5.984 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",531.322 €,"55232 Alzey, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,464 m²,3.220 €/m²,nil,nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Modernes Einfamilienhaus mit Grundstück direkt vom Eigentümer-Jetzt Fördermöglichkeiten nutzen und d,497.293 €,"67577 Alsheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,455 m²,3.430 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schickes EFH in modernem Style inkl. Baugrundstück,497.224 €,"67577 Alsheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,464 m²,3.429 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusives Einfamilienhaus mit Fördermöglichkeiten sucht Familie:-),596.341 €,"55578 Wallertheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,444 m²,4.113 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Das PERFEKTE Haus auf dem PERFEKTEN Grundstück, EFH inkl. Grundstück in Top Lage",523.753 €,"55288 Spiesheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,483 m²,3.612 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schickes EFH in modernem Style inkl. Baugrundstück,534.261 €,"55599 Siefersheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,561 m²,3.685 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Alle unter einem Dach, Mehrgenerationenhaus Inklusive Grundstück direkt vom Eigentümer",739.956 €,"55599 Siefersheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,456 m²,3.700 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Wohnraum den man sich leisten kann!! Exklusives EFH mit Grundstück in ruhigem Baugebiet -jetzt Förd,423.449 €,"55444 Seibersbach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,445 m²,3.025 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusives Einfamilienhaus mit Fördermöglichkeiten sucht Familie:-),548.255 €,"55442 Roth, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,533 m²,3.323 €/m²,nil,nil,nil,1,1,nil,nil,{}
+Nie wieder Miete zahlen-Bauherren für modernes Einfamilienhaus gesucht- Top Lage- förderfähig-,486.323 €,"55592 Rehborn, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,533 m²,3.354 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusives Einfamilienhaus mit Fördermöglichkeiten sucht Familie:-),486.342 €,"55592 Rehborn, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,502 m²,3.354 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Wohnraum den man sich leisten kann!! Exklusives EFH mit Grundstück in ruhigem Baugebiet -jetzt Förd,486.313 €,"55592 Rehborn, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,503 m²,3.354 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Das PERFEKTE Haus auf dem PERFEKTEN Grundstück, EFH inkl. Grundstück in Top Lage",687.223 €,"67574 Osthofen, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,323 m²,5.498 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusiver Bungalow mit Fördermöglichkeiten in ruhiger Lage sucht neue Bauherren /in,523.373 €,"55234 Nack, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,110 m²,513 m²,4.758 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Tolles Einfamilienhaus -förderfähig inkl. Grundstück,389.234 €,"55490 Mengerschied, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,564 m²,3.114 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusives Einfamilienhaus mit Fördermöglichkeiten sucht Familie:-),427.351 €,"55590 Meisenheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,512 m²,2.947 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schickes EFH in modernem Style inkl. Baugrundstück,543.963 €,"55606 Kirn, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,601 m²,4.352 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,387.242 €,"55469 Holzbach, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,542 m²,3.098 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"5 Schlafzimmer, perfekt für Großfamilien!",220.000 €,"55471 Fronhofen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,184 m²,600 m²,1.196 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Komm zu uns in Musterhaus am 6.6.24 von 10 bis 18 Uhr!,251.000 €,"55483 Lautzenhausen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,169 m²,600 m²,1.485 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Komm zu uns in Musterhaus am 6.6.24 von 10 bis 18 Uhr!,251.000 €,"56329 Sankt Goar, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,169 m²,600 m²,1.485 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Bungalow, FAST schlüsselfertig!",330.000 €,"55483 Unzenberg, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,96 m²,600 m²,3.438 €/m²,Bungalow,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"5 Schlafzimmer, perfekt für Großfamilien!",262.000 €,"56281 Emmelshausen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,184 m²,600 m²,1.424 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Bungalow, FAST schlüsselfertig!",380.000 €,"56288 Kastellaun, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,96 m²,600 m²,3.958 €/m²,Bungalow,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+ausgefallen und wunderschön!,251.000 €,"55497 Ellern (Hunsrück), Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,139 m²,650 m²,1.806 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"5 Schlafzimmer, perfekt für Großfamilien!",221.000 €,"55471 Fronhofen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,184 m²,600 m²,1.201 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"5 Schlafzimmer, perfekt für Großfamilien!",235.000 €,"55483 Kappel, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,184 m²,600 m²,1.277 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+DU willst BAUEN? Mach´s einfach!,211.000 €,"55481 Kirchberg (Hunsrück), Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,111 m²,600 m²,1.901 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Investoren aufgepasst! Reihenhäuser made by massahaus!,755.000 €,"56281 Emmelshausen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",18,486 m²,900 m²,1.553 €/m²,Besondere Immobilie,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber fein!",221.000 €,"56283 Ney, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,108 m²,500 m²,2.046 €/m²,Bungalow,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber fein!",210.000 €,"55491 Niederweiler, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,108 m²,500 m²,1.944 €/m²,Bungalow,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ich bau mir mein Haus wie es mir gefällt! Eigene Grundrissgestaltung möglich.,205.000 €,"55491 Büchenbeuren, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,159 m²,700 m²,1.289 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Individuelle Grundrissgestaltung mit Massahaus!,242.000 €,"55469 Klosterkumbd, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,159 m²,830 m²,1.522 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mach´s einfach! Mit Massahaus bauen!,217.000 €,"55430 Urbar, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,111 m²,700 m²,1.955 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mach´s einfach! Mit Massahaus bauen!,189.000 €,"56288 Bell (Hunsrück), Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,111 m²,800 m²,1.703 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+So sieht modernes Mehrgenerationenwohnen heute aus!,295.000 €,"55430 Urbar, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,180 m²,600 m²,1.639 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2 Familien unter einem Dach!,311.000 €,"56288 Lahr, Cochem-Zell (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,180 m²,900 m²,1.728 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Stadtvilla + Eigenleistung = DIE Investitionsanlage!,252.000 €,"55483 Unzenberg, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,600 m²,1.881 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mach´s einfach! Mit Massahaus bauen,244.000 €,"55487 Sohren, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,600 m²,1.821 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mach´s einfach! Mit Massahaus bauen,272.000 €,"55497 Ellern (Hunsrück), Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,610 m²,2.030 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Besuche unsere Musterhäuser in Simmern!,285.000 €,"56281 Emmelshausen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,169 m²,600 m²,1.686 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ein Haus auf einer Ebene mit Walmdach,245.200 €,"55491 Niederweiler, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,600 m²,1.803 €/m²,Bungalow,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ein Haus mit vier verschiedenen Dachvarianten!,223.000 €,"55491 Büchenbeuren, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,600 m²,1.549 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+DU willst BAUEN?,230.000 €,"56154 Boppard, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,111 m²,600 m²,2.072 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrgenerationenhaus mit Zukunftsperspektive,302.000 €,"56291 Utzenhain, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,206 m²,1.000 m²,1.466 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrgenerationenhaus mit Zukunftsperspektive,307.000 €,"55469 Simmern/Hunsrück, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,206 m²,600 m²,1.490 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Besuche unsere Musterhäuser in Simmern!,272.000 €,"55469 Simmern/Hunsrück, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,169 m²,600 m²,1.609 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ein Haus mit vier verschiedenen Dachvarianten!,235.000 €,"55469 Simmern/Hunsrück, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,600 m²,1.632 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ein Haus auf einer Ebene mit Walmdach,275.200 €,"55469 Simmern/Hunsrück, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,600 m²,2.024 €/m²,Bungalow,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+DU willst BAUEN?,227.000 €,"55469 Simmern/Hunsrück, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,111 m²,600 m²,2.045 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Alle unter einem Dach, Mehrgenerationenhaus Inklusive Grundstück direkt vom Eigentümer",786.416 €,"55286 Wörrstadt, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,210 m²,581 m²,3.745 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus mit Grundstück direkt vom Eigentümer-Jetzt Fördermöglichkeiten nutzen und d,527.313 €,"55595 Weinsheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,139 m²,843 m²,3.794 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Schickes EFH in modernem Style inkl. Baugrundstück- Jetzt noch Födermöglichkeiten nutzen!!-,587.315 €,"55578 Wallertheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,134 m²,416 m²,4.383 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",734.516 €,"55263 Wackernheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,456 m²,4.452 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Tolles Einfamilienhaus -förderfähig inkl. Grundstück,734.511 €,"55263 Wackernheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,411 m²,4.452 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Modernes Einfamilienhaus mit Grundstück direkt vom Eigentümer-Jetzt Fördermöglichkeiten nutzen und d,567.322 €,"55288 Spiesheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,531 m²,4.234 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",525.134 €,"55469 Simmern/Hunsrück, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,134 m²,569 m²,3.919 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert mit dem Bien Zenker Zweifamilienhaus ink,747.684 €,"55494 Rheinböllen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,414 m²,3.683 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,646.752 €,"55494 Rheinböllen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,161 m²,405 m²,4.017 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",748.371 €,"55494 Rheinböllen, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",203 m²,390 m²,3.687 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... moderner Bungalow inkl. Baugrundstück",567.314 €,"55546 Pfaffen-Schwabenheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,624 m²,4.364 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schickes Einfamilienhaus - förderfähig inkl. Grundstück direkt vom Eigentümer,586.844 €,"55437 Ockenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,554 m²,3.912 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Nicht zu groß & nicht zu klein!!! Exklusives EFH mit Grundstück in ruhigem Baugebiet -jetzt Fö,695.558 €,"55437 Ober-Hilbersheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",202 m²,466 m²,3.443 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Wohnraum den man sich leisten kann!! Exklusives EFH mit Grundstück in ruhigem Baugebiet -jetzt Förd,695.564 €,"55437 Ober-Hilbersheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",202 m²,464 m²,3.443 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück",596.867 €,"55437 Ober-Hilbersheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,161 m²,468 m²,3.707 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Großzügig geschnittenes Zweifamilienhaus inkl. Grundstück -Jetzt Fördermöglichkeiten nutzen-,698.493 €,"55437 Ober-Hilbersheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,483 m²,3.441 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Doppelhaushälfte inkl,406.591 €,"55437 Ober-Hilbersheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,226 m²,3.333 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,879.313 €,"55283 Nierstein, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,573 m²,5.710 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Nachhaltig, innovativ und wertbeständig... moderner Bungalow inkl. Baugrundstück",576.421 €,"55424 Münster-Sarmsheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,80 m²,591 m²,7.205 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",738.923 €,"55278 Mommenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,545 m²,4.798 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,497.633 €,"55595 Mandel, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,100 m²,744 m²,4.976 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Das PERFEKTE Haus auf dem PERFEKTEN Grundstück, EFH inkl. Grundstück in Top Lage",543.612 €,"55595 Mandel, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,134 m²,772 m²,4.057 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,1.120.272 €,"55270 Klein-Winternheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,634 m²,6.790 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Wohnraum den man sich leisten kann!! Exklusives EFH mit Grundstück in ruhigem Baugebiet -jetzt Förd,824.312 €,"55218 Ingelheim am Rhein, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,362 m²,6.106 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück",706.861 €,"55595 Hargesheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,161 m²,562 m²,4.390 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,804.981 €,"55595 Hargesheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",202 m²,575 m²,3.985 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schickes EFH in modernem Style inkl. Baugrundstück,738.344 €,"55595 Hargesheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",178 m²,544 m²,4.148 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Großzügig geschnittenes Zweifamilienhaus inkl. Grundstück -Jetzt Fördermöglichkeiten nutzen-,808.483 €,"55595 Hargesheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,583 m²,3.983 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Doppelhaushälfte inkl,461.694 €,"55595 Hargesheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,290 m²,3.784 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Zweifamilienhaus inkl.,627.331 €,"55597 Gumbsheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,212 m²,621 m²,2.959 €/m²,nil,nil,2018,4,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Das PERFEKTE Haus auf dem PERFEKTEN Grundstück, EFH inkl. Grundstück in Top Lage",509.871 €,"55278 Dolgesheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,361 m²,3.399 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück",353.860 €,"55278 Dolgesheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",91 m²,360 m²,3.889 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... moderner Bungalow inkl. Baugrundstück",593.447 €,"55459 Grolsheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,118 m²,470 m²,5.029 €/m²,Bungalow,nil,2018,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Doppelhaushälfte inkl,579.321 €,"55270 Essenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,251 m²,4.138 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Baupartner für Moderne Doppelhaushälfte in ruhigem Baugebiet gesucht!!,433.672 €,"55559 Bretzenheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,215 m²,3.584 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Wohnraum den man sich leisten kann!! Exklusives EFH mit Grundstück in ruhigem Baugebiet -jetzt Förd,751.960 €,"55559 Bretzenheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,201 m²,580 m²,3.741 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,566.964 €,"55559 Bretzenheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,485 m²,4.361 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Großzügig geschnittenes Zweifamilienhaus inkl. Grundstück -Jetzt Fördermöglichkeiten nutzen-,758.377 €,"55559 Bretzenheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,500 m²,3.736 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Mehrgenerationenhaus inkl. Baugrundstück sucht neue Großfamilie - ruhige Lage,937.433 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,212 m²,633 m²,4.422 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Baupartner für Moderne Doppelhaushälfte in ruhigem Baugebiet gesucht!!,566.941 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,310 m²,4.050 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schickes EFH in modernem Style inkl. Baugrundstück,690.871 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,610 m²,5.527 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück",726.981 €,"55543 Bad Kreuznach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,650 m²,5.592 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusives Einfamilienhaus mit Fördermöglichkeiten sucht Familie:-),637.963 €,"55459 Aspisheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,483 m²,5.104 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Alle unter einem Dach, Zweifamilienhaus Inklusive Grundstück direkt vom Eigentümer",998.353 €,"55459 Aspisheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,283 m²,745 m²,3.528 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Modernes Einfamilienhaus mit Grundstück direkt vom Eigentümer-Jetzt Fördermöglichkeiten nutzen und d,674.524 €,"55232 Alzey, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,499 m²,4.380 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schickes EFH in modernem Style inkl. Baugrundstück,497.205 €,"67577 Alsheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,455 m²,3.429 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Alle unter einem Dach, Zweifamilienhaus Inklusive Grundstück direkt vom Eigentümer",962.871 €,"67577 Alsheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,711 m²,4.743 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Eintreten-Wohlfühlen...moderne Doppelhaushälfte inkl. Grundstück direkt vom Eigentümer such neue Bau,404.125 €,"55595 Winterbach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,355 m²,3.313 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,502.194 €,"55595 Winterbach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,711 m²,3.863 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Das PERFEKTE Haus auf dem PERFEKTEN Grundstück, EFH inkl. Grundstück in Top Lage",698.761 €,"55595 Hargesheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",202 m²,681 m²,3.459 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ihr ebenerdiger Wohntraum der keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,701.833 €,"55413 Weiler bei Bingen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,161 m²,431 m²,4.359 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusive Doppelhaushälfte mit Fördermöglichkeiten inkl. Grundstück sucht Familie:-),459.116 €,"55413 Weiler bei Bingen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,236 m²,3.763 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Alle unter einem Dach, Zweifamilienhaus Inklusive Grundstück direkt vom Eigentümer",802.384 €,"55413 Weiler bei Bingen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,424 m²,3.953 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusives Einfamilienhaus mit Fördermöglichkeiten sucht Familie:-),799.564 €,"55413 Weiler bei Bingen, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",202 m²,432 m²,3.958 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Exklusive Doppelhaushälfte mit Fördermöglichkeiten inkl. Grundstück sucht Familie:-),644.264 €,"55568 Staudernheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,814 m²,3.174 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... moderner Bungalow inkl. Baugrundstück",696.764 €,"55568 Staudernheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,161 m²,760 m²,4.328 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Wohnraum den man sich leisten kann!! Exklusives EFH mit Grundstück in ruhigem Baugebiet -jetzt Förd,795.542 €,"55568 Staudernheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",202 m²,792 m²,3.938 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Alle unter einem Dach, Zweifamilienhaus Inklusive Grundstück direkt vom Eigentümer",798.381 €,"55568 Staudernheim, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,810 m²,3.933 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... modernes Einfamilienhaus inkl. Baugrundstück",638.352 €,"55595 Spabrücken, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",178 m²,582 m²,3.586 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück - TOP LAGE -sucht neue Bauher",606.953 €,"55595 Spabrücken, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,161 m²,581 m²,3.770 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Verwirklichen Sie Ihre Wohnwünsche mit einem exklusiven Bien Zenker Einfamilienhaus inkl. Grundstück,704.553 €,"55595 Spabrücken, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",202 m²,552 m²,3.488 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Zweifamilienhaus inkl.,708.393 €,"55595 Spabrücken, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,603 m²,3.490 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Zweifamilienhaus inkl.,748.361 €,"55599 Siefersheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,451 m²,3.687 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,638.273 €,"55599 Siefersheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",164 m²,443 m²,3.892 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Wohnfläche die keine Wünsche offen lässt... moderner Bungalow inkl. Baugrundstück,648.791 €,"55599 Siefersheim, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,162 m²,461 m²,4.005 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Wohnraum den man sich leisten kann!! Exklusives EFH mit Grundstück in ruhigem Baugebiet -jetzt Förd,527.373 €,"55444 Schöneberg, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,535 m²,3.516 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Alle unter einem Dach, Mehrgenerationenhaus Inklusive Grundstück direkt vom Eigentümer",787.524 €,"55413 Niederheimbach, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,607 m²,3.879 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... moderner Bungalow inkl. Baugrundstück",670.793 €,"55413 Niederheimbach, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,161 m²,609 m²,4.166 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,675.865 €,"55413 Niederheimbach, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",202 m²,585 m²,3.346 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Doppelhaushälfte inkl,451.594 €,"55413 Niederheimbach, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,304 m²,3.702 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Baupartner für Moderne Doppelhaushälfte in ruhigem Baugebiet gesucht!!,396.563 €,"55497 Ellern (Hunsrück), Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,205 m²,3.251 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Alle unter einem Dach, Zweifamilienhaus Inklusive Grundstück direkt vom Eigentümer",678.361 €,"55497 Ellern (Hunsrück), Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,203 m²,451 m²,3.342 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Schickes EFH in modernem Style inkl. Baugrundstück,474.960 €,"55497 Ellern (Hunsrück), Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,214 m²,3.166 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Ein Traumhaus!! EFH inkl. Baugrundstück -Jetzt auch noch Fördermöglichkeiten nutzen!!,571.891 €,"55497 Ellern (Hunsrück), Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,461 m²,3.466 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Nachhaltig, innovativ und wertbeständig... moderner Bungalow inkl. Baugrundstück",487.980 €,"55497 Ellern (Hunsrück), Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,460 m²,3.754 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+Unabhängigkeit und doch ganz Nah- beides ideal kombiniert in der Bien Zenker Zweifamilienhaus inkl.,614.732 €,"55444 Dörrebach, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,212 m²,542 m²,2.900 €/m²,nil,nil,2018,4,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück-Energieeffizient Top Lage",396.433 €,"55494 Dichtelbach, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,80 m²,513 m²,4.955 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück",432.641 €,"55496 Argenthal, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,511 m²,3.328 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Barrierefrei, modern, föderfähig...Exklusiver Bungalow inkl.Grundstück",432.642 €,"55595 Argenschwang, Bad Kreuznach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,130 m²,512 m²,3.328 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+"Energie-effizient, modern und bezahlbar... -Mit*massa haus*an deiner Seite-",317.789 €,"54636 Seffern, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,590 m²,2.354 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Energie-effizient, modern und bezahlbar... - Mit*massa haus*an deiner Seite -",382.789 €,"54597 Lünebach, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,900 m²,2.835 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Haus - 4 Dachvarianten * modern und bezahlbar * Massa Haus,299.649 €,"54634 Bitburg, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,0 m²,2.220 €/m²,Einfamilienhaus (freistehend),135 m²,nil,nil,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Haus - 4 Dachvarianten * modern und bezahlbar * Massa Haus,375.549 €,"54634 Biersdorf am See, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,680 m²,2.782 €/m²,Einfamilienhaus (freistehend),135 m²,nil,nil,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Haus - 4 Dachvarianten * modern und bezahlbar * Massa Haus,429.349 €,"54298 Orenhofen, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,890 m²,3.180 €/m²,Einfamilienhaus (freistehend),135 m²,nil,nil,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Energie-effizient, modern und bezahlbar... - Mit*massa haus*an deiner Seite -",373.789 €,"54636 Röhl, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,590 m²,2.769 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Energie-effizient, modern und bezahlbar... - Mit *massa haus* an deiner Seite -",326.789 €,"54533 Gransdorf, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,710 m²,2.421 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*Massa Haus* Gestalte dein eigenes Zuhause, mit uns ist das möglich!",443.299 €,"54597 Lünebach, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,890 m²,2.111 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Massa Haus* Gestalte dein eigenes Zuhause. Hier zählen deine Wünsche,434.199 €,"54636 Röhl, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,590 m²,2.068 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mach´s einfach! Mit Massa Haus. Nur für kurze Zeit,277.559 €,"54636 Idesheim, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,112 m²,800 m²,2.478 €/m²,Einfamilienhaus (freistehend),nil,nil,2,2,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mach´s einfach! Mit Massa Haus! Nur für kurze Zeit,251.559 €,"54597 Burbach, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,112 m²,810 m²,2.246 €/m²,Einfamilienhaus (freistehend),nil,nil,2,2,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mit Massa Haus clever ins eigene Heim!,387.299 €,"54298 Orenhofen, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,103 m²,850 m²,3.760 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Haus zum Träumen .... made im Hunsrück by *massa haus*,349.449 €,"54636 Altscheid, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,148 m²,1.000 m²,2.361 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mit Massa Haus clever ins eigene Heim! Hier stehen deine Wünsche an erster Stelle!,357.299 €,"54619 Lichtenborn, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,103 m²,900 m²,3.469 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Haus zum Träumen .... made im Hunsrück by *massa haus*,364.549 €,"54619 Lichtenborn, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,148 m²,1.500 m²,2.463 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Massa Haus* So sieht modernes Mehrgenerationenwohnen heute aus!,464.399 €,"54634 Bitburg, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,180 m²,560 m²,2.580 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Haus zum Träumen .... made im Hunsrück by *massa haus*,352.849 €,"54636 Idesheim, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,148 m²,800 m²,2.384 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Massa Haus* So sieht modernes Mehrgenerationenwohnen heute aus!,378.499 €,"54533 Gransdorf, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,180 m²,700 m²,2.103 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Massa Haus* hier haben Ihre Ideen Platz für das neue Zuhause,284.899 €,"54595 Gondenbrett, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,750 m²,1.965 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Clever ins eigene zu Hause - Mit Massa Haus,371.999 €,"54668 Schankweiler, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,146 m²,950 m²,2.548 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Clever ins eigene zu Hause - Mit Massa Haus,293.899 €,"54689 Daleiden, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,146 m²,780 m²,2.013 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mit Massa Haus clever ins eigene Heim! Hier stehen deine Wünsche an erster Stelle!,387.299 €,"54634 Bitburg, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,103 m²,560 m²,3.760 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Energieeiffizient, modern und bezahlbar - Für Sie aus einer Hand",356.819 €,"66115 Burbach, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,146 m²,442 m²,2.444 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mach´s einfach! Mit Massa Haus,260.539 €,"54649 Waxweiler, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,112 m²,640 m²,2.326 €/m²,Einfamilienhaus (freistehend),nil,nil,2,2,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mach´s einfach! Mit Massa Haus,267.659 €,"54673 Keppeshausen, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,112 m²,285 m²,2.390 €/m²,Einfamilienhaus (freistehend),nil,nil,2,2,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mach´s einfach! Mit Massa Haus,261.659 €,"54533 Gransdorf, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,112 m²,718 m²,2.336 €/m²,Einfamilienhaus (freistehend),nil,nil,2,2,Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Massa Haus* Gestalte dein eigenes Zuhause,444.249 €,"54636 Biersdorf am See, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,900 m²,2.115 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Massa Haus* Gestalte dein eigenes Zuhause,399.999 €,"54636 Altscheid, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,1.100 m²,1.905 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Massa Haus* Gestalte dein eigenes Zuhause,469.999 €,"54634 Bitburg, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,600 m²,2.238 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Massa Haus* Gestalte dein eigenes Zuhause,416.269 €,"54619 Lichtenborn, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,1.600 m²,1.982 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*Massa Haus* Gestalte dein eigenes Zuhause,444.269 €,"54298 Orenhofen, Bitburg-Prüm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,900 m²,2.116 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

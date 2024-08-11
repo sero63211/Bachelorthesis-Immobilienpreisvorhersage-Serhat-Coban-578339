@@ -1,0 +1,105 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+wunderschöne 3-Zimmerwohnung mit Terrasse und Gartenanteil,420.000 €,"Goethestr. 18,
+72584 Hülben, Reutlingen (Kreis)",3,"84,7 m²",4.959 €/m²,Erdgeschosswohnung,nil,Sommer 2025,2,1,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Helle 3-Zimmer-EG-Wohnung in sehr guter Lage Böblingen PROVISIONSFREI!,319.000 €,"Harbigstraße 46,
+71032 Böblingen, Böblingen (Kreis)",3,"81,8 m²",3.900 €/m²,Erdgeschosswohnung,12 m²,Ab sofort bezugsfrei,nil,1,nil,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Ökologisch leben in Remshalden,563.750 €,"Forststraße 3,
+73630 Remshalden, Rems-Murr-Kreis",4,"96,65 m²",5.833 €/m²,Erdgeschosswohnung,nil,nil,3,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöne 4-Zimmer-Wohnung, barrierefrei und mit Balkon",653.900 €,"Warthestraße 4,
+Grünbühl, 71638 Ludwigsburg",4,"98,84 m²",6.616 €/m²,nil,nil,nil,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+traumhafte 3-Zimmer tollem Balkon,423.000 €,"Goethestr. 18,
+72584 Hülben, Reutlingen (Kreis)",3,"85,3 m²",4.959 €/m²,Etagenwohnung,nil,nil,2,1,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Tolle 4-Zimmer-Wohnung mit wunderschöner großer und sonniger Dachterrasse,695.000 €,"Warthestraße 4,
+Grünbühl, 71638 Ludwigsburg",4,"99,5 m²",6.985 €/m²,nil,nil,vssl. Q3/2025,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Loftfeeling - Neubauwohnung wie für Sie gemacht!,619.000 €,"Rüppurr, 76199 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"107,94 m²",5.735 €/m²,Etagenwohnung,nil,2024,nil,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Vorderhaus - DG links - 2,5 Zimmer",307.400 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",74 m²,4.154 €/m²,Dachgeschoss,"27,8 m²",12/2025,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Vorderhaus - 2.OG rechts - 3,5 Zimmer",420.400 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",101 m²,4.162 €/m²,Etagenwohnung,29 m²,12/2025,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Meine Heimat"" in Schorndorf",459.000 €,"Jakob-Degen-Straße 48,
+73614 Schorndorf, Rems-Murr-Kreis",3,"77,8 m²",5.900 €/m²,nil,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernisierte und barrierefreie Erdgeschosswohnung in ruhiger Lage !,230.000 €,"77933 Lahr/Schwarzwald, Ortenaukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,92 m²,2.500 €/m²,Erdgeschosswohnung,nil,25.03.2024,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Sehr gepflegte 3-Zimmer Wohnung mit Balkon und Garage im Zentrum von Rheinfelden,255.000 €,"Rudolf-Vogel-Anlage 6,
+79618 Rheinfelden (Baden), Lörrach (Kreis)",3,62 m²,4.113 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,"3,57 % inkl. gesetzl. MwSt. (19%)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Vorderhaus - Erdgeschoss links - 4,5 Zimmer",559.800 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",135 m²,4.147 €/m²,Erdgeschosswohnung,"26,7 m²",12/2025,3,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Meine Heimat"" in Schorndorf",749.000 €,"Jakob-Degen-Straße 48,
+73614 Schorndorf, Rems-Murr-Kreis",4,"116,73 m²",6.417 €/m²,nil,nil,nil,3,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Exkl.Penthouse mit Dachterrasse & gesichertem Förderdarlehen (1,65% Zins)",704.850 €,"Maiwiesen 17,
+88400 Biberach an der Riß, Biberach (Kreis)",4,128 m²,5.507 €/m²,Penthouse,nil,2025,3,1,1 Carport,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Vorderhaus - 2.OG links - 3,5 Zimmer",392.100 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",94 m²,4.171 €/m²,Etagenwohnung,"30,7 m²",12/2025,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Gepflegte Eigentumswohnung mit Loggia, großem Garten, Carport und Garage",250.000 €,"Biberach, 74078 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,93 m²,2.688 €/m²,Erdgeschosswohnung,nil,sofort,2,1,2 Garagen,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Hinterhaus - OG links - 3,5 Zimmer",309.500 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",75 m²,4.127 €/m²,Etagenwohnung,"36,32 m²",12/2025,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hinterhaus - EG links - 2,5 Zimmer",313.400 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",76 m²,4.124 €/m²,Erdgeschosswohnung,"36,12 m²",12/2025,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hinterhaus - EG rechts - 2,5 Zimmer",293.900 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",71 m²,4.139 €/m²,Erdgeschosswohnung,"36,12 m²",12/2025,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+In schöner Stadtrandlage!,229.000 €,"88316 Isny im Allgäu, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","71,98 m²",3.181 €/m²,nil,nil,nil,nil,nil,2 Stellplätze,"3,57 % inkl. MwSt",{'is24qa-balkon-terrasse-label': ''}
+"Zentrale 3,5-Zi.-ETW mit Garage in Leo. als Kapitalanlage oder Eigennutzung",295.000 €,"Schleiermacherstraße 20,
+71229 Leonberg, Böblingen (Kreis)","3,5",80 m²,3.688 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schicke 2-Zimmer-Wohnung mit sonnigem Balkon,378.900 €,"Warthestraße 4,
+Grünbühl, 71638 Ludwigsburg",2,"54,16 m²",6.996 €/m²,nil,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Barrierefreie 3-Zimmer-Wohnung mit großzügigem Balkon mit Südausrichtung,479.000 €,"Warthestraße 4,
+Grünbühl, 71638 Ludwigsburg",3,"76,57 m²",6.256 €/m²,nil,nil,vss. 12/2025,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+traumhafte 4-Zimmer Dachgeschoss Wohnung mit tollem Balko,460.000 €,"Goethestr. 18,
+72584 Hülben, Reutlingen (Kreis)",4,"92,47 m²",4.975 €/m²,Dachgeschoss,nil,nil,2,1,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Vorderhaus - 1.OG rechts - 3,5 Zimmer",420.400 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",101 m²,4.162 €/m²,Etagenwohnung,"26,7 m²",12/2025,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer Wohnung in Singen-Süd! In Kürze frei zum Bezug,185.000 €,"78224 Singen (Hohentwiel), Konstanz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,68 m²,2.721 €/m²,Etagenwohnung,nil,01.07.2024,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Vorderhaus - DG rechts - 2,5 Zimmer",336.900 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",81 m²,4.159 €/m²,Dachgeschoss,"28,5 m²",12/2025,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 4-Zimmer-Wohnung im Erdgeschoss mit Terrasse und Gartenanteil,619.000 €,"Warthestraße 4,
+Grünbühl, 71638 Ludwigsburg",4,"93,84 m²",6.596 €/m²,Erdgeschosswohnung,nil,vssl. Q3/2025,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Meine Heimat"" in Schorndorf",359.000 €,"Jakob-Degen-Straße 48,
+73614 Schorndorf, Rems-Murr-Kreis",2,"60,2 m²",5.963 €/m²,nil,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hinterhaus - OG rechts - 3,5 Zimmer",336.000 €,"76661 Philippsburg, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",81 m²,4.148 €/m²,Etagenwohnung,"36,12 m²",12/2025,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ökologisch leben in Remshalden,443.750 €,"Forststraße 3,
+73630 Remshalden, Rems-Murr-Kreis",3,"84,28 m²",5.265 €/m²,Dachgeschoss,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stadtgeflüster - Genießen Sie alle Neubauvorzüge!,839.000 €,"Rüppurr, 76199 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"147,54 m²",5.687 €/m²,Erdgeschosswohnung,nil,2024,nil,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Tolle Stadtwohnung mit Balkon in Zentraler Lage,189.000 €,"Neckarstadt-West, 68169 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,63 m²,3.000 €/m²,Etagenwohnung,5 m²,nil,1,1,nil,"2,975 inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Grünbühl.living: Schöne 2-Zimmer-Wohnung mit Gartenanteil,349.000 €,"Warthestraße 4,
+Grünbühl, 71638 Ludwigsburg",2,"51,9 m²",6.724 €/m²,Erdgeschosswohnung,nil,vss. 12/2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Die Lage ist entscheidend - sofort beziehbare 4-Zi.-DG-Wohnung mit 2 Balkonen,425.000 €,"70736 Fellbach, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,4.337 €/m²,Dachgeschoss,nil,sofort,3,1,2 Stellplätze,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+traumhafte 4-Zimmer Dachgeschoss Wohnung mit tollem Balko,462.000 €,"Goethestr. 18,
+72584 Hülben, Reutlingen (Kreis)",4,"93,25 m²",4.954 €/m²,Dachgeschoss,nil,nil,2,1,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+wunderschöne 3-Zimmerwohnung mit Terrasse und Gartenanteil,400.000 €,"Goethestr. 18,
+72584 Hülben, Reutlingen (Kreis)",3,"80,7 m²",4.957 €/m²,Erdgeschosswohnung,nil,Sommer 2025,2,1,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"provisionsfreie Wohnung mit viereinhalb Zimmern sowie Balkon, EBK und Garage in Remseck Aldingen",429.000 €,"71686 Remseck am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",107 m²,4.009 €/m²,Etagenwohnung,nil,16.3.2024,2,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Meine Heimat"" in Schorndorf",499.000 €,"Jakob-Degen-Straße 48,
+73614 Schorndorf, Rems-Murr-Kreis",3,"76,85 m²",6.493 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ökologisch leben in Remshalden,643.750 €,"Forststraße 3,
+73630 Remshalden, Rems-Murr-Kreis",4,"117,26 m²",5.490 €/m²,Dachgeschoss,nil,nil,3,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Nachhaltige Rendite gewährleistet, vermietete, attraktive 2 Zi.-Wohnung in Marbach-Süd!",179.000 €,"Jenaweg 11,
+71672 Marbach am Neckar, Ludwigsburg (Kreis)",2,39 m²,4.590 €/m²,Etagenwohnung,nil,sofort,1,1,1 Duplex-Stellplatz,"3,5 % zzgl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"""Meine Heimat"" in Schorndorf",499.000 €,"Jakob-Degen-Straße 48,
+73614 Schorndorf, Rems-Murr-Kreis",3,"73,79 m²",6.762 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung im Erdgeschoss mit schöner Terrasse und Garten,652.900 €,"Warthestraße 4,
+Grünbühl, 71638 Ludwigsburg",4,"97,9 m²",6.669 €/m²,Erdgeschosswohnung,nil,vssl. Q3/2025,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Modernes Stadtleben: 3-Zimmer-Erdgeschosswohnung im begehrten Mannheimer Jungbusch.",225.000 €,"Innenstadt/Jungbusch, 68159 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,3.214 €/m²,Erdgeschosswohnung,10 m²,nach Absprache,2,1,nil,"3,57 % inkl. MwSt. vom Käufer","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Schöne 3-Zimmer Wohnung mit Penthouse-Feeling,524.900 €,"Warthestraße 4,
+Grünbühl, 71638 Ludwigsburg",3,"75,41 m²",6.961 €/m²,nil,nil,vssl. Q3/2025,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zwei Penthouse Wohnungen im Paket - Attraktive Kapitalanlage und Selbstnutzungsmöglichkeit,535.000 €,"76275 Ettlingen, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,104 m²,5.144 €/m²,Penthouse,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"4 Zi. Wohnung mit Garten (gesicherte Förderung 1,65% Zins)",645.750 €,"Maiwiesen 17,
+88400 Biberach an der Riß, Biberach (Kreis)",4,125 m²,5.166 €/m²,Erdgeschosswohnung,nil,2025,3,1,2 Stellplätze,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen für alle Lebensphasen: Familie und Best Ager im perfekten Zuhause,869.000 €,"Rüppurr, 76199 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"153,52 m²",5.661 €/m²,Etagenwohnung,nil,2024,nil,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Liebe auf den ersten Blick - Neubautraum mitten in Rüppurr!,784.000 €,"Rüppurr, 76199 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"138,6 m²",5.657 €/m²,Etagenwohnung,nil,2024,nil,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+traumhafte 3-Zimmer tollem Balkon,416.000 €,"Goethestr. 18,
+72584 Hülben, Reutlingen (Kreis)",3,"84,01 m²",4.952 €/m²,Etagenwohnung,nil,nil,2,1,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ökologisch leben in Remshalden,428.750 €,"Forststraße 3,
+73630 Remshalden, Rems-Murr-Kreis",3,"76,03 m²",5.639 €/m²,nil,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

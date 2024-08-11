@@ -1,0 +1,103 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus,70.000 €,"99638 Griefstedt, Sömmerda (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,108 m²,272 m²,648 €/m²,Einfamilienhaus (freistehend),nil,sofort,nil,1,nil,"3,57% inkl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+10-Zimmer-Haus in Friedrichroda,105.000 €,"Marktstrasse 33,
+99894 Friedrichroda, Gotha (Kreis)",10,200 m²,1.300 m²,525 €/m²,Mehrfamilienhaus,200 m²,nil,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+½ Anteil - 2-Familienhaus mit Garage,68.950 €,"Neuer Weg XXX,
+98630 Gleichamberg, Hildburghausen (Kreis)",5,472 m²,2.243 m²,146 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Pkw-Stellplatz - provisionsfrei,83.000 €,"Prof.-Franke-Platz XXX,
+98553 Schleusingen, Hildburghausen (Kreis)",1,137 m²,278 m²,606 €/m²,Wohnimmobilie (sonstige),9 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage,71.100 €,"Friedensstraße XXX,
+96515 Sonneberg, Sonneberg (Kreis)",4,96 m²,320 m²,741 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Zweifamilienhaus mit Anbau und Balkon,45.000 €,"Kleinliebringen XXX,
+99326 Ilmtal, Ilm-Kreis",1,165 m²,142 m²,273 €/m²,Wohnimmobilie (sonstige),12 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn- und Geschäftshaus + provisionsfrei +,15.000 €,"Klosterlausnitzer Straße XXX,
+07607 Eisenberg, Saale-Holzland-Kreis",1,250 m²,290 m²,60 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Zeitgemäßes Einfamilienhaus in Jena: Geräumiger Wohntraum mit nachhaltiger Energieeffizienz,990.000 €,"Zwätzen, 07743 Jena
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,237 m²,550 m²,4.177 €/m²,Wohnimmobilie (sonstige),nil,nil,4,3,nil,"3,57 inkl MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"22700 | Schöner, vollvermieteter Stuck-Altbau in idyllischer Lage am Erfurter Domplatz",1.030.000 €,"Andreasvorstadt, 99089 Erfurt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",30,438 m²,630 m²,2.352 €/m²,Mehrfamilienhaus,1.070 m²,nil,nil,nil,nil,"Die Provision beträgt 7,14 % des Kaufpreises inkl. der gesetzlichen Mehrwertsteuer.",{}
+Reihenmittelhaus mit Garage,85.000 €,"Brühl XXX,
+99628 Buttstädt, Sömmerda (Kreis)",1,129 m²,280 m²,659 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2257 | Vollvermietetes Einzeldenkmal mit Balkonen & Stellplätzen in der Erfurter Altstadt,2.900.000 €,"Altstadt, 99084 Erfurt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",38,1.016 m²,523 m²,2.854 €/m²,Mehrfamilienhaus,1.500 m²,nil,nil,nil,nil,"Die Provision beträgt 7,14 % des Kaufpreises inkl. der gesetzlichen Mehrwertsteuer.",{}
+Einfamilienhaus mit Garage + provisionsfrei +,79.000 €,"Schillerstraße XXX,
+98574 Schmalkalden, Schmalkalden-Meiningen (Kreis)",7,275 m²,601 m²,287 €/m²,Wohnimmobilie (sonstige),57 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Doppelhaushälfte + provisionsfrei +,150.000 €,"Lindenstraße XXX,
+06567 Bad Frankenhausen/Kyffhäuser, Kyffhäuserkreis",1,110 m²,118 m²,1.364 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+½ Anteil - 2-Familienhaus mit Garage,68.950 €,"Neuer Weg XXX,
+98630 Gleichamberg, Hildburghausen (Kreis)",5,472 m²,2.243 m²,146 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Vierseithof mit Wohnhaus und Hofscheune - provisionsfrei,79.000 €,"Hauptstraße XXX,
+99820 Hörselberg-Hainich, Wartburgkreis",5,230 m²,788 m²,343 €/m²,Wohnimmobilie (sonstige),70 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Terrasse und Garten,504.000 €,"Dr.-Külz-Straße XXX,
+99869 Friemar, Gotha (Kreis)",7,"319,9 m²",2.600 m²,1.575 €/m²,Wohnimmobilie (sonstige),"165,1 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Doppel-Carport,167.000 €,"Hüttenstraße XXX,
+98667 Neustadt am Rennsteig, Ilm-Kreis",1,148 m²,1.429 m²,1.128 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit Garage und Nebengebäude,128.000 €,"Schleusinger Allee XXX,
+98693 Ilmenau, Ilm-Kreis",1,1 m²,4.514 m²,128.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+EFH Altstadtperle mitten in Erfurt,350.000 €,"Glockengasse 14,
+Altstadt, 99084 Erfurt",4,100 m²,60 m²,3.500 €/m²,Reihenmittelhaus,100 m²,26.2.2024,2,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hereinspaziert & herzlich Willkommen in euerm Traumhaus,489.316 €,"99867 Gotha, Gotha (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,164 m²,515 m²,2.984 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+## Euer Zuhause ##,496.174 €,"99867 Gotha, Gotha (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,165 m²,515 m²,3.007 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einfach mal abhängen,469.551 €,"99867 Gotha, Gotha (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,515 m²,3.261 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Zuhause ist es doch am Schönsten,430.650 €,"Hötzelsroda, 99817 Eisenach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,153 m²,2.398 m²,2.815 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Baut euer Traumhaus mit Livinghaus,304.750 €,"Hötzelsroda, 99817 Eisenach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,2.398 m²,2.131 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Alle Wünsche erfüllt - Wohnen in eurem Traumhaus,330.313 €,"99848 Wutha-Farnroda, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,167 m²,460 m²,1.978 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wohlfühlen beginnt zu Hause,372.635 €,"99848 Wutha-Farnroda, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,460 m²,2.981 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Hereinspaziert & herzlich Willkommen in euerm Traumhaus,491.121 €,"98617 Meiningen, Schmalkalden-Meiningen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,164 m²,480 m²,2.995 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einfach mal abhängen,471.356 €,"98617 Meiningen, Schmalkalden-Meiningen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,480 m²,3.273 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Hier lässt es sich gut leben,312.117 €,"99974 Bad Langensalza, Unstrut-Hainich-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,1.361 m²,2.167 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Hier findet jeder seinen Lieblingsplatz,372.635 €,"99974 Bad Langensalza, Unstrut-Hainich-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,1.361 m²,2.981 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Genießt eure Freizeit im Grünen,403.467 €,"99974 Mühlhausen/Thüringen, Unstrut-Hainich-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,107 m²,627 m²,3.771 €/m²,Einfamilienhaus (freistehend),nil,nil,2,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Freiraum & Lebensfreude für die ganze Familie,437.883 €,"99713 Ebeleben, Kyffhäuserkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,1.442 m²,3.041 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Feiert schon bald Richtfest,257.708 €,"99706 Sondershausen, Kyffhäuserkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,113 m²,1.023 m²,2.281 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Familienidylle mit eigenem Sonnengarten,485.621 €,"99755 Hohenstein, Nordhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,164 m²,3.176 m²,2.961 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Endlich in den eigenen 4 Wänden wohnen,430.267 €,"99819 Marksuhl, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,165 m²,568 m²,2.608 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ein Haus - wie für euch gemacht,314.082 €,"98587 Steinbach-Hallenberg, Schmalkalden-Meiningen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,136 m²,498 m²,2.309 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wohlfühlen beginnt zu Hause,233.208 €,"98617 Leutersdorf, Schmalkalden-Meiningen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,113 m²,566 m²,2.064 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Nach Hause kommen und rundum wohlfühlen,299.170 €,"99837 Dippach, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,153 m²,1.436 m²,1.955 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+## Euer Zuhause ##,441.140 €,"99775 Ellrich, Nordhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,2.470 m²,3.063 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Baut doch euer Traumhaus,475.841 €,"99734 Nordhausen, Nordhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,164 m²,631 m²,2.901 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einfach mal abhängen,450.979 €,"99819 Krauthausen, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,165 m²,1.894 m²,2.733 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Wo Gemütlichkeit zu Hause ist,338.082 €,"99848 Wutha-Farnroda, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,136 m²,488 m²,2.486 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Rundum wohlfühlen in den eigenen 4 Wänden,439.724 €,"98574 Schmalkalden, Schmalkalden-Meiningen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,167 m²,11.180 m²,2.633 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Sicherheit & Geborgenheit in den eigenen 4 Wänden,394.338 €,"99713 Helbedündorf, Kyffhäuserkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,1.132 m²,2.738 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Leben - Lieben - Lachen und natürlich auch genießen,444.462 €,"99974 Mühlhausen/Thüringen, Unstrut-Hainich-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,1.029 m²,3.556 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Hier kommt jeder gern nach Hause,429.967 €,"99830 Treffurt, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,165 m²,724 m²,2.606 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Zuhause ist dort, wo es am schönsten ist",416.186 €,"99994 Marolterode, Unstrut-Hainich-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,153 m²,1.965 m²,2.720 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Wohnt doch, wie ihr wollt",403.350 €,"98574 Schmalkalden, Schmalkalden-Meiningen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,167 m²,551 m²,2.415 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Viel Platz in euerm Traumhaus,297.985 €,"36433 Moorgrund, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,165 m²,700 m²,1.806 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ihr habt die Wünsche - wir euer Traumhaus,342.546 €,"37308 Heilbad Heiligenstadt, Eichsfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,107 m²,684 m²,3.201 €/m²,Einfamilienhaus (freistehend),nil,nil,2,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Die Freunde eurer Kinder wohnen in der Nachbarschaft,402.185 €,"99834 Gerstungen, Wartburgkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,153 m²,617 m²,2.629 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}

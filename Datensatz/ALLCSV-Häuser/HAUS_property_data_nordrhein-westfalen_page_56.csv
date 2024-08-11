@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Zwei- und Einfamilienhaus, nebst Garten + provisionsfrei +",390.000 €,"Brunohler Straße XX,
+51645 Gummersbach, Oberbergischer Kreis",1,290 m²,2.034 m²,1.345 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn-/Geschäftshaus-Komplex + provisionsfrei +,519.000 €,"Cappelstr. XX,
+59555 Lippstadt, Soest (Kreis)",1,511 m²,822 m²,1.016 €/m²,Wohnimmobilie (sonstige),541 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus, Terrasse, Garten, Garage",265.000 €,"Ruprechtstraße XX,
+44581 Castrop-Rauxel, Recklinghausen (Kreis)",8,200 m²,674 m²,1.325 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage ++ Mehrfamilien- und Einfamilienhaus ++,357.180 €,"Winterberger Straße XX,
+57392 Schmallenberg, Hochsauerlandkreis",14,428 m²,3.403 m²,835 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit 13 Wohnungen als Kapitalanlage,2.540.000 €,"Dorfstraße XX,
+Wewer, 33106 Paderborn",31,927 m²,1.249 m²,2.740 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenmittelhaus, Terrasse, Garten",205.000 €,"Burgstraße XX,
+50226 Frechen, Rhein-Erft-Kreis",7,"123,86 m²",121 m²,1.655 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenmittelhaus, Terrasse, Reihengarage",113.500 €,"Von-Bodelschwingh-Straße XX,
+32699 Extertal, Lippe (Kreis)",5,"106,88 m²",235 m²,1.062 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Garten und Stellplatz,407.000 €,"Lupinenstraße XX,
+Reuschenberg, 41466 Neuss",5,"83,75 m²",254 m²,4.860 €/m²,Wohnimmobilie (sonstige),45 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Einfamilien-Reihenendhaus mit Garten und Garage +,219.000 €,"Espenweg XX,
+Vorhalle, 58089 Hagen",5,"113,61 m²",466 m²,1.928 €/m²,Wohnimmobilie (sonstige),"13,75 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, Dachterrasse, Doppelgarage mit Grube",75.000 €,"Am Lullberg XX,
+34434 Borgentreich, Höxter (Kreis)",4,114 m²,692 m²,658 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Großzügiges Einfamilienhaus mit 4 Garagen +,1.405.000 €,"Grengeler Mauspfad XX,
+Eil, 51147 Köln",5,197 m²,2.016 m²,7.132 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus und Garage + provisionsfrei +,140.000 €,"Mühlenholzweg XX,
+57290 Neunkirchen, Siegen-Wittgenstein (Kreis)",1,142 m²,1.240 m²,986 €/m²,Wohnimmobilie (sonstige),142 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus mit Einlieger, Garten und Doppelgarage",795.000 €,"An der Foche XX,
+51503 Rösrath, Rheinisch-Bergischer Kreis",10,"324,67 m²",952 m²,2.449 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, Terrasse, Garten",467.000 €,"Eupenstraße XX,
+Emst, 58093 Hagen",1,115 m²,379 m²,4.061 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Flachdach-Bungalow + provisionsfrei +,358.000 €,"Moyländer Straße XX,
+47574 Goch, Kleve (Kreis)",5,195 m²,1.260 m²,1.836 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohn-/Geschäftshaus + Kapitalanlage +,227.000 €,"Nordstraße XX,
+Mitte, 59065 Hamm",1,140 m²,495 m²,1.621 €/m²,Wohnimmobilie (sonstige),140 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Reihenmittelhaus mit Garten und Garage + provisionsfrei +,333.000 €,"Schmitteborn XX,
+Langerfeld-Beyenburg, 42389 Wuppertal",7,"130,28 m²",206 m²,2.556 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte nebst Garage,330.000 €,"Merschstraße XX,
+Bockum-Hövel, 59065 Hamm",3,100 m²,216 m²,3.300 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"3 Mehrfamilienhäuser, 21 Garagen",2.523.000 €,"Bockholtstraße XX,
+Barbaraviertel, 41460 Neuss",1,"1.921,6 m²",1.792 m²,1.313 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Doppelhaushälfte ++ provisionsfrei ++,225.000 €,"Bachumer Weg XX,
+59757 Arnsberg, Hochsauerlandkreis",3,"138,12 m²",576 m²,1.629 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

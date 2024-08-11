@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Einfamilien-Reihenhaus, Garten, Stellplatz",350.000 €,"Schwarzer Kamp XX,
+Mecklenbeck, 48163 Münster",1,125 m²,226 m²,2.800 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, Balkon, Garage",74.000 €,"Violinenstraße XX,
+59929 Brilon, Hochsauerlandkreis",4,110 m²,428 m²,673 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Doppelgarage und Carport,281.700 €,"Unterbüchel XX,
+51766 Engelskirchen, Oberbergischer Kreis",1,100 m²,1.285 m²,2.817 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage + provisionsfrei +,363.000 €,"Alte Neusser Landstraße XX,
+Worringen, 50769 Köln",3,109 m²,259 m²,3.330 €/m²,Wohnimmobilie (sonstige),47 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus mit Einlieger, Garten und Garage",530.000 €,"Schützenstraße XX,
+48607 Ochtrup, Steinfurt (Kreis)",1,235 m²,975 m²,2.255 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, Wintergarten und Garage + provisionsfrei +",190.000 €,"Am Freibad XX,
+48268 Greven, Steinfurt (Kreis)",6,154 m²,511 m²,1.234 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Platz für alle + 1- bis 2-Familienhaus, Garten Doppelgarage +",145.000 €,"Flessinghauser Straße XX,
+34431 Marsberg, Hochsauerlandkreis",9,241 m²,295 m²,602 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Dreifamilienhaus +,230.000 €,"Quettinger Straße XX,
+Lützenkirchen, 51381 Leverkusen",7,163 m²,564 m²,1.411 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus, Dachterrasse, Doppelgarage, Gartenhaus",450.000 €,"Bachstraße XX,
+33813 Oerlinghausen, Lippe (Kreis)",1,160 m²,749 m²,2.813 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Wohnhaus, Wintergarten, Garagen",400.000 €,"Elmerborg XX,
+59929 Brilon, Hochsauerlandkreis",7,223 m²,2.865 m²,1.794 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus in guter Lage,151.000 €,"Bachstraße XX,
+32805 Horn-Bad Meinberg, Lippe (Kreis)",8,"189,58 m²",440 m²,796 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus mit Einlieger, Garten und Garage",216.000 €,"Karbach XX,
+33181 Bad Wünnenberg, Paderborn (Kreis)",7,250 m²,602 m²,864 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, Garten, Doppelgarage",529.000 €,"Hesselteicher Straße XX,
+33428 Harsewinkel, Gütersloh (Kreis)",7,168 m²,790 m²,3.149 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1/2 Anteil - Dreifamilienhaus,145.000 €,"Am Oestricher Bruch XX,
+Oestrich, 44357 Dortmund",10,226 m²,629 m²,642 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus in ruhiger Lage ++ provisionsfrei ++,200.000 €,"Steenkamp XX,
+48607 Ochtrup, Steinfurt (Kreis)",5,159 m²,1.013 m²,1.258 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Garage,345.000 €,"Brockhäger Straße XX,
+Innenstadt-Blankenhagen, 33330 Gütersloh",10,261 m²,672 m²,1.322 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Freistehendes Mehrfamilienhaus mit 3 Wohnungen +,440.000 €,"Mackenbrucher Straße XX,
+33813 Oerlinghausen, Lippe (Kreis)",11,280 m²,954 m²,1.571 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Großzügige Doppelhaushälfte mit Garten und Garage +,415.000 €,"Königstraße XX,
+Holten, 46149 Oberhausen",7,"157,19 m²",558 m²,2.640 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilien-Reihenmittelhaus, Garten, Garage",360.000 €,"Wiesenweg XX,
+Grengel, 51147 Köln",4,106 m²,225 m²,3.396 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus mit Einlieger, Garten und Doppelgarage",390.000 €,"Hindenburgstraße XX,
+51674 Wiehl, Oberbergischer Kreis",1,232 m²,671 m²,1.681 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

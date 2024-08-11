@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Zimmer-Wohnung mit TG-Stellplatz ++ ohne Provision ++,125.500 €,"Grüne Straße XXXX,
+42929 Wermelskirchen, Rheinisch-Bergischer Kreis",3,78 m²,1.609 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 1-Zimmer-Wohnung mit Balkon und Stellplatz +,93.000 €,"Steinstraße XXXX,
+Ohligs/Aufderhöhe/Merscheid, 42697 Solingen",1,"42,4 m²",2.193 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+++ 2-Zimmer-Wohnung mit 2 Balkonen ++,70.000 €,"Karl-Marx-Straße XXXX,
+Marxloh, 47169 Duisburg",2,"66,35 m²",1.055 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Stellplatz,46.000 €,"Emsring XXXX,
+Horsthausen, 44628 Herne",3,73 m²,630 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 3-Zimmer-Wohnung mit Balkon +,8.900 €,"Kaiser-Wilhelm-Straße XXXX,
+Marxloh, 47169 Duisburg",3,"83,25 m²",107 €/m²,nil,"11,09 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ Zwei 2-Zimmer-Wohnungen +,184.800 €,"Steinstraße XXXX,
+Ohligs/Aufderhöhe/Merscheid, 42697 Solingen",2,"84,21 m²",2.195 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon - provisionsfrei,8.670 €,"Kaiser-Wilhelm-Straße XXXX,
+Marxloh, 47169 Duisburg",3,"83,32 m²",104 €/m²,nil,"8,62 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung - Ohne Provision,59.000 €,"Heinrich-Jasper-Straße XXXX,
+59192 Bergkamen, Unna (Kreis)",3,67 m²,881 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"4-Zimmer-Wohnung, Balkon, Stellplatz + provisionsfrei +",230.000 €,"Ackerstraße XXXX,
+Wanne-Süd, 44652 Herne",4,116 m²,1.983 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit TG-Stellplatz ++ ohne Provision ++,117.500 €,"Grüne Straße XXXX,
+42929 Wermelskirchen, Rheinisch-Bergischer Kreis",3,"73,48 m²",1.599 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung nebst Balkon,177.000 €,"Thunemühle XXXX,
+Sande, 33104 Paderborn",4,86 m²,2.058 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 1-Zimmer-Wohnung mit Loggia und Stellplatz +,91.800 €,"Steinstraße XXXX,
+Ohligs/Aufderhöhe/Merscheid, 42697 Solingen",1,"41,81 m²",2.196 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"*BEZUGSFREI* zentral gelegenes Apartment mit Loggia, kleiner Einbauküche, Parkettboden",124.000 €,"53604 Bad Honnef, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"33,38 m²",3.715 €/m²,nil,6 m²,sofort,nil,1,nil,"3,57 % Käuferprovision inkl. gesetzlicher MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Wohnung mit Loggia + provisionsfrei +,75.000 €,"Halskestraße XXXX,
+Honsberg, 42857 Remscheid",1,"63,4 m²",1.183 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon und TG-Stellplatz + provisionsfrei +,88.500 €,"Grüne Straße XXXX,
+42929 Wermelskirchen, Rheinisch-Bergischer Kreis",2,54 m²,1.639 €/m²,nil,6 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnung im OG mit 2 Mansardenzimmern,72.000 €,"Im Grünen Winkel XXXX,
+Wedau, 47279 Duisburg",4,73 m²,986 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,83.000 €,"Broicher Straße XXXX,
+Alstaden-West, 46049 Oberhausen",2,"55,4 m²",1.498 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Balkon + provisionsfrei +,55.400 €,"Wiesenstraße XXXX,
+32257 Bünde, Herford (Kreis)",3,65 m²,852 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung und Loggia + provisionsfrei +,138.000 €,"Engelbertstraße XXXX,
+Furth Mitte, 41462 Neuss",4,"77,75 m²",1.775 €/m²,nil,"6,25 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon - provisionsfrei,6.600 €,"Reinerstraße XXXX,
+Bruckhausen, 47166 Duisburg",2,"73,16 m²",90 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

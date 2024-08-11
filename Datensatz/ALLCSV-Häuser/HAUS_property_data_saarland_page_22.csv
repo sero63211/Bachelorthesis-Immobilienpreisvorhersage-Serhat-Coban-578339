@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus und Garage + ohne Provision +,84.600 €,"Seitersstraße xxxx,
+66822 Lebach, Saarlouis (Kreis)",4,113 m²,204 m²,749 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnen im Grünen + Einfamilienhaus mit Balkon und Garage +,128.000 €,"Sofienstraße xxxx,
+66333 Völklingen, Stadtverband Saarbrücken (Kreis)",4,116 m²,790 m²,1.103 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Anbau - provisionsfrei,153.340 €,"Blumenstraße xxxx,
+66557 Illingen, Neunkirchen (Kreis)",3,151 m²,1.834 m²,1.015 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus nebst Garage + provisionsfrei +,138.000 €,"Rettenstraße xxxx,
+66539 Neunkirchen, Neunkirchen (Kreis)",1,110 m²,603 m²,1.255 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus - provisionsfrei,182.000 €,"Mia- Münsterstraße xxxx,
+66606 Sankt Wendel, Sankt Wendel (Kreis)",1,1 m²,510 m²,182.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Platz für die ganze Familie + 2 Einfamilienhäuser +,241.000 €,"Niedersaubacherstraße xxxx,
+66822 Lebach, Saarlouis (Kreis)",1,"159,3 m²",1.374 m²,1.513 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, Garten, Garage + provisionsfrei +",37.920 €,"Bliesdalheimer Straße xxxx,
+66440 Blieskastel, Saarpfalz-Kreis",1,1 m²,329 m²,37.920 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1- bis 2-Familienhaus mit Garten und Carport + provisionsfrei +,162.000 €,"Eichenstraße xxxx,
+66589 Merchweiler, Neunkirchen (Kreis)",5,147 m²,683 m²,1.102 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage und Terrasse,60.800 €,"Blandine-Merten-Straße xxxx,
+66701 Beckingen, Merzig-Wadern (Kreis)",2,89 m²,418 m²,683 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus nebst Balkonen und Garage,128.000 €,"Kreuzfeldstraße xxxx,
+Ensheim, 66131 Saarbrücken",7,175 m²,1.613 m²,731 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus nebst Garage und Landwirtschaftsflächen,181.000 €,"Hengstwaldstraße xxxx,
+66346 Püttlingen, Stadtverband Saarbrücken (Kreis)",8,222 m²,2.684 m²,815 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus (2 Wohnungen) und Garage,115.700 €,"Eisbachstraße xxxx,
+66687 Wadern, Merzig-Wadern (Kreis)",1,1 m²,971 m²,115.700 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + ohne Provision +,90.300 €,"Oberstraße xxxx,
+66687 Wadern, Merzig-Wadern (Kreis)",1,1 m²,251 m²,90.300 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 2-Familienhaus mit Einliegerwohnung und Garage +,283.000 €,"Am Grubenpfad xxxx,
+66280 Sulzbach/Saar, Stadtverband Saarbrücken (Kreis)",1,225 m²,228 m²,1.258 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Kellergarage,170.500 €,"Schwarzwaldstraße xxxx,
+66271 Kleinblittersdorf, Stadtverband Saarbrücken (Kreis)",4,160 m²,955 m²,1.066 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + provisionsfrei +,178.000 €,"Dorfstraße xxxx,
+66292 Riegelsberg, Stadtverband Saarbrücken (Kreis)",6,123 m²,3.372 m²,1.447 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1- bis 2-Familienhaus,110.000 €,"Zum Schleiderweg xxxx,
+66663 Merzig, Merzig-Wadern (Kreis)",1,1 m²,704 m²,110.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Doppelgarage in ländlicher Gegend,115.000 €,"Römerstraße xxxx,
+66839 Schmelz, Saarlouis (Kreis)",10,178 m²,283 m²,646 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilienhaus, Garten, Garage",166.000 €,"Talstraße xxxx,
+66440 Blieskastel, Saarpfalz-Kreis",1,158 m²,1.115 m²,1.051 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Einlieger und Doppelgarage,481.200 €,"Fenner Straße xxxx,
+Klarenthal, 66127 Saarbrücken",1,"207,4 m²",2.111 m²,2.320 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Doppelhaushälfte mit 2 Stellplätzen + provisionsfrei +,260.000 €,"Am Mühlenweg XX,
+53842 Troisdorf, Rhein-Sieg-Kreis",3,72 m²,322 m²,3.611 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilien-Reihenmittelhaus, Garage, Terrasse, Garten",310.000 €,"Im Kochsgarten XX,
+53773 Hennef (Sieg), Rhein-Sieg-Kreis",5,120 m²,205 m²,2.583 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Einfamilienhaus mit Garten und Garage ++ provisionsfrei ++,835.000 €,"Oberfeldstraße XX,
+Huckarde (Ortsteil), 44369 Dortmund",6,242 m²,644 m²,3.450 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus und Garage + provisionsfrei +,460.000 €,"Ladestr. XX,
+Pelkum, 59077 Hamm",1,245 m²,1.782 m²,1.878 €/m²,Wohnimmobilie (sonstige),42 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Reihenendhaus mit 2 Garagen + provisionsfrei +,380.000 €,"Durbuscher Straße XX,
+53797 Lohmar, Rhein-Sieg-Kreis",4,111 m²,422 m²,3.423 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage ++ Mehrfamilienhaus mit 4 Wohnungen ++,153.000 €,"Kronprinzenstraße XX,
+Friemersheim, 47229 Duisburg",16,379 m²,783 m²,404 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte mit Anbau, Garten und Garage",510.000 €,"Sperlingsweg XX,
+Vogelsang, 50829 Köln",6,"106,6 m²",750 m²,4.784 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus, 2 Garagen + provisionsfrei +",332.000 €,"Strickherdicker Weg XX,
+58730 Fröndenberg/Ruhr, Unna (Kreis)",7,"158,69 m²",597 m²,2.092 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus, Garten, 2 Garagen + provisionsfrei +",360.000 €,"Buscher Weg XX,
+41334 Nettetal, Viersen (Kreis)",6,"175,24 m²",650 m²,2.054 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, 2 Garagen",206.000 €,"Kockenkamp XX,
+46419 Isselburg, Borken (Kreis)",1,131 m²,1.215 m²,1.573 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenhaus/Winkelbungalow, 2 Garage + provisionsfrei +",180.000 €,"Kafkastraße XX,
+Bocklemünd/Mengenich, 50829 Köln",4,91 m²,272 m²,1.978 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn-/Geschäftshaus +,1.450.000 €,"An der Evangelischen Kirche XX,
+Südstadt, 53113 Bonn",1,266 m²,225 m²,5.451 €/m²,Wohnimmobilie (sonstige),88 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber Mein + Einfamilien-Reihenendhaus und Garage +",194.000 €,"Königsberger Straße XX,
+44581 Castrop-Rauxel, Recklinghausen (Kreis)",4,"77,9 m²",245 m²,2.490 €/m²,Wohnimmobilie (sonstige),"26,63 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenendhaus, Garten, Garage",201.000 €,"Duffesheider Weg XX,
+52477 Alsdorf, Aachen (Kreis)",5,123 m²,467 m²,1.634 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mit eigenen Gestaltungsmöglichkeiten + Großzügiges Wohnhaus im Umbau +,330.000 €,"Turmstraße XX,
+Solingen-Mitte, 42651 Solingen",1,230 m²,271 m²,1.435 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familien-Reihenendhaus, Terrasse, Garten",330.000 €,"Schwabenweg XX,
+32107 Bad Salzuflen, Lippe (Kreis)",7,180 m²,452 m²,1.833 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenmittelhaus, Garten, Garage + provisionsfrei +",250.000 €,"Drostenkampstraße XX,
+Holten, 46147 Oberhausen",6,"148,94 m²",245 m²,1.679 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+7-Familienhaus nebst Terrasse + provisionsfrei +,420.000 €,"Varresbecker Straße XX,
+Elberfeld West, 42115 Wuppertal",1,364 m²,574 m²,1.154 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus mit Laden und Carport + provisionsfrei +,94.000 €,"Hauptstraße XX,
+58791 Werdohl, Märkischer Kreis",1,1 m²,593 m²,94.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus mit Laden im EG + provisionsfrei +,90.000 €,"Hauptstraße XX,
+58791 Werdohl, Märkischer Kreis",1,1 m²,701 m²,90.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

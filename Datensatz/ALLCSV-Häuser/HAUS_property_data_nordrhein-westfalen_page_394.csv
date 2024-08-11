@@ -1,0 +1,441 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Perfekt für die Familie!,229.000 €,"Achternbergstr. 63,
+Rotthausen, 45884 Gelsenkirchen","4,5","97,69 m²",392 m²,2.344 €/m²,Doppelhaushälfte,"47,98 m²",nil,nil,nil,Außenstellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Familienglück: Kernsanierte Doppelhaushälfte in Gladbeck - Wohnen mit Stil und Komfort,364.900 €,"45968 Gladbeck, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"110,1 m²","262,1 m²",3.314 €/m²,Doppelhaushälfte,nil,ab sofort,3,1,2 Garagen,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wohnen und Arbeiten in Einem! - Vollständig sanierter Bungalow mit eigener KFZ-Werkstatt,495.000 €,"Brambauer, 44536 Lünen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,180 m²,994 m²,2.750 €/m²,nil,"242,17 m²",nach Vereinbarung,2,1,6 Garagen,"3,57% inkl. MwSt",{}
+9 Wohneinheiten mit 10 Jahren Mietpreisbindung - Dinge des alltäglichen Bedarfs fußläufig erreichbar,620.000 €,"Heepen, 33609 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",21,545 m²,949 m²,1.138 €/m²,Mehrfamilienhaus,nil,ab Sofort,10,9,nil,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Exklusives Einfamilienhaus in Bad Driburg-Reelsen: Luxus und Vielseitigkeit auf 250 m² Wohnfläche mi,499.000 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,249 m²,749 m²,2.004 €/m²,Einfamilienhaus (freistehend),nil,sofort,4,3,2 Carports,"3,57 % Käuferprovision inkl. 19 % MwSt.","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Reihenhaus in Düsseldorf Derendorf,389.000 €,"Derendorf, 40468 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,130 m²,239 m²,2.992 €/m²,Einfamilienhaus (freistehend),nil,nil,3,3,1 Garage,"3,57 % (inkl. MwSt.)","{'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Renovierungsbedürftiger Bungalow in beliebter Lage von Marl,225.000 €,"Stadtkern, 45770 Marl
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"120,03 m²","299,03 m²",1.875 €/m²,Bungalow,nil,nach Absprache,3,1,1 Garage,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Traumhaftes Architektenhaus mit ca. 219m² in Wiehl,525.000 €,"51674 Wiehl, Oberbergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,219 m²,1.095 m²,2.397 €/m²,Einfamilienhaus (freistehend),133 m²,nil,3,3,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+WOHNBAU: NEUBAU PROJEKT IN KÖLN HOLWEIDE WARTET,595.000 €,"Holweide, 51067 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",14,397 m²,1.135 m²,1.499 €/m²,Mehrfamilienhaus,46 m²,sofort,10,3,nil,"3,57 % Provision inkl. gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+WOHNBAU: DIREKT EINZIEHEN UND WOHLFÜHLEN!,520.000 €,"Rondorf, 50997 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,109 m²,203 m²,4.771 €/m²,Reihenmittelhaus,63 m²,sofort,3,1,1 Garage,"3,57 % Provision inkl. gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"apensio -GEWOHNT GUT-: Platz SATT für die ganze ""RASSELBANDE"".....",425.000 €,"57250 Netphen, Siegen-Wittgenstein (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,1.329 m²,2.125 €/m²,Einfamilienhaus (freistehend),100 m²,nach Vereinbarung,5,2,2 Duplex-Stellplätze,"3,57% incl. 19% MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Zweifamilienwohnhaus mit Baugrundstück in familienfreundlicher Lage in Herford-Hiddenhausen,265.000 €,"32120 Hiddenhausen, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,155 m²,1.025 m²,1.710 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung!,nil,2,nil,"3,57 % inkl. MwSt.",{}
+Köln-Hochkirchen - für Naturliebhaber -Bungalow auf tollem über 500 m² großen Grundstück mit Garage!,640.000 €,"Rondorf, 50997 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,524 m²,7.111 €/m²,Bungalow,nil,nach Absprache,2,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Zweifamilienwohnhaus in familienfreundlicher Lage in Herford-Hiddenhausen,215.000 €,"32120 Hiddenhausen, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,155 m²,534 m²,1.387 €/m²,Mehrfamilienhaus,nil,Nach Vereinbarung!,nil,2,Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Hochwertiges Einfamilienhaus in bevorzugter Lage von Privat,695.000 €,"Heepen, 33729 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,212 m²,792 m²,3.278 €/m²,Einfamilienhaus (freistehend),nil,sofort,3,3,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Grosszügiger Bungalow für Gewerbe und Wohnen mit grossem Garten,599.000 €,"Püllenweg 21,
+41352 Korschenbroich, Neuss (Rhein-Kreis)",6,197 m²,1.552 m²,3.041 €/m²,Bungalow,nil,nach Absprache,nil,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Zuhause in Stadtnähe: Split Level mit Südgarten!,388.000 €,"Berg Fidel, 48165 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,109 m²,216 m²,3.560 €/m²,Reiheneckhaus,nil,nil,nil,1,1 Garage,"3,57 % inkl. 19 % MwSt.",{'is24qa-keller-label': ''}
+Sofort wohlfühlen: Saniertes 4-Zi.-REH mit Garten in ruhiger Randlage von Duisburg,355.000 €,"Vierlinden, 47178 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"98,15 m²","475,15 m²",3.617 €/m²,Doppelhaushälfte,40 m²,nach Absprache,3,1,2 Außenstellplätze,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+4 Einheiten 1 Haus - OKAL,503.900 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,250 m²,1.131 m²,2.016 €/m²,nil,nil,nil,3,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Familienidyll im Neubau: 171 qm, 3 Schlafzimmer und ein Büro/Gästezimmer!",326.479 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"171,77 m²",712 m²,1.901 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaus mit Keller in Hanglage!? - OKAL,435.900 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,1.131 m²,2.180 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schönes Raumwunder auf drei Ebenen!,562.900 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,310 m²,1.131 m²,1.816 €/m²,nil,nil,nil,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschönes Staffel Haus - OKAL,522.900 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,221 m²,1.114 m²,2.366 €/m²,nil,nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Riesen Grundstück mit großem Haus für eine große Familie - Traumhäuser von OKAL!,454.900 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,222 m²,750 m²,2.049 €/m²,nil,nil,nil,6,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL - Traumhäuser!,324.900 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,1.114 m²,2.599 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DAS DESIGNHAUS DER EXTRAKLASSE - OKAL,499.900 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"188,06 m²",1.114 m²,2.658 €/m²,Einfamilienhaus (freistehend),nil,nil,2,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+BAUHAUS MIT PERSPEKTIVE - OKAL,408.000 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,750 m²,2.372 €/m²,nil,nil,nil,3,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Riesen Grundstück mit großem Haus für eine große Familie - Traumhäuser von OKAL!,454.900 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,222 m²,750 m²,2.049 €/m²,nil,nil,nil,6,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EUER NEUES ZUHAUSE - Bauen mit OKAL!,420.000 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,185 m²,750 m²,2.270 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"VIEL PLATZ FÜR FAMILIE, FREIZEIT UND FREUNDE",437.900 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,188 m²,750 m²,2.329 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,nil,{}
+Bauen mit Blick in die Natur?,370.900 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,750 m²,2.558 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaftes Stadthaus - OKAL,555.000 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,249 m²,750 m²,2.229 €/m²,nil,nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zuhause nach Maß! OKAL,437.900 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,188 m²,800 m²,2.329 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,nil,{}
+VIEL PLATZ FÜR EUCH! OKAL,437.900 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,188 m²,800 m²,2.329 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,nil,{}
+"VIEL PLATZ FÜR FAMILIE, HOBBYS UND FREUNDE",437.900 €,"33189 Schlangen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,188 m²,587 m²,2.329 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,nil,{}
+Klassisch elegant und ein lichtdurchflutetes Konzept!,643.900 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,259 m²,910 m²,2.486 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL - WUNDERSCHÖNES MEHRFAMILIENHAUS,764.900 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,326 m²,811 m²,2.346 €/m²,nil,nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Raum - viel Licht - Wohlfühlatmosphäre,899.900 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,240 m²,811 m²,3.750 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Zuhause nach Ihren Wünschen - OKAL,381.900 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,161 m²,700 m²,2.372 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL Beste Bungalows - Ihr neuer Lieblingsort mit viel Wohnkomfort,336.900 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,614 m²,2.808 €/m²,nil,nil,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GROSSES HAUS AUF KLEINER FLÄCHE - OKAL,400.000 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,152 m²,617 m²,2.632 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+STATTLICHES BAUHAUS - OKAL,408.000 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,2.527 m²,2.372 €/m²,nil,nil,nil,3,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaus nach Ihren Wünschen! -Angebotspreis! - OKAL,389.900 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,151 m²,1.114 m²,2.582 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL Beste Bungalows - Ihr neuer Lieblingsort mit viel Wohnkomfort,336.900 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,1.114 m²,2.808 €/m²,nil,nil,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL Beste Bungalows - Ihr neuer Lieblingsort mit viel Wohnkomfort,336.900 €,"59929 Brilon, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,700 m²,2.808 €/m²,nil,nil,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+RAUMWUNDER von OKAL!,417.900 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,170 m²,1.200 m²,2.458 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ZUHAUSE NACH WUNSCH - Bauen mit OKAL!,420.000 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,185 m²,458 m²,2.270 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ZUHAUSE NACH WUNSCH - Bauen mit OKAL!,420.000 €,"32699 Extertal, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,185 m²,727 m²,2.270 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN­FA­MI­LI­EN­HAUS MIT VERSETZTEM PULTDACH - OKAL,381.900 €,"33818 Leopoldshöhe, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,161 m²,1.200 m²,2.372 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+PULTDACHHAUS FÜR INDIVIDUALISTEN - OKAL,632.900 €,"33818 Leopoldshöhe, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,214 m²,513 m²,2.957 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LUXURIÖSES HAUS MIT VIEL LICHT - OKAL,450.900 €,"33818 Leopoldshöhe, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,412 m²,2.622 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MODERNES PULTHAUS von OKAL,494.900 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,183 m²,980 m²,2.704 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Haus mit Blick in die Natur? - OKAL,370.900 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,980 m²,2.558 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN­FA­MI­LI­EN­HAUS MIT VERSETZTEM PULTDACH - OKAL,381.900 €,"59602 Rüthen, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,161 m²,959 m²,2.372 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN­FA­MI­LI­EN­HAUS MIT VERSETZTEM PULTDACH - OKAL,381.900 €,"33189 Schlangen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,161 m²,1.038 m²,2.372 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN AUGENSCHMAUS AUS 2 DOP­PEL­HÄU­SERN - OKAL,402.900 €,"33189 Schlangen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,162 m²,1.038 m²,2.487 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GROSSES DOPPELHAUS FÜR SCHMALE GRUNDSTÜCKE - OKAL,440.900 €,"33189 Schlangen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,189 m²,1.038 m²,2.333 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+PULTDACHHAUS FÜR INDIVIDUALISTEN - OKAL,632.900 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,214 m²,2.252 m²,2.957 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+PULTDACH MIT LOFTCHARAKTER - OKAL,370.900 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,1.131 m²,2.558 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DAS DOPPELHAUS IN XXL - OKAL,431.900 €,"Kernstadt, 33098 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,194 m²,800 m²,2.226 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DOPPELHAUS MIT OPTIMIERTEM GRUNDRISS - OKAL,381.900 €,"Kernstadt, 33098 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,1.552 m²,3.130 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GROSSES DOPPELHAUS FÜR SCHMALE GRUNDSTÜCKE - OKAL,440.900 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,189 m²,650 m²,2.333 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DOPPELHAUS MIT OPTIMIERTEM GRUNDRISS - OKAL,381.900 €,"37688 Beverungen, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,1.552 m²,3.130 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DOPPELHAUS MIT ALLEM DRUM UND DRAN - OKAL,315.900 €,"Kernstadt, 33098 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,107 m²,807 m²,2.952 €/m²,nil,nil,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN AUGENSCHMAUS AUS 2 DOP­PEL­HÄU­SERN - OKAL,402.900 €,"Kernstadt, 33098 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,162 m²,600 m²,2.487 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KLASSISCHES DOPPELHAUS - ZEITLOS SCHÖN - OKAL,345.900 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,1.131 m²,2.419 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Best of DOPPELHAUS - OKAL,349.900 €,"37688 Beverungen, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,142 m²,1.011 m²,2.464 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DOPPELHAUS MIT AUSSTRAHLUNG - OKAL,367.900 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,142 m²,"2,25 m²",2.591 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DAS DOPPELHAUS IN XXL - OKAL,431.900 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,194 m²,1.000 m²,2.226 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MODERNES PULTHAUS von OKAL,494.900 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,183 m²,1.000 m²,2.704 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LUXURIÖSES HAUS MIT VIEL LICHT - OKAL,450.900 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,1.000 m²,2.622 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL - Traumhäuser!,324.900 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,866 m²,2.599 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+HÄUSER ZUM VERLIEBEN! - OKAL,449.900 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,207 m²,1.281 m²,2.173 €/m²,nil,nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kleines Traumheim oder Ferienhaus - Sorgenfrei bauen mit OKAL!,358.900 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,137 m²,866 m²,2.620 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaus mit Keller in Hanglage!? - OKAL,435.900 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,1.131 m²,2.180 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familienzentrale - Traumhäuser mit Festpreisgarantie - OKAL,435.900 €,"37688 Beverungen, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,1.011 m²,2.180 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL - Traum BUNGALOWS!,485.900 €,"37688 Beverungen, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,168 m²,1.500 m²,2.892 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MODERNER DE­SI­GNAN­SPRUCH - Traumhäuser von OKAL!,447.900 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,173 m²,617 m²,2.589 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN HAUS ZUM VERLIEBEN - OKAL,449.900 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,207 m²,617 m²,2.173 €/m²,nil,nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EUER NEUES ZUHAUSE - Bauen mit OKAL!,420.000 €,"37671 Höxter, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,185 m²,800 m²,2.270 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL - Frühlings Angebote,389.900 €,"Kernstadt, 33098 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,151 m²,800 m²,2.582 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MODERNES TOWNHOUSE - Zuhause bauen oder Anlageobjekt schaffen? - OKAL,563.900 €,"Kernstadt, 33098 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,257 m²,807 m²,2.194 €/m²,nil,nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"KLEIN, ABER OHO - OKAL DESIGN",305.900 €,"32839 Steinheim, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"106,6 m²",700 m²,2.870 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Das besondere Bauhaus - OKAL,1.100.000 €,"32756 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,257 m²,2.500 m²,4.280 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,2 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+AR­CHI­TEK­TO­NISCH AUSGEREIFT UND FUNKTIONAL - OKAL,459.900 €,"32839 Steinheim, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,175 m²,1.245 m²,2.628 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN STATTLICHES BAUHAUS MIT PERSPEKTIVE - OKAL -,408.000 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,750 m²,2.372 €/m²,nil,nil,nil,3,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+TOP ANGEBOT - Einfamilienhaus Design 13 - Festpreisgarantie mit OKAL,435.900 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,750 m²,2.180 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Haus mit vielen Möglichkeiten! OKAL,613.900 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,257 m²,1.131 m²,2.389 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+KLASSISCH KOMPAKT - sicher planen mit OKAL!,373.900 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,154 m²,1.131 m²,2.428 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Design Familienhaus - Beste Qualität von OKAL!,476.900 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"183,55 m²",702 m²,2.598 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+TRAUMHAUS individuell anpassen - OKAL -,564.900 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,207 m²,702 m²,2.729 €/m²,nil,nil,nil,3,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+TRAUMHAUS BAUEN + nach Ihren Wünschen! Anpassen und mitgestalten! OKAL,370.000 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,137 m²,713 m²,2.701 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großes Haus für eine große Familie - Traumhäuser von OKAL!,452.900 €,"37688 Beverungen, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,209 m²,745 m²,2.167 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN HAUS ZUM VERLIEBEN - OKAL,449.900 €,"37688 Beverungen, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,207 m²,1.500 m²,2.173 €/m²,nil,nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN PERFEKTES HAUS- OKAL,432.900 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,181 m²,1.000 m²,2.392 €/m²,nil,nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+TRAUMHAUS BAUHAUS - OKAL -,564.900 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,207 m²,700 m²,2.729 €/m²,nil,nil,nil,3,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GROSSES BAUHAUS AUF KLEINEM RAUM - OKAL,407.900 €,"32699 Extertal, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,134 m²,1.391 m²,3.044 €/m²,nil,nil,nil,3,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EIN STATTLICHES BAUHAUS MIT PERSPEKTIVE - OKAL -,408.000 €,"32699 Extertal, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,1.391 m²,2.372 €/m²,nil,nil,nil,3,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GROSSES HAUS AUF KLEINER FLÄCHE - OKAL,400.000 €,"32699 Extertal, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,152 m²,1.391 m²,2.632 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EUER NEUES ZUHAUSE - Bauen mit OKAL!,420.000 €,"32683 Barntrup, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,185 m²,458 m²,2.270 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL - KOMPAKTES HAUS - DURCHDACHT BIS IN DEN LETZTEN WINKEL!,305.000 €,"37696 Marienmünster, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,108 m²,750 m²,2.824 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL BAUHAUS – Unsere Erfahrung für Ihr bestes Zuhause!,538.000 €,"34431 Marsberg, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,183 m²,1.324 m²,2.940 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großes Haus für eine große Familie - Traumhäuser von OKAL!,454.900 €,"34431 Marsberg, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,222 m²,1.000 m²,2.049 €/m²,nil,nil,nil,6,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+TOP ANGEBOT - Einfamilienhaus Design 13 - Festpreisgarantie mit OKAL,384.000 €,"33175 Bad Lippspringe, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,152 m²,479 m²,2.526 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+TRAUMHAUS BAUEN + nach Ihren Wünschen haus anpassen und mitgestalten! OKAL,370.000 €,"32683 Barntrup, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,137 m²,584 m²,2.701 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ZUHAUSE MIT GRENZENLOSEN MÖGLICHKEITEN - OKAL -,380.900 €,"32676 Lügde, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,162 m²,1.248 m²,2.351 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+BEST OF BUNGALOW! Außergewöhnliches Raumkonzept zu Festpreisen mit Planungssicherheit!,468.900 €,"59969 Hallenberg, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,162 m²,2.000 m²,2.894 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+STILVOLL LEBEN IM TOWNHOUSE - OKAL,587.900 €,"32683 Barntrup, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,257 m²,1.000 m²,2.288 €/m²,nil,nil,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mit KFW Förderungen Ihr Lieblingshaus planen? – OKAL.,437.000 €,"33034 Brakel, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,187 m²,900 m²,2.337 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Raum - viel Licht - Wohlfühlatmosphäre,690.000 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,240 m²,850 m²,2.875 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Zuhause nach Ihren Wünschen - OKAL,329.900 €,"33014 Bad Driburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,161 m²,700 m²,2.049 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schlank und Schön! Luftig - Puristisch - OKAL,424.900 €,"Kernstadt, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,152 m²,500 m²,2.795 €/m²,nil,nil,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"TOP ANGEBOT - Toller Schnitt - Sonne, Licht, Luft - Platz zum Wohlfühlen!",475.000 €,"Kernstadt, 33102 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,200 m²,720 m²,2.375 €/m²,nil,nil,nil,5,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Townhouse - Paderborn- Urbaner Lifstyle pur! OKAL,560.000 €,"Kernstadt, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,257 m²,1.000 m²,2.179 €/m²,nil,nil,nil,4,3,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaus - kurze Bauzeit - exklusives Wohnen - OKAL Häuser,510.000 €,"33143 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"238,62 m²",898 m²,2.137 €/m²,nil,nil,nil,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OFFENES EIN­FA­MI­LI­EN­HAUS – OKAL NORDLICHTER,398.000 €,"59969 Hallenberg, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,135 m²,710 m²,2.948 €/m²,nil,nil,nil,3,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+EIN HAUS MIT VIELEN TOLLEN PLÄTZEN – OKAL NORDLICHT 5.,429.000 €,"59929 Brilon, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,155 m²,600 m²,2.768 €/m²,nil,nil,nil,3,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OKAL Beste Bungalows – Ihr neuer Lieblingsort mit viel Wohnkomfort,336.900 €,"59929 Brilon, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,700 m²,2.808 €/m²,nil,nil,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2024 Traumhaus bauen! – Preisvorteil sichern auf Ihr Haus mit Klinkerfassade – OKAL,425.000 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,137 m²,1.000 m²,3.102 €/m²,nil,nil,nil,2,nil,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+BEST OF BUNGALOW! Außergewöhnliches Raumkonzept zu Festpreisen mit Planungssicherheit!,468.900 €,"59969 Hallenberg, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,162 m²,2.000 m²,2.894 €/m²,nil,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Grundstück & Unabhängigkeit im Fokus: Baue das Leben, das du dir wünschst",Auf Anfrage,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"164,76 m²",0 m²,nil,Einfamilienhaus (freistehend),"164,76 m²",nil,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Grundstück & Generation 7 - Das Generationenhaus, das Familien verbindet und Raum schafft",346.924 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,02 m²",712 m²,2.443 €/m²,Bungalow,nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Keine Kompromisse: Home 1 von allkauf auf dem letzten Grundstück - Platz sinnvoll genutzt!,290.889 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",712 m²,2.329 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Fördermittel nutzen: Finanzierung durch NRW-Bank und KFW macht Neubau mit allkauf erschwinglich,439.579 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",712 m²,1.675 €/m²,Mehrfamilienhaus,"262,37 m²",nil,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+inklusive Grundstück-Baue deine Geschichte: Neubau als Schritt zum Eigentum,386.639 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"145,86 m²",680 m²,2.651 €/m²,Einfamilienhaus (freistehend),"145,86 m²",nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Grundstück & Unabhängigkeit im Fokus: Baue das Leben, das du dir wünschst",401.299 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"181,79 m²",680 m²,2.207 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Grundstück & Traumhaus in Horn: Flexibilität, Komfort und nachhaltige Energie",372.409 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,32 m²",680 m²,3.020 €/m²,Einfamilienhaus (freistehend),"123,32 m²",nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Inkl. Grundstück_ Zwei Traumhäuser von allkauf in einem - Für Deine individuellen Bedürfnisse,491.739 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",680 m²,1.874 €/m²,Mehrfamilienhaus,"262,37 m²",nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Ein Grundstück-Zwei Generationen, ein Zuhause: Entdecken Sie Generation 5 BF",453.759 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"237,19 m²",680 m²,1.913 €/m²,Mehrfamilienhaus,"237,19 m²",nil,5,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Klassische Schönheit: Das Einfamilienhaus Home 10 - Raum für Ihre Ideen,270.409 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",680 m²,1.654 €/m²,Einfamilienhaus (freistehend),"163,45 m²",nil,4,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"""Jetzt bauen, für immer wohnen: Unser exklusives Neubauhaus""",422.409 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"172,25 m²",680 m²,2.452 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Inklusive Grundstück_Barrierefreies Wohnen: Der Bungalow Lifetime 4 von allkauf,375.179 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,37 m²",680 m²,3.224 €/m²,Bungalow,"116,37 m²",nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Stadtvilla City Villa 6 Traumgrundstück-Essenz von Licht, Raum und zeitgenössischem Design",430.639 €,"32805 Horn-Bad Meinberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",680 m²,2.583 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Allkauf's Neubauinitiative: Gemeinschaftliches Wohnen für Senioren und Großfamilien zum Spitzenpreis,836.309 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"302,09 m²",720 m²,2.768 €/m²,nil,nil,nil,6,4,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+Gemeinschaftliches Wohnen für Senioren und Großfamilien: allkauf's Neubauten mit niedrigen Baukosten,856.669 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,"313,78 m²",720 m²,2.730 €/m²,nil,nil,nil,5,4,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Erschwingliches und Gemeinschaftsorientiertes Wohnen: Neubauprojekte für Senioren und Großfamilien,884.539 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"331,89 m²",720 m²,2.665 €/m²,nil,nil,nil,6,4,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+"Allkauf Neubau: Wohnsitze für Senioren und Großfamilien - Geringe Baukosten, Große Gemeinschaften",710.559 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,205 m²,720 m²,3.466 €/m²,nil,nil,nil,4,4,nil,Nein,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Allkauf's Neubauinitiative: Gemeinschaftliches Wohnen für Senioren und Großfamilien zum Spitzenpreis,881.109 €,"Dahl, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"302,09 m²",634 m²,2.917 €/m²,nil,nil,nil,6,4,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+Gemeinschaftliches Wohnen für Senioren und Großfamilien: allkauf's Neubauten mit niedrigen Baukosten,901.469 €,"Dahl, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,"313,78 m²",634 m²,2.873 €/m²,nil,nil,nil,5,4,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Erschwingliches und Gemeinschaftsorientiertes Wohnen: Neubauprojekte für Senioren und Großfamilien,929.339 €,"Dahl, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"331,89 m²",634 m²,2.800 €/m²,nil,nil,nil,6,4,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+Bauen Sie mit uns Ihr Traumhaus,250.466 €,"32756 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,136 m²,549 m²,1.842 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Die Villa mit Platz für Träume,271.655 €,"32758 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,144 m²,647 m²,1.886 €/m²,nil,nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Viel Platz auf wenig Quadratmeter,198.655 €,"33039 Nieheim, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,62 m²",522 m²,1.594 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{}
+Bauen Sie sich Ihre Altersvorsorge für einen Ruhestand ohne Sorgen,232.411 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,134 m²,722 m²,1.734 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ein individuelles Traumhaus,208.877 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,134 m²,511 m²,1.559 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{}
+Viel Platz auf wenig Quadratmeter,217.655 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,62 m²",522 m²,1.747 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{}
+Wohlfühlhaus mit schöner Aussicht,318.655 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,273 m²,1.096 m²,1.167 €/m²,Mehrfamilienhaus,nil,nil,6,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Bauen Sie 2 Häuser zum Preis von 1 - Doppelhaushälfte mit Freunden,193.766 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,553 m²,1.550 €/m²,Doppelhaushälfte,nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Bauen Sie mit uns Ihr Traumhaus,240.466 €,"32756 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,136 m²,539 m²,1.768 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Anspruchsvolle und Architektonische Gestaltung ganz nach Ihren Wünschen!,311.999 €,"32756 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,195 m²,632 m²,1.600 €/m²,Villa,nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Ein Leben ohne Miete - mit uns kein Wunschdenken mehr,298.477 €,"33161 Hövelhof, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,148 m²,621 m²,2.017 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Bauen Sie mit der ganzen Familie,312.544 €,"34414 Warburg, Höxter (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"202,63 m²",873 m²,1.542 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Stadtvilla City Villa 6: Die Essenz von Licht, Raum und zeitgenössischem Design",640.639 €,"Schloß Neuhaus, 33102 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",0 m²,3.843 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Generation 13 - Das Familienhaus, das keine Kompromisse kennt",770.099 €,"Schloß Neuhaus, 33102 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"262,84 m²",0 m²,2.930 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Moderne Architektur trifft Raumkomfort: Das Bauhaus Cult 2,438.869 €,"33181 Bad Wünnenberg, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"174,96 m²",0 m²,2.508 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klassische Schönheit: Das Einfamilienhaus Home 7 - Raum für Ihre Ideen,324.199 €,"33181 Bad Wünnenberg, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"147,31 m²",0 m²,2.201 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klassische Schönheit: Das Einfamilienhaus Home 7 - Raum für Ihre Ideen,393.524 €,"33161 Hövelhof, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"147,31 m²",0 m²,2.671 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Zwei Haushalte, ein Grundstück: Platz und Privatsphäre für alle & dadurch Sparen",576.789 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",645 m²,2.198 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"""Der Bungalow-Trend: Komfortables Wohnen auf einer Ebene mit allkauf.",432.679 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,37 m²",550 m²,3.718 €/m²,Bungalow,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Gemeinsam wachsen im Traumhaus: allkauf unterstützt junge Familien,385.469 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",0 m²,3.086 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Entdecken Sie Generation 12 - Das Generationenhaus mit klarem Raumkonzept,408.024 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"141,35 m²",555 m²,2.887 €/m²,Mehrfamilienhaus,nil,nil,2,2,nil,nil,{'is24qa-einliegerwohnung-label': ''}
+"""Stilvoll Wohnen im Neubauhaus: Deine Vision, unsere Realität""",390.424 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"173,43 m²",555 m²,2.251 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Klassische Schönheit: Das Einfamilienhaus Home 7 - Raum für Ihre Ideen,390.424 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"147,31 m²",555 m²,2.650 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Generation 1 - Winkelbungalow. Die perfekte Symbiose von Stil und Funktionalität,481.394 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"218,32 m²",555 m²,2.205 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,nil,{'is24qa-einliegerwohnung-label': ''}
+Home 11 - Modernes Wohnen auf 166 m2: Ein Traumhaus für die ganze Familie,399.834 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"166,37 m²",555 m²,2.403 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"""Dein Haus, deine Regeln: Bauherrenreise zur Unabhängigkeit""",866.169 €,"Kernstadt, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"232,99 m²",542 m²,3.718 €/m²,Mehrfamilienhaus,nil,nil,5,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Bauhaus Brilliance: Die City Villa 5 - Moderne Meisterarbeit mit Flachdach,858.689 €,"Kernstadt, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"234,29 m²",542 m²,3.665 €/m²,Villa,nil,nil,4,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Flachdach-Zukunft: Cult 3 Ihr modernes Heim von allkauf erwartet Sie!,883.229 €,"Kernstadt, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"175,12 m²",542 m²,5.044 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Entdecken Sie die City Villa 3 - Ein Paradies für Sonnenanbeter und Raumliebhaber,808.609 €,"Kernstadt, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"158,39 m²",542 m²,5.105 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"""City Villa 4: Das exklusive Raumwunder - Moderne Eleganz und praktische Funktionalität vereint",897.929 €,"Kernstadt, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"249,5 m²",542 m²,3.599 €/m²,Villa,nil,nil,4,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Von Anfang an zuhause: Junge Familien bauen mit allkauf & Festpreisgarantie,492.599 €,"Benhausen, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,23 m²",480 m²,3.463 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Erdgeschoss-Luxus: Entspanntes Wohnen im Bungalow von allkauf,465.819 €,"32832 Augustdorf, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,37 m²",602 m²,4.003 €/m²,Bungalow,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Baue Deine Geschichte: Neubau als Schritt zum Eigentum mit der City Villa 6 von allkauf,488.139 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",0 m²,2.928 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Allkauf's Neubauinitiative: Gemeinschaftliches Wohnen für Senioren und Großfamilien zum Spitzenpreis,627.514 €,"32832 Augustdorf, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"302,09 m²",780 m²,2.077 €/m²,nil,nil,nil,6,4,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+Gemeinschaftliches Wohnen für Senioren und Großfamilien: allkauf's Neubauten mit niedrigen Baukosten,897.460 €,"32832 Augustdorf, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,"313,78 m²",780 m²,2.860 €/m²,nil,nil,nil,5,4,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Erschwingliches und Gemeinschaftsorientiertes Wohnen: Neubauprojekte für Senioren und Großfamilien,925.339 €,"32832 Augustdorf, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"331,89 m²",780 m²,2.788 €/m²,nil,nil,nil,6,4,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+"Allkauf Neubau: Wohnsitze für Senioren und Großfamilien - Geringe Baukosten, Große Gemeinschaften",751.359 €,"32832 Augustdorf, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,205 m²,780 m²,3.665 €/m²,nil,nil,nil,4,4,nil,Nein,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zeitgemäßes Wohnen: Entdecken Sie den modernen Bungalow von allkauf,451.549 €,"32832 Augustdorf, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"107,17 m²",602 m²,4.213 €/m²,Bungalow,nil,nil,3,1,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+Erleben Sie Effizienz und Gemütlichkeit im Bungalow Lifetime 3,447.979 €,"33832 Augustdorf, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"107,17 m²",602 m²,4.180 €/m²,Bungalow,nil,nil,3,1,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+Von Anfang an zuhause: Junge Familien bauen mit allkauf,445.239 €,"32832 Augustdorf, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,23 m²",602 m²,3.130 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Keine Kompromisse: Neubau mit Rundum-Service aus einer Hand,453.639 €,"32832 Augustdorf, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"153,76 m²",602 m²,2.950 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Entdecken Sie die City Villa 3 - Ein Paradies für Sonnenanbeter und Raumliebhaber,389.969 €,"33181 Bad Wünnenberg, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"158,39 m²",0 m²,2.462 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Generation 13 - Das Familienhaus, das keine Kompromisse kennt",527.259 €,"33181 Bad Wünnenberg, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"262,84 m²",532 m²,2.006 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Von Anfang an zuhause: Junge Familien bauen mit allkauf,321.759 €,"33181 Bad Wünnenberg, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"142,23 m²",0 m²,2.262 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+HoKlassische Schönheit: Das Einfamilienhaus Home 2 - Raum für Ihre Ideen,312.529 €,"33181 Bad Wünnenberg, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"133,7 m²",0 m²,2.338 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Stadtvilla City Villa 1 - Klassische Eleganz und moderner Wohnkomfort in perfekter Harmonie,399.264 €,"32816 Schieder-Schwalenberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",511 m²,2.042 €/m²,Villa,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Zwei Generationen, ein Zuhause: Entdecken Sie Generation 5 BF",400.304 €,"32816 Schieder-Schwalenberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"237,19 m²",511 m²,1.688 €/m²,Mehrfamilienhaus,nil,nil,5,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Barrierefreies Wohnen: Der Bungalow Lifetime 4 von allkauf,321.724 €,"32816 Schieder-Schwalenberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,37 m²",511 m²,2.765 €/m²,Bungalow,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Klassische Schönheit: Das Einfamilienhaus Home 10 - Raum für Ihre Ideen,318.954 €,"32816 Schieder-Schwalenberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"163,45 m²",511 m²,1.951 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Platzoptimierung meisterhaft umgesetzt: Das Home 1 von allkauf,289.584 €,"32816 Schieder-Schwalenberg, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",511 m²,2.319 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Innovatives Neubauhaus: Dein Traum, Ökologisch und Stilvoll!""",421.324 €,"32676 Lügde, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"173,12 m²",681 m²,2.434 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus Home 13 - Fünf Schlafzimmer für individuellen Wohnkomfort,387.724 €,"32676 Lügde, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"181,77 m²",681 m²,2.133 €/m²,Einfamilienhaus (freistehend),nil,nil,5,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Generation 7: Zwei Traumhäuser in einem - Für Deine individuellen Bedürfnisse,481.674 €,"32676 Lügde, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",681 m²,1.836 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Barrierefreies Wohnen: Der Bungalow Lifetime 4 von allkauf,365.114 €,"32677 Lügde, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,37 m²",681 m²,3.138 €/m²,Bungalow,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Platzoptimierung meisterhaft umgesetzt: Das Home 1 von allkauf,332.984 €,"32676 Lügde, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",681 m²,2.666 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Flachdach-Zukunft: Cult 3 Ihr modernes Heim von allkauf erwartet Sie!,481.109 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"175,12 m²",0 m²,2.747 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Home 11 - Modernes Wohnen auf 166 m2: Ein Traumhaus für die ganze Familie,355.089 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"166,37 m²",0 m²,2.134 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Erleben Sie Effizienz und Gemütlichkeit im Bungalow Lifetime 3,344.589 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"107,17 m²",0 m²,3.215 €/m²,Bungalow,nil,nil,3,1,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+Platzoptimierung meisterhaft umgesetzt: Das Home 1 von allkauf,326.729 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",0 m²,2.616 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Entdecken Sie die City Villa 3 - Ein Paradies für Sonnenanbeter und Raumliebhaber,406.489 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"158,39 m²",0 m²,2.566 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Generation 7: Zwei Traumhäuser in einem - Für Deine individuellen Bedürfnisse,468.489 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",525 m²,1.786 €/m²,Doppelhaushälfte,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Entspannen und Wohlfühlen: Das Home 14 - Ihr Zuhause für anspruchsvolles Wohnen,320.624 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"196,96 m²",0 m²,1.628 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+"Stadtvilla City Villa 6: Die Essenz von Licht, Raum und zeitgenössischem Design",336.089 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"166,69 m²",0 m²,2.016 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Platzoptimierung meisterhaft umgesetzt: Das Home 6 von allkauf,Auf Anfrage,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"136,78 m²",525 m²,nil,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Stadtvilla City Villa 1 - Klassische Eleganz und moderner Wohnkomfort in perfekter Harmonie,429.469 €,"33142 Büren, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"195,5 m²",0 m²,2.197 €/m²,Villa,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Platzoptimierung meisterhaft umgesetzt: Das Home 1 von allkauf,366.329 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",0 m²,2.933 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Lifetime 8,384.189 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"171,56 m²",0 m²,2.239 €/m²,nil,nil,nil,5,2,nil,nil,{'is24qa-stufenloser-zugang-label': ''}
+"Entdecke Cult 1 - Das Haus, das zeitlose Ästhetik und Funktionalität vereint",572.309 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"222,91 m²",0 m²,2.567 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Erleben Sie puren Wohnkomfort im Prestige 2 V3 Einfamilienhaus von allkauf,440.569 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"173,36 m²",0 m²,2.541 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Entdecken Sie die City Villa 3 - Ein Paradies für Sonnenanbeter und Raumliebhaber,446.089 €,"33129 Delbrück, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"158,39 m²",0 m²,2.816 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Generation 7: Zwei Traumhäuser von allkauf in einem - Für Deine individuellen Bedürfnisse,499.299 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"262,37 m²",525 m²,1.903 €/m²,Mehrfamilienhaus,nil,nil,6,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Modernes Familienleben: Generation 3 - Großflächig und einladend,443.589 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"203,17 m²",0 m²,2.183 €/m²,Mehrfamilienhaus,nil,nil,4,2,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Barrierefreies Wohnen: Der Bungalow Lifetime 4 von allkauf,382.739 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,37 m²",498 m²,3.289 €/m²,Bungalow,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"""Jetzt bauen, für immer wohnen: Unser exklusives Neubauhaus""",432.989 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"172,25 m²",498 m²,2.514 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Entdecken Sie die City Villa 3 - Ein Paradies für Sonnenanbeter und Raumliebhaber,430.369 €,"33154 Salzkotten, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"158,39 m²",0 m²,2.717 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Bauhaus-Inspiration: allkauf's Cult 4 / Flachdachhäuser setzen neue Standards.,569.269 €,"33178 Borchen, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"200,79 m²",0 m²,2.835 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Entdecken Sie die City Villa 3 - Ein Paradies für Sonnenanbeter und Raumliebhaber,438.799 €,"33178 Borchen, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"158,39 m²",0 m²,2.770 €/m²,Villa,nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Entdecken Sie Generation 12 - Das Generationenhaus mit klarem Raumkonzept,359.589 €,"33178 Borchen, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"141,35 m²",0 m²,2.544 €/m²,Mehrfamilienhaus,nil,nil,2,2,nil,nil,{'is24qa-einliegerwohnung-label': ''}
+"Innovatives Neubauhaus: Dein Traum, Ökologisch und Stilvoll!""",447.379 €,"33178 Borchen, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"173,12 m²",0 m²,2.584 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Platzoptimierung meisterhaft umgesetzt: Das Home 1 von allkauf,359.039 €,"33178 Borchen, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"124,9 m²",0 m²,2.875 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}

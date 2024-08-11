@@ -1,0 +1,89 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+LICHTSPIELHAUS 13,928.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",3,99 m²,9.374 €/m²,Etagenwohnung,nil,nil,2,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 09,1.074.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",4,123 m²,8.732 €/m²,Etagenwohnung,nil,nil,3,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 11,670.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",2,78 m²,8.590 €/m²,Etagenwohnung,nil,nil,1,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"2,5-Zimmer mit Loggia in Kempten",178.000 €,"Beim Keck XXXX,
+Engelhalde/Cambodunumpark, 87437 Kempten (Allgäu)",3,"64,5 m²",2.760 €/m²,nil,9 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 15,1.124.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",4,122 m²,9.213 €/m²,Etagenwohnung,nil,nil,3,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit Doppelgarage- provisionsfrei,490.000 €,"Ringstraße XXXX,
+93102 Pfatter, Regensburg (Kreis)",3,149 m²,3.289 €/m²,nil,33 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 20,1.496.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",3,142 m²,10.535 €/m²,Penthouse,nil,nil,2,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+lichtdurchflutete Eckwohnung mit Parkblick,869.000 €,"Obere Au, 81541 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"49,94 m²",17.401 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 06,1.304.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",4,151 m²,8.636 €/m²,Etagenwohnung,nil,nil,3,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 16,789.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",2,86 m²,9.174 €/m²,Etagenwohnung,nil,nil,1,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+erlesene Wohnkultur im Park,1.559.000 €,"Obere Au, 81541 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"92,13 m²",16.922 €/m²,Etagenwohnung,nil,nil,2,2,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+½-Anteil - Maisonette-Wohnung,130.000 €,"Falkenweg XXXX,
+86343 Königsbrunn, Augsburg (Kreis)",6,118 m²,1.102 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 10,779.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",2,90 m²,8.656 €/m²,Etagenwohnung,nil,nil,1,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ Maisonette-Wohnung mit Garage +,260.000 €,"Rauhäckerstraße XXXX,
+Höfen, 90431 Nürnberg",3,"73,6 m²",3.533 €/m²,nil,"9,2 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+LICHTSPIELHAUS 04,1.023.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",4,121 m²,8.455 €/m²,Etagenwohnung,nil,nil,3,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit 2 Balkone,465.000 €,"Narzissenstraße XXXX,
+82178 Puchheim, Fürstenfeldbruck (Kreis)",3,"75,66 m²",6.146 €/m²,nil,"22,6 m²",nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 08,678.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",2,77 m²,8.805 €/m²,Etagenwohnung,nil,nil,1,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*LEBEN AM GODELSBERG 19* Sensationelle Penthouse mit ca. 80m² Dachterrasse,1.295.000 €,"Stadtmitte, 63739 Aschaffenburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,149 m²,8.691 €/m²,Penthouse,nil,nil,3,1,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*LEBEN AM GODELSBERG 19* 3-Zimmer-Wohnung für gehobene Ansprüche,783.000 €,"Stadtmitte, 63739 Aschaffenburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"97,45 m²",8.035 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-Zimmer-Wohnung mit Loggia,85.000 €,"Falkensteinstr. XXXX,
+94469 Deggendorf, Deggendorf (Kreis)",1,"39,73 m²",2.139 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Balkon und 2-TG-Stellplätzen,450.000 €,"Weidenweg XXXX,
+85464 Finsing, Erding (Kreis)",3,"69,76 m²",6.451 €/m²,nil,"11,05 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+LICHTSPIELHAUS 05,759.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",2,89 m²,8.528 €/m²,Etagenwohnung,nil,nil,1,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 12,900.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",2,99 m²,9.091 €/m²,Etagenwohnung,nil,nil,1,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+großzügiges Wohlfühlrefugium am Berg,1.659.000 €,"Obere Au, 81541 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"92,14 m²",18.005 €/m²,Etagenwohnung,nil,nil,2,2,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 01,1.025.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",3,120 m²,8.542 €/m²,Etagenwohnung,nil,nil,2,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung in ruhiger Gegend,328.000 €,"Flurweg XXXX,
+85293 Reichertshausen, Pfaffenhofen an der Ilm (Kreis)",4,123 m²,2.667 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*LEBEN AM GODELSBERG 19* Anspruchsvolles Wohnen auf ca. 99m²,798.000 €,"Stadtmitte, 63739 Aschaffenburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,99 m²,8.061 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Appartments mit Terrasse,235.000 €,"Schloßstraße XXXX,
+95703 Plößberg, Tirschenreuth (Kreis)",1,187 m²,1.257 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*LEBEN AM GODELSBERG 19* Neubauwohnung der gehobenen Art,798.000 €,"Stadtmitte, 63739 Aschaffenburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,99 m²,8.061 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+stilvolles Wohnen mit weitem Blick ins Grüne,1.559.000 €,"Obere Au, 81541 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"91,63 m²",17.014 €/m²,Etagenwohnung,nil,nil,2,2,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eibach - Exklusive Wohnung - Einzugsbereit mit Balkon -Provisionsfrei- Energieeffizienz A,549.500 €,"Eibach, 90451 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5","101,96 m²",5.389 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Loggia,95.000 €,"Robert-Koch-Straße XXXX,
+Kernstadt, 92224 Amberg",2,58 m²,1.638 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 03,660.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",2,77 m²,8.571 €/m²,Etagenwohnung,nil,nil,1,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"1,5-Zimmer-Wohnung in guter Lage",260.000 €,"Brecherspitzstraße XXXX,
+Obergiesing, 81541 München",1,53 m²,4.906 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+*LEBEN AM GODELSBERG 19* Elegante 3-Zimmer-Wohnung mit kleinem Garten,789.000 €,"Stadtmitte, 63739 Aschaffenburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"97,78 m²",8.069 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 17,653.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",2,71 m²,9.197 €/m²,Etagenwohnung,nil,nil,1,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Terrasse und Stellplatz - provisionsfrei,686.000 €,"Großvenedigerstraße XXXX,
+Berg am Laim Ost, 81671 München",2,58 m²,11.828 €/m²,nil,51 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Voll möbliert .... Erstwohnsitz, Zweitwohnsitz oder Vermietung .... Sie haben die Wahl",254.900 €,"Helene- Mayer- Ring 4,
+Am Riesenfeld, 80809 München",1,"24,5 m²",10.404 €/m²,Etagenwohnung,2 m²,ab sofort,1,1,1 Tiefgaragen-Stellplatz,"3,57","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Klein, aber Mein + 1-Zimmer-Appartement mit Loggia +",210.000 €,"Rapotostraße XXXX,
+St. Ulrich, 80687 München",1,35 m²,6.000 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer Eigentumswohnung mit Balkon am Stadtwall Schrobenhausen zu verkaufen,350.000 €,"86529 Schrobenhausen, Neuburg-Schrobenhausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"85,4 m²",4.098 €/m²,nil,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+2½-Zimmer-Wohnung in bevorzugter Wohnlage - provisionsfrei,510.000 €,"Eisenacher Straße XXXX,
+Münchner Freiheit, 80804 München",2,53 m²,9.623 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+LICHTSPIELHAUS 02,875.000 €,"Kirchzeile 1,
+83043 Bad Aibling, Rosenheim (Kreis)",3,103 m²,8.495 €/m²,Etagenwohnung,nil,nil,2,1,Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2x Sonne | Balkon & Loggia mitten im Grünen,1.499.000 €,"Clementine-von-Braunmühl-Weg 0,
+Obere Au, 81541 München",3,"89,28 m²",16.790 €/m²,Etagenwohnung,nil,nil,2,2,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+exklusives Penthouse-Unikat mit einzigartigem Stadtblick,5.795.000 €,"Obere Au, 81541 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"218,89 m²",26.474 €/m²,Etagenwohnung,nil,nil,2,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

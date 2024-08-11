@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wohnen und Arbeiten + Einfamilienhaus nebst Gewerbehalle/Werkstatt +,570.000 €,"Godefriedstr. XX,
+50181 Bedburg, Rhein-Erft-Kreis",4,"151,29 m²",1.516 m²,3.768 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus und Wirtschaftsgebäude - ehem. Hofstelle,527.000 €,"Holtfelder Straße XX,
+33829 Borgholzhausen, Gütersloh (Kreis)",9,"243,67 m²",38.621 m²,2.163 €/m²,Wohnimmobilie (sonstige),"254,53 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Ehem. Hofstelle - Wohnhaus mit Garagen- und Werkstattgebäude +,447.000 €,"Windmühlenstraße XX,
+50129 Bergheim, Rhein-Erft-Kreis",6,"134,61 m²",1.489 m²,3.321 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit 3 Wohnungen und Garage,420.000 €,"Olpener Straße XX,
+Brück, 51109 Köln",9,231 m²,807 m²,1.818 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Resthofstelle + Wohnhaus, Wirtschaftsgebäude, Stellplätze",260.000 €,"Alte Heerstraße XX,
+59494 Soest, Soest (Kreis)",10,308 m²,1.726 m²,844 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus, Garten und 2 Stellplätze + provisionsfrei +",422.000 €,"Akazienstraße XX,
+59505 Bad Sassendorf, Soest (Kreis)",5,187 m²,418 m²,2.257 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenmittelhaus, Terrasse, Garage, Stellplatz",329.000 €,"Beckedahlshof XX,
+46562 Voerde (Niederrhein), Wesel (Kreis)",4,"103,41 m²",196 m²,3.182 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Reihenhaus nebst Hallenanbau,98.000 €,"Almenaer Straße XX,
+32689 Kalletal, Lippe (Kreis)",3,100 m²,750 m²,980 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ehemalige Hofstelle + provisionsfrei +,395.000 €,"Burgstraße XX,
+52382 Niederzier, Düren (Kreis)",1,182 m²,907 m²,2.170 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Einlieger und Garage,435.000 €,"Leuchte XX,
+32657 Lemgo, Lippe (Kreis)",6,188 m²,833 m²,2.314 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + ohne Provision +,122.000 €,"Diemstraße XX,
+Siegen, 57072 Siegen",1,143 m²,367 m²,853 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage ++ Wohn- und Geschäftshaus mit Garage ++,346.000 €,"Mühlenstraße XX,
+47661 Issum, Kleve (Kreis)",1,"220,42 m²",536 m²,1.570 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Aus Alt mach Neu + 2-Familienhaus und Halle +,62.500 €,"Neustraße XX,
+47877 Willich, Viersen (Kreis)",1,140 m²,628 m²,446 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes 2-Familienhaus mit mehreren Stellplätzen,340.000 €,"Breslauer Straße XX,
+48268 Greven, Steinfurt (Kreis)",6,130 m²,537 m²,2.615 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus + provisionsfrei +,90.000 €,"Hauptstraße XX,
+Kaan-Marienborn, 57074 Siegen",1,1 m²,244 m²,90.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Dreifamilienhaus +,620.000 €,"Schnutenhausstr. XX,
+Huttrop, 45136 Essen",1,"266,5 m²",292 m²,2.326 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte mit Garagen,243.000 €,"Phönixstraße XX,
+45968 Gladbeck, Recklinghausen (Kreis)",4,134 m²,942 m²,1.813 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Wohnhaus mit Garage,210.000 €,"Luisenstraße XX,
+52525 Heinsberg, Heinsberg (Kreis)",5,128 m²,652 m²,1.641 €/m²,Wohnimmobilie (sonstige),20 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Wohn-/Gewerbegebäude, Mehrfamilienhaus, 2 Garagen",1.700.000 €,"Hauptstraße XX,
+51399 Burscheid, Rheinisch-Bergischer Kreis",3,808 m²,3.819 m²,2.104 €/m²,Wohnimmobilie (sonstige),771 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Garage,650.000 €,"Altenberger Straße XX,
+42929 Wermelskirchen, Rheinisch-Bergischer Kreis",3,"169,51 m²",858 m²,3.835 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3-Zimmer Wohnung im EG mit 2 Terrassen und Gartennutzung,875.700 €,"Hainer Weg 50a,
+Sachsenhausen-Süd, 60599 Frankfurt am Main",3,"102,85 m²",8.514 €/m²,Terrassenwohnung,nil,2024,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer Wohnung 1.OG mit Balkon,924.800 €,"Hainer Weg 48,
+Sachsenhausen-Süd, 60599 Frankfurt am Main",3,"120,6 m²",7.668 €/m²,Etagenwohnung,nil,2024,2,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer Wohnung 4.OG mit 2 Balkonen,912.200 €,"Hainer Weg 48,
+Sachsenhausen-Süd, 60599 Frankfurt am Main",3,"112,78 m²",8.088 €/m²,Etagenwohnung,nil,2024,2,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Individuelle wertige 1,5 ZKB Wohnung mit großem Südbalkon im Grünen- Beste Wohngegend Wiesbadens",240.000 €,"Kapellenstraße 64c,
+Nordost, 65193 Wiesbaden","1,5",40 m²,6.000 €/m²,Etagenwohnung,10 m²,27.5.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freundliche 3-Zimmer-DG-Wohnung in Lampertheim,175.000 €,"Römerstraße 75,
+68623 Lampertheim, Bergstraße (Kreis)",3,62 m²,2.823 €/m²,Dachgeschoss,62 m²,23.5.2024,1,1,1 Parkhaus-Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+helles Appartement zu verkaufen von Privat,120.000 €,"Flachsbüchelstr. 32,
+65232 Taunusstein, Rheingau-Taunus-Kreis",1,42 m²,2.857 €/m²,nil,nil,nil,nil,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bestlage Wi.-Sonnenberg, kernsanierte DG-Maisonettwohnung",387.000 €,"Kaiser-Friedrich-Straße 17,
+Sonnenberg, 65193 Wiesbaden",3,80 m²,4.838 €/m²,Maisonette,"16,49 m²",26.6.2024,1,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunschlos glücklich mit dieser bildschönen 3-Zimmerwohnung in phantastischer Rheingaulage,260.000 €,"65347 Eltville am Rhein, Rheingau-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,3.467 €/m²,Dachgeschoss,15 m²,nil,2,1,1 Außenstellplatz,"3,57 % des Kaufpreises inkl.MST","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Modernisierte 4 ZKB-Wohnung mit Wintergarten und Balkonen in ruhiger Lage von Kassel-Waldau!,229.000 €,"Waldau, 34123 Kassel
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"102,63 m²",2.231 €/m²,Dachgeschoss,nil,nach Vereinbarung,3,1,1 Außenstellplatz,"2,38% Käuferprovision vom beurkundeten Kaufpreis inkl. 19% MwSt.",{}
+Charmante 3-Zimmer ETW im Erdgeschoss in Hanau,299.000 €,"Kesselstadt, 63454 Hanau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,3.560 €/m²,Erdgeschosswohnung,84 m²,1.8.2024,3,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sehr helle DG - Maisonette Wohnung in einem wunderschönen Altbau im Herzen von Eschersheim,320.000 €,"Hinter den Ulmen 7,
+Eschersheim, 60433 Frankfurt am Main","2,5",70 m²,4.571 €/m²,Dachgeschoss,5 m²,nil,1,1,nil,"2,5 zzgl. gesetzl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+GROßE & NEUWERTIGE 3- ZIMMERWOHNUNG/ TERRASSE/ EINBAUKÜCHE/ STELLPLATZ,315.000 €,"Nordenstadt, 65205 Wiesbaden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,3.841 €/m²,Terrassenwohnung,10 m²,Nach Vereinbarung,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmer Wohnung im EG mit 2 Terrassen und Gartennutzung,927.900 €,"Hainer Weg 50a,
+Sachsenhausen-Süd, 60599 Frankfurt am Main",3,"110,32 m²",8.411 €/m²,Terrassenwohnung,nil,2024,2,2,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Über den Dächern Butzbachs - Über 50qm Dachterrasse! ++KFW 40Förderung,549.900 €,"Oberer Lachenweg 24,
+35510 Butzbach, Wetteraukreis",4,120 m²,4.583 €/m²,Penthouse,nil,mittelfristig,nil,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Individuelle 2 Zimmer Dachgeschoßwohnung in Blicklage- Privatverkauf-,176.000 €,"65510 Idstein, Rheingau-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,2.983 €/m²,Dachgeschoss,"7,5 m²",nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vollklimatisierte 3 Zimmer Wohnung mit großen Dachterrassen,399.000 €,"65439 Flörsheim am Main, Main-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,121 m²,3.298 €/m²,Maisonette,0 m²,nil,2,2,4 Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3 Zimmerwohnung mit Balkon am Kaiserlei,195.000 €,"Ledermuseum, 63067 Offenbach am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,9 m²",2.145 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Ansprechende 2-Zimmer-Dachgeschosswohnung mit Balkon und EBK in Lampertheim,175.000 €,"Römerstraße 75,
+68623 Lampertheim, Bergstraße (Kreis)",2,62 m²,2.823 €/m²,Dachgeschoss,nil,23.5.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 5.0-Zimmer Wohnung in Zwingenberg,nil,"64673 Zwingenberg, Bergstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,120 m²,2.825 €/m²,Maisonette,nil,nil,nil,nil,nil,nil,{}
+Wohntraum mit Westausrichtung! ++KFW 40 Förderung,297.000 €,"Oberer Lachenweg 24,
+35510 Butzbach, Wetteraukreis",3,"63,1 m²",4.707 €/m²,Erdgeschosswohnung,nil,mittelfristig,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

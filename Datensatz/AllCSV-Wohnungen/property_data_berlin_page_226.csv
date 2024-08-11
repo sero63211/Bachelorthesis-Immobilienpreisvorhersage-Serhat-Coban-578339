@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Charmante Eigentumswohnung in repräsentativem Stuckaltbau,540.000 €,"Holsteinische Straße 34,
+Wilmersdorf, 10717 Berlin",4,"122,24 m²",4.418 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Altbauwohnung in Schöneberger Toplage - VERMIETET,575.000 €,"Motzstr. 28,
+Schöneberg, 10777 Berlin",3,"108,24 m²",5.312 €/m²,Etagenwohnung,nil,vermietet,2,1,nil,"3,57% Käufercourtage inkl. MwSt","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+3-Zimmer-Wohnung in Friedrichshain - Eigennutzung kurzfristig möglich,345.000 €,"Friedrichshain, 10249 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,57 m²,6.053 €/m²,Etagenwohnung,nil,nil,nil,1,1 Außenstellplatz,3.57 % inkl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Wohnen im Herzen von Charlottenburg: Schöne 2-Zimmerwohnung mit hohen Decken und stilvollem Ambiente,428.960 €,"Uhlandstraße 145,
+Wilmersdorf, 10719 Berlin",2,"61,75 m²",6.947 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartige Altbaurarität im Herzen von Berlin,649.000 €,"Westend, 14052 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,150 m²,4.327 €/m²,nil,nil,nil,2,2,nil,"3,57 % des tatsächlichen Kaufpreises (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+2 Zimmer Wohnung Kreuzberg Berlin,646.000 €,"Kreuzberg, 10967 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"77,1 m²",8.379 €/m²,Etagenwohnung,nil,15.04.2024,1,1,nil,"3,57 % des tatsächlichen Kaufpreises (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Attraktive Kapitalanlage in Charlottenburg,299.000 €,"Charlottenburg, 10587 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,5.436 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,nil,{'is24qa-vermietet-label': ''}
+4 Eigentumswohnungen im Paket für Anleger in Wilmersdorf ... 1 WE bezugsfrei ab 01.08..,998.000 €,"Wilmersdorf, 10717 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"215,15 m²",4.639 €/m²,nil,nil,nil,nil,nil,nil,"7,14 % Courtage inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+EIN JUWEL! SCHMUCKSTÜCK! BESTEKIEZLAGE! 1 Zi. Altbau+Balkon+Dielen+Frei-ein Traum!,249.000 €,"Grünbergerstraße 47,
+Friedrichshain, 10245 Berlin",1,40 m²,6.225 €/m²,Etagenwohnung,42 m²,sofort,nil,1,nil,"3,57 % inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Möbliertes Apartment in zentraler Charlottenburger Lage,249.000 €,"Charlottenburg, 10587 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"38,98 m²",6.388 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% vom Kaufpreis inkl. 19% gesetzliche MwSt. zahlbar vom Käufer an den Makler","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Luxuriöser 2-Zimmer-Neubau mit großer Süd-Terrasse nahe Südstern,890.000 €,"Kreuzberg, 10967 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,99 m²,8.990 €/m²,Etagenwohnung,nil,nach Vereinbarung,2,2,nil,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Charmante sonnige 3-Zimmer-Wohnung in beliebter ruhiger Wohnlage,380.000 €,"Sponholzstraße 6,
+Schöneberg, 12159 Berlin",3,"68,46 m²",5.551 €/m²,Etagenwohnung,"68,46 m²",sofort,2,1,1 Außenstellplatz,"13.566,00 EUR","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Attraktive Altbauwohnung mit Südbalkon im Prenzlauer Berg,629.000 €,"Buchholzer Str. 8,
+Prenzlauer Berg, 10437 Berlin",3,80 m²,7.863 €/m²,Etagenwohnung,nil,sofort,nil,nil,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+2 Zimmer Wohnung Kreuzberg Berlin,646.000 €,"Kreuzberg, 10967 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"77,1 m²",8.379 €/m²,Etagenwohnung,nil,15.04.2024,1,1,nil,"3,57 % des tatsächlichen Kaufpreises (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Exklusive 2 bis 3-Raum-Wohnung mit EBK und Balkon,466.500 €,"Prenzlauer Berg, 10405 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,66 m²,7.068 €/m²,Hochparterre,nil,nil,1,1,nil,"3,57 % des tatsächlichen Kaufpreises (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+***Nicht zu Glauben aber wahr ***,649.000 €,"Westend, 14052 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,150 m²,4.327 €/m²,Maisonette,nil,nil,2,2,nil,"3,57 % des tatsächlichen Kaufpreises (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Geräumige 3-Zimmerwohnung in schöner Lage - Perfekt für Kapitalanleger,240.000 €,"Treseburger Ufer 52,
+Britz, 12347 Berlin",3,"67,29 m²",3.567 €/m²,Hochparterre,"67,29 m²",nil,3,1,nil,"8389,50 €","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Designen Sie ihr Traumzuhause - Dachgeschossrohling direkt am Ufer,359.000 €,"Treseburger Ufer 52,
+Britz, 12347 Berlin",4,"143,77 m²",2.497 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,"12816,30 €","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+*Bezugsfrei*2 Zimmer Wohnung in Wedding,232.000 €,"Hansastr. 16,
+Gesundbrunnen, 13409 Berlin",2,"52,27 m²",4.438 €/m²,Etagenwohnung,"52,27 m²",01.02.2023,1,1,nil,"7,14% (inkl. 19% MwSt.) (50% Käufer)","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Dachgeschosswohnung Berlin Prenzlauer Berg, Winsviertel",1.385.000 €,"Prenzlauer Berg, 10405 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,170 m²,8.147 €/m²,Dachgeschoss,20 m²,nach Absprache,3,2,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

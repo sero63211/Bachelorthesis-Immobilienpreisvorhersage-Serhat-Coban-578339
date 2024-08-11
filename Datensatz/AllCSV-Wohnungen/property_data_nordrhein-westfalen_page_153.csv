@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Eigentumswohnung perfekt für Familien!,225.000 €,"Holsterhausen, 45147 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,94 m²,2.394 €/m²,nil,nil,nil,3,1,nil,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Hoch hinaus in einer 2 Zimmer Maisonette-Wohnung in Toplage,220.000 €,"Heidhausen, 45239 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,53 m²,4.151 €/m²,Maisonette,nil,Nach Vereinbarung,1,2,1 Stellplatz,3.57 %,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Großzügige Neubau-Wohnung mit Gartennutzung,359.000 €,"59590 Geseke, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"119,05 m²",3.016 €/m²,Erdgeschosswohnung,nil,Sommer 2024,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Charmante Eigentumswohnung mit Balkon in gepflegtem Mehrfamilienhaus""",149.000 €,"Stadtmitte, 46236 Bottrop
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,74 m²,2.014 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57% inkl. der gesetzlichen Mehrwertsteuer","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+** Endlich Eigentümer ** 3 Zimmer Eigentumswohnung im begehrten Köln-Ensen!,209.000 €,"Ensen, 51149 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"71,5 m²",2.923 €/m²,Etagenwohnung,nil,nach Absprache,nil,nil,1 Tiefgaragen-Stellplatz,"4,76% inkl. gesetzliche MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Urbanes Wohnen: Stilvolle Maisonette in bester Lage,495.000 €,"Zentrum, 40878 Ratingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,134 m²,3.694 €/m²,nil,nil,01.04.2023,nil,2,2 Garagen,3.57 %,"{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Moderne großzügige Etagenwohnung mit schönem Balkon,329.000 €,"32257 Bünde, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"115,57 m²",2.847 €/m²,Etagenwohnung,nil,Sofort nach Vereinbarung,3,1,1 Carport,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+"Eigennutzung oder Kapitalanlage! Moderne ETW mit sonnigem Balkon und Stellplatz, Düren-Innenstadt",219.000 €,"Innenstadt, 52351 Düren
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"81,62 m²",2.683 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"5715: Hilden-Stadtwald, Geräumige 3 Zimmerwohnung mit zwei Bädern, hochw. EBK und Einzelgarage!",199.000 €,"40724 Hilden, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,1 m²",2.209 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Garage,zzgl. 3.57 % incl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Traumhafte Dachgeschosswohnung über 2 Etagen in Oer,119.000 €,"Horneburger Strasse 115,
+45739 Oer-Erkenschwick, Recklinghausen (Kreis)",3,80 m²,1.488 €/m²,Etagenwohnung,25 m²,01.01.2024,2,1,1 Garage,"3,57% inkl. MwSt. vom beurkundeten Verkaufspreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+5-Zimmerwohnung (1.OG) mit Balkon und Einzelgarage,585.000 €,"Stefan-Lochner-Str. 2,
+Rodenkirchen (Ortsteil), 50999 Köln",5,"130,15 m²",4.495 €/m²,Etagenwohnung,nil,sofort,nil,nil,1 Garage,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"LORENZ-Angebot in Höntrop: Zentrale, ruhigere Lage. Helle, gepflegte 3,5-R.-Wohnung (4,5-R. möglich)",128.800 €,"Höntrop, 44869 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",88 m²,1.464 €/m²,Dachgeschoss,nil,nach Absprache,2,2,nil,"2,98 % (inkl. 19 % MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Eckernkamp - Neubau 3 Zim.-EG-Wohnung mit Garten,362.500 €,"59399 Olfen, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"84,26 m²",4.302 €/m²,Erdgeschosswohnung,"5,46 m²",nil,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+*RESERVIERT* Großzügig Wohnen in direkter City-Lage von Lippstadt,279.000 €,"59555 Lippstadt, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,150 m²,1.860 €/m²,Dachgeschoss,nil,sofort,3,2,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Kapitalanlage: Vier Eigentumswohnungen mit Balkon in guter Lage von Wuppertal,279.000 €,"Uellendahl-Katernberg, 42109 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,220 m²,1.268 €/m²,Etagenwohnung,nil,nach Vereinbarung,4,4,nil,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Exklusive 4-Zimmer-Wohnung im Rheinauhafen inklusive SP und EBK, Top-Zustand, sofort verfügbar",1.425.000 €,"Neustadt/Süd, 50676 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,156 m²,9.135 €/m²,Etagenwohnung,nil,nach Absprache,3,2,1 Tiefgaragen-Stellplatz,"Die Courtage beträgt 3,57 % auf den Kaufpreis inkl. 19 % gesetzlicher MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Wundervolle Terrasse (ca. 100 m²) und offener Kamin - Elegante Wohnung in bester Lage,795.000 €,"Düsseltal, 40237 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,130 m²,6.115 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,"Die Courtage beträgt 3,57 % inkl. 19 % gesetzlicher Mehrwertsteuer des beurkundeten Kaufpreises.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Vermietete Eigentumswohnung mit Fernsicht,149.000 €,"Lustheide, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,51 m²,2.922 €/m²,nil,nil,nil,1,1,nil,"3,57 % inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Traumaussicht pur: frei werdende 2-Zimmerwohnung mit Balkon und Weitsicht!,185.000 €,"Alt-Godesberg, 53177 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,69 m²,2.681 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"Der vom Käufer zu zahlende Provisionsanteil beträgt 3,57 % inklusive MwSt berechnet vom Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"2015 modernisierte 4-Zimmer WE in Ruhiglage von Rodenkirchen-Weiß, Balkon, TG, FBH, 2 Bäder",440.000 €,"Rodenkirchen (Ortsteil), 50999 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,94 m²,4.681 €/m²,Etagenwohnung,7 m²,nach Absprache,3,2,1 Tiefgaragen-Stellplatz,"3,57% der notariellen Kaufsumme","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"

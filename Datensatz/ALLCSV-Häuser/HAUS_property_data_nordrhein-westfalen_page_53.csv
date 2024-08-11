@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Einfamilien-Doppelhaushälfte, Garten, Garage",550.000 €,"Grabenstraße XX,
+Schwarzrheindorf/Vilich-Rheindorf, 53225 Bonn",1,153 m²,403 m²,3.595 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Einfamilien-Doppelhaushälfte, Garten und Garage",225.000 €,"Tannenbergstraße XX,
+Düren-Süd, 52351 Düren",6,94 m²,665 m²,2.394 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Ehem. Hofanlage + Wohn-/Gewerbeeinheiten, Reithalle, Pferdestall, 2 Garagen +",1.060.000 €,"Schwarze Straße XX,
+47665 Sonsbeck, Wesel (Kreis)",3,305 m²,32.399 m²,3.475 €/m²,Wohnimmobilie (sonstige),1.139 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Gute Wohnlage + Doppelhaushälfte, Terrasse, Garage +",388.000 €,"Weg zum Poethen XX,
+58313 Herdecke, Ennepe-Ruhr-Kreis",9,149 m²,310 m²,2.604 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Garage ++ provisionsfrei ++,475.000 €,"Frauenthaler Straße XX,
+50374 Erftstadt, Rhein-Erft-Kreis",9,200 m²,700 m²,2.375 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Doppelhaushälfte mit Garage - provisionsfrei,179.000 €,"Ostring XX,
+52457 Aldenhoven, Düren (Kreis)",1,"83,33 m²",300 m²,2.148 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus und Garage,190.000 €,"Potsdamer Straße XX,
+59229 Ahlen, Warendorf (Kreis)",1,1 m²,608 m²,190.000 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Doppelgarage,447.000 €,"Barlachstraße XX,
+59368 Werne, Unna (Kreis)",5,"148,55 m²",655 m²,3.009 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn- und Geschäftshaus +,528.000 €,"Grabenstraße XX,
+52249 Eschweiler, Aachen (Kreis)",6,151 m²,175 m²,3.497 €/m²,Wohnimmobilie (sonstige),130 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Dachterrasse + provisionsfrei +,285.000 €,"Alte Neusser Landstraße XX,
+Worringen, 50769 Köln",7,138 m²,245 m²,2.065 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Gartenteich und Garage",440.000 €,"Henri-Dunant-Straße XX,
+53879 Euskirchen, Euskirchen (Kreis)",4,107 m²,619 m²,4.112 €/m²,Wohnimmobilie (sonstige),61 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Doppelhaushälfte mit Garten und Garage +,265.000 €,"Brabanter Straße XX,
+59457 Werl, Soest (Kreis)",7,"116,66 m²",516 m²,2.272 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes 2-Familienhaus mit Garage,208.000 €,"Heidkamptstr. XX,
+49549 Ladbergen, Steinfurt (Kreis)",6,"136,82 m²",802 m²,1.520 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus nebst Anbau + provisionsfrei +,78.400 €,"Zementstraße XX,
+59269 Beckum, Warendorf (Kreis)",5,"129,7 m²",25 m²,604 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit 2 Loggien und Doppelgarage,331.700 €,"Holzstraße XX,
+59556 Lippstadt, Soest (Kreis)",5,123 m²,12.855 m²,2.697 €/m²,Wohnimmobilie (sonstige),65 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Doppelgarage + provisionsfrei +,205.540 €,"Heidestraße XX,
+32257 Bünde, Herford (Kreis)",5,195 m²,577 m²,1.054 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Reihenmittelhaus mit Gartenhaus - provisionsfrei,333.000 €,"Pützstraße XX,
+50389 Wesseling, Rhein-Erft-Kreis",4,"92,25 m²",310 m²,3.610 €/m²,Wohnimmobilie (sonstige),70 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, Garten und Garage",590.000 €,"Magazinstraße XX,
+Grengel, 51147 Köln",4,"121,65 m²",796 m²,4.850 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus nebst Flachdachgarage,309.000 €,"Kreidestraße XX,
+48683 Ahaus, Borken (Kreis)",1,"140,1 m²",460 m²,2.206 €/m²,Wohnimmobilie (sonstige),25 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Doppelhaushälfte mit 3 Stellplätzen,337.000 €,"Brabanter Straße XX,
+59457 Werl, Soest (Kreis)",6,122 m²,696 m²,2.762 €/m²,Wohnimmobilie (sonstige),59 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

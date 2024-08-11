@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Moderne 3,5-Zimmerwohnung aus 2015 mit PKW-Garage & Sonnenbalkon in Rheinnähe von Bonn-Graurheindorf",438.000 €,"Estermannstr. 159,
+Graurheindorf, 53117 Bonn",3,106 m²,4.132 €/m²,Etagenwohnung,nil,derzeit vermietet,2,2,1 Duplex-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"R""h""ein gar nichts toppt diese Aussicht !",958.000 €,"Sürther Hauptstr. 200 a,
+Sürth, 50999 Köln",3,155 m²,6.181 €/m²,Etagenwohnung,6 m²,01.06.2024,2,1,2 Tiefgaragen-Stellplätze,"3,57 % (inkl. MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Wohnen mit besonderem Flair,225.000 €,"32105 Bad Salzuflen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,116 m²,1.940 €/m²,nil,nil,sofort,nil,nil,1 Außenstellplatz,"2,75 % inkl. MwSt",{'is24qa-balkon-terrasse-label': ''}
+Elegante 4-Zimmer-Dachgeschosswohnung mit sonnigem Balkon und Parkplatz,320.000 €,"Roxel, 48161 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,2.909 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Herford - Besser geht es nicht!,522.000 €,"32052 Herford, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,129 m²,4.047 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Gepflegte 5-Zimmer-Wohnung mit umlaufenden Balkon & TG-Stellplatz in begehrter Lage von Plittersdorf,398.000 €,"Plittersdorf, 53175 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,133 m²,2.992 €/m²,Etagenwohnung,8 m²,01.03.2024,3,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Perfekt aufgeteilte 2-Zimmerwohnung mit 2 Balkonen zur Selbstnutzung,225.000 €,"Westpark, 52064 Aachen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"66,33 m²",3.392 €/m²,Etagenwohnung,6 m²,15.07.2024,1,1,nil,"3,57 % vom beurkundeten Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Exklusives Wohnen mit Eleganz: Willkommen im GARTENHOF CARRÉ - Wohnung im 1. OG oder Penthouse,390.500 €,"48366 Laer, Steinfurt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","84,08 m²",4.644 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.",{}
+"Offene Besichtigung: Samstag, 01.06. von 12-14 Uhr_Ideale 4 Raum-Maisonette mit Penthouse Charakter",998.000 €,"Hamm, 40221 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,151 m²,6.609 €/m²,nil,nil,nil,3,2,2 Garagen,2 % des Kaufpreises inkl. MwSt,"{'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Vermietete 3-Zi-Whg. mit ca. 125m² Wohn-/Nutzfläche inkl. ausgebautem Spitzboden in Meerbusch-Lank!,350.000 €,"40668 Meerbusch, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"93,48 m²",3.744 €/m²,Etagenwohnung,"32,32 m²",nach Vereinbarung,2,2,1 Tiefgaragen-Stellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Helle 3-Zimmer-Wohnung mit Sonnenloggia im begehrten Düsseldorfer Stadtteil Benrath!,269.000 €,"Benrath, 40597 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,5 m²",3.427 €/m²,Etagenwohnung,nil,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Schöne 3-Zimmer Wohnung im Rumphorstviertel""",320.000 €,"Rumphorst, 48147 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,3.596 €/m²,Souterrain,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gartenparadies im Grafental,799.000 €,"Flingern Nord, 40235 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"111,4 m²",7.172 €/m²,Erdgeschosswohnung,8 m²,nil,3,2,1 Tiefgaragen-Stellplatz,"3,57 % inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Provisionsfrei Neuss-City Wohnung mit bester Aussicht zum Selbst-Bewohnen oder als Kapitalanlage!,196.000 €,"Rheinwallgraben 24,
+Innenstadt, 41460 Neuss",2,64 m²,3.063 €/m²,Etagenwohnung,4 m²,sofort,1,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familien aufgepasst! Direkt einziehen! 4 Zimmer im beliebten Flingern im Grafental,799.000 €,"Flingern Nord, 40235 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,6.603 €/m²,Etagenwohnung,6 m²,nil,3,2,1 Tiefgaragen-Stellplatz,"2,96 % inkl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Helle, ruhige 109 m² große 4,5 Zi-Whg mit Südbalkon nahe Phoenix-See (provisionsfrei)",285.000 €,"Berghofen, 44269 Dortmund
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",109 m²,2.615 €/m²,Hochparterre,109 m²,1.5.2024,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"-7,62% Preisnachlass ++Lorettoviertel++ Exklusive Eigentumswohnung",485.000 €,"Wilhelm-Tell-Str. 1a,
+Unterbilk, 40219 Düsseldorf",3,"78,22 m²",6.200 €/m²,Maisonette,"78,22 m²",1.5.2024,2,2,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neuwertig renoviert: 4-Zimmer-Whg in bester Ortsrandlage!,298.500 €,"Burg/Höhscheid, 42657 Solingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,96 m²,3.109 €/m²,nil,8 m²,01.12.2024,3,1,nil,"3,57% Käufercourtage incl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Exklusives Wohnen in erster Rheinlage,1.695.000 €,"Rodenkirchen (Ortsteil), 50996 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,260 m²,6.519 €/m²,Maisonette,nil,nach Vereinbarung,nil,2,nil,"3,57 % inkl. der gesetzl. MwSt., bezogen auf den Kaufpreis",{'is24qa-balkon-terrasse-label': ''}
+Traumhaftes Penthouse,624.000 €,"59494 Soest, Soest (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,156 m²,4.000 €/m²,Penthouse,156 m²,21.4.2024,1,2,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

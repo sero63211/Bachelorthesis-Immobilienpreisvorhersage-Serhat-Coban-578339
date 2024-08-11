@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Ein ""wohnens""werter Bungalow - Ambience 88. EH 40, Wärmepumpe und PV inklusive",449.999 €,"37181 Hardegsen, Northeim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,980 m²,5.114 €/m²,Bungalow,nil,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Erstbezug: 4-Zimmer-DHH mit Wärmepumpe, Carport und kleinem Garten in ""zweiter Reihe""",365.000 €,"27339 Riede, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,105 m²,370 m²,3.476 €/m²,Doppelhaushälfte,22 m²,sofort,nil,nil,1 Carport,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Ihr neues Haus? Edition 145 - EH 40, Wärmepumpe und PV inklusive",468.999 €,"37176 Nörten-Hardenberg, Northeim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,610 m²,3.234 €/m²,Einfamilienhaus (freistehend),nil,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ein ""wohnens""werter Bungalow - Ambience 88. EH 40, Wärmepumpe und PV inklusive",430.999 €,"37176 Nörten-Hardenberg, Northeim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,610 m²,4.898 €/m²,Bungalow,nil,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ihr neues Haus? Edition 145 - EH 40, Wärmepumpe und PV inklusive",477.999 €,"37154 Northeim, Northeim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,145 m²,790 m²,3.297 €/m²,Einfamilienhaus (freistehend),nil,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ein ""wohnens""werter Bungalow - Ambience 88. EH 40, Wärmepumpe und PV inklusive",439.999 €,"37154 Northeim, Northeim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,790 m²,5.000 €/m²,Bungalow,nil,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus mit Garage und Garten,175.000 €,"Heidkrug Stickgras, 27751 Delmenhorst
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,429 m²,1.683 €/m²,Einfamilienhaus (freistehend),30 m²,nil,nil,1,1 Garage,"3,57 % inkl. ges. MwSt.",{}
+Zweifamilienhaus in Küstennähe bei Esens,279.000 €,"26427 Stedesdorf, Wittmund (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,167 m²,1.099 m²,1.671 €/m²,Mehrfamilienhaus,nil,nil,5,3,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Weserperle auf Harriersand,75.900 €,"28790 Schwanewede, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,182 m²,1.518 €/m²,Wohnimmobilie (sonstige),nil,sofort,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ihr Einstieg in das eigene Investment: Attraktive Kapitalanlage mit 4 Wohneinheiten,219.000 €,"27442 Gnarrenburg, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,"267,56 m²","598,06 m²",819 €/m²,Mehrfamilienhaus,nil,ab sofort,4,4,Außenstellplatz,"7,14 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Altbau-Doppelhaushälfte nebst ebenerdigem Anbau und angrenzenden Bauplatz,270.000 €,"Kreyenbrück, 26133 Oldenburg (Oldenburg)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,781 m²,1.929 €/m²,Doppelhaushälfte,96 m²,nach Vereinbarung,3,2,Garage,"2,9 %",{'is24qa-keller-label': ''}
+gepflegtes freistehendes Einfamilienhaus,298.000 €,"37181 Hardegsen, Northeim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,980 m²,1.987 €/m²,Einfamilienhaus (freistehend),165 m²,01.11.2024,2,1,1 Garage,"8.940,00 Euro inkl. Steuer","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Neuer Preis! Attraktiver Resthof mit modernem Innenleben in Sprakensehl-Masel,289.000 €,"29365 Sprakensehl, Gifhorn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,212 m²,2.866 m²,1.363 €/m²,Bauernhaus,443 m²,nil,5,3,3 Außenstellplätze,"3,57 %","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+**Wohnhaus mit Glasfaseranschluss für Ihr Homeoffice und großzügiges Platzangebot für Hundehalter**,253.000 €,"29591 Römstedt, Uelzen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,200 m²,1.756 m²,1.265 €/m²,Einfamilienhaus (freistehend),50 m²,nil,5,2,4 Garagen,"3,57 % Käuferprovision inkl. MwSt.",{'is24qa-keller-label': ''}
+Provisionsfrei | Ebenerdiges Wohnen in Freiburg an der Elbe,199.000 €,"Drosselweg 9,
+21729 Freiburg (Elbe), Stade (Kreis)",4,100 m²,453 m²,1.990 €/m²,Einfamilienhaus (freistehend),nil,sofort,3,1,1 Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Moderne Ruheoase lädt zum Bleiben ein: 5-Zi.-Zuhause mit Garten und Doppelgarage,349.000 €,"27432 Basdahl, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"156,03 m²","2.000,03 m²",2.237 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,4,2,2 Garagen,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Geräumige Doppelhaushälfte im Bungalowstil mit Luft-/Wärmepumpe,325.000 €,"29690 Essel, Heidekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,700 m²,2.500 €/m²,Doppelhaushälfte,56 m²,nil,3,2,2 Garagen,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises",{}
+Anpacken in Zeven: EFH mit großem Garten und Renovierungspotenzial,199.000 €,"27404 Zeven, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"110,11 m²","1.907,11 m²",1.807 €/m²,Einfamilienhaus (freistehend),nil,ab sofort,4,1,1 Carport,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Wohnen mit Charakter!,770.000 €,"29223 Celle, Celle (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,333 m²,1.396 m²,2.312 €/m²,Villa,80 m²,nil,nil,3,nil,"3,57 %",{}
+Großzügiges Haus in Alt-Laatzen in Top-Lage (inkl. 3 Garagen),465.000 €,"30880 Laatzen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,177 m²,638 m²,2.627 €/m²,Einfamilienhaus (freistehend),68 m²,nach Vereinbarung,nil,3,2 Garagen,"Die Provision beträgt gem. §656c, BGB 3,57% des Kaufpreises. Verkäufer zahlt gleichhohe Provision.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': ''}"

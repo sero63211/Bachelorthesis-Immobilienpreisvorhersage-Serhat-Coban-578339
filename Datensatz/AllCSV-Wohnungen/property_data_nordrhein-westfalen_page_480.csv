@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+PROVISIONSFREI Schöne Wohnung mit drei Zimmern zum Verkauf in Düsseldorf,349.000 €,"Erasmusstr. 4,
+Bilk, 40223 Düsseldorf",3,80 m²,4.363 €/m²,Etagenwohnung,nil,18.3.2024,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Stilvolle 3-Zimmer-EG-Wohnung mit gehobener Innenausstattung in Ehrenfeld, Köln",569.000 €,"Ehrenfeld (Ortsteil), 50825 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,6.616 €/m²,Erdgeschosswohnung,5 m²,28.02.2025,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Anlage oder Selbstnutzung! Eigentumswohnung in einer sanierten Hofanlage in Hillensberg,109.000 €,"Bergstraße 34,
+52538 Selfkant, Heinsberg (Kreis)",3,83 m²,1.313 €/m²,nil,nil,nil,1,1,2 Außenstellplätze,"2,975 % vom notariell beurkundeten Kaufpreis",{'is24qa-einbaukueche-label': ''}
+Renovierte Eigentumswohnung als Kapitalanlage,79.000 €,"Alstaden-Ost, 46049 Oberhausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,40 m²,1.975 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 Prozent","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Renovierte Eigentumswohnung als Kapitalanlage,79.000 €,"Alstaden-Ost, 46049 Oberhausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,40 m²,1.975 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57 Prozent","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Sorglos wohnen in jedem Alter: Barrierearme Erdgeschosswohnung in ruhiger Innenstadtlage,340.000 €,"Martini, 48143 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,6.182 €/m²,Erdgeschosswohnung,nil,Ende 2024,nil,nil,nil,"3,0 % inkl. gesetzl. MwSt. vom Käufer","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
+"""Exklusivität trifft Gemütlichkeit: Zum Verkauf steht eine begehrte 2-Zimmer Wohnung in Top-Lage",259.000 €,"Unterbach, 40627 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,70 m²,3.700 €/m²,Etagenwohnung,nil,nil,1,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Achtung Provisionsfrei! Sonnendurchflutete Galeriewohnung,220.000 €,"Weberstrasse 109,
+41749 Viersen, Viersen (Kreis)","3,5",100 m²,2.200 €/m²,Etagenwohnung,6 m²,nil,2,2,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3,5-Zimmer Erdgeschosswohnung mit Balkon in Weitmar",139.000 €,"Weitmar-Mark, 44795 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",68 m²,2.044 €/m²,Hochparterre,nil,Kurzfristig möglich,nil,nil,nil,"3,98 % inkl. der gesetzlichen MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Neuss-Norf: 3-Zimmer-Wohnung mit Fernblick,199.000 €,"Ulmenallee 128,
+Norf, 41469 Neuss",3,72 m²,2.764 €/m²,Dachgeschoss,7 m²,sofort,2,1,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+KEINE KÄUFERPROVISION Top gepflegte ETW mit Balkon und Garage in Bielefeld Hillegossen,139.800 €,"Stieghorst, 33699 Bielefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"77,91 m²",1.794 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ETW im DG -komplett saniert-,119.900 €,"Buchenstrasse 23-25,
+59505 Bad Sassendorf, Soest (Kreis)",2,40 m²,2.998 €/m²,Dachgeschoss,40 m²,nil,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Maklerfreie 5- Zimmer - Altbauwohnung Belgisches Viertel,880.000 €,"Aachener str. 21,
+Neustadt/Süd, 50674 Köln",5,110 m²,8.000 €/m²,Etagenwohnung,6 m²,1.6.2024,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Moderne Eigentumswohnung KfW 55, Innenstadt 75m² mit eigener Dachterrasse , Garage und Stellplatz",224.000 €,"53879 Euskirchen, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,2.987 €/m²,Dachgeschoss,nil,nil,2,1,2 Stellplätze,nil,{'is24qa-balkon-terrasse-label': ''}
+5 Zimmer ETW in ruhiger Lage mit 209 m² Garten und Außenstellplätzen im 4-Familienhaus,124.000 €,"52525 Heinsberg, Heinsberg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,97 m²,1.278 €/m²,Etagenwohnung,nil,August 2024,4,1,2 Außenstellplätze,"2,975","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Charmante Innenstadtwohnung in Flingern,199.000 €,"Flingern Süd, 40233 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,3.980 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. gesetzlicher MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Lukratives Immobilienpaket aus 3 Wohnungen in guter Lage von Duisburg-Baerl,365.000 €,"Baerl, 47199 Duisburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,204 m²,1.789 €/m²,Terrassenwohnung,nil,nach Vereinbarung,3,nil,nil,"Die Provision beträgt 4,76 des Kaufpreises inkl. 19% MwSt. und ist vom Käufer zu tragen.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Apartment mit Blick ins Naturschutzgebiet mit Loggia, Einbauküche, Aufzug in Düsseldorf-Garath",135.000 €,"Emil-Barth-Straße 111,
+Garath, 40595 Düsseldorf",1,38 m²,3.553 €/m²,Etagenwohnung,nil,17.3.2024,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schick und großzügig: Altersgerechte Wohnung in begehrter Lage,411.000 €,"53332 Bornheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,137 m²,3.000 €/m²,Etagenwohnung,nil,15.04.2024,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt. auf den Kaufpreis. Zahlbar vom Käufer und fällig mit der notariellen Beurkundung.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+RESERVIERT!!!!Wunderschöne 3 Zimmer Dachgeschosswohnung 84 m² mit Balkon,277.000 €,"41352 Korschenbroich, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,3.298 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

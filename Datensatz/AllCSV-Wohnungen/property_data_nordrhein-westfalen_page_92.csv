@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Nette Eigentumswohnung zur Kapitalanlage mit Sonnenbalkon - provisionsfrei,175.000 €,"Amsterdamer Straße 81,
+Riehl, 50735 Köln",3,"55,28 m²",3.166 €/m²,Erdgeschosswohnung,nil,nein,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ACHTUNG ZWANGSVERSTEIGERUNG! Eigentumswohnung in Herne.,42.000 €,"Horsthausen, 44628 Herne
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,538 €/m²,Etagenwohnung,nil,nil,1,1,nil,provisionsfrei,{}
+"3-Zi-ETW in Sudberg! Alles, was eine Wohnung haben sollte: Außenstellplatz, Garage und Garten!",189.000 €,"Cronenberg, 42349 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,2.423 €/m²,Etagenwohnung,nil,nil,nil,nil,2 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"""Suchst Du noch, oder hast du schon""...großzügige Maisonette-Wohnung in begehrter Innenstadtla",239.000 €,"32756 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"118,24 m²",2.021 €/m²,Maisonette,nil,nach Absprache,nil,nil,2 Außenstellplätze,"3,57 % inkl. MwSt",{'is24qa-balkon-terrasse-label': ''}
+Top gepflegte ETW mit phantastischem Ausblick auf Erbpachtgrundstück in Mettmann - Süd,249.000 €,"40822 Mettmann, Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,92 m²,2.707 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Moderne 4-Zimmer-Maisonette-Wohnung in Wesseling,495.000 €,"50389 Wesseling, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,3.808 €/m²,nil,nil,sofort,3,2,1 Außenstellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Provisionsfrei, sanierte Dreizimmerwohnung in Kerpen/Sindorf",285.000 €,"Augsburgerstraße 22,
+50170 Kerpen, Rhein-Erft-Kreis",3,90 m²,3.167 €/m²,Etagenwohnung,nil,Sofort,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zi.-ETW im 3. OG in Radevormwald,76.000 €,"Ritter-von-Halt-Str. 40,
+42477 Radevormwald, Oberbergischer Kreis",3,33 m²,2.303 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+*RESERVIERT* Traumwohnung in Rheinnähe,278.000 €,"Ziegeleiweg 8,
+Westhoven, 51149 Köln",2,87 m²,3.195 €/m²,Etagenwohnung,6 m²,nil,1,2,nil,"2,975% inkl. gestzlicher MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Sanierte Eigentumswohnung Mülheim-Winkhausen sucht neue Eigentümer!,120.000 €,"Altstadt II, 45473 Mülheim an der Ruhr
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"47,15 m²",2.545 €/m²,Etagenwohnung,nil,nil,1,1,nil,"2,975 % inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+KfW 40EE! Energieeffiziente Neubauwohnungen in Beckumer Toplage!,398.744 €,"59269 Beckum, Warendorf (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"95,87 m²",4.159 €/m²,Penthouse,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Renoviert und vermietet! 4-Zimmer-Wohnung in der Vogelsiedlung,225.000 €,"42799 Leichlingen (Rheinland), Rheinisch-Bergischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,77 m²,2.922 €/m²,Etagenwohnung,nil,nach Absprache,3,1,1 Garage,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+KAPITALANLAGE IN CRONENBERG - hier fühlt man sich wohl,186.000 €,"Cronenberg, 42349 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,87 m²,2.138 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Zwei Wohnungen, viele Gestaltungsmöglichkeiten.",148.000 €,"59955 Winterberg, Hochsauerlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,1.184 €/m²,Etagenwohnung,nil,nil,3,2,2 Außenstellplätze,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': ''}"
+Kapitalanleger aufgepasst: Vermietete und vollmöblierte ETW in gepflegter Wohnanlage,119.000 €,"Velbert-Mitte, 42549 Velbert
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,1.983 €/m²,Dachgeschoss,nil,nil,1,1,nil,"3,57% inkl. 19% MwSt. vom Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Nur noch die Möbel reinstellen…,129.000 €,"Uellendahl-Katernberg, 42111 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,61 m²,2.115 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Wohnen in Perfektion: Denkmalgeschützter Altbau mit Topausstattung,835.000 €,"Friedrichstadt, 40215 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,104 m²,8.029 €/m²,Etagenwohnung,nil,nach Vereinbarung,2,1,nil,"2,38 %",{'is24qa-balkon-terrasse-label': ''}
+Toplage in W-Cronenberg,170.000 €,"Cronenberg, 42349 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,77 m²,2.208 €/m²,Etagenwohnung,nil,nach Absprache,1,1,1 Garage,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"SANKT AUGUSTIN NIEDERBEG, 2-Zi. ETW bezugsfrei ca. 64 m² Wfl. Küche, Diele, Bad, Balkon, Keller, TG",179.900 €,"53757 Sankt Augustin, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,2.811 €/m²,Etagenwohnung,10 m²,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % vom Kaufpreis inkl. der ges. MwSt. unbeschadet einer Courtagezahlung der Verkäuferseite","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Modernisierte Wohnung mit Ausblick,160.000 €,"46446 Emmerich am Rhein, Kleve (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,1.778 €/m²,Etagenwohnung,nil,nach Vereinbarung,3,1,nil,"2,98 % inkl. ges. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

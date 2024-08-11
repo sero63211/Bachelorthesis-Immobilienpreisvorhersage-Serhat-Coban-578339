@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+NEUBAU Schöne 2-Zimmer Wohnung in Nagelsberg (W1),223.100 €,"Mittlere Gasse 8,
+74653 Künzelsau, Hohenlohekreis",2,"55,91 m²",3.990 €/m²,Erdgeschosswohnung,nil,01.04.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Perfekte Kapitalanlage mit Bonus in Seniorenwohn- und Pflegeheim - 1-Zi.-ETW in Oberderdingen""",130.000 €,"75038 Oberderdingen, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"23,02 m²",5.647 €/m²,Dachgeschoss,nil,nach Vereinbarung,nil,1,nil,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+"Tolle Lage, traumhafter Ausblick - Hier werden Sie sich wohlfühlen!",Auf Anfrage,"74564 Crailsheim, Schwäbisch Hall (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,148 m²,nil,Penthouse,nil,nil,nil,2,1 Garage,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Besser geht nicht - in aller Bester Lage Penthaus mit atemberaubenden Fernbick,999.900 €,"Heilbronn, 74072 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,160 m²,6.249 €/m²,nil,25 m²,nach Absprache,2,2,2 Tiefgaragen-Stellplätze,"2,5 % vom Kaufpreis zzgl.. 19% Mwst.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Gepflegte 3-Zimmer-Wohnung in Freiburg,348.000 €,"Weingarten, 79114 Freiburg im Breisgau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"81,44 m²",4.273 €/m²,Etagenwohnung,nil,nach Vereinbarung,2,1,nil,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Stilvolle Maisonettewohnung mit hochwertiger Ausstattung und viel Platz!,299.000 €,"74653 Künzelsau, Hohenlohekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,113 m²,2.646 €/m²,Maisonette,nil,nil,nil,2,1 Außenstellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Eine Wohnung für alle Lebenslagen!,320.000 €,"73087 Bad Boll, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",90 m²,3.556 €/m²,Erdgeschosswohnung,nil,sofort,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.",{}
+Gut geschnittene Wohnung,188.000 €,"Badhausweg 13-15,
+76307 Karlsbad, Karlsruhe (Kreis)",3,105 m²,1.790 €/m²,Etagenwohnung,2 m²,nil,2,1,nil,3% zzgl. 19% MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+1-Zimmer Wohnung mit kleiner Terrasse zum Eigennutz oder als Kapitalanlage,109.000 €,"73099 Adelberg, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"30,57 m²",3.566 €/m²,Erdgeschosswohnung,nil,sofort,1,1,1 Außenstellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Ansprechender Altbaucharme - großzügige 4 Zimmer Eigentumswohnung!,450.000 €,"73257 Köngen, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,194 m²,2.320 €/m²,Erdgeschosswohnung,127 m²,nil,nil,nil,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Wohnglück auf 67qm. Für die wunderbare erste Zeit zu zweit.,229.000 €,"Oberreut, 76189 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"67,73 m²",3.381 €/m²,Etagenwohnung,nil,nach Kauf bezugsfrei,2,1,1 Tiefgaragen-Stellplatz,"2,38 % vom Kaufpreis inklusive MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Tolle 3-Zimmeretagenwohnung mit Balkon in ruhiger Wohnlage,390.000 €,"76316 Malsch, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"112,9 m²",3.454 €/m²,Etagenwohnung,"17,46 m²",nach Absprache,2,2,2 Garagen,"3,57% inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohnen im Kern in Waiblingen - Stadtmitte,320.000 €,"71332 Waiblingen, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,87 m²,3.678 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,93 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+KAPITALANLEGER AUFGEPASST! Bezaubernde 2 Zimmer Wohnung mit Garten sucht neuen Eigentümer,230.000 €,"71263 Weil der Stadt, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,3.966 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Komfortable 3,5-Zimmer Wohnung mit Balkon",409.000 €,"88046 Friedrichshafen, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",102 m²,4.010 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Eigentumswohnung im Grünen ! Mitten in der Natur und doch Stadtnah !,295.000 €,"88239 Wangen im Allgäu, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,90 m²,3.278 €/m²,Etagenwohnung,45 m²,nil,3,1,1 Außenstellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Moderne Traumwohnung in ruhiger Lage,550.000 €,"Innenstadt, 76530 Baden-Baden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,110 m²,5.000 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,"3,57% inkl. der gesetzlichen MwSt. bezogen auf den Kaufpreis","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Tolle 3-Zimmerwohnung mit Nebenraum in Malsch,398.000 €,"76316 Malsch, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"93,71 m²",4.247 €/m²,Etagenwohnung,"16,25 m²",nach Absprache,2,1,3 Garagen,"3,57% inkl. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Sofort bezugsbereit! Entspannen auf 2,5 Zimmern inkl. Balkon und Garage",289.000 €,"74321 Bietigheim-Bissingen, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",74 m²,3.905 €/m²,Etagenwohnung,10 m²,nil,1,1,1 Garage,"3,57 % Käuferprovision inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Helle 3 Zimmer Dachgeschoss Wohnung,255.000 €,"Hirsauer Str. 16,
+Eglosheim, 71634 Ludwigsburg",3,63 m²,4.048 €/m²,Dachgeschoss,65 m²,01.01.2024,2,1,nil,"3,00% Ink. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

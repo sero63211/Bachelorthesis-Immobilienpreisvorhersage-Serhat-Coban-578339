@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+3- Raumwohnung mit Balkon in Böhlitz-Ehrenberg in einer ruhigen Wohnanlage,123.000 €,"Kastanienallee WE 12,
+Böhlitz-Ehrenberg, 04178 Leipzig",3,61 m²,2.016 €/m²,Hochparterre,nil,nil,2,1,nil,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+3 Raum ETW in Dresden Laubegast,198.000 €,"Laubegast, 01279 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,2.829 €/m²,Dachgeschoss,nil,nil,1,1,Tiefgaragen-Stellplatz,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': ''}"
++ESDI+ Kapitalsicherung - vermietete 1-Zimmer-Wohnung in beliebter Wohnlage!,85.000 €,"Striesen-West, 01309 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"30,38 m²",2.798 €/m²,Etagenwohnung,"30,38 m²",nil,nil,1,nil,"3,57 %","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Hochwertige 3 Zimmer Wohnung, mit eigenem Gartenanteil, Mietrendite 4%, Provisionsfrei",200.000 €,"Friedrich-Bosse-Str. 14,
+Möckern, 04159 Leipzig",3,77 m²,2.597 €/m²,nil,nil,nil,nil,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-Raum-Apartment am Südplatz,89.000 €,"Südvorstadt, 04275 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,24 m²,3.708 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Mikro-Apartment in beliebter Südvorstadt,89.000 €,"Südvorstadt, 04275 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,24 m²,3.708 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Schöne 2 Zi.-Whg. mit Balkon+TG-Stellplatz, ruhig und grün gelegen - vermietet!",109.000 €,"Engelsdorf, 04319 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"51,47 m²",2.118 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt. (Käuferprovision)","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Charmante 2-Raum-Wohnung in historischen Altbau,105.000 €,"Stötteritz, 04299 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,40 m²,2.625 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kaßberg DG-Maisonette WE - langjährig vermietet - sucht neuen Eigentümer!,64.000 €,"Rudolf-Marek-Str. 4,
+Kaßberg, 09112 Chemnitz",3,59 m²,1.085 €/m²,Dachgeschoss,nil,nil,2,1,nil,"3,57% inkl. Mwst.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Solide Kapitalanlage: Wohnungspaket mit 4 Einheiten in Schloßchemnitz, knapp 6% Rendite!",350.000 €,"Arthur-Bretschneider-Straße 20,
+Schloßchemnitz, 09113 Chemnitz",11,"286,5 m²",1.222 €/m²,Etagenwohnung,nil,nil,nil,nil,4 Duplex-Stellplätze,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"* EIGENNUTZER AUFGEPASST* - Top 2-RWG mit Laminat, Bad mit Wanne, Balkon - in super Lage ! **WE10**",225.000 €,"Bernhard-Göring-Straße 67,
+Zentrum-Süd, 04107 Leipzig",2,"65,91 m²",3.414 €/m²,Etagenwohnung,nil,01.06.2024,1,1,nil,"3,57% inkl. 19% MwSt. auf den Gesamtkaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+Eine einzigartige Wohnung im Herzen der sächsischen Elbmetropole,1.300.000 €,"Wilsdruffer Vorstadt/Seevorstadt-West, 01067 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"190,18 m²",6.836 €/m²,nil,"7,24 m²",ab Kaufpreiszahlung,2,2,1 Tiefgaragen-Stellplatz,"2,97% des Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+2-Raum-Wohnung mit Balkon | Anger-Crottendorff!,110.000 €,"Anger-Crottendorf, 04318 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"48,97 m²",2.246 €/m²,Etagenwohnung,"48,97 m²",nil,1,1,nil,"5,355% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"+Quartier Siebengrün in Gohlis+ Top sanierte 2-Raum-Wohnung mit Balkon, Garten, Parkett",219.000 €,"Fleißnerstraße 20,
+Gohlis-Mitte, 04157 Leipzig",2,"65,21 m²",3.358 €/m²,Hochparterre,nil,nil,1,1,nil,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Sofort Einziehen und Wohlfühlen!,209.000 €,"Thekla, 04349 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"73,76 m²",2.834 €/m²,Dachgeschoss,nil,sofort,1,1,1 Außenstellplatz,"3,57% inkl. gesetzl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+hochwertige und gepflegte Eigentumswohnung in Gohlis ** Parkett * großer Balkon * Stuck * Tageslicht,300.000 €,"Gohlis-Mitte, 04157 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,94 m²,3.191 €/m²,Etagenwohnung,nil,nil,2,2,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hochwertige 3-Zimmer-Wohnung in exklusiver Lage - Zentrumsnah,165.000 €,"Kaßberg, 09112 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,2.357 €/m²,nil,nil,nil,nil,1,nil,siehe Sonstiges,{'is24qa-listonlyonis24-label': 'Nur hier gefunden'}
+"Neu Sanierte, bezugsfreie Vierzimmerwohnung mit großem Balkon",390.000 €,"Trachau, 01129 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,3.545 €/m²,Maisonette,115 m²,sofort,3,2,nil,3 % zzgl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+NEU - Hochwertige Denkmalschutzsanierung - Sie werden sich Wohlfühlen,289.500 €,"Gambrinusstraße 12,
+Friedrichstadt, 01159 Dresden",3,"86,92 m²",3.331 €/m²,Etagenwohnung,"6,81 m²",Nach Vereinbarung,2,1,nil,"3,57% (inkl. 19% gesetzlicher MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Vermietete 2- Zimmer Wohnung mit zwei Balkonen und Tiefgaragenstellplatz im Osterzgebirge,70.000 €,"01774 Höckendorf, Sächsische Schweiz-Osterzgebirge (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,43 m²,1.628 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"3,57% des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

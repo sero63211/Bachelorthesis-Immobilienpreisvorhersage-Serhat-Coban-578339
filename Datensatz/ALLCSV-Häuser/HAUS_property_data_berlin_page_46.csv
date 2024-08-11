@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+PROVISIONSFREI: Einfamilienhaus in einem schönen Ensemble mit Potenzial zur Aufstockung,479.000 €,"Baumschulenweg, 12437 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,115 m²,155 m²,4.165 €/m²,Einfamilienhaus (freistehend),40 m²,sofort,1,1,nil,Nein,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hochwertiges Einfamilienhaus mit 7 Zimmern, ca. 177 m² + 862 m² Grundstück am Wald in Mahlsdorf-Sü",849.000 €,"Mahlsdorf, 12623 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,177 m²,862 m²,4.797 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,4,3,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrfamilienhaus in Köpenick,2.149.000 €,"Müggelheimer Straße 8,
+Köpenick, 12555 Berlin",55,735 m²,509 m²,2.924 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"3,57% vom Käufer zu zahlen, 3,57% vom Verkäufer zu zahlen",{}
+Provisionsfrei: Neubau Mehrfamilienhaus mit 10 Apartments nach KFW 55,2.689.000 €,"Mariendorf, 12105 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,380 m²,810 m²,7.076 €/m²,nil,120 m²,nil,nil,nil,4 Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Charmantes, lichtdurchflutetes Einfamilienhaus in zentraler Lage in Mahlsdorf",824.000 €,"Mahlsdorf, 12623 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,166 m²,723 m²,4.964 €/m²,Einfamilienhaus (freistehend),56 m²,nach Vereinbarung,8,2,2 Garagen,"3,57",{'is24qa-gaeste-wc-label': ''}
+großes Zweifamilienhaus in Hakenfelde,795.000 €,"Hakenfelde, 13587 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"283,91 m²",712 m²,2.800 €/m²,Einfamilienhaus (freistehend),"149,49 m²",nach Absprache,2,2,1 Garage,"3,57%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Traum am See! Exklusives Townhouse mit Bootssteg,2.495.000 €,"Tegel, 13507 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,211 m²,301 m²,11.825 €/m²,Villa,nil,nil,2,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein- / Zweifamilienhaus zu verkaufen,990.000 €,"Baumschulenweg, 12437 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,150 m²,880 m²,6.600 €/m²,Mehrfamilienhaus,110 m²,sofort,2,2,1 Garage,nil,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Apartmenthaus für Altersgerechtes Wohnen Berlin - Lichtenfeld aus InsO gegen Höchstgebot,2.120.000 €,"Heinersdorfer Straße 26,
+Lichterfelde, 12209 Berlin",14,"714,31 m²",995 m²,2.968 €/m²,Mehrfamilienhaus,"714,31 m²",01.05.2024,4,12,nil,7.14 % inkl. MwSt.vom Kaufpreis,"{'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Einfamilienhaus mit viel Potenzial mit beschaulichen Blankenburg,550.000 €,"Blankenburg, 13129 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,116 m²,900 m²,4.741 €/m²,Einfamilienhaus (freistehend),50 m²,nil,nil,nil,Außenstellplatz,"zzgl. 3,57% Käuferprovision (inkl. gesetzlicher MwSt.)","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+DHH / Architektenhaus in einer sehr guten Lage in Berlin Niederschönhausen (Pankow),800.000 €,"Niederschönhausen, 13156 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5",148 m²,170 m²,5.405 €/m²,Doppelhaushälfte,23 m²,1.10.2024,4,1,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Doppelhaushälfte in ruhiger Seitenstraße in Karow,300.000 €,"Nerthusweg 42,
+Karow, 13125 Berlin","3,5","85,32 m²",860 m²,3.516 €/m²,Doppelhaushälfte,"124,87 m²",sofort,nil,2,1 Garage,"3,57 % inklusive MwSt., vom Käufer zu zahlen; in gleicher Höhe werden wir vom Verkäufer vergütet","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Schönes 3-Zimmer-Einfamilienhaus in Berlin,299.000 €,"Daffingerweg 1,
+Mahlsdorf, 12623 Berlin",3,85 m²,400 m²,3.518 €/m²,Einfamilienhaus (freistehend),20 m²,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Freistehendes Einfamilienhaus mit Gartenterrasse,610.000 €,"Karlshöhe XXX,
+Französisch Buchholz, 13127 Berlin",4,"131,85 m²",595 m²,4.626 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kleines Einfamilienhaus mit Carport und Garage,210.000 €,"Heidekrautbahnring XXX,
+Blankenfelde, 13159 Berlin",3,"72,23 m²",493 m²,2.907 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Mehrfamilienhaus mit Gewerbeflächen als Kapitalanlage +,5.773.000 €,"Rupprechtstr. XXX,
+Rummelsburg, 10317 Berlin",1,"1.822,21 m²",1.150 m²,3.168 €/m²,Wohnimmobilie (sonstige),"263,25 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"1/2 Anteil - Einfamilienhaus, Doppelgarage",530.000 €,"Seydlitzstraße XXX,
+Lichtenrade, 12307 Berlin",5,"206,27 m²",921 m²,2.569 €/m²,Wohnimmobilie (sonstige),"113,12 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1/2 Anteil - Freistehendes 2-Familienhaus,176.000 €,"Petkusser Straße XXX,
+Lichtenrade, 12307 Berlin",6,"171,66 m²",603 m²,1.025 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Von Wald umgebene Einfamilien-Doppelhaushälfte mit Garage,1.100.000 €,"Maikäferpfad XXX,
+Westend, 14055 Berlin",9,207 m²,560 m²,5.314 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+kleines Bien-Zenker Einfamilienhaus in Berlin Rudow bauen,"632.550,17 €","Rudow, 12355 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,110 m²,360 m²,"5.750,46 €/m²",nil,nil,nil,nil,nil,nil,nil,{}

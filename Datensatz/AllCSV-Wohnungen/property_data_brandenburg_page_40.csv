@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Eggersdorf - bewohnte Dreizimmerwohnung mit Balkon und PkW Stellplatz zu verkaufen,191.500 €,"Rosenstraße 00,
+15345 Petershagen/Eggersdorf, Märkisch-Oderland (Kreis)",3,"63,77 m²",3.003 €/m²,Etagenwohnung,"63,77 m²",nil,1,1,1 Außenstellplatz,"3,57 % (inklusive 19% Mehrwertsteuer) der Kaufsumme","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Provisionsfrei Vom Eigentümer Vermietete 2-Zimmer-Wohnung mit Balkon in Falkensee,195.000 €,"Falkenstrasse 8,
+14612 Falkensee, Havelland (Kreis)",2,48 m²,4.063 €/m²,Sonstige,48 m²,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen in idyllischer Waldgemeinde in Borkheide,373.980 €,"14822 Borkheide, Potsdam-Mittelmark (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,118 m²,3.169 €/m²,nil,126 m²,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Dachgeschosswohnung 3 Zimmer, Küche, Bad, Balkon in ruhiger, grüner Innenstadtlage",300.000 €,"Mitte, 03046 Cottbus
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,95 m²,3.158 €/m²,Dachgeschoss,nil,nach Vereinbarung,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Vermietete ETW in der Hochschulstadt Wildau,220.000 €,"15745 Wildau, Dahme-Spreewald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"75,1 m²",2.929 €/m²,nil,78 m²,nil,nil,1,1 Tiefgaragen-Stellplatz,"3,57 % incl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Neubau vor den Toren Berlins - Exklusive 3 Zimmer Wohnung Nr. 1,420.000 €,"Waldhornweg 46,
+Am Stern, 14480 Potsdam",3,93 m²,4.516 €/m²,Erdgeschosswohnung,6 m²,01.01.2025,2,2,1 Stellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Bezugsfrei! Charmante Maisonette Wohnung in naturschöner Umgebung!,190.000 €,"15537 Erkner, Oder-Spree (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,67 m²,2.836 €/m²,Maisonette,nil,kurzfristig,3,1,1 Außenstellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Im Grünen Wohnen, direkt am Branitzer Park!",282.700 €,"Branitz, 03042 Cottbus
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,112 m²,2.524 €/m²,Erdgeschosswohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,3 % zzgl. ges. MwSt.,{'is24qa-garten-mitbenutzung-label': ''}
+Geräumige 3-Zimmer-Wohnung mit Wintergarten und eigenem KFZ-Stellplatz zentral in Potsdam,549.000 €,"Breite Straße 10,
+Nördliche Innenstadt, 14467 Potsdam",3,99 m²,5.545 €/m²,nil,nil,nil,nil,nil,1 Außenstellplatz,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ausbaufähiger Dachrohling in friedlicher Grünlage wartet auf Ihre kreative Gestaltung!,360.000 €,"16356 Ahrensfelde, Barnim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"286,56 m²",1.256 €/m²,Sonstige,nil,Sofort,nil,nil,4 Stellplätze,"3,57 % inkl. MwSt.",{}
+Kapitalanlage direkt an der Havel,199.000 €,"16761 Hennigsdorf, Oberhavel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"58,96 m²",3.375 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57% inklusive MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Traumdachgeschoss am Park,345.000 €,"Babelsberg Nord, 14482 Potsdam
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,59 m²,5.847 €/m²,Dachgeschoss,10 m²,1.5.2024,2,2,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 2-Zimmerwohnung mit Balkon,195.000 €,"Fliederweg 12,
+Bornstedt, 14469 Potsdam",2,"47,34 m²",4.119 €/m²,Etagenwohnung,50 m²,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+5-Zimmer-Eigentumswohnung in einem sanierten Altbau in Potsdam-Babelsberg,480.000 €,"Babelsberg Süd, 14482 Potsdam
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"106,84 m²",4.493 €/m²,Etagenwohnung,"106,84 m²",nil,4,2,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eberswalde - Vermietete Dachgeschoss Maisonette Wohnung zu verkaufen,179.900 €,"Am Sonnenhang 5,
+16225 Eberswalde, Barnim (Kreis)",2,57 m²,3.156 €/m²,Maisonette,57 m²,nil,1,1,1 Außenstellplatz,"3,57 % des notariell beurdundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Hier möchten Sie wohnen!,274.500 €,"16562 Hohen Neuendorf, Oberhavel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,3.565 €/m²,Etagenwohnung,80 m²,sofort,2,1,1 Außenstellplatz,"3,57 % incl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Eigentumswohnung mit 3 Zimmern, Küche, Bad, Balkon und Aufzug in ruhiger, grüner Innenstadtlage",275.000 €,"Mitte, 03046 Cottbus
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,87 m²,3.161 €/m²,Etagenwohnung,nil,ab 01.07.2024,2,1,1 Außenstellplatz,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"Ab 1. Juli: 3,5-Zimmer-Wohnung im Berliner Umland",285.000 €,"15868 Lieberose, Dahme-Spreewald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",105 m²,2.714 €/m²,Dachgeschoss,120 m²,1.7.2024,2,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumwohnung im NULL-Energiehaus nahe Zeesener See,389.000 €,"15711 Königs Wusterhausen, Dahme-Spreewald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,92 m²,4.228 €/m²,Maisonette,116 m²,nil,2,1,2 Stellplätze,"3.213,00 €",{'is24qa-gaeste-wc-label': ''}
+Schöne und gepflegte 3-Raum-Wohnung mit Balkon und EBK in Schönefeld,247.000 €,"12529 Schönefeld, Dahme-Spreewald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,86 m²,2.872 €/m²,Etagenwohnung,86 m²,nil,1,1,2 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

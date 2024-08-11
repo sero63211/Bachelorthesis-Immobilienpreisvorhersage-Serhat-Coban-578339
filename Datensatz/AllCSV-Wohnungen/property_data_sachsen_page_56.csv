@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Eigentumswohnung in einer gefragten Wohnlage,70.000 €,"Zentrum, 09111 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"48,6 m²",1.440 €/m²,Etagenwohnung,nil,nach Vereinbarung,1,1,nil,4000 EUR,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Günstige 3-Zimmer-Wohnung zum Kauf in Freiberg,89.999 €,"Heinrich Zilleweg 34,
+09599 Freiberg, Mittelsachsen (Kreis)",3,"65,5 m²",1.374 €/m²,Sonstige,nil,nil,nil,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle 3-Raum-DG-Whg., Loggia + TG-Stpl. + Aufzug + Gäste-WC! Laminat bzw. Fliesen! Ruhige Randlage!",91.000 €,"Rosa-Luxemburg-Str. 90,
+Nordvorstadt, 08058 Zwickau",3,"70,4 m²",1.293 €/m²,Dachgeschoss,nil,nil,2,1,1 Duplex-Stellplatz,"3,57 % des VKP, mind. 2.975 EUR, inkl. 19 % MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
+RESERVIERT: Erstbezug 3-Zimmer-Wohnung nach vollständiger Renovierung,85.000 €,"Goethestr. 38,
+01589 Riesa, Meißen (Kreis)",3,75 m²,1.133 €/m²,Etagenwohnung,10 m²,6.10.2023,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Raum-Wohnung in Burkhardtsdorf,79.000 €,"09235 Burkhardtsdorf, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"87,01 m²",908 €/m²,Erdgeschosswohnung,nil,nil,3,1,1 Stellplatz,2.975 €,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Modernes Ferien-Appartement direkt am Störmthaler See bei Leipzig,330.000 €,"04463 Großpösna, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,72 m²,4.583 €/m²,Erdgeschosswohnung,3 m²,ab sofort,nil,nil,nil,"3,57 % vom Kaufpreis inkl. gesetzl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Modernisierte 3-Zimmer-Wohnung mit Balkon und Einbauküche in Chemnitz-Sonneberg,119.000 €,"Lessingplatz 3,
+Sonnenberg, 09130 Chemnitz",3,78 m²,1.526 €/m²,Sonstige,nil,4.2.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gepflegte Eigentumswohnung mit 4-Zimmern in Probstheida,260.000 €,"Russenstraße 16,
+Probstheida, 04289 Leipzig",4,93 m²,2.796 €/m²,Erdgeschosswohnung,93 m²,nach Vereinbarung,1,2,1 Tiefgaragen-Stellplatz,"2,975 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+freie & gut gelegene 1- Zimmerwohnung mit Aufzug - leerstehend,89.000 €,"Herrmanstr. 2,
+Connewitz, 04227 Leipzig",1,"37,19 m²",2.393 €/m²,Etagenwohnung,nil,sofort,1,1,1 Tiefgaragen-Stellplatz,"3177,30 €","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+"Neue helle 3-Raumwohnung im Atrium-Quartier Schkeuditz, provisionsfrei",385.000 €,"Friedrich-Ebert-Str. 3,
+04435 Schkeuditz, Nordsachsen (Kreis)",3,"82,5 m²",4.667 €/m²,Etagenwohnung,"82,5 m²",nach Absprache,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen mit außergewöhnlichem Charme!,129.000 €,"Reinsdorf, 08527 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,130 m²,992 €/m²,Erdgeschosswohnung,nil,Nach Absprache,4,2,1 Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Ihr neues Zuhause in der Stadt: Maisonette mit Charme!,289.000 €,"Naußlitz, 01159 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",82 m²,3.524 €/m²,nil,nil,nil,nil,1,nil,3%,{'is24qa-keller-label': ''}
+Vielseitige 3-Zi.-ETW mit Balkon und Keller in guter Lage und Uninähe,164.900 €,"Plauen (Stadtteil), 01187 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"59,6 m²",2.767 €/m²,nil,nil,ab sofort,2,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Preiswerte 2-Zimmer-Wohnung zum Kauf in Zwickau,50.000 €,"Crimmitschauer Straße 27,
+Mitte-Nord, 08056 Zwickau",2,"39,8 m²",1.256 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Ruhig gelegene 2-R.-DG-Whg., Loggia + TG-Stpl. + Aufzug! Laminat bzw. Fliesen, Nähe Zwickauer Mulde!",74.000 €,"Rosa-Luxemburg-Str. 90,
+Nordvorstadt, 08058 Zwickau",2,"57,05 m²",1.297 €/m²,Dachgeschoss,nil,01.09.2024,1,1,1 Duplex-Stellplatz,2.975 EUR inkl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-vermietet-label': ''}"
+Eigentumswohnung - einmaliges Wohngefühl an der Weißen Elster in Leipzig,250.000 €,"Plagwitz, 04229 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,67 m²,3.731 €/m²,Maisonette,4 m²,sofort,nil,nil,nil,"3,57 % vom Kaufpreis inkl. gesetzl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Schöne ruhuge 3-Raum Dachgeschoßwohnung zu verkaufen,102.000 €,"04808 Thallwitz, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,78 m²,1.308 €/m²,Dachgeschoss,nil,nil,2,1,Außenstellplatz,"3,57% vom Kaufpreis (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Traumhafter Ausblick - 4-Zimmer DG Wohnung mit Balkon in Schleußig - provisonsfrei,391.500 €,"Holbeinstraße 33a,
+Schleußig, 04229 Leipzig",4,"105,67 m²",3.705 €/m²,Dachgeschoss,nil,nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"87 m², 3 Zi. - Wohnung zu verkaufen, jederzeit beziehbar, sehr gute Ausstattung. Preis VB",148.000 €,"Puschkin Str. 17,
+Kaßberg, 09112 Chemnitz",3,87 m²,1.701 €/m²,Etagenwohnung,92 m²,jederzeit,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Investitionsobjekt: Sanierte 4-Zimmerwohnung im alten Rittergut Weistropp OT Klipphausen zum Kau,360.000 €,"Kirchstraße 8,
+01665 Klipphausen, Meißen (Kreis)",4,100 m²,3.600 €/m²,Terrassenwohnung,nil,nil,nil,1,1 Parkhaus-Stellplatz,"14.101,50€","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

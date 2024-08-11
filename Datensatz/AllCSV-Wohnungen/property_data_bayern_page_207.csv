@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+***Gepflegt und gut vermietet: 4-Zimmerwohnung mit TG-Stellplatz***,189.000 €,"St.-Mang-Weg 15,
+Hirschzell, 87600 Kaufbeuren",4,"78,67 m²",2.402 €/m²,nil,nil,nil,nil,nil,Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-vermietet-label': ''}"
+Solide Anlage: Gepflegtes Senioren-Apartment in zentraler Lage von Untergiesing-Harlaching,99.900 €,"Giesing, 81547 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"26,73 m²",3.737 €/m²,nil,nil,nach Absprache,1,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Exklusive, neuwertige 2-Zimmer-Wohnung mit Einbauküche in Gersthofen",259.000 €,"Wendelsteinstraße 8,
+86368 Gersthofen, Augsburg (Kreis)",2,"44,12 m²",5.870 €/m²,Etagenwohnung,8 m²,1.6.2024,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Klosterlechfeld - Gute und verkehrsgünstige Lage! Großzügige 2-ZKB-DG-Whg mit Balkon und Einbauküche,245.000 €,"Bayernstr. 2,
+86836 Klosterlechfeld, Augsburg (Kreis)",2,70 m²,3.500 €/m²,Dachgeschoss,70 m²,1.8.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Privatverkauf! Sonnige, großzügige DG-Wohnung direkt in Oberstaufen",379.000 €,"Paul-Rieder-Str. 4,
+87534 Oberstaufen, Oberallgäu (Kreis)","2,5",108 m²,3.509 €/m²,Dachgeschoss,10 m²,nil,1,2,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Helle, provisionsfreie und vollständig renovierte 4,5-Zimmer-Dachgeschosswohnung in Pfuhl",479.000 €,"89233 Neu-Ulm, Neu-Ulm (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",107 m²,4.477 €/m²,Dachgeschoss,37 m²,31.1.2025,3,2,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geschmackvolle 3-Zimmer-Wohnung mit Balkon in München Forstenried *provisionsfrei*,490.000 €,"Forstenrieder Allee 24,
+Forstenried, 81476 München",3,62 m²,7.903 €/m²,Etagenwohnung,62 m²,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Stilvolle, sanierte 1-Zimmer-Wohnung mit Balkon in München",300.000 €,"Angerlohstr 21,
+Allach, 80997 München",1,32 m²,9.375 €/m²,Etagenwohnung,32 m²,25.3.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Stilvoller Rückzugsort: Eine Wohnung für Entspannung""",265.000 €,"84508 Burgkirchen an der Alz, Altötting (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,3.313 €/m²,nil,nil,nil,nil,1,1 Garage,3.57%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Einmalige Dachgartenwohnung mitten in Ottobrunn mit riesiger Dachterrasse,888.888 €,"Ottostr. 18,
+85521 Ottobrunn, München (Kreis)",3,155 m²,5.735 €/m²,Terrassenwohnung,74 m²,01.07.2024,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumwohnung in Traumlage unverbauter Seeblick Bergblick 3 Zimmer vollmodernisiert,549.000 €,"87629 Füssen, Ostallgäu (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,6.863 €/m²,Dachgeschoss,37 m²,1.10.2024,2,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Helle, Ruhige 2-Zimmer-Wohnung in Neufahrn b. Freising",265.000 €,"Fritz-Walter-Straße 5b,
+85375 Neufahrn bei Freising, Freising (Kreis)",2,52 m²,5.096 €/m²,Etagenwohnung,4 m²,1.8.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tolle provisionsfreie Erdgeschosswohnung mit Terrasse , Gartenanteil und Einbauküche in Altenfurt",369.000 €,"Altenfurt, Moorenbrunn, 90475 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,4.100 €/m²,Erdgeschosswohnung,120 m²,15.4.2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Renovierte 4-Zimmer-Maisonette-Wohnung mit EBK und Westbalkon in Sendling-Westpark,595.000 €,"Am Waldfriedhof, 81377 München
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,81 m²,7.346 €/m²,Maisonette,16 m²,sofort,3,1,1 Duplex-Stellplatz,"3,57 % vom notariellen Kaufpreis inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Herrliche vollständig renovierte 1- Zimmer-Dachgeschosswohnung mit Balkon und EBK in Sch,39.000 €,"94572 Schöfweg, Freyung-Grafenau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,35 m²,1.114 €/m²,Dachgeschoss,35 m²,7.5.2024,1,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 3-Zimmer Wohnung mit Top-Alpenblick und Potenzial für individuelle Gestaltung,259.000 €,"86343 Königsbrunn, Augsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"78,43 m²",3.302 €/m²,Etagenwohnung,nil,2.3.2024,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+**Stilvolle Stadtwohnung: Zentrale Lage und voller Charme**,219.000 €,"Steinbühl, 90443 Nürnberg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,72 m²,3.042 €/m²,nil,nil,nil,nil,1,nil,3.57%,{'is24qa-keller-label': ''}
+"Lichtdurchflutete und gut geschnittene 2,5-Zimmer-Hochparterre-Wohnung in Germering",369.000 €,"82110 Germering, Fürstenfeldbruck (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",63 m²,5.857 €/m²,Erdgeschosswohnung,nil,29.4.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gehobene 3 Zimmer-Terrassenwohnung mit traumhaften Fernblick,495.500 €,"93077 Bad Abbach, Kelheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"100,44 m²",4.933 €/m²,nil,"119,58 m²",nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Pendler aufgepasst - Bahnhofsnah und ruhig wohnen in Ingolstadt,199.000 €,"Nordwest, 85049 Ingolstadt
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,13 m²",3.483 €/m²,nil,nil,nach Absprache,1,1,1 Außenstellplatz,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

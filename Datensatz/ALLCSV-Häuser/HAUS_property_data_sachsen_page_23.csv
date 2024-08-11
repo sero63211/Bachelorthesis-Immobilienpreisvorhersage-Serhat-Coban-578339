@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Schönes Wohn- und Geschäftshaus zu verkaufen,250.000 €,"Dresdener Straße 11,
+09326 Geringswalde, Mittelsachsen (Kreis)",15,361 m²,587 m²,693 €/m²,Mehrfamilienhaus,274 m²,nil,8,5,nil,"3,57 % inkl. MwSt.",{'is24qa-vermietet-label': ''}
+Charmante Kapitalanlage - Villa im Jugendstil,385.000 €,"Syratal, 08525 Plauen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",24,"771,25 m²",545 m²,499 €/m²,Besondere Immobilie,nil,nil,nil,nil,nil,"3,57 inkl. MwSt.",{'is24qa-vermietet-label': ''}
+"Ein schönes Gefühl, endlich angekommen zu sein!",89.000 €,"08412 Werdau, Zwickau (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,520 m²,809 €/m²,Doppelhaushälfte,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{}
+Mehrgenerationenhaus in Deutscheinsiedel - Jetzt entdecken!,179.000 €,"09548 Deutschneudorf, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,222 m²,1.200 m²,806 €/m²,Mehrfamilienhaus,266 m²,sofort,6,3,3 Außenstellplätze,"3,57% vom Kaufpreis inkl. der gesetzl. MwSt.",{'is24qa-keller-label': ''}
+Sanierungsbedürftiges Ein- oder Mehrgenerationenhaus in Tannenberg mit viel Wohnfläche!,75.000 €,"09468 Tannenberg, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,170 m²,720 m²,441 €/m²,Einfamilienhaus (freistehend),110 m²,sofort,6,1,2 Außenstellplätze,"3,57 % vom Kaufpreis, mind. 2.380,00 € inkl. der gesetzl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Kleines Mehrfamilienhaus mit Panoramablick und Garten in Großschirma zu verkaufen!,330.000 €,"09603 Großschirma, Mittelsachsen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,186 m²,2.000 m²,1.774 €/m²,Mehrfamilienhaus,nil,nach Vereinbarung,3,3,4 Außenstellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Zweifamilienhaus mit Ausbauvisionen und traumhaftem Garten,75.000 €,"Brückenstraße 2,
+08304 Schönheide, Erzgebirgskreis",8,"166,58 m²",760 m²,450 €/m²,Mehrfamilienhaus,204 m²,sofort,2,2,1 Garage,"4,76% Käuferprovision vom Kaufpreis inkl. gesetzl. MwSt.",{'is24qa-keller-label': ''}
+Einfamilienhaus in ruhiger Siedlungslage,36.400 €,"Am Butterberg 8,
+04746 Hartha, Mittelsachsen (Kreis)",3,84 m²,870 m²,433 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,1 Garage,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++++ Fußläufig zur TU Dresden! - Reihenendhaus mit idyllischem Garten und Ausbaupotenzial +++,449.000 €,"Räcknitz/Zschertnitz, 01069 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,290 m²,4.490 €/m²,Reiheneckhaus,nil,nil,3,1,nil,"3,57% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
++++ Modernisiertes Einfamilienhaus mit Kamin und hochwertiger Einbauküche in idyllischer Lage +++,220.000 €,"01936 Königsbrück, Bautzen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,102 m²,290 m²,2.157 €/m²,Einfamilienhaus (freistehend),nil,sofort,nil,2,2 Garagen,"3,57% inkl. MwSt.",{'is24qa-online-besichtigung-moeglich-label': ''}
+++ Traumhaftes Familiendomizil auf einem ehemaligen Weinberg mit traumhaften Weitblick ++,550.000 €,"04808 Thallwitz, Leipzig (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"194,2 m²",1.090 m²,2.832 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,Garage,"3,57 % inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+"+++ Exklusives Stadthaus mitten im Landschaftschutzgebiet mit Garage, Dachterrasse, Garten +++",Auf Anfrage,"Probstheida, 04289 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,151 m²,204 m²,nil,Reiheneckhaus,nil,nach Vereinbarung,3,2,4 Garagen,"2,975% inkl. MwSt.",{'is24qa-gaeste-wc-label': ''}
+*Denkmalimmobilie* Zwei Sanierungsbedürftige Villen in Altchemnitz,200.000 €,"Annabergerstraße 70/72,
+Altchemnitz, 09120 Chemnitz",30,"561,78 m²",825 m²,356 €/m²,Villa,nil,nil,nil,nil,nil,"7,14","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Maximale Entfaltung - Ehem. landwirtschaftliches Anwesen mit vielfältigen Gestaltungsmöglichke,295.000 €,"01594 Hirschstein, Meißen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,345 m²,7.731 m²,855 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,"3,57% inkl. 19% MwSt.",{}
+"Landidyll - Einfamilienhaus in Zeithain, OT Lorenzkirch",99.000 €,"01619 Zeithain, Meißen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,138 m²,299 m²,717 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,1 Garage,"3,57% inkl. 19% MwSt.",{}
+Traumhaftes Grundstück mit großem Wohnhaus (4 WE) und Scheune +++ vielseitige Nutzungsmöglichk,480.000 €,"04758 Liebschützberg, Nordsachsen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",13,"349,8 m²",6.169 m²,1.372 €/m²,Bauernhaus,nil,VB,nil,nil,3 Garagen,"5,95% inkl. 19% MwSt.",{}
+Uriges Haus mit viel Gemütlichkeit - Doppelhaushälfte in Strehla,99.000 €,"01616 Strehla, Meißen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"128,27 m²",177 m²,772 €/m²,Doppelhaushälfte,nil,nil,nil,nil,nil,"4,76% inkl. 19% MwSt.",{}
+Charmantes Einfamilienhaus in ruhiger Lage von Riesa,165.000 €,"01589 Riesa, Meißen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,800 m²,1.341 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"3,57% inkl. 19% MwSt.",{}
+KfW 40 Effizienzhaus - Reihenendhaus H.7 im Wohnquartier Großstädteln mit Erbpachtgrundstück,449.911 €,"Lene-Voigt-Straße, Haus H.7,
+04416 Markkleeberg, Leipzig (Kreis)",4,"117,28 m²",340 m²,3.836 €/m²,Reiheneckhaus,nil,nil,3,1,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigenheim statt Miete! – Wunderschönes Traumhaus von Danhaus,520.759 €,"01623 Lommatzsch, Meißen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,160 m²,773 m²,3.255 €/m²,Villa,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

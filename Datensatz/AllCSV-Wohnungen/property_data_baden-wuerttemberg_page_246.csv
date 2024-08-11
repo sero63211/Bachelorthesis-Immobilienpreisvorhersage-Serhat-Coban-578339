@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wohnung 3-4 Zimmer in GP Reusch,330.000 €,"73033 Göppingen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,3.300 €/m²,Erdgeschosswohnung,200 m²,nach Absprache,2,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+*** Helle Erdgeschoss-Wohnung in Ortsrandlage von Münchingen! ***,330.000 €,"70825 Korntal-Münchingen, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",89 m²,3.708 €/m²,Erdgeschosswohnung,nil,nil,nil,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohnträume unterm Dach - Eigener Gartenanteil,299.000 €,"79312 Emmendingen, Emmendingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,2.492 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmantes Wohnen in der Altstadt mit Burg- und Seesicht,465.000 €,"88709 Meersburg, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",107 m²,4.346 €/m²,Maisonette,nil,nil,2,2,1 Stellplatz,"2,38","{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Erbbauobjekt - Ab 15.05 bezugsfrei mit tollem Balkon und Garage,135.000 €,"69181 Leimen, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"69,75 m²",1.935 €/m²,nil,nil,15.05.2024,1,1,1 Garage,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Exklusives Penthouse mit Aufzug - als Wohnung oder Büro nutzbar -,965.000 €,"73760 Ostfildern, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,174 m²,5.546 €/m²,Penthouse,nil,nil,3,1,2 Tiefgaragen-Stellplätze,"3,57 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Familienglück auf 112m² mit Südbalkon inkl. Einbauküche,634.000 €,"Teuringer Str. 221,
+88048 Friedrichshafen, Bodenseekreis",4,"112,5 m²",5.636 €/m²,Etagenwohnung,nil,sofort,3,1,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Urbane Oase: Gepflegte 2-Zimmer-Wohnung mit Balkon in zentrumsnaher Lage,299.000 €,"Kernerviertel, 70190 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,67 m²,4.463 €/m²,nil,nil,nach Absprache,1,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+*** Vermietete 2 Zimmer-Wohnung in der Nähe vom Schlosspark! ***,199.000 €,"71282 Hemmingen, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,3.210 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gemütliche 2-Zimmer-Wohnung in idyllischer Umgebung!,210.000 €,"71672 Marbach am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,53 m²,3.962 €/m²,Etagenwohnung,nil,nach Absprache,1,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+"Ort der Gemütlichkeit: 2,5-Zi.-Maisonette in Offenburg",240.000 €,"77652 Offenburg, Ortenaukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",81 m²,2.963 €/m²,Maisonette,nil,nach Absprache,1,1,1 Außenstellplatz,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Vermieten oder selbst einziehen - 2-Zimmer Wohnung am Wenzelstein,179.000 €,"89584 Ehingen (Donau), Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,64 m²,2.797 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{}
+"Helle 2,5 Zimmer Wohnung mit Balkon",299.000 €,"76337 Waldbronn, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",77 m²,3.883 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Exklusive Loftwohnung mit toller Aussicht,480.000 €,"89134 Blaustein, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,125 m²,3.840 €/m²,Loft,nil,sofort,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 ZKB mit Balkon und TG.- Platz im Ida - Dehmel - Ring sofort frei,235.000 €,"Käfertal, 68309 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,3.983 €/m²,Etagenwohnung,5 m²,sofort,1,1,1 Tiefgaragen-Stellplatz,2 % + MWST. vom Kaufpreis,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+4-Zimmer-Penthouse mit umlaufendem Süd- und Westbalkon sowie Alpenpanorama - Erstbezug,659.000 €,"Teuringer Str. 221,
+88048 Friedrichshafen, Bodenseekreis",4,"119,7 m²",5.505 €/m²,Penthouse,nil,sofort,3,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Im Herzen von Brackenheim,196.450 €,"74336 Brackenheim, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,62 m²,3.169 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57% (inkl. 19% MwSt.) des endgültig beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+*Provisionsfrei* 2-Zimmerwohnung inkl. grandioser Aussicht in Bad Wildbad,89.500 €,"75323 Bad Wildbad, Calw (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"42,33 m²",2.114 €/m²,Dachgeschoss,nil,nil,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ganz oben wohnen in begehrter Lage!,399.000 €,"Arlinger, 75179 Pforzheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,136 m²,2.934 €/m²,Penthouse,nil,spätestens Januar 2025,2,2,1 Garage,"4,76 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Bezugsfreie 3-Zimmer-Wohnung mit großem Balkon in guter Wohnlage,225.000 €,"72135 Dettenhausen, Tübingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"60,04 m²",3.748 €/m²,nil,nil,ab sofort,2,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"

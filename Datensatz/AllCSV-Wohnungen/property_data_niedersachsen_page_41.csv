@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Ihr neuer Wohlfühlort!,199.000 €,"27476 Cuxhaven, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,68 m²,2.926 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Außenstellplatz,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Vermietete Erdgeschosswohnung im idyllischen Wohngebiet!,234.000 €,"26655 Westerstede, Ammerland (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,2.250 €/m²,nil,nil,Der Übergang erfolgt nach Vereinbarung!,nil,1,1 Stellplatz,"Käuferprovision: 2,975 % inkl. 19 % MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Letzte Chance! Die Fertigstellung erfolgt in Kürze!,290.000 €,"38268 Lengede, Peine (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","86,04 m²",3.371 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Eigentum schaffen - deine erste eigene Wohnung!,115.000 €,"Eversten, 26131 Oldenburg (Oldenburg)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"36,39 m²",3.160 €/m²,nil,nil,nil,nil,1,nil,"Käuferprovision: 2,975 % inkl. 19 % MwSt.",{'is24qa-balkon-terrasse-label': ''}
+2-Zimmer-Meerblickwohnung im Kaiserhof!,980.000 €,"26548 Norderney, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,47 m²,20.851 €/m²,nil,nil,nach Vereinbarung,1,1,1 Stellplatz,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Smartes leben in der Südstadt!,448.000 €,"Große Düwelstraße 57,
+Südstadt, 30171 Hannover",3,63 m²,7.111 €/m²,Etagenwohnung,nil,nach Vereinbarung,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Junge, zentrale Traumwohnung mit Dachterrasse in Schüttorf",245.000 €,"48465 Schüttorf, Grafschaft Bentheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"95,28 m²",2.571 €/m²,Maisonette,"6,28 m²",Nach Vereinbarung,nil,1,nil,"Die Käuferprovision beträgt 4,17 % des Kaufpreises inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Wohnen im Zentrum von Adendorf! Große 2 Zi.- Wohnung mit Balkon in Ratsdomizil,179.000 €,"Drechsler-Str. 2-6,
+21365 Adendorf, Lüneburg (Kreis)",2,52 m²,3.442 €/m²,Dachgeschoss,nil,frei ab sofort,1,1,nil,"3,57 %inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+3 Zimmer Eigentumswohnung in Hildesheim,148.000 €,"Nordstadt, 31137 Hildesheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,6 m²",1.501 €/m²,Etagenwohnung,"10,8 m²",nil,nil,1,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+Sanierte Erdgeschosswohnung mit Balkon in Maschsee-Lage...,350.000 €,"Südstadt, 30169 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",76 m²,4.605 €/m²,Erdgeschosswohnung,nil,ab sofort,2,1,nil,"2,98 % incl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Dicht an der Weser, dicht am Wald!",245.000 €,"31582 Nienburg (Weser), Nienburg (Weser) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,2.882 €/m²,Erdgeschosswohnung,nil,01.06.2024,2,1,1 Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumimmobilie in idyllischer Dünenlage,1.200.000 €,"Mittelstraße 35,
+26465 Langeoog, Wittmund (Kreis)",3,74 m²,16.216 €/m²,nil,6 m²,nil,2,2,nil,siehe Sonstiges,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+"""Stilvoll Wohnen""",329.000 €,"Groß-Buchholz, 30655 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"107,89 m²",3.049 €/m²,Etagenwohnung,nil,ab sofort,3,2,nil,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Langenhagen: traumhaftes Penthouse mit 171 m² Wohnfläche!,699.000 €,"30851 Langenhagen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,171 m²,4.088 €/m²,Penthouse,20 m²,nil,2,2,2 Tiefgaragen-Stellplätze,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Klein, aber mein",134.000 €,"Tiergartenbreite, 38448 Wolfsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,59 m²,2.271 €/m²,Etagenwohnung,nil,nach Vereinbarung,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{}
+RESERVIERT: 3 Zi. Eigentumswohnung in vorteilhafter Lage von Salzgitter- Gebhardshagen!,49.500 €,"Gebhardshagen, 38229 Salzgitter
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,50 m²,990 €/m²,Erdgeschosswohnung,nil,ab sofort,2,1,nil,"3,57% inkl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Exklusives Wohnen in Strandnähe,359.000 €,"26553 Dornum, Aurich (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,3.590 €/m²,nil,nil,nil,2,1,1 Stellplatz,3.0 %,{'is24qa-balkon-terrasse-label': ''}
+Kein Photoshop! Provisionsfrei,259.477 €,"21423 Winsen (Luhe), Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"83,22 m²",3.118 €/m²,nil,nil,nil,2,2,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Willkommen in Ihrem neuen Eigenheim,109.000 €,"Detmerode, 38444 Wolfsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,77 m²,1.416 €/m²,Etagenwohnung,nil,nach Vereinbarung,nil,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.",{}
+Zwei Optionen: Selbstbezug oder Kapitalanlage,138.000 €,"Oststadt / Stadtfeld, 31135 Hildesheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"92,52 m²",1.492 €/m²,Etagenwohnung,nil,nil,3,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"

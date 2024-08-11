@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+4-Raum-EG-Wohnung in Aachen-Laurensberg,600.000 €,"Laurensberg (Statistischer Bezirk), 52072 Aachen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,4.615 €/m²,Erdgeschosswohnung,20 m²,1.8.2024,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Charmante 2,5-Zimmer- Eigentumswohnung in zentraler Lage von Coesfeld!!!",225.000 €,"48653 Coesfeld, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",67 m²,3.358 €/m²,Etagenwohnung,nil,30.06.2024,1,1,1 Tiefgaragen-Stellplatz,"Käuferprovision 3,57 % (inkl. z. Zt. 19 % MwSt) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+"Wohnen im Château Seerose (Hilden-Süd) luxuriöse 4 Zimmer mit großem Balkon, Südwest Lage",680.000 €,"Overbergstr. 15,
+40723 Hilden, Mettmann (Kreis)",4,"149,68 m²",4.543 €/m²,Etagenwohnung,165 m²,nil,3,2,1 Tiefgaragen-Stellplatz,"1,19 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Exclusive Wohnperle mit allen Extras Nähe Riet zu verkaufen,155.000 €,"Roggenkamp 13,
+45701 Herten, Recklinghausen (Kreis)",2,51 m²,3.039 €/m²,Dachgeschoss,8 m²,3.5.2024,1,1,1 Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive und modernisierte 2-Raum-Dachgeschosswohnung mit geh. Innenausstattung mit Balkon,159.000 €,"Philippstraße 6,
+58511 Lüdenscheid, Märkischer Kreis",2,72 m²,2.208 €/m²,Dachgeschoss,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exquisite Neubauwohnung in Bestlage von Refrath,798.000 €,"Refrath, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,126 m²,6.333 €/m²,Etagenwohnung,nil,nil,3,2,2 Außenstellplätze,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+++ NIPPES ++ SCHICKE 3 ZIMMER - WOHNUNG - FRISCH RENOVIERT!,369.000 €,"Nippes (Ortsteil), 50733 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"64,6 m²",5.712 €/m²,Etagenwohnung,0 m²,Sofort,2,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Neubau, 5% Rendite und 5 Jahre Gewährleistung: Lichtdurchflutete Maisonette als Top-Investment!",220.000 €,"Bergisch-Gladbacher-Str. 135-137,
+Mülheim (Ortsteil), 51065 Köln",2,"35,13 m²",6.262 €/m²,Maisonette,8 m²,nil,1,1,nil,"8746,50","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Attraktive 3-Zimmer-Wohnung mit schönem Balkon, Autostellplatz sowie zusätzl. Garage in Elsdorf",235.000 €,"Frankenstraße 19-21,
+50189 Elsdorf, Rhein-Erft-Kreis",3,"89,55 m²",2.624 €/m²,Etagenwohnung,"6,16 m²",nil,2,2,2 Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnung mit Gartenanteil in Köln-Mehrheim,529.200 €,"Hohensyburgstraße 128,
+Merheim, 51109 Köln",3,"83,27 m²",6.355 €/m²,Etagenwohnung,6 m²,Januar 2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmerwohnung mit Domblick als Kapitalanlage oder spätere Eigennutzung. PROVISIONSFREI.,225.000 €,"Am Schildgen 1-3,
+50354 Hürth, Rhein-Erft-Kreis",3,72 m²,3.125 €/m²,Etagenwohnung,nil,1.7.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen am Rhein - Neubau von 13 exklusiven Eigentumswohnungen in Grimlinghausen,540.000 €,"Grimlinghausen, 41468 Neuss
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"96,77 m²",5.580 €/m²,Erdgeschosswohnung,nil,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen am Rhein - Neubau von 13 exklusiven Eigentumswohnungen in Grimlinghausen,473.000 €,"Grimlinghausen, 41468 Neuss
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"82,59 m²",5.727 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sanierte, bezugsfreie 3-Zimmer-Wohnung mit Balkon in Ratingen",180.000 €,"Zentrum, 40878 Ratingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,62 m²,2.903 €/m²,Hochparterre,nil,01.08.2024,2,1,nil,6426,{'is24qa-keller-label': ''}
+Geschmackvolle 3-Zimmer-DG-Wohnung mit großem Balkon und Einbauküche in Lohmar,249.000 €,"53797 Lohmar, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,3.113 €/m²,Dachgeschoss,nil,2.5.2024,2,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geborgen wohnen-in guter Lage !,324.000 €,"Junkersdorf, 50858 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,4.320 €/m²,Erdgeschosswohnung,nil,nach Verinbarung,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Im Herzen des Veedels,172.000 €,"Dellbrück, 51069 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,52 m²,3.308 €/m²,nil,nil,nil,nil,nil,nil,"3,57% des Kaufpreises",{}
+"Stilvolle, gepflegte 2-Zimmer-Wohnung mit gehobener Innenausstattung mit Balkon und EBK in Würselen",210.000 €,"Elchenrather Straße 15a,
+52146 Würselen, Aachen (Kreis)",2,54 m²,3.889 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 2.0-Zimmer Wohnung in Bonn,nil,"Heiderhof, 53177 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,63 m²,4.254 €/m²,Hochparterre,nil,nil,nil,nil,nil,nil,{}
+"***PROVISIONSFREI***Schöne, lichtdurchflutete 2-Zimmer-Wohnung***",379.000 €,"Lindenthal (Ortsteil), 50935 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,6.317 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

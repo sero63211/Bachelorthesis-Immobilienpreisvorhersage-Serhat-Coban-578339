@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Ansprechende Doppelhaushälften im Zentrum von Wendschott,498.000 €,"Wendenstraße 10,
+Wendschott, 38448 Wolfsburg",4,139 m²,400 m²,3.583 €/m²,Doppelhaushälfte,"17,3 m²",7.2.2024,3,2,2 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrfamilienhaus/Generationshaus,599.000 €,"Stöckener Straße 56,
+30926 Seelze, Hannover (Kreis)",8,250 m²,800 m²,2.396 €/m²,Mehrfamilienhaus,250 m²,5.2.2024,3,5,1 Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Landwirtschaftliche Hofstelle mit 2 Wohneinheiten,344.000 €,"27327 Martfeld, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,282 m²,6.911 m²,1.220 €/m²,Bauernhaus,1.530 m²,EG sofort,5,2,4 Stellplätze,"3,57",{'is24qa-keller-label': ''}
+Tolles Reihenendhaus mit Wintergarten und optionaler Garage,235.000 €,"31515 Wunstorf, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,91 m²,401 m²,2.582 €/m²,Reiheneckhaus,40 m²,nach Vereinbarung,3,1,1 Garage,"Die Provision beträgt gem. §656c, BGB 3,57% des Kaufpreises. Verkäufer zahlt gleichhohe Provision.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': ''}"
+Die Schatzsuche könnte ein Ende haben,650.000 €,"21271 Asendorf, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,280 m²,1.058 m²,2.321 €/m²,Wohnimmobilie (sonstige),75 m²,nach Vereinbarung,8,nil,2 Carports,"6,99% des Kaufpreises","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Charmantes Einfamilienhaus!,149.000 €,"37412 Hörden am Harz, Osterode am Harz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,220 m²,595 m²,677 €/m²,Einfamilienhaus (freistehend),nil,sofort,4,2,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+2-3 Familienhaus mit Dachgeschossausbaureserve,77.000 €,"37627 Stadtoldendorf, Holzminden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,155 m²,135 m²,497 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"6,40 % inkl MwSt inkl. MwSt.",{}
+Wohngebäude mit Anbau und Carport - provisionsfrei,350.000 €,"Forlitzer Straße XX,
+26624 Südbrookmerland, Aurich (Kreis)",1,215 m²,46.280 m²,1.628 €/m²,Wohnimmobilie (sonstige),976 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3 Ferienhäuser - provisionsfrei,503.000 €,"Hasenweg XX,
+26624 Südbrookmerland, Aurich (Kreis)",8,164 m²,7.231 m²,3.067 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage + Wohn-/Geschäftshaus - ohne Provision +,137.000 €,"Blanke Str. XX,
+31028 Gronau (Leine), Hildesheim (Kreis)",5,188 m²,498 m²,729 €/m²,Wohnimmobilie (sonstige),139 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-3 Familienhaus mit Dachgeschossausbaureserve,77.000 €,"37627 Stadtoldendorf, Holzminden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,155 m²,135 m²,497 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"6,40 % inkl MwSt inkl. MwSt.",{}
+Ohne Provision! Einfamilienhaus nebst Garage und Carport,173.000 €,"Rostocker Str. XX,
+30900 Wedemark, Hannover (Kreis)",1,116 m²,729 m²,1.491 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus nebst integrierter Garagen - provisionsfrei,677.000 €,"Peter-Köster-Straße XX,
+Groß-Buchholz, 30655 Hannover",8,"356,97 m²",717 m²,1.897 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage - provisionsfrei,255.800 €,"Winkelstraße XX,
+31812 Bad Pyrmont, Hameln-Pyrmont (Kreis)",4,85 m²,372 m²,3.009 €/m²,Wohnimmobilie (sonstige),15 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage - provisionsfrei,110.000 €,"Thedastraße XX,
+Twixlum, 26723 Emden",7,154 m²,530 m²,714 €/m²,Wohnimmobilie (sonstige),13 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2 Mehrfamilienhäuser - provisionsfrei,1.524.000 €,"Schülerweg XX,
+Timmerlah-Geitelde-Stiddien, 38120 Braunschweig",1,579 m²,2.988 m²,2.632 €/m²,Wohnimmobilie (sonstige),840 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ohne Provision! Einfamilienhaus mit Garage,210.000 €,"Hohe Lüchte XX,
+29221 Celle, Celle (Kreis)",5,81 m²,405 m²,2.593 €/m²,Wohnimmobilie (sonstige),"50,03 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus nebst 2 Garagen - provisionsfrei,123.000 €,"Hauptstraße XX,
+49635 Badbergen, Osnabrück (Kreis)",8,"151,17 m²",1.148 m²,814 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2 Einfamilien-Doppelhaushälften mit Doppelgarage - provisionsfrei,710.000 €,"Amselweg XX,
+29552 Bienenbüttel, Uelzen (Kreis)",9,271 m²,1.898 m²,2.620 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+BAUMEISTER-HAUS mit BAUGRUNDSTÜCK (3) in Klein Escherde (Nordstemmen),405.700 €,"Teichstraße 5,
+31171 Nordstemmen, Hildesheim (Kreis)",5,120 m²,609 m²,3.381 €/m²,Einfamilienhaus (freistehend),nil,2025,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

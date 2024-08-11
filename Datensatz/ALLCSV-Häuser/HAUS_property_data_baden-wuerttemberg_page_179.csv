@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Einfamilienhaus mit Charme - ein Ort zum Wohlfühlen und Leben,320.000 €,"72793 Pfullingen, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,92 m²,133 m²,3.478 €/m²,Einfamilienhaus (freistehend),40 m²,nil,nil,1,nil,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gepflegtes Einfamilienhaus mit schönem Garten und viel Natur in Obersulm,592.000 €,"74182 Obersulm, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"173,9 m²",524 m²,3.404 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,2,2 Stellplätze,"4,76 %",{'is24qa-keller-label': ''}
+Saniertes Reihenmittelhaus in Allmendingen,360.000 €,"89604 Allmendingen, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"112,8 m²",286 m²,3.191 €/m²,Reihenmittelhaus,nil,nil,nil,2,2 Stellplätze,"3,57 %",{'is24qa-keller-label': ''}
+Traumhaftes Einfamilienhaus in Stuttgart-Wangen wartet auf Sie!,998.000 €,"Wangen, 70327 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,152 m²,648 m²,6.566 €/m²,Einfamilienhaus (freistehend),"68,88 m²",nil,nil,1,2 Stellplätze,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+WEITBLICK: Vierfamlienhaus mit sehr guter Anbindung!,695.000 €,"71686 Remseck am Neckar, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,266 m²,503 m²,2.613 €/m²,Doppelhaushälfte,nil,vermietet,3,4,5 Garagen,"4,76 inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Traumhaftes Architektenhaus in idyllischer Lage,799.000 €,"Lichtental mit Oberbeuern und Geroldsau, 76534 Baden-Baden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,220 m²,301 m²,3.632 €/m²,Doppelhaushälfte,30 m²,sofort,6,3,1 Garage,"3,57 % zahlbar von Käufer.",{'is24qa-keller-label': ''}
+Atemberaubendes Einfamilienhaus mit Panoramablick auf den Schwarzwald,4.300.000 €,"79410 Badenweiler, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"407,18 m²",927 m²,10.560 €/m²,Einfamilienhaus (freistehend),472 m²,sofort,6,5,nil,"3,57 % inkl. MwSt. v. beurk. Kaufpreis",{}
+"""Charmantes freistehendes Haus mit Wintergarten, Garage und Renovierungspotenzial zu verkaufen""",269.000 €,"89597 Munderkingen, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",160 m²,350 m²,1.681 €/m²,Einfamilienhaus (freistehend),nil,sofort,5,1,1 Garage,"2,38 % inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+3-Fam.-Haus mit ELW - Garage - Kapitalanlage in ruhiger Lage,750.000 €,"76571 Gaggenau, Rastatt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,226 m²,509 m²,3.319 €/m²,Doppelhaushälfte,nil,nil,6,4,4 Stellplätze,3.57% v. Brutto-VK-Preis,"{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Erstbezug - 2 neue hochwertige DHH mit jeweils ca. 160m² Wfl. - Selbstausbaupreis,589.000 €,"76571 Gaggenau, Rastatt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"161,5 m²",225 m²,3.647 €/m²,Doppelhaushälfte,12 m²,nil,4,1,2 Stellplätze,3.57% v. Brutto-VK-Preis,{}
+// Traumhaftes Wohnen in unverbauter Feldrandlage - freist. EFH mit idyllischem Garten //,329.000 €,"74858 Aglasterhausen, Neckar-Odenwald-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,606 m²,2.632 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,1 Garage,"4,76","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ruhig gelegenes Zweifamilienhaus in Gernsbach Staufenberg,369.000 €,"76593 Gernsbach, Rastatt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"151,7 m²",662 m²,2.432 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Zeitlos schöne Architektur!,550.000 €,"88518 Herbertingen, Sigmaringen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","7,5","221,46 m²",1.487 m²,2.484 €/m²,Einfamilienhaus (freistehend),nil,sofort,5,3,nil,"2,50 % inkl. MwSt.",{}
+Geräumige Doppelhaushälfte mit Einliegerwohnung in beliebter Lage,648.000 €,"69234 Dielheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"169,42 m²",269 m²,3.825 €/m²,Doppelhaushälfte,nil,nil,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Entspanntes Wohnen für die Familie: Modernes Haus mit Sauna und großzügigem Garten,625.000 €,"74613 Öhringen, Hohenlohekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,171 m²,663 m²,3.655 €/m²,Einfamilienhaus (freistehend),nil,15.4.2024,4,2,1 Stellplatz,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Voll vermietetes 4-Familienhaus mit ca. 7% Bruttorendite p.a. in zentraler Lage in Zell i.W.,580.000 €,"79669 Zell im Wiesental, Lörrach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","9,5","297,5 m²",241 m²,1.950 €/m²,nil,"148,83 m²",nil,5,3,1 Garage,"3,57% inkl. 19% Mehrwertsteuer",{}
+Mehrfamilienhaus mit vielen Möglichkeiten!,650.000 €,"73614 Schorndorf, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,241 m²,257 m²,2.697 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,3 Garagen,"3,57 %",{'is24qa-keller-label': ''}
+"Wohn,- Geschäftshaus inkl. Scheune mit 210 qm Wohnfläche, 400 qm Gewerbefläche auf 800qm Grundstück",500.000 €,"68766 Hockenheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,210 m²,805 m²,2.381 €/m²,nil,400 m²,nil,5,1,2 Garagen,"3,57% inkl. 19% Mwst",{}
+Wohnen u. Arbeiten / Zweifamilienhaus mit Gewerbeanbau,539.000 €,"75203 Königsbach-Stein, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,"269,9 m²",840 m²,1.997 €/m²,Mehrfamilienhaus,55 m²,nach Vereinbarung,5,3,2 Carports,"3,57% inkl. MwSt","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Der wichtigste Ort der Welt - Ihr neues Zuhause,689.000 €,"76344 Eggenstein-Leopoldshafen, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,194 m²,367 m²,3.552 €/m²,Bungalow,nil,sofort,nil,nil,1 Garage,"3,57 %",{'is24qa-keller-label': ''}

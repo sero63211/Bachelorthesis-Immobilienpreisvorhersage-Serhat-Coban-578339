@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Traumhaus mit traumhaftem Garten,Auf Anfrage,"Bergstr. 106,
+Handschuhsheim, 69121 Heidelberg",4,200 m²,nil,nil,20 m²,03.2025,3,2,1 Garage,"3,57%",{}
+3-Zimmer-Wohnung mit Mansardenzimmer,229.000 €,"Villingen, 78048 Villingen-Schwenningen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,93 m²,2.462 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Residieren mit Blick ins Neckartal,Auf Anfrage,"Bergstr. 106,
+Handschuhsheim, 69121 Heidelberg",5,"198,15 m²",nil,nil,8 m²,03.2025,2,1,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"HN-CITY: Kapitalanlage ! 2,5 Zi. Wohnung Nähe Stadtzentrum!",225.000 €,"Heilbronn, 74072 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",64 m²,3.516 €/m²,Etagenwohnung,nil,01.08.2024,1,1,1 Tiefgaragen-Stellplatz,"Unsere Maklercourtage beträgt 3,57% aus dem Gesamtkaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Exkl. 4 Zi. Terrassenwohnung in bester Lage Pforzheim,640.000 €,"Südoststadt, 75175 Pforzheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,175 m²,3.657 €/m²,Terrassenwohnung,10 m²,nach Absprache,2,2,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmante 3-Zimmer-Maisonette-Wohnung im Herzen von Riedlingen,230.000 €,"88499 Riedlingen, Biberach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"81,79 m²",2.812 €/m²,Maisonette,nil,nil,nil,1,1 Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wunderschöne 3 Zimmer EG Wohnung / Terrasse / sep. Eingang / 2 Parkplätze,199.000 €,"89522 Heidenheim an der Brenz, Heidenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",105 m²,1.895 €/m²,Erdgeschosswohnung,nil,sofort,2,1,2 Außenstellplätze,"1,79% inkl. gesetzlicher MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Moderne Maisonette Wohnung mit einzigartigem Charme!,399.000 €,"89198 Westerstetten, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",150 m²,2.660 €/m²,Maisonette,nil,Sommer 2025,2,2,1 Stellplatz,2.38 %,{'is24qa-garten-mitbenutzung-label': ''}
+"Großzügige 4-Zimmer-Wohnung mit gemütlicher, neuwertiger Loggia und Gäste-WC in Rheinfelden!",305.000 €,"79618 Rheinfelden (Baden), Lörrach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"93,59 m²",3.259 €/m²,Erdgeschosswohnung,nil,nil,3,1,nil,"3,57%",{}
+Tolle Dachgeschosswohnung in Stuttgart Nord!,333.000 €,"Am Pragfriedhof, 70191 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",88 m²,3.784 €/m²,Dachgeschoss,5 m²,nach Vereinbarung,3,1,nil,"3,57% aus Gesamtkaufpreis","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wir räumen Ihnen die schönsten Steine in den Weg.,599.000 €,"79395 Neuenburg am Rhein, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"123,89 m²",4.835 €/m²,Maisonette,nil,bezugsfrei,3,2,1 Stellplatz,Der Verkauf dieser Neubauimmobilie erfolgt provisionsfrei,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Mittendrin statt nur zentral.,564.000 €,"79395 Neuenburg am Rhein, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"118,08 m²",4.776 €/m²,Etagenwohnung,nil,bezugsfrei,3,1,1 Tiefgaragen-Stellplatz,Der Verkauf dieser Neubauimmobilie erfolgt provisionsfrei.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Nehmen Sie in der ersten Reihe Platz.,565.000 €,"79395 Neuenburg am Rhein, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"116,49 m²",4.850 €/m²,nil,nil,bezugsfrei,3,1,1 Tiefgaragen-Stellplatz,Der Verkauf dieser Neubauimmobilie erfolgt provisionsfrei,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"RESERVIERT! 1,5-Zimmer-Neubauwohnung mit schöner Terrasse!",195.000 €,"74670 Forchtenberg, Hohenlohekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5","63,31 m²",3.080 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Keine Käuferprovision,{'is24qa-balkon-terrasse-label': ''}
+"Wohnung m. Weitblick: Charmante, helle 4-Zimmer Maisonettewhg.+2x Stellplätze in Öhringen-Süd",298.900 €,"Platanenallee 0,
+74613 Öhringen, Hohenlohekreis",4,96 m²,3.114 €/m²,Maisonette,nil,01.06.2024,3,2,2 Garagen,"3,57% incl. MwSt. vom Netto-Verkaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Originalverpackt.,591.000 €,"79395 Neuenburg am Rhein, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"120,82 m²",4.892 €/m²,Maisonette,nil,bezugsfrei,4,2,1 Tiefgaragen-Stellplatz,Der Verkauf dieser Neubauimmobilie erfolgt provisionsfrei.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Moderne Praxis (Wohnung möglich) in bester Innenstadtlage von Calw,320.000 €,"75365 Calw, Calw (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,135 m²,2.370 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57%inkl. MwSt",{'is24qa-vermietet-label': ''}
+"Gelegenheit! Sehr schöne, helle 1,5-Zi.-Whg., Balkon, TG-Stellplatz !",179.000 €,"73061 Ebersbach an der Fils, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5",48 m²,3.729 €/m²,Etagenwohnung,nil,nil,nil,1,1 Duplex-Stellplatz,"2,98 % inkl. jew. gesetzl. MwSt. aus dem notariellen beurkundeten Kaufvertrag","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohnen unterm Dach mit Blick ins Grüne,340.000 €,"88682 Salem, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",110 m²,3.091 €/m²,Etagenwohnung,"4,5 m²",nil,nil,nil,2 Carports,"3,57% Käufercourtage inkl MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Wunderschöne Maisonettewohnung mit kleinem Garten,499.000 €,"Südweststadt, 76137 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,96 m²,5.198 €/m²,Maisonette,nil,sofort,nil,nil,1 Stellplatz,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': ''}"

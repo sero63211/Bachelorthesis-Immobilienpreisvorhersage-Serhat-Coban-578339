@@ -1,0 +1,45 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+++ Ohne Provision ++ Einfamilienhaus mit Garage auf großem Grundstück,129.000 €,"Hüttenbuscher Weg XX,
+27412 Breddorf, Rotenburg (Wümme) (Kreis)",5,144 m²,1.921 m²,896 €/m²,Wohnimmobilie (sonstige),43 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus - ohne Provision,232.000 €,"Stormstraße XX,
+31224 Peine, Peine (Kreis)",4,121 m²,534 m²,1.917 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Reihenmittelhaus - provisionsfrei,145.000 €,"Lönsweg XX,
+29549 Bad Bevensen, Uelzen (Kreis)",1,1 m²,175 m²,145.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnhaus nebst Werkstattgebäude ++ ohne Provision ++,198.000 €,"Hauptstraße XX,
+37434 Rüdershausen, Göttingen (Kreis)",8,"285,09 m²",523 m²,695 €/m²,Wohnimmobilie (sonstige),"70,15 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+++ Einfamilienhaus mit Garage - provisionsfrei ++,230.000 €,"Ammerländer Straße XX,
+26203 Wardenburg, Oldenburg (Kreis)",9,205 m²,1.235 m²,1.122 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Neuwertiges Einfamilienhaus mit Garage - provisionsfrei,400.000 €,"Schulstraße XX,
+26831 Bunde, Leer (Kreis)",6,192 m²,1.468 m²,2.083 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus nebst angeb. Garage - provisionsfrei,480.000 €,"Sandweg XX,
+29646 Bispingen, Heidekreis",6,189 m²,618 m²,2.540 €/m²,Wohnimmobilie (sonstige),117 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Handwerker aufgepasst! 2-Familienhaus mit Garage - provisionsfrei,155.000 €,"Sackstraße XX,
+31655 Stadthagen, Schaumburg (Kreis)",9,181 m²,1.625 m²,856 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrfamilienhaus mit 3 Wohnungen - ohne Provision,198.000 €,"Fasanenweg XX,
+31655 Stadthagen, Schaumburg (Kreis)",9,273 m²,796 m²,725 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Handwerker gesucht! 2-Familienhaus mit Garage - provisionsfrei,108.000 €,"Hauptstraße XX,
+37647 Brevörde, Holzminden (Kreis)",6,186 m²,2.487 m²,581 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Stall und Unterstand,140.000 €,"Dangaster Straße XX,
+26452 Sande, Friesland (Kreis)",4,115 m²,1.996 m²,1.217 €/m²,Wohnimmobilie (sonstige),437 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus in Dibbesdorf,270.000 €,"Volkmarode, 38108 Braunschweig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,111 m²,648 m²,2.432 €/m²,Einfamilienhaus (freistehend),nil,nil,4,1,1 Garage,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Mehrfamilienhaus mit 5 Wohnungen als Kapitalanlage - provisionsfrei,1.935.000 €,"Am Teich XX,
+26465 Langeoog, Wittmund (Kreis)",12,286 m²,814 m²,6.766 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+WOHN-GLÜCK im Grünen zum BEST-PREIS,85.000 €,"29614 Soltau, Heidekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,67 m²,303 m²,1.269 €/m²,nil,45 m²,nil,nil,nil,1 Stellplatz,3 %,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Freistehendes Einfamilienhaus mit Garage - provisionsfrei,230.000 €,"Tulpenweg XX,
+31552 Rodenberg, Schaumburg (Kreis)",7,158 m²,771 m²,1.456 €/m²,Wohnimmobilie (sonstige),16 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit Garage - provisionsfrei,101.000 €,"Rennenberg XX,
+31785 Hameln, Hameln-Pyrmont (Kreis)",6,150 m²,957 m²,673 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit Garage,223.000 €,"Grabenfeld XX,
+31848 Bad Münder am Deister, Hameln-Pyrmont (Kreis)",1,227 m²,801 m²,982 €/m²,Wohnimmobilie (sonstige),134 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"1- bis 2-Familienhaus, mit Terrasse und Balkon - provisionsfrei",290.000 €,"Bergstraße XX,
+30974 Wennigsen (Deister), Hannover (Kreis)",7,136 m²,1.000 m²,2.132 €/m²,Wohnimmobilie (sonstige),96 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Garage und Carport,272.000 €,"Sommeringer Straße XX,
+49811 Lingen (Ems), Emsland (Kreis)",1,"249,68 m²",975 m²,1.089 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+DEIN neues Zuhause im Spittaquartier!,429.944 €,"Lieselotte-Rogge-Straße 8 A,
+Mittelfeld, 30519 Hannover",4,117 m²,145 m²,3.675 €/m²,Reihenmittelhaus,nil,nil,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DEIN neues Zuhause im Spittaquartier!,521.339 €,"Lieselotte-Rogge-Straße 4,
+Mittelfeld, 30519 Hannover",4,117 m²,292 m²,4.456 €/m²,Reiheneckhaus,nil,nil,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DEIN neues Zuhause im Spittaquartier!,433.250 €,"Lieselotte-Rogge-Straße 8,
+Mittelfeld, 30519 Hannover",4,118 m²,146 m²,3.672 €/m²,Reihenmittelhaus,nil,nil,nil,nil,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,83 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"""Urbanes Wohnen"" Heidenheim - Haus 1",413.850 €,"Carl-Schwenk-Straße 12,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,89 m²,4.650 €/m²,Sonstige,4 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 1",261.800 €,"Carl-Schwenk-Straße 12,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",2,56 m²,4.675 €/m²,Sonstige,5 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Geschmackvolle, modernisierte 2,5-Raum-EG-Wohnung mit Einbauküche in Reutlingen",255.000 €,"Gustav Schwab 4,
+Reutlingen, 72762 Reutlingen","2,5",68 m²,3.750 €/m²,Erdgeschosswohnung,68 m²,11.4.2024,1,1,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Rollstuhlgerechte Erdgeschosswohnung, 6-Familienhaus, Terrasse, Gartenteil, Tiefg., Aufzug v. HAUSER",379.000 €,"Rottweiler Str. 12,
+72189 Vöhringen, Rottweil (Kreis)",3,"87,28 m²",4.342 €/m²,nil,"12,3 m²",nil,2,1,2 Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 1",429.750 €,"Carl-Schwenk-Straße 12,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,90 m²,4.775 €/m²,Sonstige,4 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Neuwertige 3,5 Zimmerwohnung in Nagold zu verkaufen!",532.000 €,"72202 Nagold, Calw (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",89 m²,5.978 €/m²,Etagenwohnung,"6,5 m²",01.07.2024,2,1,1 Tiefgaragen-Stellplatz,"3,57","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",247.800 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",2,56 m²,4.425 €/m²,Erdgeschosswohnung,6 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zimmerwohnung Süd-Balkon und Kellerraum 61m² Königsbronn 189.000€,189.000 €,"89551 Königsbronn, Heidenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"61,21 m²",3.088 €/m²,Etagenwohnung,nil,01.05.2024,nil,1,nil,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 1",350.325 €,"Carl-Schwenk-Straße 12,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,81 m²,4.325 €/m²,Sonstige,3 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne 3 Zimmer in zentralster Lage von Achern,339.000 €,"Im Engert 24,
+77855 Achern, Ortenaukreis",3,"77,23 m²",4.389 €/m²,Etagenwohnung,nil,01.06.2024,2,1,1 Tiefgaragen-Stellplatz,"3,75","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",411.775 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,91 m²,4.525 €/m²,Sonstige,4 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Genieße die Vorteile der Stadt Buchen !!,104.900 €,"74722 Buchen (Odenwald), Neckar-Odenwald-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"65,5 m²",1.602 €/m²,Etagenwohnung,nil,sofort,2,1,nil,"2,99","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",393.750 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,90 m²,4.375 €/m²,Sonstige,4 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"1-Raum-Wohnung in Ebringen, mit sep. Bad, DG, Ortsmitte",105.000 €,"Schönbergstraße 48,
+79285 Ebringen, Breisgau-Hochschwarzwald (Kreis)",1,"27,53 m²",3.814 €/m²,Dachgeschoss,0 m²,10.4.2024,1,1,2 Außenstellplätze,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",352.350 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,81 m²,4.350 €/m²,Sonstige,3 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Verkauft--Barrierefreie Wohnung im 6-Familienhaus mit Balkon, Gartenanteil, Tiefgarage u. Aufzug von",314.000 €,"Rottweiler Str. 12,
+72189 Vöhringen, Rottweil (Kreis)",3,"67,43 m²",4.657 €/m²,Dachgeschoss,"9,97 m²",2025,2,1,2 Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Maisonettewohnung in Bevorzugter Lage,180.000 €,"88326 Aulendorf, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"57,12 m²",3.151 €/m²,Maisonette,nil,nach absprache,1,1,1 Tiefgaragen-Stellplatz,"3,57 inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",422.750 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,89 m²,4.750 €/m²,Dachgeschoss,4 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 1",252.000 €,"Carl-Schwenk-Straße 12,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",2,56 m²,4.500 €/m²,Sonstige,5 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohneigentum in zentrumsnaher Lage,380.000 €,"Alt-Stühlinger, 79106 Freiburg im Breisgau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,71 m²,5.352 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+"""Urbanes Wohnen"" Heidenheim - Haus 1",362.475 €,"Carl-Schwenk-Straße 12,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,81 m²,4.475 €/m²,Sonstige,3 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Barrierefreie Etagenwohnung im 6-Familienhaus, Balkon, Gartenanteil, Tiefgarage, Aufzug von HAUSER.",388.000 €,"Rottweiler Str. 12,
+72189 Vöhringen, Rottweil (Kreis)",3,"87,28 m²",4.445 €/m²,Etagenwohnung,"13,28 m²",2025,2,1,2 Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Rollstuhlgerechte Erdgeschosswohnung, 6-Familienhaus, Terrasse, Gartenteil, Tiefg., Aufzug v. HAUSER",379.000 €,"72189 Vöhringen, Rottweil (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"87,28 m²",4.342 €/m²,Erdgeschosswohnung,"14,06 m²",nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive 4-Zimmer-Maisonettewohnung mit Südbalkon und TG-Stellplatz in gefragter Wohnlage!,264.000 €,"74226 Nordheim, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,94 m²,2.809 €/m²,Maisonette,nil,nil,nil,nil,1 Tiefgaragen-Stellplatz,"4,17 % inkl. 19% MwSt.",{}
+TOP++Energieeff.Klasse C++4ZKB++Südbalkon++EG++TG Stellplatz++vermietet,345.900 €,"Baden-Badener Str. 1,
+Rohrbach, 69126 Heidelberg",4,111 m²,3.116 €/m²,Etagenwohnung,5 m²,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöne 3,5-Zimmer-Wohnung mit Balkon, Garage und großzügigem Außenbereich sowie Rundumservice",355.000 €,"Heumaden, 70619 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",89 m²,3.989 €/m²,nil,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. gesetzlicher Mwst.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+**Schöne Erdgeschosswohnung + 3 Zimmer + Balkon und Garten + Stellplatz - Bräunlingen.,199.900 €,"78199 Bräunlingen, Schwarzwald-Baar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"75,3 m²",2.655 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Außenstellplatz,"2,5 %inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Neue, großzügige und moderne Erdgeschosswohnung",386.900 €,"Eppinger Str. 178,
+74211 Leingarten, Heilbronn (Kreis)",3,"73,7 m²",5.250 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",368.000 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,80 m²,4.600 €/m²,Sonstige,3 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",321.100 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,76 m²,4.225 €/m²,Erdgeschosswohnung,3 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",344.400 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,82 m²,4.200 €/m²,Erdgeschosswohnung,4 m²,nil,1,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",268.800 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",2,56 m²,4.800 €/m²,Sonstige,5 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 1",313.500 €,"Carl-Schwenk-Straße 12,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,76 m²,4.125 €/m²,Erdgeschosswohnung,3 m²,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 1",352.600 €,"Carl-Schwenk-Straße 12,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,82 m²,4.300 €/m²,Erdgeschosswohnung,3 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Barrierefreie Wohnung im 6-Familienhaus mit Balkon, Gartenanteil, Tiefgarage u. Aufzug von HAUSER.",314.000 €,"72189 Vöhringen, Rottweil (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"67,43 m²",4.657 €/m²,Dachgeschoss,"11,54 m²",nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweieinhalb Zimmer Eigentumswohnung,169.000 €,"89542 Herbrechtingen, Heidenheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,60 m²,2.817 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Euro,{}
+Neubau 3-Zimmer EG Wohnung Engen mit Tiefgarage und Garten,399.000 €,"78234 Engen, Konstanz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"107,13 m²",3.724 €/m²,Erdgeschosswohnung,nil,nil,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Barrierefreie Wohnung im 6-Familienhaus mit Balkon, Gartenanteil, Tiefgarage u. Aufzug von HAUSER.",388.000 €,"Rottweiler Str. 12,
+72189 Vöhringen, Rottweil (Kreis)",3,"87,28 m²",4.445 €/m²,Etagenwohnung,"12,57 m²",nil,2,1,2 Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Urbanes Wohnen"" Heidenheim - Haus 2",423.000 €,"Carl-Schwenk-Straße 10,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",3,90 m²,4.700 €/m²,Dachgeschoss,4 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"SCHILLERHÖHE - Penthouse mit Balkon, Terrasse und Panoramablick in Gerlingen",738.000 €,"70839 Gerlingen, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,146 m²,5.055 €/m²,Penthouse,nil,sofort,2,1,1 Garage,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+KFW 40+ / Sicher betreut Wohnen,"295.939,27 €","Gemengeweg 1,
+77855 Achern, Ortenaukreis",2,64 m²,"4.624,05 €/m²",Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

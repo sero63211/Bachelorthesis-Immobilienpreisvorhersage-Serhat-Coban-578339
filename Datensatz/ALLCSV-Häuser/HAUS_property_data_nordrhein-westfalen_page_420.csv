@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Modern und gemütlich Wohnen mitten in Everswinkel!,350.000 €,"Nordstraße 3,
+48351 Everswinkel, Warendorf (Kreis)",5,135 m²,247 m²,2.593 €/m²,Reihenmittelhaus,nil,nil,nil,1,nil,"2,38 % inkl. 19 % MwSt.",{}
+"Zwei Wohnungen, in beliebter und sehr ruhiger Lage",310.000 €,"48429 Rheine, Steinfurt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,"169,09 m²",265 m²,1.833 €/m²,Doppelhaushälfte,nil,nach Absprache,nil,nil,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+"Bungalow in Heimbach-Hasenfeld, Eigennutzung // Ferienobjekt",439.000 €,"52396 Heimbach, Düren (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,124 m²,650 m²,3.540 €/m²,nil,nil,nil,nil,2,5 Stellplätze,3.57%,{}
+Charmantes Mehrfamilienhaus mit modernem Komfort und attraktivem Renditepotenzial,349.000 €,"Grenzland-Stadion, 41238 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"161,21 m²","458,21 m²",2.165 €/m²,Mehrfamilienhaus,nil,nach Absprache,3,nil,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': ''}"
+Gepflegtes Reihenhaus in idyllischer „See“-Lage von Neukirchen-VLUYN,389.000 €,"47506 Neukirchen-Vluyn, Wesel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,162 m²,318 m²,2.401 €/m²,Reihenmittelhaus,53 m²,Januar 2025,4,2,1 Garage,3% zzgl. MwSt.,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Einfamilienhaus mit Gewerbehalle / Garten / viele Parkplätze,480.000 €,"58285 Gevelsberg, Ennepe-Ruhr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,1.037 m²,3.200 €/m²,Einfamilienhaus (freistehend),120 m²,nach Absprache,3,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr neues Zuhause! - Freistehendes Einfamilienhaus mit großem Grundstück,849.000 €,"Höhenhaus, 51061 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"136,65 m²",813 m²,6.213 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,4,2,2 Stellplätze,"2,38% (inkl. 19% Mwst.)",{'is24qa-keller-label': ''}
+"""Ihr neues Heim: Modernisiertes Reihenmittelhaus mit Garten und einladender Terrasse",459.000 €,"Windberg, 41068 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,235 m²,4.173 €/m²,Reihenmittelhaus,35 m²,nil,2,1,1 Garage,"3,57","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Provisionsfrei: Sofort einziehen! Saniertes Jugendstil-Haus im Herzen von Brühl,699.000 €,"50321 Brühl, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,"152,8 m²",280 m²,4.575 €/m²,Wohnimmobilie (sonstige),nil,ab sofort,4,nil,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vollvermietetes Mehrfamilienhaus plus ausbaufähiger Wohnung in Bestlage von Hagen!,249.000 €,"Sunderlohstr. --,
+Eilpe, 58091 Hagen",12,262 m²,310 m²,950 €/m²,Mehrfamilienhaus,nil,sofort,8,4,nil,3.57% inklusive gesetzlicher MwSt.,{'is24qa-keller-label': ''}
+"Top gepflegtes Einfamilienhaus mit Carport, PV-Anlage und neuer Heizung im Ortsteil Clarholz",359.000 €,"33442 Herzebrock-Clarholz, Gütersloh (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"118,68 m²","374,28 m²",3.025 €/m²,Einfamilienhaus (freistehend),nil,nach Absprache,3,1,2 Carports,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Geliebtes Einfamilienhaus mit optionalem Bauplatz,228.000 €,"32278 Kirchlengern, Herford (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,986 m²,1.900 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,1 Garage,"zzgl. 3,57 % Käufercourtage inkl. MwSt",{'is24qa-keller-label': ''}
+Traumhaftes wunderschönes 2 Familienhaus mit riesigem Garten,395.000 €,"52134 Herzogenrath, Aachen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,195 m²,840 m²,2.026 €/m²,nil,nil,nil,nil,2,2 Garagen,3.57%,{}
+VR IMMO: | BIETERVERFAHREN | Wohnen und Wohlfühlen in Alleinlage.,249.000 €,"58840 Plettenberg, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"138,49 m²",371 m²,1.798 €/m²,Einfamilienhaus (freistehend),50 m²,nach Vereinbarung,3,1,nil,"+3,57% Käuferprovision (inkl. MwSt.)",{}
+Freistehendes Einfamilienhaus in bester Lage von Alfter-Witterschlick,776.072 €,"Buschkauler Weg 2,
+53347 Alfter, Rhein-Sieg-Kreis",5,"157,38 m²",430 m²,4.931 €/m²,Einfamilienhaus (freistehend),13 m²,2025,3,1,nil,"16.660,- Euro",{}
+Tolle Gelegenheit und vielfältige Möglichkeiten!,950.000 €,"Unterrath, 40468 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"158,64 m²",558 m²,5.988 €/m²,Mehrfamilienhaus,nil,nil,nil,nil,2 Außenstellplätze,"2,975 % inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
+Krefeld Bockum: Großzügiges XL Einfamilien-Reihenmittelhaus mit schönem Sonnengrundstück & Garage!,449.000 €,"Bockum, 47809 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,272 m²,2.806 €/m²,Reihenmittelhaus,nil,nach Vereinbarung,3,1,1 Garage,"3,57% inkl. 19% MwSt. des Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Einfamilienhaus mit Charme, Stellplatz und großem Garten",169.000 €,"Arnoldsweiler, 52351 Düren
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,87 m²,633 m²,1.943 €/m²,Doppelhaushälfte,nil,11/2024,3,1,1 Außenstellplatz,"2,38% inkl. MwSt.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Einfamilienhaus in Randlage,360.000 €,"32760 Detmold, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,200 m²,909 m²,1.800 €/m²,nil,200 m²,Sofort,nil,2,2 Garagen,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+SANIERTES STADTHAUS/MEHRGENERATIONENHAUS MIT GROSSER SONNEN-TERRASSE!,1.278.000 €,"Furth Mitte, 41462 Neuss
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,366 m²,249 m²,3.492 €/m²,Reihenmittelhaus,120 m²,nach Vereinbarung,6,2,nil,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

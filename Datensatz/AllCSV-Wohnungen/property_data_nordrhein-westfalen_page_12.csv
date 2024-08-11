@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Ihre Kapitalanlage mit langfristiger Vermietung!,127.000 €,"Nordstraße 22,
+45525 Hattingen, Ennepe-Ruhr-Kreis","2,5","61,81 m²",2.055 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Solide Kapitalanlage in Essen-Dellwig,124.000 €,"Luthestraße 22,
+Dellwig, 45357 Essen",3,"57,38 m²",2.161 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Die Kraft der Klarheit! Helles, großflächiges Architektenhaus mit Weitblick in MH-Saarn",679.000 €,"Saarn, 45481 Mülheim an der Ruhr
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,237 m²,2.865 €/m²,nil,nil,nil,nil,2,2 Stellplätze,"2,38% Käuferprovision incl. gesetzlicher MwSt.",{}
+"Solide und gepflegte 2,5-Raum ETW mit Balkon zur Kapitalanlage ! Provisionsfrei !",145.000 €,"Bauvereinstraße 7/9,
+Bergerhausen, 45136 Essen","2,5","59,87 m²",2.422 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familienfreundliche ETW in Essen-Dellwig,99.000 €,"Luthestraße 32,
+Dellwig, 45357 Essen",3,"57,58 m²",1.719 €/m²,Erdgeschosswohnung,nil,sofort,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+In ruhiger Seitenstraße - Erdgeschosswohnung mit Balkon in Essen-Borbeck,135.000 €,"Ripshorster Straße 334,
+Dellwig, 45357 Essen",3,"68,28 m²",1.977 €/m²,Erdgeschosswohnung,nil,sofort,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigennutzung oder Kapitalanlage - Helles Ein-Zimmer-Apartment im Orion Haus,175.000 €,"Golzheim, 40474 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,32 m²,5.469 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. der gesetzlichen MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Für Selbstnutzer! Gepflegte Eigentumswohnung mit Loggia,309.000 €,"50259 Pulheim, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"88,28 m²",3.500 €/m²,Etagenwohnung,6 m²,nil,2,1,1 Parkhaus-Stellplatz,"11.031,30","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ihre Kapitalanlage in zentraler Wohnlage!,172.000 €,"Schulte-Heuthaus-Straße 51,
+Marten, 44379 Dortmund","3,5","79,53 m²",2.163 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ETW mit Balkon als Kapitalanlage in ruhiger Lage!,147.000 €,"Paulstraße 28,
+Wiemelhausen, 44803 Bochum","3,5","81,17 m²",1.811 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Duplex-Penthouse in Marienburg,1.600.000 €,"Marienburg, 50968 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,227 m²,7.048 €/m²,Maisonette,nil,nil,3,2,2 Tiefgaragen-Stellplätze,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Schöne Wohnung für Einsteiger in Essen-Dellwig,99.900 €,"Wiesengrund 15,
+Dellwig, 45357 Essen",2,"46,08 m²",2.168 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Solide Kapitalanlage - Schöne 3-Zimmer-WHG mit Loggia im Grünen,114.000 €,"Donnerberg 116a,
+Dellwig, 45357 Essen",3,"65,15 m²",1.750 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Luxuriöses Loftfeeling in exkl. Stadtvilla! 460 m² mit Garten, Garagen & Stellplatz in Rüttenscheid",2.590.000 €,"Rüttenscheid, 45130 Essen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,461 m²,5.618 €/m²,Loft,nil,Nach Vereinbarung,nil,2,5 Stellplätze,"1,79% Käuferprovision incl. gesetzlicher MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Erfüllen Sie sich Ihre Wohnträume - Familienfreundliche Vier-Zimmer-Wohnung in Alt-Refrath,595.000 €,"Alt Refrath, 51427 Bergisch Gladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,4.760 €/m²,Etagenwohnung,nil,nil,3,1,1 Garage,"3,57% inkl. der gesetzlichen MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Ziehen Sie in Ihre eigenen 4 Wände - DG-Wohnung in Essen-Dellwig,165.400 €,"Ripshorster Straße 336,
+Dellwig, 45357 Essen","3,5","66,88 m²",2.473 €/m²,Dachgeschoss,nil,sofort,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Solide Kapitalanlage mit langfristiger Vermietung!,89.900 €,"Ziegelhorststraße 38,
+Marxloh, 47169 Duisburg","2,5","57,12 m²",1.574 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Hochwertige Stadtwohnung mit Aufzug, Garage und Balkon mit Weitblick ins Grüne in Top-Lage von Moers",333.000 €,"Mitte, 47441 Moers
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"98,25 m²",3.389 €/m²,Etagenwohnung,nil,nach Absprache,2,1,1 Garage,"3,57% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Legen Sie Ihr Geld in eine gut vermietet Kapitalanlage an - Eigentumswohnung in Essen-Katernberg,129.900 €,"Beisenstraße 90,
+Katernberg, 45327 Essen",3,"64,84 m²",2.003 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete Eigentumswohnung als solide Kapitalanlage,104.000 €,"Donnerstraße 249,
+Dellwig, 45357 Essen",2,"48,08 m²",2.163 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

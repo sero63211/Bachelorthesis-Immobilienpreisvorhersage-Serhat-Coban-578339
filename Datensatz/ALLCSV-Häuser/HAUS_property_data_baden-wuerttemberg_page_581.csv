@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Freistehendes gepflegtes Einfamilienhaus in zentraler Lage,660.000 €,"88046 Friedrichshafen, Bodenseekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,150 m²,355 m²,4.400 €/m²,Einfamilienhaus (freistehend),189 m²,Rücksprache,4,1,2 Garagen,3% des Kaufpreises zzgl. 19% MwSt.,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Townhouse mit Pool, Sauna + SmartHome - Reihenmittelhaus",1.100.000 €,"Uhlandstraße 4/2,
+72202 Nagold, Calw (Kreis)",3,"144,28 m²","195,15 m²",7.624 €/m²,Reihenmittelhaus,"68,66 m²",nil,2,3,2 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen in gefragter Lage,739.000 €,"Reutlingen, 72762 Reutlingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5","172,01 m²",473 m²,4.296 €/m²,Einfamilienhaus (freistehend),nil,nil,nil,nil,nil,"2,38 % inkl. ges. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Familienfreundliches Wohnen...,449.000 €,"77876 Kappelrodeck, Ortenaukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,277 m²,3.742 €/m²,nil,nil,nach Absprache,3,1,2 Garagen,"3,57% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Großes Einfamilienhaus mit schöner Aussicht und potenziellem zweiten Bauplatz,750.000 €,"89584 Ehingen (Donau), Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","10,5",300 m²,1.100 m²,2.500 €/m²,Einfamilienhaus (freistehend),nil,5.11.2023,10,2,5 Außenstellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrgenerationenhaus mit 3 WEH und Büroräumen in beliebter Wohnlage,1.080.000 €,"73033 Göppingen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,290 m²,1.279 m²,3.724 €/m²,Mehrfamilienhaus,99 m²,Herbst 2024,nil,nil,2 Carports,"2,975 % inkl. 19% Mwst.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Haus mit Potential, Aussicht, Ruhe, Einliegerwohnung, Doppelgarage",349.000 €,"Birkenweg 17,
+72525 Münsingen, Reutlingen (Kreis)","5,5","165,4 m²",808 m²,2.110 €/m²,Einfamilienhaus (freistehend),nil,ab sofort,3,2,4 Garagen,"2,38 % inkl. gesetzl. MwSt.","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Viel Platz für die Familie in ruhiger Aussichtslage,499.000 €,"72636 Frickenhausen, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,150 m²,344 m²,3.327 €/m²,Doppelhaushälfte,nil,sofort,5,2,2 Garagen,"3,57 % inklusiv gesetzlicher MwSt.",{'is24qa-gaeste-wc-label': ''}
+Einfamilienhaus in Trossingen-Schura,565.000 €,"78647 Trossingen, Tuttlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,423 m²,4.708 €/m²,Bungalow,30 m²,nil,3,1,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"""RH Reutenen Süd I"", Heidenheim - KfW-förderfähig",512.600 €,"Laupheimer Weg 39,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",5,119 m²,222 m²,4.308 €/m²,Reihenmittelhaus,8 m²,nil,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""RH Reutenen Süd I"", Heidenheim - KfW-förderfähig",551.800 €,"Laupheimer Weg 41,
+89522 Heidenheim an der Brenz, Heidenheim (Kreis)",5,119 m²,296 m²,4.637 €/m²,Reiheneckhaus,8 m²,nil,4,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Tiny Haus Anhänger, Baujahr 2023, Tiny House, unbenutzt",98.000 €,"78658 Zimmern ob Rottweil, Rottweil (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,1 m²,0 m²,98.000 €/m²,nil,nil,sofort,nil,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großes 2-3 Familienhaus in Grünwettersbach zu verkaufen!,890.000 €,"Grünwettersbach, 76228 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,270 m²,1.977 m²,3.296 €/m²,Mehrfamilienhaus,nil,sofort,nil,nil,3 Garagen,"3,57% inkl. MwSt",{'is24qa-keller-label': ''}
+Reserviert! Charmante Doppelhaushälfte in Rottweil!,398.000 €,"78628 Rottweil, Rottweil (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,138 m²,246 m²,2.884 €/m²,Doppelhaushälfte,nil,sofort,4,1,1 Außenstellplatz,"3,0% inkl. ges. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Rückzugsort in idyllischer Seelage - Panorama garantiert,2.300.000 €,"78337 Öhningen, Konstanz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,254 m²,1.229 m²,9.055 €/m²,Einfamilienhaus (freistehend),12 m²,nach Absprache,4,2,2 Garagen,"3,57 %","{'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"SCHORNDORF - TO - TRAUMHAFTES ANWESEN - TOLLER GARTEN, SCHWIMMTEICH, GARAGEN",754.000 €,"73614 Schorndorf, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,163 m²,1.045 m²,4.626 €/m²,Einfamilienhaus (freistehend),218 m²,nach Vereinbarung,2,1,3 Garagen,"3,57 % inklusive gesetzlicher Mehrwertsteuer",{'is24qa-keller-label': ''}
+"Ruhe, Natur und Lebensqualität - Ihr neuwertiges Einfamilienhaus mit großem Garten",459.000 €,"79843 Löffingen, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,140 m²,767 m²,3.279 €/m²,Einfamilienhaus (freistehend),47 m²,sofort,4,1,2 Garagen,"3,57% inkl. USt.","{'is24qa-gaeste-wc-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+"Provisionsfrei! Schmuckstück Nagolds! Einfamilienhaus mit Garage, großen Balkon, DG & ELW",619.000 €,"Bonhoefferstraße 18,
+72202 Nagold, Calw (Kreis)",8,271 m²,674 m²,2.284 €/m²,Einfamilienhaus (freistehend),82 m²,sofort,4,3,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zwei Nachbarhäuser in Ispringen - Einzigartige Investitionsmöglichkeit!,1.400.000 €,"75228 Ispringen, Enzkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",20,532 m²,3.900 m²,2.632 €/m²,Mehrfamilienhaus,240 m²,nil,14,6,4 Garagen,"4,76 % inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Einfamilienhaus mit Scheune und Werkstatt, Sanierungsobjekt",219.000 €,"Talstraße 183,
+69198 Schriesheim, Rhein-Neckar-Kreis",5,95 m²,279 m²,2.305 €/m²,Einfamilienhaus (freistehend),15 m²,nil,2,1,2 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

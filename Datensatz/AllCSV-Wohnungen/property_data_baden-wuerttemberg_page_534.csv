@@ -1,0 +1,69 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Wohnen im idyllischen Brettachtal,375.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,4.464 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne DG-Wohnung mit altem Charme,259.000 €,"71540 Murrhardt, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"95,99 m²",2.698 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,"3,57 % berechnet aus dem notariellen Kaufpreis inkl. 19 % MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Leonbergs Preis-Leistungssieger im Neubau!,399.000 €,"Alte Ramtelstr. 11,
+71229 Leonberg, Böblingen (Kreis)",3,72 m²,5.542 €/m²,Erdgeschosswohnung,nil,2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geräumige 3-Zimmer-Wohnung,292.000 €,"Geradstettener Str. XX,
+73630 Remshalden, Rems-Murr-Kreis",3,"101,8 m²",2.868 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,1 Außenstellplatz,"4,76 % berechnet aus dem notariellen Kaufpreis inkl. 19 % MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"
+***NEUBAU*** Die besondere 3 Zimmer Galeriewohnung,429.000 €,"Röseweg 67,
+89165 Dietenheim, Alb-Donau-Kreis",3,"95,4 m²",4.497 €/m²,Etagenwohnung,nil,2025,nil,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Eigentumswohnung, 1-Zimmer mit Balkon und Einbauküche in Bad Friedrichshall",120.000 €,"Paracelsusstrasse 16,
+74177 Bad Friedrichshall, Heilbronn (Kreis)",1,27 m²,4.444 €/m²,Etagenwohnung,27 m²,20.7.2023,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+***NEUBAU*** 2 Zimmer - verkleinern mit Gartenanteil,315.000 €,"89165 Dietenheim, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"69,3 m²",4.545 €/m²,Erdgeschosswohnung,nil,2025,nil,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+# Sehr gut - mit Garage,219.000 €,"72108 Rottenburg am Neckar, Tübingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,4.380 €/m²,Etagenwohnung,nil,nil,1,1,1 Garage,"2,38 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Geräumige 3,5-Zimmer-Wohnung mit viel Potential",349.000 €,"Gmünder Str. 5,
+73457 Lorch, Ostalbkreis","3,5","117,29 m²",2.976 €/m²,Etagenwohnung,nil,ab sofort,nil,nil,nil,"3,57 % berechnet aus dem notariellen Kaufpreis inkl. 19 % MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Wohnen im idyllischen Brettachtal,270.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,4.500 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+***NEUBAU*** 3 Zimmer Whg. für Gartenliebhaber,395.000 €,"89165 Dietenheim, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"88,1 m²",4.484 €/m²,Erdgeschosswohnung,nil,2025,nil,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Großzügige 3,5-Zi.-Whg. im Erdgeschoss mit Garten",369.000 €,"Gmünder Str. 5,
+73547 Lorch, Ostalbkreis","3,5",122 m²,3.025 €/m²,Erdgeschosswohnung,"183,69 m²",ab sofort,2,1,nil,"3,57 % berechnet aus dem notariellen Kaufpreis inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Große Erdgeschosswohnung mit Terrasse, inkl. 2 Stellplätze",349.000 €,"Westerhaldenstraße 4/1,
+Wasseralfingen, 73433 Aalen",5,184 m²,1.897 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,3 Außenstellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einziehen und wohlfühlen. Helle Dachgeschosswohnung in Bretzfeld.,220.000 €,"74626 Bretzfeld, Hohenlohekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",73 m²,3.014 €/m²,Dachgeschoss,nil,nach Absprache,2,1,1 Garage,"Die Courtage für den Käufer beträgt 3,57 % aus dem Kaufpreis inkl. der ges. MWSt. von derzeit 19 %.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohnen im idyllischen Brettachtal,399.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,4.433 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"6,3 % Rendite - ohne Provision - komplett möblierte 2 Zimmer Wohnung mit EBK in Freudenstadt - Diet",139.000 €,"72250 Freudenstadt, Freudenstadt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,47 m²,2.957 €/m²,Dachgeschoss,nil,sofort,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen im idyllischen Brettachtal,370.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,83 m²,4.458 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Barrierefrei und altersgerecht - Modernes Wohnerlebnis in Rheinfelden!,510.000 €,"79618 Rheinfelden (Baden), Lörrach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,107 m²,4.766 €/m²,Erdgeschosswohnung,nil,nil,3,nil,2 Stellplätze,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Hotel Apartment mit einer Traumhaften Aussicht !,99.000 €,"72574 Bad Urach, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,28 m²,3.536 €/m²,Sonstige,nil,Sofort,1,1,1 Garage,"2,38 % inkl MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+***NEUBAU*** 2 Zimmer - Wohnen einmal anders,379.000 €,"89165 Dietenheim, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"83,8 m²",4.523 €/m²,Etagenwohnung,nil,2025,nil,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Freiburg-Wiehre ++ Gut geschnittene 2,5 Zimmer-Wohnung im DG (vermietet)",335.000 €,"Unterwiehre-Nord, 79100 Freiburg im Breisgau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5","61,71 m²",5.429 €/m²,Dachgeschoss,nil,vermietet,nil,1,1 Garage,"3,57 % aus dem Kaufpreis inkl. 19 % MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohnen im idyllischen Brettachtal,368.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,84 m²,4.381 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Geräumige 2-Zimmer-Wohnung im Dachgeschoss,219.000 €,"Gmünder Str. 5,
+73457 Lorch, Ostalbkreis",2,"52,61 m²",4.163 €/m²,Dachgeschoss,nil,ab sofort,nil,nil,nil,"3,57 % berechnet aus dem notariellen Kaufpreis inkl. 19 % MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Schöne 3 1/2 Zimmer Maisonette-Wohnung in Neuenstein,215.000 €,"74632 Neuenstein, Hohenlohekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",75 m²,2.867 €/m²,Maisonette,nil,nil,2,1,1 Außenstellplatz,"Die Courtage für den Käufer beträgt 3,57 % aus dem Kaufpreis inkl. der ges. MWSt. von derzeit 19 %.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+***NEUBAU*** 4 Zimmer und Badevergnügen nur 100m entfernt,455.000 €,"89165 Dietenheim, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"101,6 m²",4.478 €/m²,Etagenwohnung,nil,2025,nil,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen im idyllischen Brettachtal,371.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,81 m²,4.580 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen im idyllischen Brettachtal,397.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,4.411 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Traumhafte 4,5-Zimmer-Penthouse-Wohnung - TOP-LAGE - mitten in Zell a. H. zu verkaufen !",455.000 €,"77736 Zell am Harmersbach, Ortenaukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,3.760 €/m²,Penthouse,11 m²,nil,3,1,1 Tiefgaragen-Stellplatz,"zuzüglich 3,57 % Courtage inklusive Mehrwertsteuer","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Attraktive und freundlich helle 2-Zimmer-Wohnung in charmantem Fachwerkhaus,198.000 €,"Hindenburgstr. 2,
+71254 Ditzingen, Ludwigsburg (Kreis)",2,48 m²,4.125 €/m²,nil,nil,nil,1,1,nil,"3,57 % incl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Wohnen im idyllischen Brettachtal,297.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,64 m²,4.641 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+***NEUBAU*** Stilvolle 2 Zimmer mit Galerie,385.000 €,"89165 Dietenheim, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"84,9 m²",4.535 €/m²,Etagenwohnung,nil,2025,nil,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen im idyllischen Brettachtal,439.000 €,"74243 Langenbrettach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,4.434 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Manchmal passt es einfach - Rottenburg - historische Altstadt,222.500 €,"Amannhof 13,
+72108 Rottenburg am Neckar, Tübingen (Kreis)",2,"64,03 m²",3.475 €/m²,Dachgeschoss,nil,sofort,1,1,1 Außenstellplatz,"3,57% inkl. Mwst.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+***NEUBAU*** 4 Zimmer Familienglück mit großem Garten,455.000 €,"89165 Dietenheim, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"101,6 m²",4.478 €/m²,Erdgeschosswohnung,nil,2025,nil,nil,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

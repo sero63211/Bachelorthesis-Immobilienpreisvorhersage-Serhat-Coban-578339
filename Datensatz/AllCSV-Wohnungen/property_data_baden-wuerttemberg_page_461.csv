@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Moderne Reihenwohnung in TOP-Lage,539.800 €,"Minervastraße 10,
+74613 Öhringen, Hohenlohekreis",6,"156,19 m²",3.456 €/m²,Sonstige,"169,95 m²",01.07.2024,4,1,1 Carport,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Preiswerte 2 Zimmer Wohnung in Ravensburg-Süd in sonniger Wohnlage,145.000 €,"88214 Ravensburg, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,51 m²,2.843 €/m²,Etagenwohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Attraktive und gepflegte 3-Zimmer-Hochparterre-Wohnung mit EBK in Bammental,180.000 €,"69245 Bammental, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,2.250 €/m²,Hochparterre,6 m²,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ideal für Senioren: 2-Zimmerwohnung mit Balkon,256.800 €,"72666 Neckartailfingen, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,45 m²,5.707 €/m²,Etagenwohnung,nil,2026,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Penthouse-Wohnung"" West,Downtown-Panoramablick,2 Balkone,TL-Bad renoviert,Schnitt gut,KfZ-Platz,top",260.000 €,"Relenberg, 70174 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,4.333 €/m²,Dachgeschoss,10 m²,flexibel,1,1,1 Außenstellplatz,"3,57% vom notariellen Kaufpreis","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Provisionsfrei* Freistehendes Zweifamilienhaus (2 Wohnungen) in bevorzugter Wohnlage von Friedrichsh,798.000 €,"Weidenring 52,
+88046 Friedrichshafen, Bodenseekreis",10,287 m²,2.780 €/m²,nil,nil,01.08.2024,8,4,6 Carports,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ortsnahe, sonnige 5-Zimmer-Wohnung mit Garten und Pool",370.000 €,"72581 Dettingen an der Erms, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"113,55 m²",3.258 €/m²,Etagenwohnung,180 m²,01.08.2024,3,1,2 Garagen,"2,5 %","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Gemütliche 2-Zimmer-Wohnung in Eschbach mit Weitblick,258.000 €,"79427 Eschbach, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"77,45 m²",3.331 €/m²,Maisonette,nil,18.5.2024,1,1,2 Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+FAMILIENGERECHTE WOHNUNG MIT EIGENEM GARTEN,576.478 €,"76344 Eggenstein-Leopoldshafen, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"114,44 m²",5.037 €/m²,nil,nil,2025,3,1,2 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne 3 Zimmer Eigentumswohnung mit Waldblick zu verkaufen,435.000 €,"Hoffeld, 70597 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,5.649 €/m²,Etagenwohnung,10 m²,sofort,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 5.0-Zimmer Wohnung in Mannheim,nil,"Neckarstadt-Ost/Wohlgelegen, 68167 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,120 m²,3.158 €/m²,nil,nil,nil,nil,nil,nil,nil,{}
+PROVISIONSFREI +++ Attraktive 2-Zimmerwohnung in Stuttgart - Fasanenhof +++,198.000 €,"Fasanenhofstraße 4,
+Fasanenhof, 70565 Stuttgart",2,52 m²,3.808 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Offen für Angebote: 2.5-Zimmer Wohnung in Ludwigsburg,nil,"Eglosheim, 71634 Ludwigsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",70 m²,4.129 €/m²,Terrassenwohnung,nil,nil,nil,nil,nil,nil,{}
+Offen für Angebote: 3.0-Zimmer Wohnung in Heilbronn,nil,"Heilbronn, 74072 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,63 m²,4.587 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,nil,{}
+Offen für Angebote: 3.0-Zimmer Wohnung in Stuttgart,nil,"Gablenberg, 70186 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,53 m²,5.264 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}
+3 Zimmer Eigentumswohnung Südstadt mit Balkon ohne Maklergebühren,300.000 €,"Südoststadt, 75175 Pforzheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"74,26 m²",4.040 €/m²,Etagenwohnung,"74,26 m²",nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Helle 3,5-Zi.-Wohnung mit besonderem Flair",370.000 €,"71732 Tamm, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",83 m²,4.458 €/m²,Maisonette,nil,nach Vereinbarung,2,1,1 Duplex-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Sonnige und ruhige 4 Zimmer Wohnung mit traumhafter Aussicht,475.000 €,"88213 Ravensburg, Ravensburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,3.800 €/m²,Maisonette,nil,sofort beziehbar,3,1,1 Stellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"4 1/2 Zimmer Wohnung, Wohnanlage Schlosspanorama , Aussichtslage mit Balkon und TG - Stellplatz",420.000 €,"71229 Leonberg, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",115 m²,3.652 €/m²,Etagenwohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. Mwst.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Offen für Angebote: 4.5-Zimmer Wohnung in Heilbronn,nil,"Böckingen, 74080 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",125 m²,4.632 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,nil,{}

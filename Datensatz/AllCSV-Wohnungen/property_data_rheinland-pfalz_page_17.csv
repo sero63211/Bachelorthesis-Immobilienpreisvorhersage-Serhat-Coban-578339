@@ -1,0 +1,45 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Sonnige Terassenwohnung am Kurpark in Lahnstein mit Garage,329.000 €,"56112 Lahnstein, Rhein-Lahn-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,2.632 €/m²,Etagenwohnung,6 m²,nil,3,1,1 Garage,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Eigentumswohnung in Görgeshausen,286.000 €,"Brunnenstr. 11,
+56412 Görgeshausen, Westerwaldkreis",3,107 m²,2.673 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Hochwertige / Sanierte Eigentumswohnung am Waldrand,215.000 €,"Hauptstraße 131,
+66999 Hinterweidenthal, Südwestpfalz (Kreis)",3,120 m²,1.792 €/m²,Erdgeschosswohnung,125 m²,14.5.2024,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neustadt Zentrum: Neuwertige 3 ZKB Wohnung mit schönem Südwestbalkon!,315.000 €,"Kernstadt, 67434 Neustadt an der Weinstraße
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,94 m²,3.351 €/m²,nil,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"3,57 % inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Hochwertige Eigentumswohnung mit Dachterrasse in Eitelborn zwischen Montabaur und Koblenz!,289.000 €,"56337 Eitelborn, Westerwaldkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,150 m²,1.927 €/m²,Maisonette,nil,nil,2,1,2 Außenstellplätze,"3,57 % inkl. 19 % MwSt.",{'is24qa-einbaukueche-label': ''}
+Wie aus dem Ei gepellt: Mz-Gonsenheim! Solide 3-ZKB-Whg mit TG-Stp. & Balkon! Freigestellt!,289.000 €,"Gonsenheim, 55124 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,3.613 €/m²,Etagenwohnung,6 m²,nach Absprache,2,1,1 Tiefgaragen-Stellplatz,"3,57% vom Kaufpreis inkl. MwSt.. Die Nachweisprovision ist vom Käufer zu zahlen.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"""Nahe am Rhein"" - Wohnen am Fluss",639.000 €,"Stefan-George-Straße 14-16,
+55411 Bingen am Rhein, Mainz-Bingen (Kreis)",3,"122,26 m²",5.227 €/m²,Etagenwohnung,7 m²,01.05.2024,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Heimbach-Weis, EG-Wohnung mit Gartenanteil in 2-FH, Projektiert",336.402 €,"56566 Neuwied, Neuwied (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,94 m²,3.579 €/m²,Erdgeschosswohnung,3 m²,2025,2,1,1 Außenstellplatz,"3,57% KäuferMaklerProvision inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Penthouse 5-Raum-Wohnung über Kastellaun,398.000 €,"Hasental 1,
+56288 Kastellaun, Rhein-Hunsrück-Kreis",5,140 m²,2.843 €/m²,Penthouse,12 m²,nil,3,2,2 Garagen,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive 3-Zimmer-Wohnung unweit vom Rheinufer in Mainz,234.000 €,"Weisenau, 55130 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,77 m²,3.039 €/m²,Etagenwohnung,0 m²,nil,2,1,nil,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Eigentumswohnung zur Selbstnutzung oder als Kapitalanlage im Zentrum von St. Goar,109.000 €,"56329 Sankt Goar, Rhein-Hunsrück-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,101 m²,1.079 €/m²,Etagenwohnung,nil,nil,nil,1,1 Stellplatz,"3,57 %",{'is24qa-gaeste-wc-label': ''}
+Seniorengerechtes Appartement im Herzen von Eisenberg,99.000 €,"67304 Eisenberg (Pfalz), Donnersbergkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"52,21 m²",1.896 €/m²,Etagenwohnung,"4,33 m²",01.06.2024,nil,1,nil,"5,95 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': ''}"
+"""Nahe am Rhein"" - Wohnen am Fluss",570.000 €,"Stefan-George-Straße 14-16,
+55411 Bingen am Rhein, Mainz-Bingen (Kreis)",3,"105,75 m²",5.390 €/m²,Etagenwohnung,7 m²,01.05.2024,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mainz: Einziehen & Wohlfühlen! Fernblickwohnung! Energetisch saniert! Moderne Einbauküche!,322.900 €,"Marienborn, 55127 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,102 m²,3.166 €/m²,Etagenwohnung,8 m²,nil,3,1,1 Tiefgaragen-Stellplatz,3% vom Kaufpreis inkl. MwSt.. Die Nachweisprovision ist vom Käufer zu zahlen.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+** Gemütliche 2 1/2 Zimmer-Dachgeschoss-Wohnung mit Stellplatz **,189.000 €,"67259 Beindersheim, Rhein-Pfalz-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","2,5",65 m²,2.908 €/m²,Etagenwohnung,15 m²,nach Vereinbarung,2,1,1 Außenstellplatz,"2,98 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Charmantes Dachgeschossjuwel mit Weitblick – Sofort Einziehen und Wohlfühlen!,339.000 €,"55257 Budenheim, Mainz-Bingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"85,26 m²",3.976 €/m²,Etagenwohnung,0 m²,nil,2,1,2 Garagen,"2,99% vom Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Sanierte Wohnung zum Wohlfühlen!,235.000 €,"56220 Sankt Sebastian, Mayen-Koblenz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,75 m²,3.133 €/m²,Etagenwohnung,nil,Sofort,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+Moderne 3-Zimmer-Wohnung am Rheinufer-Süd,485.000 €,"Süd, 67061 Ludwigshafen am Rhein
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,98 m²,4.949 €/m²,nil,nil,nil,2,1,1 Tiefgaragen-Stellplatz,3.57 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+"""Nahe am Rhein"" - Wohnen am Fluss",549.000 €,"Stefan-George-Straße 14-16,
+55411 Bingen am Rhein, Mainz-Bingen (Kreis)",2,"107,35 m²",5.114 €/m²,Etagenwohnung,6 m²,01.05.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sie hier? Wir auch! Charmante 3 Zimmerwohnung zzgl. TG-Stellplatz+traumhaftem Blick in die Weinberge,240.000 €,"67480 Edenkoben, Südliche Weinstraße (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"79,58 m²",3.016 €/m²,Etagenwohnung,nil,Nach Vereinbarung,2,1,1 Tiefgaragen-Stellplatz,"2,98 % inkl. Mwst. für den Käufer auf den notariellen Kaufpreis","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Gemütliche 1-Zimmer-Wohnung in begehrter Wohnlage von Mainz,135.000 €,"Neustadt, 55118 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"36,66 m²",3.682 €/m²,Etagenwohnung,0 m²,nil,nil,1,nil,"3,57% vom Kaufpreis inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Sofort bezugsfertig!,199.000 €,"Metternich, 56072 Koblenz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,44 m²,4.523 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % Käuferprovision inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"

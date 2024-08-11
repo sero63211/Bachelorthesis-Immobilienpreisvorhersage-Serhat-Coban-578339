@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Hochwertiges Einfamilienhaus mit Einliegerwohnung und großzügigem Grundstück,1.350.000 €,"Rohr, 70565 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,222 m²,741 m²,6.081 €/m²,Einfamilienhaus (freistehend),197 m²,sofort,3,3,2 Garagen,"3,57%","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+"Wie neu, RMH mit Stellpl. in Fam. freundlicher Lage von Uhingen",498.000 €,"Sachsenstr. 22,
+73066 Uhingen, Göppingen (Kreis)",6,"129,8 m²",118 m²,3.837 €/m²,Reihenmittelhaus,"18,86 m²",sofort,6,2,1 Außenstellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Besondere Immobilie im alten Hofgut in Karlsruhe Hohenwettersbach,840.000 €,"Hohenwettersbach, 76228 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,160 m²,139 m²,5.250 €/m²,Reihenmittelhaus,13 m²,1.1.2025,3,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Herrschaftliche Jugendstilvilla mit vielfältigen Nutzungsoptionen,1.080.000 €,"72574 Bad Urach, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,500 m²,1.881 m²,2.160 €/m²,Villa,nil,nach Abstimmung,nil,2,Garage,"3,57","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Bauen mit BIEN-ZENKER - Let's do it!,617.724 €,"78112 Sankt Georgen im Schwarzwald, Schwarzwald-Baar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"135,16 m²",749 m²,4.570 €/m²,Einfamilienhaus (freistehend),nil,nil,3,1,nil,nil,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Seltene GELEGENHEIT, REH in einer TOP LAGE. Saniert mit Garten & Garage",582.000 €,"Rosensteinstraße 14,
+73098 Rechberghausen, Göppingen (Kreis)",5,"122,5 m²",310 m²,4.751 €/m²,Reiheneckhaus,"56,82 m²",sofort,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Wohnhaus mit Scheuer, Stall und landwirtschaftlichem Grundstück",125.000 €,"74417 Gschwend, Ostalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,100 m²,16.615 m²,1.250 €/m²,Bauernhaus,nil,nil,4,1,nil,"3,57 % vom Kaufpreis inkl. 19 % MwSt.",{}
+Sulz a.N.-Bergfelden / Gemütliches Einfamilienhaus mit großem Potential und inneren Werten,249.000 €,"72172 Sulz am Neckar, Rottweil (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,128 m²,529 m²,1.945 €/m²,Einfamilienhaus (freistehend),nil,sofort frei,nil,nil,2 Garagen,"3,57 % inkl. MwSt",{}
+"Geräumiges, gepflegtes 11-Raum-Einfamilienhaus mit Einliegerwohnung in Fichtenberg ohne Makler",658.000 €,"74405 Gaildorf, Schwäbisch Hall (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,260 m²,589 m²,2.531 €/m²,Einfamilienhaus (freistehend),260 m²,nil,6,3,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschöne Stadtvilla auf traumhaftem Grundstück in exklusiver Lage,875.000 €,"72108 Rottenburg am Neckar, Tübingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,313 m²,863 m²,2.796 €/m²,Villa,50 m²,sofort,8,3,3 Stellplätze,"3,57% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Zweifamilienhaus mit Gewerbeeinheit,495.000 €,"Böckingen, 74080 Heilbronn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,165 m²,202 m²,3.000 €/m²,Mehrfamilienhaus,70 m²,nil,7,2,1 Stellplatz,"4,76 % inkl. 19 % gesetzl. MwSt.",{'is24qa-keller-label': ''}
+Hochwertiges Einfamilienhaus in ruhiger Lage direkt in Bretten,869.000 €,"75015 Bretten, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,248 m²,739 m²,3.504 €/m²,Einfamilienhaus (freistehend),170 m²,nil,nil,2,nil,"3,57 % inkl. MwSt.",{'is24qa-keller-label': ''}
+Freistehendes EFH - ohne Makler - bezugsbereit,729.000 €,"74199 Untergruppenbach, Heilbronn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,139 m²,197 m²,5.245 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Mehrfamilienhaus in Traumlage mit großem Grund und jede Menge Platz,379.000 €,"72820 Sonnenbühl, Reutlingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","13,5",332 m²,891 m²,1.142 €/m²,Mehrfamilienhaus,nil,nil,6,3,5 Stellplätze,"18040,40",{}
+Freistehendes Architekten-Design-EFH mit direktem Waldzugang,Auf Anfrage,"74889 Sinsheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,270 m²,700 m²,nil,Einfamilienhaus (freistehend),90 m²,nil,4,3,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Fachwerkhaus mit sechs Zimmern und einem traumhaften Ausblick in Bad Herrenalb,1.295.000 €,"Lindenweg 18,
+76332 Bad Herrenalb, Calw (Kreis)",6,240 m²,1.224 m²,5.396 €/m²,Einfamilienhaus (freistehend),43 m²,1.3.2024,4,4,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+1-2 Familien Haus in 71576 Burgstetten-Burgstall,460.000 €,"Neue Straße 68,
+71576 Burgstetten, Rems-Murr-Kreis",7,142 m²,799 m²,3.239 €/m²,Einfamilienhaus (freistehend),75 m²,nil,2,2,2 Garagen,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mediterranes 1-2 Familienhaus mit traumhafter Aussicht.,299.000 €,"71540 Murrhardt, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","7,5",120 m²,384 m²,2.492 €/m²,Mehrfamilienhaus,nil,22.3.2024,nil,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Kernsaniertes neuwertiges 5,5 Zimmer Reihenendhaus 116,5 qm Wohnfläche mit Garten Klima vorb. Pool",549.000 €,"Dresdener Str. 24,
+68809 Neulußheim, Rhein-Neckar-Kreis",5,"116,5 m²",140 m²,4.712 €/m²,Reiheneckhaus,60 m²,nil,4,2,1 Garage,"2,95% inkl. Mwst vom Kaufpreis, fällig sieben Tage nach dem Notartermin.",{'is24qa-online-besichtigung-moeglich-label': ''}
+"Neuwertige Doppelhauhälfte mit PV-Anlage, Garage & Garten",595.000 €,"79395 Neuenburg am Rhein, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",109 m²,343 m²,5.459 €/m²,Doppelhaushälfte,nil,nil,3,1,1 Garage,"3,57% inkl. MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-vermietet-label': ''}"

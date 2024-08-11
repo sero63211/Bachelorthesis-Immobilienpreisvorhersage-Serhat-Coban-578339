@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"*RESERVIERT* Zentral, gut vermietet und schön - 2-R-Wohnung in Meißen",55.400 €,"Neugasse 20,
+01662 Meißen, Meißen (Kreis)",2,"38,22 m²",1.450 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Charmanten Eigentumswohnung mit Mitgarantie und 4 % Rendite,125.000 €,"Hilbersdorf, 09131 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,67 m²,1.866 €/m²,Etagenwohnung,nil,nil,1,1,Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hübsche Terrassenwohnung in Lindenau mit Tiefgaragenstellplatz,99.000 €,"Altlindenau, 04177 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"45,22 m²",2.189 €/m²,Erdgeschosswohnung,nil,nil,nil,1,Tiefgaragen-Stellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+"Bestlage - Penthouse am Clara-Zetkin-Park mit Dachterrasse, Stellplatz und Fahrstuhl",1.350.000 €,"Schleußig, 04229 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"161,96 m²",8.335 €/m²,Penthouse,nil,nil,4,2,1 Carport,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"schöne, sanierte DG-Wohnung mit Ausblick",70.500 €,"Johannesstraße 14,
+01662 Meißen, Meißen (Kreis)",2,47 m²,1.500 €/m²,Dachgeschoss,nil,01.06.2024,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+renovierte 1-Raum-Wohnung mit Balkon und Stellplatz,52.000 €,"Bohraer Str. 59,
+01936 Königsbrück, Bautzen (Kreis)",1,"26,12 m²",1.991 €/m²,Etagenwohnung,nil,sofort,1,nil,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+in schöner Lage wohnen mit Stellplatz und Garage,93.000 €,"Johannesstraße 14,
+01662 Meißen, Meißen (Kreis)",2,62 m²,1.500 €/m²,Erdgeschosswohnung,nil,nil,2,1,2 Garagen,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+entspannen in ruhiger Lage,88.500 €,"Johannesstraße 14,
+01662 Meißen, Meißen (Kreis)",2,59 m²,1.500 €/m²,Erdgeschosswohnung,nil,nil,2,1,2 Garagen,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kapitalanlage im beliebten Marienthal,43.900 €,"Marienthal Ost, 08060 Zwickau
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"43,89 m²",1.000 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Stark!!! Vermietete Eigentumswohnung in Reusa sucht neuen Eigentümer!,49.000 €,"Liebigstraße 12,
+Reichenbacher Vorstadt, 08529 Plauen",4,"78,29 m²",626 €/m²,nil,nil,nil,nil,1,nil,"3.750,00 Euro inkl. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+Wohnen oder vermieten in der Messestadt -Leipzig,84.000 €,"Möckern, 04159 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"29,84 m²",2.815 €/m²,Erdgeschosswohnung,nil,nil,1,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+!! provisionsfreie!! vermietete 3-Raum-Wohnung mit Balkon & Stellplatz,149.000 €,"Saxoniastraße 12,
+Althen-Kleinpösna, 04319 Leipzig",3,76 m²,1.961 €/m²,Etagenwohnung,80 m²,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+schön geschnittene 2-R-Wohnung mit Balkon und Stellplatz,87.000 €,"Johannesstraße 14,
+01662 Meißen, Meißen (Kreis)",2,58 m²,1.500 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+10km von Freiberg entfernt - renovierte 2-R-Wohnung,88.200 €,"Freistraße 1,
+09618 Brand-Erbisdorf, Mittelsachsen (Kreis)",2,49 m²,1.800 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+ruhige 2-Raum-Wohnung unweit vom Zentrum,96.000 €,"Johannesstraße 14,
+01662 Meißen, Meißen (Kreis)",2,64 m²,1.500 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+zentrale 2-R-Wohnung in Meißen mit Terrasse,71.400 €,"Neugasse 20,
+01662 Meißen, Meißen (Kreis)",2,"49,27 m²",1.449 €/m²,Hochparterre,nil,nil,2,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigentumswohnung in Bestlage direkt am Park,1.600.000 €,"Ferdinand-Lassalle-Straße 6,
+Zentrum-West, 04109 Leipzig",8,316 m²,5.063 €/m²,Etagenwohnung,nil,Sofort,3,2,2 Stellplätze,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+renovierte 1-R-Wohnung in ruhiger Lage,43.700 €,"Ochsenfurter Straße 6,
+04680 Colditz, Leipzig (Kreis)",1,35 m²,1.249 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Vollsanierte 2-RW mit EBK nach Maß * neues Bad! * Denkmalobjekt! * in zentrumsnaher & ruhiger Lage!,119.900 €,"Pieschen-Süd, 01127 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"43,12 m²",2.781 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"3,57 %","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Attraktive 1-Raum-Wohnung mit West-Terrasse & Garten,81.900 €,"01454 Wachau, Bautzen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"34,96 m²",2.343 €/m²,Terrassenwohnung,nil,nil,1,1,1 Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

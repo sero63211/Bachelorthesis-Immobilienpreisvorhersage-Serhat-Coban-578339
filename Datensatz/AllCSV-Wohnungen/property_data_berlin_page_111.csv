@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Vermietetes 1,5-Zimmer-Apartment mit Balkon & Wannenbad in attraktiver Lage",195.900 €,"Weichselstraße 7b,
+Friedrichshain, 10247 Berlin","1,5","51,12 m²",3.832 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Vermietete 1,5-Zimmerwohnung mit Wannenbad, Loggia & freiem Blick bis zum Fernsehturm",221.900 €,"Johanniterstraße 6,
+Kreuzberg, 10961 Berlin","1,5","41,86 m²",5.301 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Schöne, große Neubau-DG-Wohnung mit 2 Zimmern & Dachterrasse im grünen Köpenick",362.770 €,"Gehsener Straße 70,
+Köpenick, 12555 Berlin",2,"91,4 m²",3.969 €/m²,Dachgeschoss,nil,nil,1,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+IMMOBERLIN.DE - Attraktive Altbauwohnung mit Balkon in ruhiger Lage,160.000 €,"Falkenhagener Feld, 13583 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,52 m²,3.077 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Kapitalanlage mit 2,5 Zimmern im begehrten Berliner Szenebezirk Neukölln",229.900 €,"Silbersteinstraße 49,
+Neukölln (Ortsteil), 12051 Berlin","2,5","62,16 m²",3.699 €/m²,Erdgeschosswohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Vermietete 1,5-Zimmerwohnung mit Wannenbad und Aufzug in Trendlage Berlins",189.900 €,"Lucy-Lameck-Straße 15,
+Neukölln (Ortsteil), 12049 Berlin","1,5","49,6 m²",3.829 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+IMMOBERLIN.DE - Komfortable Wohnung im KfW-55-Haus mit Balkon & Loggia beim Ortskern nahe WISTA,589.000 €,"Adlershof, 12489 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,6.544 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+"Vermietete Eigentumswohnung mit 2,5 Zimmern im Szenebezirk Berlin-Neukölln",239.900 €,"Silbersteinstraße 57,
+Neukölln (Ortsteil), 12051 Berlin","2,5","63,18 m²",3.797 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 1-Zimmerwohnung mit Wannenbad in Berlin-Friedrichshain – jetzt sichern!,215.900 €,"Scharnweberstraße 14a,
+Friedrichshain, 10247 Berlin",1,"49,88 m²",4.328 €/m²,Etagenwohnung,nil,nil,0,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sonnige DG-Maisonette mit 3 Terrassen, Bestlage Kollwitzkiez, provisionsfrei",845.000 €,"Prenzlauer Berg, 10405 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,94 m²,8.989 €/m²,Dachgeschoss,nil,sofort,2,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2 Zimmer Wohnung mit Süd Balkon im wunderschönen Zehlendorf Kapitalanlage,249.000 €,"Zehlendorf, 14163 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"52,29 m²",4.762 €/m²,Etagenwohnung,"52,29 m²",nil,1,1,nil,"3,57 % inkl. gesetzl. MwSt.",{}
+"Vermietete Altbauwohnung mit 5 Zimmern, Balkon & Wannenbad nahe Revaler Straße",634.900 €,"Corinthstraße 53,
+Friedrichshain, 10245 Berlin",5,"136,88 m²",4.638 €/m²,Etagenwohnung,nil,nil,4,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mit Wannenbad: Vermietete 2-Zimmerwohnung im Stralauer Kiez,236.900 €,"Corinthstraße 53,
+Friedrichshain, 10245 Berlin",2,"51,12 m²",4.634 €/m²,Erdgeschosswohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihre Hauptstadt-Kapitalanlage: Vermietete 3-Zimmerwohnung in Kreuzberg,456.900 €,"Johanniterstraße 3,
+Kreuzberg, 10961 Berlin",3,"97,74 m²",4.675 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Vermietete 2,5-Zimmerwohnung mit Wannenbad nahe Schillerkiez",235.900 €,"Silbersteinstraße 47,
+Neukölln (Ortsteil), 12051 Berlin","2,5","61,27 m²",3.850 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügige 5-Zimmer Erdgeschosswohnung in Neukölln Schillerkiez provisionsfrei / bezugsfrei,520.000 €,"Neukölln (Ortsteil), 12049 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,3.636 €/m²,Erdgeschosswohnung,173 m²,sofort,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Bezugsfreie, sanierte 3-Zimmerwohnung mit Wannenbad & Dusche im Stralauer Kiez",529.900 €,"Corinthstraße 53,
+Friedrichshain, 10245 Berlin",3,"84,37 m²",6.281 €/m²,Erdgeschosswohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Berliner Luxus-Wohntraum: Ihr Penthouse mit 5 Zimmern & 2 Terrassen in Kreuzberg,5.499.900 €,"Großbeerenstraße 56E,
+Kreuzberg, 10965 Berlin",5,"257,58 m²",21.352 €/m²,Penthouse,nil,nil,4,nil,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Zukunftsinvestment: Vermietete Eigentumswohnungmi 2,5 Zimmern & Balkon in Kiezlage",224.900 €,"Silbersteinstraße 53,
+Neukölln (Ortsteil), 12051 Berlin","2,5","62,76 m²",3.583 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Anlegen nahe des Neuköllner Schillerkiezes: Vermietete 2,5-Zimmerwohnung mit Balkon",234.900 €,"Silbersteinstraße 51,
+Neukölln (Ortsteil), 12051 Berlin","2,5","62,59 m²",3.753 €/m²,Etagenwohnung,nil,nil,2,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

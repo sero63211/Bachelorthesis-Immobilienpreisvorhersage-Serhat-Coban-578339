@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+4-Zimmer-Wohnung,3.200 €,"Bundesstraße XXXX,
+32694 Dörentrup, Lippe (Kreis)",4,"139,2 m²",23 €/m²,nil,"139,2 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+6-Zimmer-Wohnung mit Stellplatz + provisionsfrei +,170.000 €,"Refflingser Straße XXXX,
+Hennen, 58640 Iserlohn",6,"116,34 m²",1.461 €/m²,nil,"21,24 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 2-Zimmer-Wohnung mit Balkon +,109.000 €,"Theodor-Heuss-Straße XXXX,
+50170 Kerpen, Rhein-Erft-Kreis",2,"50,28 m²",2.168 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Stellplatz,160.000 €,"Kreuzstraße XXXX,
+46535 Dinslaken, Wesel (Kreis)",2,78 m²,2.051 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung,1.600 €,"Bundesstraße XXXX,
+32694 Dörentrup, Lippe (Kreis)",2,46 m²,35 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung,3.300 €,"Bundesstraße XXXX,
+32694 Dörentrup, Lippe (Kreis)",2,85 m²,39 €/m²,nil,85 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung mit Pkw-Stellplatz in Parknähe,480.000 €,"Innere Kanalstraße XXXX,
+Neustadt/Nord, 50670 Köln",2,"83,55 m²",5.745 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit Balkon,110.000 €,"Eschweg XXXX,
+33775 Versmold, Gütersloh (Kreis)",4,102 m²,1.078 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung + provisionsfrei +,85.000 €,"Blumenthalstraße XXXX,
+Altstadt-Süd, 46045 Oberhausen",4,90 m²,944 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"3-Zimmer-Wohnung, Terrasse, Garage + provisionsfrei +",280.000 €,"Blücherstraße XXXX,
+46535 Dinslaken, Wesel (Kreis)",3,102 m²,2.745 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung,3.000 €,"Bundesstraße XXXX,
+32694 Dörentrup, Lippe (Kreis)",3,"74,5 m²",40 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügige 3-Zimmer-Wohnung mit TG-Stellplatz - provisionsfrei,560.000 €,"Sterrenhofweg XXXX,
+Junkersdorf, 50858 Köln",3,109 m²,5.138 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 3-Zimmer-Wohnung mit Balkon und TG-Stellplatz +,220.000 €,"Thorn-Prikker-Straße XXXX,
+Seeberg, 50769 Köln",3,73 m²,3.014 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3- bis 4-Zimmer-Wohnung, Stellplatz + provisionsfrei +",110.000 €,"Asternweg XXXX,
+59425 Unna, Unna (Kreis)",3,81 m²,1.358 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,56.000 €,"Blumenthalstraße XXXX,
+Altstadt-Süd, 46045 Oberhausen",2,65 m²,862 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Klein, aber Mein + Single-Wohnung - provisionsfrei +",38.000 €,"Blumenthalstraße XXXX,
+Altstadt-Süd, 46045 Oberhausen",1,37 m²,1.027 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+5-Zimmer-Wohnung,4.700 €,"Bundesstraße XXXX,
+32694 Dörentrup, Lippe (Kreis)",5,"126,5 m²",37 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Zimmer-Wohnung,3.100 €,"Bundesstraße XXXX,
+32694 Dörentrup, Lippe (Kreis)",2,"79,7 m²",39 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Pkw-Stellplatz - provisionsfrei,58.000 €,"Emsring XXXX,
+Horsthausen, 44628 Herne",3,78 m²,744 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Großzügige 3-Zimmer-Wohnung, Balkon, TG-Stellplatz",287.000 €,"Borsigallee XXXX,
+Brüser Berg, 53125 Bonn",3,100 m²,2.870 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

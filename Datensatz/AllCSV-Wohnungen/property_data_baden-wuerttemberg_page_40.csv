@@ -1,0 +1,57 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2-Zimmer Erdgeschoss Neubauwohnung in Unterensingen,359.000 €,"Höflestraße 2,
+72669 Unterensingen, Esslingen (Kreis)",2,"69,6 m²",5.158 €/m²,Erdgeschosswohnung,"7,7 m²",Dezember 2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer Erdgeschoss Neubauwohnung in Unterensingen,399.000 €,"Höflestraße 2,
+72669 Unterensingen, Esslingen (Kreis)",3,"76,9 m²",5.189 €/m²,Erdgeschosswohnung,"8,6 m²",Dezember 2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer Erdgeschoss Neubauwohnung in Unterensingen,443.000 €,"Höflestraße 2,
+72669 Unterensingen, Esslingen (Kreis)",4,"87,4 m²",5.069 €/m²,Erdgeschosswohnung,"10,1 m²",Dezember 2025,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer Obergeschoss Neubauwohnung in Unterensingen,352.000 €,"Höflestraße 2,
+72669 Unterensingen, Esslingen (Kreis)",2,"70,2 m²",5.014 €/m²,Etagenwohnung,"8,6 m²",Dezember 2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Außergewöhnliche 5,5-Zimmer-Maisonette – die bezahlbare Alternative zum Einfamilienhaus",365.000 €,"89129 Nerenstetten, Alb-Donau-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","5,5","178,9 m²",2.040 €/m²,Maisonette,nil,nach Absprache,2,1,1 Garage,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Wunderschöne, lichtdurchflutete & geräumige 5-Zimmer-Maisonette-Wohnung",428.000 €,"74343 Sachsenheim, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"88,88 m²",4.815 €/m²,Maisonette,nil,nil,3,2,1 Tiefgaragen-Stellplatz,2,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Gemütliche 2-Zimmer-Wohnung in Möglingen,161.000 €,"71696 Möglingen, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,46 m²,3.500 €/m²,nil,nil,nach Vereinbarung,nil,nil,1 Außenstellplatz,"3,57 % vom Kaufpreis inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Modernisierte Etagenwohnung in zentraler Lage von FDS,209.000 €,"72250 Freudenstadt, Freudenstadt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",84 m²,2.488 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"++TOP++ Maisonette Wohntraum im Zentrum mit Süd-West Balkon, 2 TG-Stellplätze und 2 Bäder",339.000 €,"73033 Göppingen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5","104,58 m²",3.242 €/m²,Etagenwohnung,nil,nach Vereinbarung,3,2,2 Tiefgaragen-Stellplätze,"3,57 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Exklusive Wohnung im Herzen von Reichenbach,425.000 €,"76337 Waldbronn, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,91 m²,4.670 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Garage,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Einsame Perle sucht Handwerker!,149.000 €,"75038 Oberderdingen, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,116 m²,1.284 €/m²,Etagenwohnung,nil,ab sofort,nil,1,Außenstellplatz,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Clevere Schnitt! 3-Zimmer Wohnung am Fremersberg,218.000 €,"Fremersbergstraße 62,
+Innenstadt, 76530 Baden-Baden",3,56 m²,3.893 €/m²,Etagenwohnung,"2,09 m²",Zeitmietvertrag bis 05/2025 oder nach Vereinbar,3,1,nil,"2,5% zzgl. 19% Mwst.","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+"Sonnige 3,5 - Zimmer-Wohnung im obersten Stock mit Aussicht, Einbauküche, Balkon und Garagenbox!",579.000 €,"Botnang-Süd, 70195 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5","91,5 m²",6.328 €/m²,Etagenwohnung,"91,5 m²",Ab sofort,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Rentable Kapitalanlage in beliebtem Wohngebiet!,159.000 €,"69221 Dossenheim, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,34 m²,4.676 €/m²,Etagenwohnung,nil,nach Rücksprache,1,1,1 Tiefgaragen-Stellplatz,"2,98%","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Schöne Eigentumswohnung in KA-Knielingen,154.000 €,"Knielingen, 76187 Karlsruhe
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,40 m²,3.850 €/m²,Dachgeschoss,6 m²,nach Absprache,1,1,1 Duplex-Stellplatz,"3,57 %","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+=== Stadtwohnung ===,290.000 €,"72649 Wolfschlugen, Esslingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,2.417 €/m²,Etagenwohnung,nil,sofort,3,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Neues Zuhause für Ihre Familie: Der perfekte Wohntraum in Hemmingen,299.000 €,"71282 Hemmingen, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,93 m²,3.215 €/m²,Etagenwohnung,125 m²,sofort,2,1,1 Garage,2%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Wiesloch-Mitte Familienfreundliche 4,5 Zimmer Wohnung",349.000 €,"Hesselgasse 35,
+69168 Wiesloch, Rhein-Neckar-Kreis","4,5","117,12 m²",2.980 €/m²,Etagenwohnung,10 m²,nach Absprache,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer Dachgeschoss Neubauwohnung in Unterensingen,520.000 €,"Höflestraße 2,
+72669 Unterensingen, Esslingen (Kreis)",3,"104,6 m²",4.971 €/m²,Dachgeschoss,"10,3 m²",Dezember 2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer Erdgeschoss Neubauwohnung in Unterensingen,449.000 €,"Höflestraße 2,
+72669 Unterensingen, Esslingen (Kreis)",3,"89,7 m²",5.006 €/m²,Erdgeschosswohnung,"8,6 m²",Dezember 202,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer Obergeschoss Neubauwohnung in Unterensingen,440.000 €,"Höflestraße 2,
+72669 Unterensingen, Esslingen (Kreis)",4,"87,2 m²",5.046 €/m²,Etagenwohnung,"10,1 m²",Dezember 2025,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sonnendurchflutete, elegante 4,5-Raum-Wohnung mit Balkon und Einbauküche Nähe oberer See",569.000 €,"71032 Böblingen, Böblingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",102 m²,5.578 €/m²,Etagenwohnung,15 m²,1.9.2024,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer Obergeschoss Neubauwohnung in Unterensingen,361.000 €,"Höflestraße 2,
+72669 Unterensingen, Esslingen (Kreis)",2,"69,6 m²",5.187 €/m²,Etagenwohnung,"7,7 m²",Dezember 2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne EG-Wohnung mit Wintergarten und Gartenzugang,325.000 €,"78224 Singen (Hohentwiel), Konstanz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",116 m²,2.802 €/m²,Erdgeschosswohnung,16 m²,01.07.2024,2,1,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Unique Place! Zentrumsnahe 5-Zimmer-Wohnung in Denkmalhaus,229.000 €,"Abelstraße 17,
+Nord, 71634 Ludwigsburg",5,"95,18 m²",2.406 €/m²,Dachgeschoss,nil,ab sofort,4,1,nil,"3,57 % inkl. gesetzl. MwSt. aus dem Kaufpreis",{'is24qa-keller-label': ''}
+Ideal für junge Paare und kleine Familie - das eigene Dach über dem Kopf,165.000 €,"74653 Künzelsau, Hohenlohekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,67 m²,2.463 €/m²,Etagenwohnung,nil,nach Vereinbarung,2,1,1 Tiefgaragen-Stellplatz,"4,76 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Sie hier?Wir auch! Kapitalanlage oder Eigennutzung! Souterrainwohnung mit Freisitz in beliebter Lage,266.000 €,"Neckarau, 68199 Mannheim
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,58 m²,4.586 €/m²,Souterrain,nil,Sofort möglich,1,1,nil,"2,98 % inkl. Mwst. für den Käufer auf den notariellen Kaufpreis","{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer Obergeschoss Neubauwohnung in Unterensingen,405.000 €,"Höflestraße 2,
+72669 Unterensingen, Esslingen (Kreis)",3,"78,3 m²",5.172 €/m²,Etagenwohnung,"8,6 m²",Dezember 2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

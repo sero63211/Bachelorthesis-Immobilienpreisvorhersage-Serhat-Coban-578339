@@ -1,0 +1,445 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Moderner Bungalow mit freien Blick in die Apfelfelder in Jork,520.000 €,"Gehrden 6,
+21635 Jork, Stade (Kreis)",5,150 m²,800 m²,3.467 €/m²,Einfamilienhaus (freistehend),100 m²,31.08.2024,4,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaftes Haus in guter Lage von Melle mit 8-Zimmern,580.000 €,"49326 Melle, Osnabrück (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,185 m²,660 m²,3.135 €/m²,Einfamilienhaus (freistehend),nil,nil,4,2,nil,"3,57 % inkl. MwSt.",{'is24qa-gaeste-wc-label': ''}
+"Niedrichenergiehaus in Gross Oesingen, Landkreis Gifhorn. 180m2 Wohnfläche. Grundstück 923.",415.000 €,"Finkenweg 18,
+29393 Groß Oesingen, Gifhorn (Kreis)",5,180 m²,923 m²,2.306 €/m²,Einfamilienhaus (freistehend),nil,01.08.2024,nil,3,1 Garage,nil,{}
+"""Stadt-Villa"" - Mehrgenerationshaus / Wohnen-Arbeiten unter einem Dach",785.000 €,"Estebrügger Str., 7,
+21614 Buxtehude, Stade (Kreis)",9,190 m²,653 m²,4.132 €/m²,Einfamilienhaus (freistehend),103 m²,sofort,3,1,3 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus für Großfamilien!,450.000 €,"38518 Gifhorn, Gifhorn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,200 m²,770 m²,2.250 €/m²,Einfamilienhaus (freistehend),nil,31.5.2024,nil,2,1 Außenstellplatz,nil,{}
+Verwirklichen Sie Ihre Wohnträume! Sanierungsbedürftiges Reihenendhaus in Toplage am Mittellandkanal,269.000 €,"Groß-Buchholz, 30655 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,108 m²,249 m²,2.491 €/m²,Reiheneckhaus,nil,nil,3,2,1 Garage,3% zzgl. MwSt.,{'is24qa-keller-label': ''}
+Idyllisches Zweifamilienhaus mit großzügigem Grundstück und separatem Gästehaus im schönen Winsen!,219.000 €,"29308 Winsen (Aller), Celle (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,145 m²,601 m²,1.510 €/m²,Mehrfamilienhaus,nil,nil,5,2,3 Außenstellplätze,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusiver Bungalow KEINE MAKLERKOSTEN,459.000 €,"29308 Winsen (Aller), Celle (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,130 m²,830 m²,3.531 €/m²,Bungalow,50 m²,01.09.2024,3,2,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Idyllischer Resthof - Ihr Paradies für Wohnen und Freizeit,419.000 €,"27232 Sulingen, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,245 m²,9.684 m²,1.710 €/m²,nil,847 m²,nil,6,2,nil,"3,57 % inkl. Mehrwertsteuer","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ein-/Zweifamilienhaus auf großzügigem Grundstück,295.000 €,"31028 Gronau (Leine), Hildesheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"185,27 m²",1.386 m²,1.592 €/m²,Einfamilienhaus (freistehend),"18,7 m²",nach Absprache,nil,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Reihenhaus mit Garage in ruhiger Lage mit sehr guter Anbindung und Infrastruktur,305.000 €,"Vahrenheide, 30179 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,101 m²,290 m²,3.020 €/m²,Reihenmittelhaus,"22,5 m²",7.6.2024,3,1,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Doppelte Freude! Zwei Häuser, ein einmaliger Deal!!",329.000 €,"31185 Söhlde, Hildesheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,180 m²,900 m²,1.828 €/m²,nil,nil,nil,nil,3,1 Außenstellplatz,3.57%,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Großzügiges modernes Wohnhaus mit tollen Extras freut sich auf neue Eigentümer,547.000 €,"38557 Osloß, Gifhorn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,210 m²,749 m²,2.605 €/m²,Einfamilienhaus (freistehend),nil,August 2024,nil,1,4 Stellplätze,"3,57%, Käuferprovision, verdient und fällig mit Kaufvertragsunterzeichnung",{}
+Der Schlüssel zu Ihrem Traum !!,439.000 €,"31655 Stadthagen, Schaumburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,158 m²,1.000 m²,2.778 €/m²,nil,nil,nil,nil,nil,3 Stellplätze,3.57%,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Doppelhaushälfte zentral in Nienburg,355.000 €,"31582 Nienburg (Weser), Nienburg (Weser) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,158 m²,688 m²,2.247 €/m²,Doppelhaushälfte,150 m²,14.7.2024,5,2,4 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+REIHENMITTELHAUS IN HEIDBERG - HIER KÖNNEN SIE IHREN TRAUM VERWIRKLICHEN,320.000 €,"Heidberg-Melverode, 38124 Braunschweig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,90 m²,322 m²,3.556 €/m²,Reihenmittelhaus,nil,sofort,3,1,1 Garage,"2,57%","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Überraschungspaket ! Unscheinbares Raumwunder mit vielen Extras!,460.000 €,"27327 Martfeld, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,223 m²,752 m²,2.063 €/m²,Einfamilienhaus (freistehend),nil,nach Vereinbarung,6,2,4 Stellplätze,"3,57% vom Kaufpreis inkl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': ''}"
+Zweifamilienhaus mit viel Platz für die Familie inkl. Grundstück!,906.300 €,"21435 Stelle, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,242 m²,1.047 m²,3.745 €/m²,nil,nil,2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kinderparadies – Ihr Zuhause,498.400 €,"28832 Achim, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,102 m²,681 m²,4.886 €/m²,Doppelhaushälfte,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaftes Wintergartenhaus in stadtnaher Lage,409.000 €,"Kaiserkamp 45,
+38173 Sickte, Wolfenbüttel (Kreis)",4,134 m²,324 m²,3.052 €/m²,Doppelhaushälfte,165 m²,April 2025,3,1,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exclusives Wintergartenhaus in absoluter Lage,409.000 €,"Kaiserkamp 40,
+38173 Sickte, Wolfenbüttel (Kreis)",4,134 m²,323 m²,3.052 €/m²,Doppelhaushälfte,165 m²,April 2024,3,1,1 Stellplatz,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschönes Wintergartenhaus in stadtnaher Lage,447.000 €,"Kaiserkamp 43,
+38173 Sickte, Wolfenbüttel (Kreis)",4,147 m²,307 m²,3.041 €/m²,Doppelhaushälfte,170 m²,Dezember 20242024,3,1,2 Stellplätze,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrgenerationenhaus mit Grundstück in bester Lage!,535.600 €,"21706 Drochtersen, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,580 m²,2.927 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus inkl. Home-Office und Bauplatz!,587.000 €,"21244 Buchholz in der Nordheide, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,136 m²,415 m²,4.316 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Modernes Einfamilienhaus inkl. Home-Office und Bauplatz!,509.420 €,"21266 Jesteburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,1.045 m²,3.562 €/m²,nil,nil,2025,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Großzügiges Einfamilienhaus inkl. Grundstück in bester Lage!,507.700 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,167 m²,650 m²,3.040 €/m²,nil,nil,2025,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Dein Traumhaus, klimafreundlich und modern mit Grundstück in Traumlage!",720.000 €,"21266 Jesteburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,2.700 m²,4.364 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Dein Traumhaus, klimafreundlich und modern mit Grundstück in Traumlage!",720.000 €,"21266 Jesteburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,2.700 m²,4.364 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Modernes Einfamilienhaus inkl. Home-Office und Bauplatz in Traumlage!,715.000 €,"21266 Jesteburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,2.600 m²,4.643 €/m²,nil,nil,2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Klimafreundliches Einfamilienhaus inkl. Home-Office und Grundstück!,731.000 €,"21266 Jesteburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,2.730 m²,5.112 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nachhaltiges und modernes Einfamilienhaus inkl. Grundstück in Traumlage!,722.000 €,"21266 Jesteburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,136 m²,2.700 m²,5.309 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Zweifamilienhaus mit moderner Ausstattung inkl. Grundstück!,764.000 €,"27804 Berne, Wesermarsch (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,242 m²,1.250 m²,3.157 €/m²,nil,nil,2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Doppelhaus inkl. Grundstück und Energiesparlösung!,535.000 €,"27804 Berne, Wesermarsch (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,1.250 m²,4.280 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Klimafreundliches Mehrgenerationenhaus inkl. Grundstück!,684.000 €,"27804 Berne, Wesermarsch (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,1.160 m²,3.738 €/m²,nil,nil,2025,4,3,nil,Nein,"{'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Einfamilienhaus inkl. Bauplatz in bester Lage!,676.800 €,"27804 Berne, Wesermarsch (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,1.168 m²,3.223 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+In die eigene Zukunft investieren - klimafreundliches Eigenheim statt Miete!,596.500 €,"27804 Berne, Wesermarsch (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,167 m²,1.001 m²,3.572 €/m²,nil,nil,2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Klimafreundliches Einfamilienhaus inkl. Home-Office und Bauplatz!,545.000 €,"27804 Berne, Wesermarsch (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,1.000 m²,3.303 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Viel Platz für die Kinder inkl. Home- Office und Grundstück!,530.800 €,"27273 Verden (Aller), Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,500 m²,3.447 €/m²,nil,nil,2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Klimafreundliches Einfamilienhaus inkl. Home-Office und Grundstück!,545.500 €,"27273 Verden (Aller), Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,500 m²,3.815 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus inkl. Home-Office und Bauplatz!,545.500 €,"27273 Verden (Aller), Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,143 m²,500 m²,3.815 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Dein Traumhaus für die Familie mit Grundstück!,477.300 €,"27273 Verden (Aller), Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,500 m²,3.818 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alles auf einer Ebene - Bungalow inkl. Grundstück!,549.600 €,"27273 Verden (Aller), Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,500 m²,4.996 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alles auf einer Ebene - Bungalow inkl. Grundstück!,375.700 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,101 m²,599 m²,3.720 €/m²,nil,nil,2025,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweifamilienhaus mit moderner Ausstattung inkl. Grundstück!,555.500 €,"21706 Drochtersen, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,204 m²,580 m²,2.723 €/m²,nil,nil,2025,4,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Zweifamilienhaus mit moderner Ausstattung inkl. Grundstück!,600.300 €,"21706 Drochtersen, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,242 m²,580 m²,2.481 €/m²,nil,nil,2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Platz für die Großfamilie inkl. Traumgrundstück!,528.800 €,"21706 Drochtersen, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,580 m²,2.518 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweifamilienhaus mit viel Platz für die Familie inkl. Grundstück!,757.000 €,"21244 Buchholz in der Nordheide, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,242 m²,415 m²,3.128 €/m²,nil,nil,2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Einfamilienhaus inkl. Home-Office und Grundstück!,425.200 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,771 m²,2.761 €/m²,nil,nil,2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Dein Zuhause! Dein Livinghaus! Inkl. Grundstück!,465.000 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,669 m²,3.229 €/m²,Einfamilienhaus (freistehend),nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus inkl. Home-Office und Bauplatz!,391.300 €,"27313 Dörverden, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,751 m²,3.130 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Platz für die Großfamilie inkl. Traumgrundstück!,598.800 €,"21266 Jesteburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,1.045 m²,2.851 €/m²,nil,nil,2025,4,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Viel Platz für die Kinder inkl. Home- Office und Grundstück!,494.000 €,"21266 Jesteburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,1.045 m²,3.208 €/m²,nil,nil,2025,3,2,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Mehrgenerationenhaus mit Grundstück in bester Lage!,692.000 €,"21244 Buchholz in der Nordheide, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,415 m²,3.781 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Platz für die Kinder inkl. Home- Office!,473.800 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,850 m²,3.790 €/m²,Einfamilienhaus (freistehend),nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus inkl. Grundstück!,476.900 €,"27283 Verden (Aller), Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,987 m²,3.507 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Ein Traumhaus, modern und trotzdem mit viel Platz inkl. Grundstück!",528.000 €,"21244 Buchholz in der Nordheide, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,415 m²,4.224 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Einfamilienhaus inkl. Home-Office und Grundstück!,459.500 €,"27313 Dörverden, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,751 m²,3.213 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweifamilienhaus mit viel Platz für die Familie inkl. Grundstück!,620.300 €,"27313 Dörverden, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,242 m²,751 m²,2.563 €/m²,nil,nil,2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrgenerationenhaus mit Grundstück in bester Lage!,555.600 €,"27313 Dörverden, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,751 m²,3.036 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ein Traumhaus, modern und trotzdem mit viel Platz inkl. Grundstück!",454.800 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,685 m²,2.756 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Einfamilienhaus inkl. Grundstück in bester Lage!,507.900 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,167 m²,698 m²,3.041 €/m²,nil,nil,2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Einfamilienhaus inkl. Home-Office und Grundstück!,504.300 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,167 m²,672 m²,3.020 €/m²,nil,nil,2025,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Einfamilienhaus mit Einliegerwohnung inkl. Grundstück!,565.000 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,703 m²,3.087 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Dein Einfamilienhaus in bester Lage!,385.000 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,591 m²,3.080 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus inkl. Home-Office und Grundstück!,464.100 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,669 m²,3.245 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Platz für die Kinder inkl. Home- Office und Grundstück!,564.600 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,749 m²,2.689 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Das Einfamilienhaus, mit viel Platz für die Kinder und Home-Office inkl. Grundstück",568.400 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,799 m²,2.707 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Mehrgenerationenhaus inkl. Grundstück!,564.500 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,720 m²,3.085 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Dein Traumhaus für die Familie mit Grundstück!,456.500 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,676 m²,3.357 €/m²,nil,nil,2025,3,2,nil,nil,{}
+"Raus aus der Miete, rein ins Eigenheim!",441.700 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,620 m²,2.868 €/m²,nil,nil,2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus inkl. Home-Office und Bauplatz!,454.900 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,667 m²,2.757 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Modernes Einfamilienhaus mit Grundstück in bester Lage!,455.500 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,699 m²,2.958 €/m²,nil,nil,2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Dein Einfamilienhaus in bester Lage inkl. Grundstück!,453.900 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,677 m²,3.338 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Klassischer Bungalow für ein Leben nah an der Natur!,459.920 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,610 m²,4.181 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Einfamilienhaus inkl. Home-Office und Bauplatz!,422.700 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,626 m²,2.935 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wunderschönes Einfamilienhaus mit Home-Office und Grundstück!,430.700 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,664 m²,2.991 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus mit Balkon und Grundstück!,398.000 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,611 m²,3.184 €/m²,nil,nil,2025,3,1,nil,nil,{'is24qa-gaeste-wc-label': ''}
+Viel Platz für die Kinder inkl. Home- Office und Grundstück!,387.400 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,631 m²,3.099 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweifamilienhaus mit moderner Ausstattung inkl. Grundstück!,372.000 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,670 m²,2.976 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Klimafreundliches Einfamilienhaus inkl. Home-Office und Grundstück!,359.000 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,604 m²,2.872 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alles auf einer Ebene - Bungalow inkl. Grundstück!,430.100 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,602 m²,3.910 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Zweifamilienhaus inkl. Grundstück!,617.200 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,242 m²,949 m²,2.550 €/m²,nil,nil,2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Traumhaus für die große Familie inkl. Grundstück!,541.500 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,901 m²,2.579 €/m²,nil,nil,2025,5,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweifamilienhaus mit viel Platz für die Familie inkl. Grundstück!,566.750 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,204 m²,884 m²,2.778 €/m²,nil,nil,2025,4,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Modernes Einfamilienhaus mit Einliegerwohnung und Grundstück!,556.800 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,816 m²,3.043 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Viel Platz für die Kinder inkl. Home- Office und Grundstück!,483.600 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,167 m²,806 m²,2.896 €/m²,nil,nil,2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus inkl. Home-Office und Bauplatz!,399.400 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,702 m²,2.774 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Ein Traumhaus, modern und trotzdem mit viel Platz inkl. Grundstück!",430.600 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,787 m²,2.610 €/m²,nil,nil,2024,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Einfamilienhaus inkl. Home-Office und Grundstück!,439.500 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,756 m²,3.073 €/m²,nil,nil,2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Dein Einfamilienhaus in bester Lage inkl. Grundstück!,426.700 €,"21745 Hemmoor, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,136 m²,708 m²,3.138 €/m²,nil,nil,2024,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Zweifamilienhaus mit viel Platz für die Familie inkl. Grundstück!,678.000 €,"27804 Berne, Wesermarsch (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,204 m²,1.034 m²,3.324 €/m²,nil,nil,2025,4,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Mehrgenerationenhaus mit Grundstück in bester Lage!,658.000 €,"27804 Berne, Wesermarsch (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,1.030 m²,3.596 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Zweifamilienhaus inkl. Grundstück in bester Lage!,669.300 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,242 m²,920 m²,2.766 €/m²,nil,nil,2025,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweifamilienhaus mit viel Platz für die Familie inkl. Grundstück!,614.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,204 m²,850 m²,3.010 €/m²,nil,nil,2025,4,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Viel Platz für die Großfamilie inkl. Traumgrundstück!,582.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,810 m²,2.771 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrgenerationenhaus mit Grundstück in bester Lage!,586.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,790 m²,3.202 €/m²,nil,nil,2025,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Zweifamilienhaus mit moderner Ausstattung inkl. Grundstück!,423.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,750 m²,3.384 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Klimafreundliches Einfamilienhaus inkl. Home-Office und Grundstück!,470.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,740 m²,2.848 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Hochwertiges und stilvolles Architektenhaus mit Grundstück und Carport!,457.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,154 m²,680 m²,2.968 €/m²,nil,nil,2025,3,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus inkl. Grundstück und Carport!,457.500 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,580 m²,3.199 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Einfamilienhaus inkl. Grundstück in bester Lage!,420.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,560 m²,2.917 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Traumhaus inkl. Home-Office und Grundstück!,440.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,136 m²,520 m²,3.235 €/m²,nil,nil,2025,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Modernes Einfamilienhaus inkl. Home-Office und Bauplatz!,378.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,500 m²,3.024 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alles auf einer Ebene - Bungalow inkl. Grundstück!,447.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,480 m²,4.064 €/m²,nil,nil,2025,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Klassischer Bungalow für ein Leben nah an der Natur!,385.000 €,"27367 Sottrum, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,100 m²,420 m²,3.850 €/m²,nil,nil,2025,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrgenerationenhaus mit Grundstück in bester Lage!,645.500 €,"21723 Stade, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,683 m²,3.527 €/m²,nil,nil,2024,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Traumhaus für zwei Familien inkl. Grundstück!,399.500 €,"21723 Stade, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,125 m²,342 m²,3.196 €/m²,nil,nil,2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus inkl. Home-Office und Bauplatz!,481.200 €,"21723 Stade, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,683 m²,3.850 €/m²,nil,nil,2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Walmdachvilla für eine große Familie inkl. Grundstück!,550.000 €,"21723 Stade, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,683 m²,3.846 €/m²,nil,nil,2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heller klassischer Bungalow mit Grundstück!,362.000 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,101 m²,378 m²,3.584 €/m²,nil,nil,2024,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Einfamilienhaus inkl. Bauplatz in bester Lage!,518.500 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,534 m²,2.469 €/m²,nil,nil,2024,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Alles auf einer Ebene - Bungalow inkl. Grundstück!,438.700 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,110 m²,583 m²,3.988 €/m²,nil,nil,2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ein Einfamilienhaus mit viel Platz und in bester Lage!,416.900 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,165 m²,528 m²,2.527 €/m²,nil,nil,2024,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ein Traumhaus für die große Familie!,393.200 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,528 m²,2.731 €/m²,nil,nil,2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Dein Zuhause! Dein Livinghaus! Inkl. Grundstück!,397.300 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,566 m²,2.759 €/m²,nil,nil,2024,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Einfamilienhaus inkl. Bauplatz!,364.600 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,125 m²,566 m²,2.917 €/m²,nil,nil,2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Einfamilienhaus in bester Lage!,631.300 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,850 m²,3.006 €/m²,nil,nil,2024,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne Stadtvilla mit 2 Wohneinheiten und Energiesparlösungen!,985.300 €,"27356 Rotenburg (Wümme), Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,242 m²,1.700 m²,4.071 €/m²,nil,nil,2024,6,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Mehrfamilienhaus mit Grundstück in bester Lage!,654.100 €,"21435 Stelle, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,183 m²,520 m²,3.574 €/m²,nil,nil,2024,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Großzügiges Einfamilienhaus inkl. Home-Office und Grundstück!,647.300 €,"21435 Stelle, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,210 m²,520 m²,3.082 €/m²,nil,nil,2024,4,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernes Zweifamilienhaus mit Grundstück!,861.500 €,"21435 Stelle, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,204 m²,1.047 m²,4.223 €/m²,nil,nil,2024,4,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Großzügiges Einfamilienhaus inkl. Home-Office und Bauplatz!,422.700 €,"27624 Bad Bederkesa, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,144 m²,626 m²,2.935 €/m²,nil,nil,2024,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kinderparadies – Ihr Zuhause,495.400 €,"29646 Bispingen, Heidekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,102 m²,835 m²,4.857 €/m²,Doppelhaushälfte,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Leben, Lieben, Lachen - Hier!",595.600 €,"28832 Achim, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,682 m²,4.922 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,609.600 €,"28832 Achim, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,119 m²,682 m²,5.123 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bauen mit Vertrauen: Die Zukunft für Ihre Familie,609.600 €,"28832 Achim, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,139 m²,682 m²,4.386 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familientraum – Glücklich leben im Eigenheim mit Einliegerwohnung,719.600 €,"28832 Achim, Verden (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,175 m²,682 m²,4.112 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele und täglich ein Stück Urlaub,497.400 €,"29646 Bispingen, Heidekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,626 m²,3.528 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sorgfalt in jedem Detail – Wir gestalten gemeinsam Ihr Traumhaus,497.400 €,"29646 Bispingen, Heidekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,626 m²,3.188 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,445.900 €,"29646 Bispingen, Heidekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,626 m²,4.550 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familientraum – Glücklich leben im Eigenheim,477.900 €,"29646 Bispingen, Heidekreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,137 m²,626 m²,3.488 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eleganz in Struktur: Ihr Traumhaus für hohe Ansprüche wartet!,473.900 €,"27628 Bramstedt, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,827 m²,3.884 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kinderparadies – Ihr Zuhause,492.900 €,"27628 Bramstedt, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,827 m²,3.496 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Leben, Lieben, Lachen - Hier!",442.900 €,"27628 Bramstedt, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,827 m²,4.519 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,468.400 €,"27628 Bramstedt, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,827 m²,4.073 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,506.954 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,609 m²,5.173 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,557.409 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,609 m²,3.953 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Technologisch durchdacht - Ihr modernes Heim,557.100 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,609 m²,3.571 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,522.176 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,609 m²,4.316 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,506.946 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,609 m²,5.173 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,557.417 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,609 m²,3.953 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Technologisch durchdacht - Ihr modernes Heim,557.100 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,609 m²,3.571 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,522.176 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,609 m²,4.316 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,506.946 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,609 m²,5.173 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,557.417 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,609 m²,3.953 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Technologisch durchdacht - Ihr modernes Heim,557.100 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,609 m²,3.571 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,522.176 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,609 m²,4.316 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,506.946 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,609 m²,5.173 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,557.417 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,609 m²,3.953 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Technologisch durchdacht - Ihr modernes Heim,557.100 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,609 m²,3.571 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,522.176 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,609 m²,4.316 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,506.946 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,609 m²,5.173 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,557.417 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,609 m²,3.953 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Technologisch durchdacht - Ihr modernes Heim,557.100 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,609 m²,3.571 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,522.176 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,609 m²,4.316 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,506.946 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,609 m²,5.173 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,557.417 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,609 m²,3.953 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Technologisch durchdacht - Ihr modernes Heim,557.100 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,609 m²,3.571 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,522.176 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,609 m²,4.316 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,506.946 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,98 m²,609 m²,5.173 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,557.429 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,609 m²,3.953 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Technologisch durchdacht - Ihr modernes Heim,557.100 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,609 m²,3.571 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,522.176 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,121 m²,609 m²,4.316 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Leben, Lieben, Lachen - Hier!",433.176 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,104 m²,304 m²,4.165 €/m²,Doppelhaushälfte,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,434.235 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,942 m²,4.342 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Maßgeschneiderte Architektur. Individuell geplant.,487.828 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,139 m²,942 m²,3.510 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Architektonische Brillanz: Entdecken Sie das ideale Zuhause für Anspruchsvolle,471.226 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,128 m²,942 m²,3.681 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,599.199 €,"27726 Worpswede, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,162 m²,550 m²,3.699 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Haus mit höchstem Förderstandard der KFW-Bank und dass gleich doppelt,656.027 €,"27726 Worpswede, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"180,99 m²",550 m²,3.625 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Leben, Lieben, Lachen - Hier!",490.961 €,"27726 Worpswede, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,550 m²,4.959 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,563.557 €,"27726 Worpswede, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,157 m²,550 m²,3.590 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Innovative Bautechnik - Zukunftssicher wohnen,519.827 €,"27726 Worpswede, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,550 m²,4.226 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Technologisch durchdacht - Ihr modernes Heim,686.865 €,"21647 Moisburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,118 m²,1.113 m²,5.821 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eleganz in Struktur: Ihr Traumhaus für hohe Ansprüche wartet!,715.390 €,"21647 Moisburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,142 m²,1.113 m²,5.038 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sensationelles Design – Wohnen auf höchstem Niveau!,735.764 €,"21647 Moisburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,171 m²,1.113 m²,4.303 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Leben, Lieben, Lachen - Hier!",664.927 €,"21647 Moisburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,1.113 m²,6.716 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hochwertige Wohnästhetik: Ihre Wünsche mit Stil und Raffinesse,715.171 €,"21647 Moisburg, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,157 m²,1.113 m²,4.555 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Präzise Wohnarchitektur: Ihr durchdachtes Zuhause,678.444 €,"21376 Eyendorf, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,181 m²,800 m²,3.748 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eleganz in Struktur: Ihr Traumhaus für hohe Ansprüche wartet!,588.193 €,"21376 Eyendorf, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,142 m²,800 m²,4.142 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Technologisch durchdacht - Ihr modernes Heim,546.244 €,"21376 Eyendorf, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,800 m²,4.441 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Leben, Lieben, Lachen - Hier!",537.730 €,"21376 Eyendorf, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,800 m²,5.432 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bauen mit Vertrauen: Die Zukunft für Ihre Familie,587.974 €,"21376 Eyendorf, Harburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,157 m²,800 m²,3.745 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Architektonische Brillanz: Entdecken Sie das ideale Zuhause für Anspruchsvolle,679.369 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,181 m²,647 m²,3.753 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Leben, Lieben, Lachen - Hier!",516.303 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,647 m²,5.215 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,533.714 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,114 m²,647 m²,4.682 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,588.899 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,157 m²,647 m²,3.751 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bauen mit Vertrauen: Die Zukunft für Ihre Familie,545.169 €,"27711 Osterholz-Scharmbeck, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,647 m²,4.432 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kinderparadies – Ihr Zuhause,507.218 €,"27721 Ritterhude, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,611 m²,4.124 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Bauen mit Vertrauen: Die Zukunft für Ihre Familie,499.240 €,"21683 Stade, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,124 m²,760 m²,4.026 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Sensationelles Design – Wohnen auf höchstem Niveau!,525.548 €,"21683 Stade, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,139 m²,760 m²,3.781 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Innovative Bautechnik - Zukunftssicher wohnen,543.745 €,"21683 Stade, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,760 m²,3.486 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kinderparadies – Ihr Zuhause,544.168 €,"21683 Stade, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,760 m²,3.805 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,466.200 €,"21683 Stade, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,760 m²,4.709 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Maßgeschneiderte Architektur. Individuell geplant.,519.773 €,"27404 Zeven, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,139 m²,652 m²,3.739 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hochwertige Wohnästhetik: Ihre Wünsche mit Stil und Raffinesse,538.448 €,"27404 Zeven, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,158 m²,652 m²,3.408 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Leben, Lieben, Lachen - Hier!",465.846 €,"27404 Zeven, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,652 m²,4.658 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Innovative Bautechnik - Zukunftssicher wohnen,623.600 €,"27404 Zeven, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,178 m²,652 m²,3.503 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eleganz in Struktur: Ihr Traumhaus für hohe Ansprüche wartet!,737.727 €,"28844 Weyhe, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,"180,99 m²",677 m²,4.076 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,2,nil,Nein,"{'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Innovative Bautechnik - Zukunftssicher wohnen,629.065 €,"28844 Weyhe, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,138 m²,677 m²,4.558 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,597.013 €,"28844 Weyhe, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,677 m²,6.030 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhaus auf großem Grundstück – Unser Angebot für Ihre Zukunft,667.257 €,"28844 Weyhe, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,157 m²,677 m²,4.250 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ihr Neubau in Bestlage,599.527 €,"28844 Weyhe, Diepholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,677 m²,4.874 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,532.551 €,"27721 Ritterhude, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,139 m²,611 m²,3.831 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,519.437 €,"27721 Ritterhude, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,119 m²,611 m²,4.365 €/m²,Bungalow,0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familientraum – Glücklich leben im Eigenheim,550.743 €,"27721 Ritterhude, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,611 m²,3.530 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Leben, Lieben, Lachen - Hier!",546.200 €,"27721 Ritterhude, Osterholz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,611 m²,3.874 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,546.806 €,"27383 Scheeßel, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,142 m²,774 m²,3.851 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familientraum – Glücklich leben im Eigenheim,528.386 €,"27383 Scheeßel, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,138 m²,774 m²,3.829 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,496.343 €,"27383 Scheeßel, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,99 m²,774 m²,5.014 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eleganz in Struktur: Ihr Traumhaus für hohe Ansprüche wartet!,626.494 €,"27383 Scheeßel, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,173 m²,774 m²,3.621 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,542.500 €,"27383 Scheeßel, Rotenburg (Wümme) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,157 m²,774 m²,3.455 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Naturnahe Oase: Ihr Zuhause für Gemütlichkeit,583.600 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,114 m²,947 m²,5.119 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,588.600 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,947 m²,5.886 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kinderparadies – Ihr Zuhause,639.100 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,143 m²,947 m²,4.469 €/m²,Einfamilienhaus (freistehend),0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eleganz in Struktur: Ihr Traumhaus für hohe Ansprüche wartet!,638.120 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,158 m²,947 m²,4.039 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bauen mit Vertrauen: Die Zukunft für Ihre Familie,595.100 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,124 m²,947 m²,4.799 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,2,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Heimat für Herz und Seele,578.303 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,101 m²,949 m²,5.726 €/m²,Bungalow,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Heimat für Herz und Seele,583.234 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,100 m²,949 m²,5.832 €/m²,Bungalow,0 m²,nil,2,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusiv für Sie – Verwirklichen Sie Ihren Traum vom Eigenheim mit Danhaus,633.278 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,156 m²,949 m²,4.059 €/m²,Bauernhaus,0 m²,nil,1,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Architektonische Brillanz: Entdecken Sie das ideale Zuhause für Anspruchsvolle,636.316 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,141 m²,949 m²,4.513 €/m²,Villa,0 m²,nil,4,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sensationelles Design – Wohnen auf höchstem Niveau!,599.250 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,123 m²,949 m²,4.872 €/m²,Einfamilienhaus (freistehend),0 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Architektonische Brillanz: Entdecken Sie das ideale Zuhause für Anspruchsvolle,710.800 €,"31535 Neustadt am Rübenberge, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,172 m²,949 m²,4.133 €/m²,Einfamilienhaus (freistehend),0 m²,nil,2,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einliegerwohnung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,53 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Neubauprojekt Linden MITTEndrin: Wohnkomfort ohne Barrieren,410.000 €,"Nieschlagstraße 32,
+Linden-Mitte, 30449 Hannover",3,"87,17 m²",4.703 €/m²,Erdgeschosswohnung,nil,1.11.2025,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauprojekt Linden MITTEndrin: Planen Sie jetzt Ihr Leben in den eigenen vier Wänden!,498.000 €,"Nieschlagstraße 32,
+Linden-Mitte, 30449 Hannover",3,103 m²,4.835 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Pflegeimmobilie langfristig vermietet! Keine Eigennutzung möglich!,210.678 €,"Innenstadt, 26382 Wilhelmshaven
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,40 m²,5.267 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Käuferprovsionsfrei! Exklusive Penthousewohnung mit Einliegerwohnung,699.800 €,"21614 Buxtehude, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,120 m²,5.832 €/m²,Etagenwohnung,nil,Nach Vereinbarung,nil,3,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Feine Eigentumswohnung mit zwei Balkonen in Hannover Mitte und Uni Nähe!,249.500 €,"Mitte (Ortsteil), 30159 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,75 m²,3.327 €/m²,Etagenwohnung,nil,Nach Vereinbarung,1,1,nil,"3,57% Käuferprovision","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"KFW55, exklusive Eigentumswohnung mit großer Terrasse und Garten, Fernwärme+Lüftungsanlage",437.500 €,"Holzstapel 6,
+Vahrenwald, 30163 Hannover",3,"81,67 m²",5.357 €/m²,Erdgeschosswohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,"3,00% incl. 19% MwSt. des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Sahlenburg: 2-Zi. Dachgeschosswohnung direkt am Wernerwald,129.000 €,"Drosselweg 3A,
+27476 Cuxhaven, Cuxhaven (Kreis)",2,60 m²,2.150 €/m²,Dachgeschoss,nil,nil,nil,nil,1 Garage,"3,57% inklusive Mehrwertsteuer",{'is24qa-keller-label': ''}
+Geräumige 3-Zi-Whg. in guter Lage von Bothfeld mit hochwertigem Parkettboden,299.000 €,"Bothfeld, 30659 Hannover
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,90 m²,3.322 €/m²,Etagenwohnung,10 m²,sofort,2,2,1 Garage,"9840,10","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Attraktive 3 Zimmer Eigentumswohnung mit Balkon in Bornum,110.000 €,"31167 Bockenem, Hildesheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,83 m²,1.325 €/m²,Hochparterre,nil,sofort,nil,1,1 Stellplatz,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Neubauprojekt Linden MITTEndrin: Wohnkomfort auf 2 Ebenen,410.000 €,"Nieschlagstr. 32,
+Linden-Mitte, 30449 Hannover",3,87 m²,4.713 €/m²,Maisonette,nil,nil,2,1,Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Pflegeimmobilie langfristig vermietet! Keine Eigennutzung möglich!,242.899 €,"30669 Langenhagen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,44 m²,5.520 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Käuferprovisionsionsfrei! Zentrumsnahe Wohnung in Himmelpforten,190.000 €,"21709 Himmelpforten, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,73 m²,2.603 €/m²,Erdgeschosswohnung,7 m²,Nach Vereinbarung,nil,1,Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauprojekt Linden MITTEndrin: Ihr neues Zuhause mit urbanem Wohlfühlklima,440.000 €,"Nieschlagstr. 32,
+Linden-Mitte, 30449 Hannover",3,92 m²,4.783 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MODERNE 1 Zimmer Wohnung in zentraler Lage von Langenhagen,249.550 €,"30853 Langenhagen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"49,86 m²",5.005 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauprojekt Linden MITTEndrin: Behindertengerecht und komfortabel,440.000 €,"Nieschlagstr. 32,
+Linden-Mitte, 30449 Hannover",3,97 m²,4.536 €/m²,Erdgeschosswohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gut vermietet,114.000 €,"21614 Buxtehude, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,34 m²,3.353 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,3%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Geismar: Ruhig gelegene 3-Zimmer-Wohnung, Hochparterre, mit Fahrstuhl und 2 Balkonen",249.000 €,"Geismar, 37085 Göttingen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,70 m²,3.557 €/m²,Hochparterre,6 m²,1.3.2024,2,1,nil,"2,975 %, incl. 19% MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+SCHÖNE 4 Zimmer Wohnung in zentraler Lage von Langenhagen,501.850 €,"30853 Langenhagen, Hannover (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"102,4 m²",4.901 €/m²,Etagenwohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Eigentumswohnung in Lautenthal zu verkaufen.,39.900 €,"38685 Langelsheim, Goslar (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,40 m²,998 €/m²,Terrassenwohnung,nil,nil,nil,nil,nil,"3,57%inkl. MwSt",{}
+Neubauprojekt Linden MITTEndrin: Komfortables Wohnen auf 2 Ebenen,330.000 €,"Nieschlagstr. 32,
+Linden-Mitte, 30449 Hannover",2,67 m²,4.925 €/m²,Maisonette,nil,1.11.2025,1,1,1 Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sehr helle und großzügige 3-Zimmer-Wohnung mit Einbauküche, Balkon in zentraler Lage",119.999 €,"Lebenstedt, 38226 Salzgitter
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,64 m²,1.875 €/m²,Etagenwohnung,10 m²,nach Vereinbarung,2,1,nil,"2,38% des Kaufpreises inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Gepflegte Wohnung in ruhiger Lage in Cuxhaven-Duhnen,369.000 €,"27476 Cuxhaven, Cuxhaven (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,60 m²,6.150 €/m²,Etagenwohnung,nil,01.02.2024,nil,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"WOB: ruhige Traumwohnung im Zentrum (Ecke Porschestraße), 5.OG, 4Zi, 147m², Terrasse 50m² + Balkon",399.000 €,"Rothenfelde, 38440 Wolfsburg
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,147 m²,2.714 €/m²,Etagenwohnung,nil,sofort,3,1,nil,"2,98% vom Kaufpreis (inkl. 19% MwSt.), Erläuterungen siehe Sonstige Angaben","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Pflegeimmobilie langfristig vermietet! Keine Eigennutzung möglich!,238.799 €,"21614 Buxtehude, Stade (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,42 m²,5.686 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Sofort beziehbare vollkommen erneuerte Maisonette-Whg. mit Einbauküche, Pellet-Ofen u. Kfz.-Platz",194.194 €,"31840 Hessisch Oldendorf, Hameln-Pyrmont (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",105 m²,1.849 €/m²,Maisonette,15 m²,sofort,2,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubauprojekt Linden MITTEndrin: Beste Sicht mit allem Komfort,420.000 €,"Nieschlagstr. 32,
+Linden-Mitte, 30449 Hannover",3,87 m²,4.828 €/m²,Dachgeschoss,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

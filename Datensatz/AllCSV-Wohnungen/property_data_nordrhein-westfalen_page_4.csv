@@ -1,0 +1,49 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Moderne 2-Zimmer-Erdgeschosswohnung mit Loggia mitten in Köln!,484.900 €,"Huhnsgasse 45-51,
+Altstadt/Süd, 50676 Köln",2,"62,42 m²",7.768 €/m²,Erdgeschosswohnung,nil,nil,1,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Attraktive 2-Zi.-Wohnung mit sonnigem Balkon in innovativem, klimafreundlichem Wohngebiet",286.100 €,"Brauweilerstraße 0,
+50129 Bergheim, Rhein-Erft-Kreis",2,62 m²,4.615 €/m²,Etagenwohnung,nil,September 2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Neubauwohnung in Bornheim Merten mit schönem Balkon,459.000 €,"53332 Bornheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"84,84 m²",5.410 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familienglück im Neubau!,379.900 €,"Fiskusstraße 118,
+Neumühl, 47167 Duisburg",4,"91,39 m²",4.157 €/m²,Etagenwohnung,nil,nil,3,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"* Einladung Projektvorstellung am Fr., 17.05. von 16 - 17 Uhr, Fiskusstr. 118 in 47167 Duisburg *",194.900 €,"Fiskusstraße 118,
+Neumühl, 47167 Duisburg",2,"41,9 m²",4.652 €/m²,Dachgeschoss,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive Garten-Maisonette in einem repräsentativen Neubau im beliebten Düsseldorfer Zooviertel,3.165.000 €,"Düsseltal, 40237 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,275 m²,11.509 €/m²,Terrassenwohnung,nil,Frühjahr 2024,3,4,Tiefgaragen-Stellplatz,"3,57 % (inkl. 19 % MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"Erdgeschosswohnung in Gütersloh KFW 40, jetzt die Förderung nutzen!",460.000 €,"Innenstadt-Nordhorn, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,116 m²,3.966 €/m²,Erdgeschosswohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+126 m² 4-Z. // Exklusive Dachterrassen Wohnung,534.000 €,"Stübbener Straße 76,
+Wald, 42719 Solingen",4,126 m²,4.238 €/m²,nil,nil,nil,nil,nil,nil,nil,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Erdgeschosswohnung mit 4 Zimmern und bester Ausstattung in Bonn-Pützchen,689.000 €,"Pützchen/Bechlinghoven, 53229 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"109,26 m²",6.306 €/m²,Erdgeschosswohnung,8 m²,nil,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Penthouse in einem repräsentativen Neubau im beliebten Düsseldorfer Zooviertel,3.135.000 €,"Düsseltal, 40237 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,199 m²,15.754 €/m²,Penthouse,nil,Frühjahr 2024,2,4,Tiefgaragen-Stellplatz,"3,57 % (inkl. 19 % MwSt.)",{}
+"Eigentumswohnungen in Gütersloh KFW 40, attraktive Förderungen nutzen!",455.000 €,"Innenstadt-Nordhorn, 33332 Gütersloh
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,113 m²,4.027 €/m²,Etagenwohnung,nil,nil,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Obergeschosswohnung in bester Lage von Dortmund-Kirchhörde,565.000 €,"Hohle Eiche 42,
+Kirchhörde-Löttringhausen, 44229 Dortmund",3,95 m²,5.947 €/m²,Etagenwohnung,nil,Herbst 2025,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-listonlyonis24-label': 'Nur hier gefunden', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jeden Sonntag offene Baustellenbesichtigung von 11– 13 Uhr,479.900 €,"Walter-Gropius-Str. 8,
+51503 Rösrath, Rheinisch-Bergischer Kreis",3,"87,31 m²",5.497 €/m²,Etagenwohnung,nil,Herbst 2025,nil,nil,2 Außenstellplätze,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Penthouse über 2 Etagen mit 3 Dachterrassen in einem repräsentativen Neubau,2.541.000 €,"Hubbelrath, 40629 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,242 m²,10.500 €/m²,Penthouse,nil,nil,3,2,2 Tiefgaragen-Stellplätze,"3,57 % (inkl. 19 % MwSt.)","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Moderne Erdgeschosswohnung mit großzügiger Terrasse in Erkrath, barrierefrei",399.500 €,"Kreuzstraße 4a,
+40699 Erkrath, Mettmann (Kreis)",2,"84,64 m²",4.720 €/m²,Erdgeschosswohnung,nil,sofort,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ideal für Singles und Paare: 2-Zimmer-Wohnung mit Balkonen auf der Grenze Pempelfort/Derendorf,259.000 €,"Derendorf, 40477 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,69 m²,3.754 €/m²,Erdgeschosswohnung,nil,nach Absprache,1,1,nil,"3,57% vom Kaufpreis (inkl. MwSt.)","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Moderne 3-Zimmer-Erdgeschosswohnung im Herzen von Köln: Ideal für kleine Familien oder Paare!,644.900 €,"Huhnsgasse 45-51,
+Altstadt/Süd, 50676 Köln",3,"83,58 m²",7.716 €/m²,nil,nil,nil,2,1,Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einzigartiges Penthouse mit Blick über Düsseldorf: Wohnen auf dem Bilker Bunker,1.250.000 €,"Bilk, 40223 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,97 m²,12.887 €/m²,Penthouse,nil,nil,1,1,1 Außenstellplatz,3.57 % inkl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Smarte 3-Zi.-Wohnung mit Sonnenbalkon in grünem Umfeld nahe Köln,336.730 €,"Brauweilerstraße 0,
+50129 Bergheim, Rhein-Erft-Kreis",3,75 m²,4.490 €/m²,Etagenwohnung,nil,September 2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Energieeffizient und digital: Ihr zukunftsfähiges Zuhause im Wohnquartier „Am Glessener Feld“,276.100 €,"Brauweilerstraße 0,
+50129 Bergheim, Rhein-Erft-Kreis",2,62 m²,4.453 €/m²,Etagenwohnung,nil,September 2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Über den Dächern Düsseldorfs: Leben auf dem Bilker Bunker,1.480.000 €,"Bilk, 40223 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,114 m²,12.982 €/m²,Penthouse,nil,nil,1,1,1 Außenstellplatz,3.57 % inkl. MwSt.,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Erfüllen Sie sich Ihren Wohntraum: Elegante Immobilie im harmonischen Einklang mit der Natur,759.485 €,"Christ-König-Straße 34,
+Holzlar, 53229 Bonn",5,"134,27 m²",5.656 €/m²,Etagenwohnung,nil,nil,2,1,1 Garage,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3-Zimmer-Studiowohnung mit offener Gestaltung, Abstellraum, 2 Bädern und Kfz-Stellplatz in Erkrath",499.000 €,"Kreuzstraße 4,
+40699 Erkrath, Mettmann (Kreis)",3,"108,61 m²",4.594 €/m²,Erdgeschosswohnung,nil,sofort,2,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Kapitalanlage! Helle 2-Zimmer-Neubauwohnung mit zwei Terrassen am Niehler Damm,436.900 €,"Merkenicher Straße 294,
+Niehl, 50735 Köln",2,"66,86 m²",6.535 €/m²,Erdgeschosswohnung,nil,2024,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

@@ -1,0 +1,115 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"""Hinz&Kunz"" 3-Zimmer-Hochparterre-Gartenwohnung",726.000 €,"Schwelmer Straße 3,
+Flingern Nord, 40235 Düsseldorf",3,"83,2 m²",8.726 €/m²,Hochparterre,3 m²,2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Tim 5 - attraktiver Wohn(t)raum in Rheinlage,660.000 €,"Hans-Josef-Michels-Weg 33,
+Stammheim, 51061 Köln",3,"91,6 m²",7.205 €/m²,Etagenwohnung,nil,2025,2,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Großzügiges Luxus-Penthouse, Sonnendach-Terrasse, auf Wunsch mit offenen Kamin",2.544.000 €,"Wettinerstraße 1-3,
+Niederkassel, 40545 Düsseldorf",4,212 m²,12.000 €/m²,Penthouse,nil,ab Ende 2025,3,3,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Familienglück auf 4-Zimmern!,504.800 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",4,"94,3 m²",5.353 €/m²,Etagenwohnung,nil,nil,3,2,2 Außenstellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" Haus Konrad: 3-Zimmer-Wohnung mit Balkon in Süd-West-Ausrichtung",768.000 €,"Schwelmer Straße 1,
+Flingern Nord, 40235 Düsseldorf",3,"82,4 m²",9.320 €/m²,Etagenwohnung,3 m²,2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+CONSTANCE: Familienfreundliches Wohnen auf zwei Ebenen mit einem Süd-Garten zum Entspannen,914.000 €,"Poppelsdorfer Allee 27-29,
+Südstadt, 53115 Bonn",4,"125,38 m²",7.290 €/m²,Maisonette,nil,Ende 2024 bis Frühjahr 2025,nil,nil,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" Einmalige 2-Zimmer-Balkon-Wohnung hinter historischer Fassade",499.000 €,"Schwelmer Straße 1,
+Flingern Nord, 40235 Düsseldorf",2,"50,8 m²",9.823 €/m²,Etagenwohnung,3 m²,2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"GOLDECK Nr. 1 - elegante Luxuswohnung mit Parkblick, Kaufpreiszahlung bei Bezugsfertigkeit möglich",1.800.000 €,"Lütticher Straße 3,
+Niederkassel, 40545 Düsseldorf",4,145 m²,12.414 €/m²,nil,nil,ab Ende 2025,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" 2-Zimmer-Süd-West-Balkon im 3. Obergeschoss",394.900 €,"Schwelmer Straße 3,
+Flingern Nord, 40235 Düsseldorf",2,"39,5 m²",9.997 €/m²,Etagenwohnung,3 m²,2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jetzt den Rohbau besichtigen!,635.800 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",5,"128,12 m²",4.963 €/m²,Etagenwohnung,nil,nil,4,2,2 Carports,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GOLDECK Nr. 1 - elegante 2-Raum-Luxuswohnung mit großem Sonnenbalkon,815.000 €,"Lütticher Straße 3,
+Niederkassel, 40545 Düsseldorf",2,67 m²,12.164 €/m²,nil,nil,ab Ende 2025,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jetzt attraktive Abschreibungsmöglichkeiten für Kapitalanleger sichern!,279.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",2,"59,45 m²",4.708 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Starter-Bonbon"" - elegante Luxuswohnung, 2 Bäder, Sonnenloggia, 9.750,--€/qm Wohnfläche",1.014.000 €,"Niederkassel, 40545 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,104 m²,9.750 €/m²,nil,nil,ab Ende 2025,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Starter-Bonbon"", Luxuswohnung -""Haus-in-Haus"" für 9.750 €/qm Wfl., 2 Bäder, Garten",1.228.500 €,"Wettinerstraße 1-3,
+Niederkassel, 40545 Düsseldorf",4,126 m²,9.750 €/m²,Maisonette,nil,ab Ende 2025,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" Süd-West-Dachterrasse, 4-Zimmer, klimatisiert",1.690.000 €,"Schwelmer Straße 3,
+Flingern Nord, 40235 Düsseldorf",4,"138,8 m²",12.176 €/m²,Dachgeschoss,3 m²,2025,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Wasserturm 1881"" Loft VII - Neubau Konstruktion auf dem Denkmal",1.200.000 €,"Hans-Josef-Michels-Weg 1,
+Stammheim, 51061 Köln",2,"81,3 m²",14.760 €/m²,Loft,nil,2025,nil,nil,1 Carport,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hoch hinaus - Ihre Penthouse-Wohnung mit zwei Dachterrassen!,529.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",3,"100,51 m²",5.272 €/m²,Penthouse,nil,nil,2,1,1 Parkhaus-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Jetzt kaufen & Erst bei Bezugsfertigkeit bezahlen! 4 Zi., Süd Loggia & Blick auf den Atriumgarten",799.900 €,"Suitbertusstraße 149,
+Bilk, 40210 Düsseldorf",4,"111,93 m²",7.146 €/m²,Etagenwohnung,nil,1. Quartal 2025,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Wasserturm 1881"" Loft III - erhöhte steuerliche Abschreibung nach § 7 i EStG",750.000 €,"Hans-Josef-Michels Weg 1,
+Stammheim, 51061 Köln",2,"75,21 m²",9.972 €/m²,Loft,nil,2025,1,1,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" Schönes Neubau-Apartment in hochwertiger Ausstattung",352.000 €,"Schwelmer Straße 3,
+Flingern Nord, 40235 Düsseldorf",1,"34,7 m²",10.144 €/m²,Etagenwohnung,3 m²,2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Tim 4 - attraktiver Wohn(t)raum in Rheinlage,670.000 €,"Hans-Josef-Michels-Weg 33,
+Stammheim, 51061 Köln",3,"93,6 m²",7.158 €/m²,Etagenwohnung,nil,2025,2,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Penthouse mit großer Dachterrasse, Kaufpreiszahlung bei Bezugsfertigkeit möglich",1.190.000 €,"Wettinerstraße 1-3,
+Niederkassel, 40545 Düsseldorf",3,96 m²,12.396 €/m²,Penthouse,nil,ab Ende 2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus-in-Haus, 161 qm Wohnfläche mit Terrassen und Gartensondernutzung",1.932.000 €,"Wettinerstraße 1-3,
+Niederkassel, 40545 Düsseldorf",5,161 m²,12.000 €/m²,nil,nil,ab Ende 2025,4,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"3-Raum-Penthouse mit ca. 26 qm großer Sonnen-Dachterrasse, auf Wunsch mit offenem Kamin",1.389.000 €,"Wettinerstraße 1-3,
+Niederkassel, 40545 Düsseldorf",3,114 m²,12.184 €/m²,Penthouse,nil,ab Ende 2025,2,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"GOLDECK Nr. 1. Luxuriöse 2-Raumwohnung, Sonnenbalkon, Kaufpreiszahlung bei Bezugsfertigkeit möglich",792.000 €,"Wettinerstraße 1-3,
+Niederkassel, 40545 Düsseldorf",2,66 m²,12.000 €/m²,nil,nil,ab Ende 2025,1,1,1 Duplex-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Moderne 2-Zimmer-Neubau-Wohnung mit Sonnen-Balkon im Effizienzhaus 40,309.900 €,"53349 Meckenheim, Rhein-Sieg-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"68,32 m²",4.536 €/m²,Etagenwohnung,"2,72 m²",31.03.2026,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" 3-Zimmer-Wohnung mit West-Loggia",829.000 €,"Schwelmer Straße 5,
+Flingern Nord, 40235 Düsseldorf",3,"86,1 m²",9.628 €/m²,Etagenwohnung,3 m²,2025,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen im Neubau!,321.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",3,"65,07 m²",4.947 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Jetzt kaufen & Erst bei Bezugsfertigkeit bezahlen! |5 Zi, Neubauwohnung mit ca. 100m² Dachgarten!",1.299.000 €,"Suitbertusstraße 149,
+Bilk, 40223 Düsseldorf",5,121 m²,10.736 €/m²,Penthouse,nil,1. Quartal 2025,4,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus-in-Haus, Gartensondernutzung, Kaufpreiszahlung bei Bezugsfertigkeit möglich",1.920.000 €,"Wettinerstraße 1-3,
+Niederkassel, 40545 Düsseldorf",5,160 m²,12.000 €/m²,nil,nil,ab Ende 2025,4,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" Individuelles Stadthaus in Flingern-Nord",1.640.000 €,"Schwelmer Straße 9,
+Flingern Nord, 40235 Düsseldorf",4,"137,3 m²",11.945 €/m²,Terrassenwohnung,25 m²,2025,3,2,2 Tiefgaragen-Stellplätze,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jetzt kaufen & Erst bei Bezugsfertigkeit bezahlen! 3 Zi. Wohnung mit Atriumgarten und Tageslichtbad.,599.900 €,"Suitbertusstraße 149,
+Bilk, 40210 Düsseldorf",3,"85,74 m²",6.997 €/m²,Terrassenwohnung,nil,1. Quartal 2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau Penthouse mit großer Terrasse in begehrter Lage von MG-Hardt,325.000 €,"Hardt-Mitte, 41169 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"70,81 m²",4.590 €/m²,Penthouse,6 m²,Juni 2024,1,1,1 Außenstellplatz,"3,57 % Käuferprovision inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Wohnen wie im Einfamilienhaus, Direktzugang z. Keller/Hauswirtschaftsraum",1.572.000 €,"Lütticher Straße 1,
+Niederkassel, 40545 Düsseldorf",4,126 m²,12.476 €/m²,nil,nil,ab Ende 2025,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Erdgeschoss Neubauwohnung in begehrter Lage von MG-Hardt,188.000 €,"Hardt-Mitte, 41169 Mönchengladbach
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","1,5","41,38 m²",4.543 €/m²,Erdgeschosswohnung,6 m²,Juni 2024,1,1,1 Außenstellplatz,"3,57 % Käuferprovision inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Tim 2 - attraktiver Wohn(t)raum in Rheinlage,540.000 €,"Hans-Josef-Michels-Weg 33,
+Stammheim, 51061 Köln",1,"75,8 m²",7.124 €/m²,Erdgeschosswohnung,nil,2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+GOLDECK Nr. 1 - Wohnen wie im Einfamilienhaus,1.633.000 €,"Wettinerstraße 1-3,
+Niederkassel, 40545 Düsseldorf",4,137 m²,11.920 €/m²,Sonstige,16 m²,ab Ende 2025,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sonne satt über den Dächern der Stadt!,269.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",2,46 m²,5.867 €/m²,Etagenwohnung,nil,nil,1,1,1 Parkhaus-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Über den Dächern der Stadt!,499.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",4,"99,06 m²",5.046 €/m²,Penthouse,nil,nil,3,1,1 Parkhaus-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubautraum mit Weitblick!,359.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",2,"64,42 m²",5.587 €/m²,Penthouse,nil,nil,1,1,1 Parkhaus-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Sonntag, 2.6. v. 11-12.30 Uhr Beratung und Modellbesichtigung! Moderne 2-Zimmer-Penthauswohnung",356.225 €,"Parkstraße 47,
+Uerdingen, 47829 Krefeld",2,"69,17 m²",5.150 €/m²,Penthouse,nil,nil,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Tim 6 - attraktiver Wohn(t)raum in Rheinlage,680.000 €,"Hans-Josef-Michels-Weg 33,
+Stammheim, 51061 Köln",3,"93,6 m²",7.265 €/m²,Etagenwohnung,nil,2025,2,2,1 Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Wohnen mit Anspruch - Haus in Haus- mit Gartensondernutzung,1.949.000 €,"Lütticher Straße 1,
+Niederkassel, 40545 Düsseldorf",5,161 m²,12.106 €/m²,nil,nil,ab Ende 2025,4,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Effizienzhaus 40– großzügige 5-Zimmer-Maisonette-Wohnung mit Garten und Terrasse,519.900 €,"Gugenauer Allee 0,
+53349 Meckenheim, Rhein-Sieg-Kreis",5,121 m²,4.297 €/m²,Maisonette,"2,73 m²",31.03.2026,4,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Ideal für Senioren: Barrierearmer Neubau-Traum mit Tageslichtbad und großzügiger Loggia,559.000 €,"Benrath, 40593 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,76 m²,7.355 €/m²,Dachgeschoss,nil,Anfang 2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"GOLDECK Nr. 1 - elegante Luxuswohnung, 2 Bäder, Kaufpreiszahlung bei Bezugsfertigkeit möglich",1.424.000 €,"Lütticher Straße 3,
+Niederkassel, 40545 Düsseldorf",4,117 m²,12.171 €/m²,nil,nil,ab Ende 2025,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung - Neubauförderung - EH40,309.900 €,"Gugenauer Allee 0,
+53349 Meckenheim, Rhein-Sieg-Kreis",2,70 m²,4.427 €/m²,Etagenwohnung,3 m²,31.03.2026,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Jetzt den Rohbau besichtigen!,259.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",2,46 m²,5.650 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" Smartes Neubau-Apartment in hochwertiger Ausstattung mit West-Loggia",328.900 €,"Schwelmer Straße 3,
+Flingern Nord, 40235 Düsseldorf",1,33 m²,9.967 €/m²,Etagenwohnung,3 m²,2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" 1,5-Zimmer-Wohnung mit West-Loggia",449.000 €,"Schwelmer Straße 5,
+Flingern Nord, 40235 Düsseldorf","1,5","50,1 m²",8.962 €/m²,Etagenwohnung,3 m²,2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Hoch hinaus!,299.900 €,"Im Blauen Garn 35,
+50389 Wesseling, Rhein-Erft-Kreis",2,"56,26 m²",5.331 €/m²,Etagenwohnung,nil,nil,1,1,1 Parkhaus-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Wasserturm 1881"" Loft VIII - Neubau Konstruktion auf dem Denkmal",3.200.000 €,"Hans-Josef-Michels Weg 1,
+Stammheim, 51061 Köln",6,"230,4 m²",13.889 €/m²,Penthouse,nil,2025,2,2,1 Carport,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" 2-Zimmer-Apartment im Dach von Haus Heinrich",328.900 €,"Schwelmer Straße 1,
+Flingern Nord, 40235 Düsseldorf",2,"29,6 m²",11.111 €/m²,Dachgeschoss,3 m²,2025,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"GOLDECK Nr. 1. Wohnen wie im Einfamilienhaus, inkl. Keller-Direktzugang",1.528.000 €,"Lütticher Straße 1,
+Niederkassel, 40545 Düsseldorf",4,125 m²,12.224 €/m²,Maisonette,10 m²,ab Ende 2025,3,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Tim 3 - attraktiver Wohn(t)raum in Rheinlage,655.000 €,"Stammheim, 51061 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"91,6 m²",7.151 €/m²,Etagenwohnung,nil,2025,2,2,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Hinz&Kunz"" Ideal geschnittene Neubau-3-Zimmer-Wohnung hinter historischer Fassade",742.500 €,"Schwelmer Straße 1,
+Flingern Nord, 40235 Düsseldorf",3,"72,5 m²",10.241 €/m²,Etagenwohnung,3 m²,2025,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Haus-in-Haus, 176 qm Wohnfläche mit Gartensondernutzung",2.139.000 €,"Lütticher Straße 1,
+Niederkassel, 40545 Düsseldorf",5,176 m²,12.153 €/m²,nil,nil,ab Ende 2025,4,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

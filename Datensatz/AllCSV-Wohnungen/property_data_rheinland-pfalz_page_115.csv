@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Gemütliche 3-Zimmer Wohnung im Hochhaus mit Weitblick,108.000 €,"66914 Waldmohr, Kusel (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"95,3 m²",1.133 €/m²,Etagenwohnung,nil,nach Absprache,2,1,1 Außenstellplatz,"Die Provision beträgt 2,38% des Kaufpreises inkl. 19% MwSt. und ist vom Käufer zu tragen.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-vermietet-label': ''}"
+Wohnen Nähe Porta -Tolle Dachgeschoßwohnung im Maisonette Stil im Energiesparhaus,878.000 €,"Nord, 54292 Trier
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"149,46 m²",5.874 €/m²,Maisonette,nil,nil,4,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete Maisonette-Wohnung im Zentrum von Kaiserslautern,159.000 €,"Innenstadt Ost, 67655 Kaiserslautern
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,83 m²,1.916 €/m²,Maisonette,nil,nil,2,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.",{'is24qa-vermietet-label': ''}
+"Hell, modern, 1.OG !",188.000 €,"55232 Alzey, Alzey-Worms (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"65,15 m²",2.886 €/m²,Etagenwohnung,nil,Nach Absprache,nil,nil,1 Garage,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+Diskreter Verkauf einer sehr gepflegten Eigentumswohnung an Kapitalanleger,299.000 €,"57518 Betzdorf, Altenkirchen (Westerwald) (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,135 m²,2.215 €/m²,Erdgeschosswohnung,nil,nil,nil,1,1 Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+5-Zimmer-Dachgeschosswohnung mit Balkon in Landau,249.000 €,"Landau, 76829 Landau in der Pfalz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"86,39 m²",2.882 €/m²,Dachgeschoss,nil,nil,nil,1,nil,"3,57","{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+**PROVISIONSFREI** Nach der Renovierung bin ich eine Klasse-Wohnung!,248.000 €,"Bretzenheim, 55128 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,2.918 €/m²,Etagenwohnung,6 m²,nil,2,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Erstbezug nach Sanierung, Ansprechende 4-Zimmer-Wohnung mit gehobener Innenausstattung",Auf Anfrage,"Kirchstraße 17,
+53424 Remagen, Ahrweiler (Kreis)",4,100 m²,nil,Etagenwohnung,10 m²,30.6.2024,1,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schicke Neubau-Erstbezug Eigentumswohnung mit Lift,359.000 €,"56179 Vallendar, Mayen-Koblenz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,4.488 €/m²,nil,nil,nil,nil,nil,nil,"zzgl. Käuferprovision in Höhe von 3,57 % inkl. MwSt. auf den Kaufpreis",{'is24qa-balkon-terrasse-label': ''}
+Neuwertig 2-Zimmer Wohnung mit Küche/ Möbel bei Uni Campus,76.500 €,"Oak Road 3,
+55768 Hoppstädten-Weiersbach, Birkenfeld (Kreis)",2,37 m²,2.068 €/m²,Etagenwohnung,10 m²,nil,2,1,nil,"3,57% inkl.MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Geschmackvolle und geräumige Wohnung mit zwei Zimmern sowie Balkon und EBK in Worms,255.000 €,"Innenstadt Süd, 67547 Worms
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,78 m²,3.269 €/m²,Etagenwohnung,nil,22.3.2024,1,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusive Wohnung mit Klimaanlage und viel Platz zum Entspannen - Ihr neues Zuhause in MZ-Hechtsheim,298.000 €,"Hechtsheim, 55129 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,81 m²,3.679 €/m²,nil,nil,nil,nil,1,nil,"3,57 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Vermietet: Gemütliche 2-Zimmer Wohnung mit Terrasse und Stellplatz,177.000 €,"Turnhallenstraße 57,
+67310 Hettenleidelheim, Bad Dürkheim (Kreis)",2,58 m²,3.052 €/m²,Erdgeschosswohnung,nil,Sofort,1,1,1 Außenstellplatz,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Ansprechende 3-Zimmer-Dachgeschosswohnung in Grünstadt,168.000 €,"67269 Grünstadt, Bad Dürkheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,71 m²,2.366 €/m²,Dachgeschoss,nil,1.4.2024,1,1,nil,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Eigentumswohnung, ruhig gelegen mit sehr schönem Balkonblick",89.000 €,"Goldgraben 62,
+67806 Rockenhausen, Donnersbergkreis",2,47 m²,1.894 €/m²,Sonstige,10 m²,nil,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schicke Neubau-Erstbezug Eigentumswohnung mit Lift,459.000 €,"56179 Vallendar, Mayen-Koblenz (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,107 m²,4.290 €/m²,nil,nil,nil,nil,nil,nil,"zzgl. Käuferprovision in Höhe von 3,57 % inkl. MwSt. auf den Kaufpreis",{'is24qa-balkon-terrasse-label': ''}
+"Traumhafter Blick und 135 m²: Wohnung mit 4 Zimmern, 2 Balkonen und Carport!",247.500 €,"53545 Linz am Rhein, Neuwied (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"135,35 m²",1.829 €/m²,Maisonette,nil,nil,3,1,1 Carport,"3,57 % Käuferprovision inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+PROVISIONSFREIE & modernisierte 3-Zimmer-Wohnung mit Balkon und EBK in Mainz,300.000 €,"Lerchenberg, 55127 Mainz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,71 m²,4.225 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Wohnpark Lahneck"": 4- Zimmer- Maisonettewohnung am Lahnufer",160.000 €,"56112 Lahnstein, Rhein-Lahn-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"110,87 m²",1.443 €/m²,Dachgeschoss,nil,nil,3,1,2 Tiefgaragen-Stellplätze,Keine zusätzliche Käuferprovision,{'is24qa-balkon-terrasse-label': ''}
+"Eigentumswohnung mit Balkon, Keller, und Garage in Jockgrim",249.000 €,"76751 Jockgrim, Germersheim (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"90,23 m²",2.760 €/m²,Etagenwohnung,"2,19 m²",nach Absprache,2,1,1 Stellplatz,"2,38 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"

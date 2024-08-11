@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2 zentrale und gut vermietete ETW´s - 1 Preis,146.000 €,"Zwingerstraße 14,
+04720 Döbeln, Mittelsachsen (Kreis)",4,"113,3 m²",1.289 €/m²,Etagenwohnung,nil,nil,2,2,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+vermietete 1-Raum-Wohnung mit Stellplatz,52.000 €,"Robert-Blum-Straße 18,
+01640 Coswig, Meißen (Kreis)",1,"24,1 m²",2.158 €/m²,Erdgeschosswohnung,nil,nil,1,1,Außenstellplatz,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+sanierte und vermietete 2-Raum-Wohnung in Bad Lausick,66.000 €,"Goethestraße 31,
+04651 Bad Lausick, Leipzig (Kreis)",2,"45,84 m²",1.440 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Möblierte 1-Raum-Wohnung mit Lift und Fußbodenheizung,29.000 €,"08496 Neumark, Vogtlandkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"34,86 m²",832 €/m²,Sonstige,nil,nach Vereinbarung,nil,nil,nil,"pauschal 1785,00 incl. Mwst","{'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': ''}"
+Moderne und gut vermietete 1-Raum Wohnung mit Stellplatz,51.000 €,"Robert-Blum Str. 16,
+01640 Coswig, Meißen (Kreis)",1,24 m²,2.125 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Frisch sanierte 2-Raum Wohnung im Leipziger Westen,115.000 €,"Stuttgarter Allee 41,
+Grünau-Mitte, 04209 Leipzig",2,53 m²,2.170 €/m²,Etagenwohnung,nil,Sofort,1,1,1 Tiefgaragen-Stellplatz,"3,57% des Kaufpreises inkl. MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Wohnung in Chemnitz,55.000 €,"Bernsdorf, 09126 Chemnitz
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,50 m²,1.100 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"4,76 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Wohneigentum im schönen Domquartier von Freiberg,202.500 €,"Kirchgasse 12a,
+09599 Freiberg, Mittelsachsen (Kreis)",3,81 m²,2.500 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Gemütliche 2-R-Wohnung in ruhiger Lage,72.000 €,"Schulstraße 6,
+04769 Mügeln, Nordsachsen (Kreis)",2,59 m²,1.220 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktive Wohnlage im Grünen und dennoch zentrumsnah,175.000 €,"Breslauer Straße 13 VH,
+Stötteritz, 04299 Leipzig",2,"58,55 m²",2.989 €/m²,Etagenwohnung,nil,nil,1,1,nil,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+sanierte und helle 4-Raum-Wohnung mit Balkon,99.000 €,"Dorfstraße 8,
+04720 Zschaitz-Ottewig, Mittelsachsen (Kreis)",4,"108,9 m²",909 €/m²,Hochparterre,nil,nil,3,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumhafte Dachterrassenwohnung in begehrter Lage mit Blick über die Dächer von Leipzig,400.000 €,"Ferdinand-Lassalle-Straße 6,
+Zentrum-West, 04109 Leipzig",2,107 m²,3.738 €/m²,nil,nil,Sofort,1,1,nil,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+4 ETW´s - 110m² - 4 Stellplätze - 4 Balkone - 1 Preis,220.000 €,"Bohraer Straße 59,
+01936 Königsbrück, Bautzen (Kreis)",5,"109,61 m²",2.007 €/m²,Etagenwohnung,nil,nil,4,4,4 Stellplätze,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 Zi.- DG- Wohnung mit Blick auf die Pillnitzer Weinberge- provisionsfrei + Eigennutzung möglich !!!,269.700 €,"Kleinzschachwitz, 01259 Dresden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"84,53 m²",3.191 €/m²,Dachgeschoss,nil,02/ 2024,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Kapitalanlage mit gehobener Ausstattung in Uninähe !! Rendite 4,3% !!",135.900 €,"Tharandter Straße 10,
+Löbtau-Süd, 01159 Dresden",2,"55,72 m²",2.439 €/m²,Erdgeschosswohnung,nil,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57% inkl. ges. Mwst.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Vermietete 2-Raumwohnung mit Balkon in ruhiger Lage zu verkaufen! (Chemnitz-Gablenz),47.000 €,"Reineckerstraße 23,
+Gablenz, 09126 Chemnitz",2,49 m²,959 €/m²,Hochparterre,nil,nil,1,1,nil,"3,57% des Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+gemütliche 2-Zimmer-Wohnung in beliebter Parknähe,148.000 €,"Ernst-Mey-Straße 1,
+Plagwitz, 04229 Leipzig",2,"48,3 m²",3.064 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,"3,57% inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"
+Nie wieder Miete zahlen! Ihre eigene Wohnung mit tollem Ausblick,38.000 €,"09468 Geyer, Erzgebirgskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"50,27 m²",756 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,99 %inkl. MwSt",{'is24qa-als-ferienwohnung-geeignet-label': ''}
+Helle 1-Raum-Wohnung mit Stellplatz,69.000 €,"Gaswerkstr. 25,
+01458 Ottendorf-Okrilla, Bautzen (Kreis)",1,30 m²,2.300 €/m²,nil,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+EXKLUSIVE WOHNUNGEN IN BESTLAGE MIT PARKBLICK,2.000.000 €,"Zentrum-West, 04109 Leipzig
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",9,423 m²,4.728 €/m²,Etagenwohnung,nil,nil,4,4,2 Außenstellplätze,"3,57% des Kaufpreises inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

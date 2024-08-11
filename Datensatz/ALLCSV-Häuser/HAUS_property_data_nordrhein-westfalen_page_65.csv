@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2-Familienhaus + ohne Provision +,400.000 €,"Barbarastraße XX,
+52385 Nideggen, Düren (Kreis)",9,263 m²,1.392 m²,1.521 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenendhaus, Terrasse, Garten + provisionsfrei +",380.500 €,"Alter Hellweg XX,
+58239 Schwerte, Unna (Kreis)",5,127 m²,1.493 m²,2.996 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus mit ehem. landwirtschaftlicher Nutzung,76.000 €,"Westerwaldstraße XX,
+57299 Burbach, Siegen-Wittgenstein (Kreis)",1,1 m²,859 m²,76.000 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes 2-Familienhaus + provisionsfrei +,80.900 €,"In der Enke XX,
+Eiserfeld, 57080 Siegen",1,202 m²,223 m²,400 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Historische Villa und 2-Familienhaus ++ ohne Provision ++,2.690.000 €,"Frankfurter Straße XX,
+53773 Hennef (Sieg), Rhein-Sieg-Kreis",22,662 m²,3.335 m²,4.063 €/m²,Wohnimmobilie (sonstige),159 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit Garage - provisionsfrei,190.000 €,"Böswipper XX,
+51688 Wipperfürth, Oberbergischer Kreis",5,133 m²,1.125 m²,1.429 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Wochenendhaus, Garten, Garage",133.300 €,"Neuemühle XX,
+51688 Wipperfürth, Oberbergischer Kreis",1,150 m²,1.933 m²,889 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilienhaus mit integrierter Terrasse - provisionsfrei,380.000 €,"Eupener Straße XX,
+53332 Bornheim, Rhein-Sieg-Kreis",4,128 m²,1.452 m²,2.969 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Solides Einfamilienhaus mit 2 Garagen - provisionsfrei,486.000 €,"Bolleber XX,
+52511 Geilenkirchen, Heinsberg (Kreis)",5,206 m²,579 m²,2.359 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Einfamilien-Doppelhaushälfte mit angeb. Garage - provisionsfrei,213.000 €,"Danziger Straße XX,
+53909 Zülpich, Euskirchen (Kreis)",7,142 m²,242 m²,1.500 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Freistehendes Wohnhaus mit integrierter Garage +,175.000 €,"Schulstraße XX,
+57339 Erndtebrück, Siegen-Wittgenstein (Kreis)",1,179 m²,474 m²,978 €/m²,Wohnimmobilie (sonstige),115 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Reihenmittelhaus, Terrasse, Gartenteich + provisionsfrei +",277.500 €,"Suitbertstraße XX,
+Aplerbeck (Ortsteil), 44287 Dortmund",4,"113,72 m²",302 m²,2.440 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Mehrfamilienhaus + 2 Wohnungen, 2 Appartements +",25.000 €,"Parkstraße XX,
+32105 Bad Salzuflen, Lippe (Kreis)",7,"133,86 m²",468 m²,187 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Dreifamilienhaus + Kapitalanlage +,588.000 €,"Steiermarkstraße XX,
+Buchholz, 47249 Duisburg",1,305 m²,856 m²,1.928 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Kapitalanlage + Vierfamilienhaus, Balkone/Terrasse, 4er-Carport +",295.000 €,"Körnebachestraße XX,
+Kaiserbrunnen, 44143 Dortmund",1,315 m²,262 m²,937 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"2-Familienhaus, 2 Stellplätze",370.000 €,"Leveringhauser Straße XX,
+44581 Castrop-Rauxel, Recklinghausen (Kreis)",1,"196,87 m²",269 m²,1.879 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Kapitalanlage ++ Wohn- und Geschäftshaus ++,897.000 €,"Further Straße XX,
+Furth Süd, 41462 Neuss",10,953 m²,694 m²,941 €/m²,Wohnimmobilie (sonstige),477 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Modernes Einfamilienhaus mit Einlieger, Schwimmbad und Garage",615.000 €,"Lacher Straße XX,
+Burg/Höhscheid, 42657 Solingen",6,250 m²,882 m²,2.460 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freistehendes Einfamilienhaus und Garage,418.000 €,"Schildchesgraben XX,
+50226 Frechen, Rhein-Erft-Kreis",3,"112,28 m²",765 m²,3.723 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+1/2 Anteil - Einfamilienhaus,56.000 €,"Osningweg XX,
+33039 Nieheim, Höxter (Kreis)",6,190 m²,1.250 m²,295 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}

@@ -1,0 +1,49 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Attraktive Wohnung mit zweieinhalb Zimmern zum Kauf in Marl,95.000 €,"Adolf-Grimme-Straße 12,
+Stadtkern, 45768 Marl","2,5",63 m²,1.508 €/m²,Etagenwohnung,63 m²,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Provisionsfreie 2-Zimmer-Wohnung,180.000 €,"Worringen, 50769 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,55 m²,3.273 €/m²,Dachgeschoss,nil,Ab sofort bezugsfrei,nil,1,1 Außenstellplatz,nil,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Wunderschöne, topsanierte 3- bis 4-Zimmerwohnung mit Aufzug in gepflegter Nachbarschaft in Benrath",399.000 €,"Johannes-Hesse-Strasse 31,
+Benrath, 40597 Düsseldorf","3,5",88 m²,4.534 €/m²,Etagenwohnung,8 m²,nach Vereinbarung,2,nil,1 Tiefgaragen-Stellplatz,"3,57 % des beurkundeten Kaufpreis inkl. 19 % Mehrwertsteuer","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+Modernisierte Erdgeschosswohnung mit Balkon in Bergisch Neukirchen,210.000 €,"Bergisch Neukirchen, 51381 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,80 m²,2.625 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Ruhige 3-Zimmer Wohnung mit Balkon + Küche im idyllischen Hildener Süden,175.000 €,"Forstbachstraße 29,
+40723 Hilden, Mettmann (Kreis)",3,55 m²,3.182 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Bonn Ville - Beste Aussichten in Bonn-Röttgen!,688.000 €,"Röttgen, 53125 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"100,8 m²",6.825 €/m²,Dachgeschoss,nil,Sommer 2024,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Kernsanierte 60 qm Wohnung im Herzen von Bonn - KFW Zins 0,75% - Vis-á-vis Rathaus und Unischloss",379.500 €,"Bonn-Zentrum, 53113 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,60 m²,6.325 €/m²,nil,nil,nil,1,1,1 Stellplatz,"13.548,15",{}
+"Erdgeschoss-Eigentumswohnung in Ochtrup, komplett saniert!",162.000 €,"48607 Ochtrup, Steinfurt (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"66,13 m²",2.450 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,"3,57%","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"Flexibele 4,5-Zimmer-Wohnung in Herten nach Ihren Vorstellungen im EG",285.000 €,"Nimrodstraße 58b,
+45699 Herten, Recklinghausen (Kreis)",4,126 m²,2.262 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ausgefallene 3-Zimmer Etagenwohnung im Grünen mit Balkon und Kamin in Düsseldorf-Ludenberg,429.000 €,"Ludenberg, 40629 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,91 m²,4.714 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Hoch über den Dächern: Penthouse-Flair in einer 3-Zimmer Wohnung mit Aussicht.,737.000 €,"Röttgen, 53125 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"108,12 m²",6.817 €/m²,Dachgeschoss,nil,Sommer 2024,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Nachhaltig Wohnen: 2-Zimmer Wohnung mit A+ Energieeffizienz und einem Garten zum Verlieben.,433.000 €,"Röttgen, 53125 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"66,79 m²",6.483 €/m²,Erdgeschosswohnung,nil,Sommer 2024,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöner wohnen in Ascheberg,256.000 €,"59387 Ascheberg, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"58,19 m²",4.399 €/m²,nil,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöner wohnen in Ascheberg,349.000 €,"59387 Ascheberg, Coesfeld (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"83,35 m²",4.187 €/m²,nil,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Flexibele 4,5-Zimmer-Wohnung in Herten nach Ihren Vorstellungen",240.000 €,"Nimrodstr. 58,
+45699 Herten, Recklinghausen (Kreis)",4,105 m²,2.286 €/m²,Erdgeschosswohnung,15 m²,1.10.2024,3,2,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Exklusives Wohngefühl im Neubau: 2-Zimmer Wohnung mit Balkon und fantastischer Aussicht.,384.000 €,"Röttgen, 53125 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"63,94 m²",6.006 €/m²,Etagenwohnung,nil,Sommer 2024,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Flexibele 4,5-Zimmer-Wohnung in Herten nach Ihren Vorstellungen im DG",240.000 €,"Nimrodstraße 58b,
+45699 Herten, Recklinghausen (Kreis)",4,111 m²,2.162 €/m²,Dachgeschoss,nil,01.07.2024,nil,2,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Geräumige helle ETw im 1.OG mit PKW-Stellplatz,210.000 €,"32105 Bad Salzuflen, Lippe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,114 m²,1.842 €/m²,Etagenwohnung,nil,nil,nil,2,nil,"3,57 %","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Kapitalanlage mit Steuervorteil durch Denkmalabschreibung,99.900 €,"Wichlinghauser Straße 26,
+Oberbarmen, 42277 Wuppertal",3,63 m²,1.586 €/m²,nil,nil,nil,2,1,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Stadtwohnung mit Stellplatz sucht einen neuen Besitzer!,95.000 €,"Barmen, 42283 Wuppertal
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,61 m²,1.557 €/m²,Etagenwohnung,nil,nil,1,1,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Sehr schöne und gepflegte 2-Zimmer-Wohnung,240.000 €,"Kalstert 88b,
+40724 Hilden, Mettmann (Kreis)",2,62 m²,3.871 €/m²,Etagenwohnung,8 m²,nil,1,1,1 Tiefgaragen-Stellplatz,"3,57%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer Wohnung im Zentrum von Krefeld!!Provisionsfrei!!,39.000 €,"Dießem/Lehmheide, 47805 Krefeld
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,68 m²,574 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stadtnah und Ruhe pur: Moderne 3-Zimmer Wohnung mit traumhaftem Ausblick.,504.000 €,"Röttgen, 53125 Bonn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"87,28 m²",5.775 €/m²,Etagenwohnung,nil,Sommer 2024,nil,nil,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+OHNE KÄUFER-PROVISION: Großzügige und vermietete Eigentumswohnung im Hammer Norden,150.000 €,"Bockum-Hövel, 59065 Hamm
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,88 m²,1.705 €/m²,nil,8 m²,nil,2,1,Garage,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

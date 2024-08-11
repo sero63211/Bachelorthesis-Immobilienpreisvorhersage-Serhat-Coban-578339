@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Sehr gepflegte 2 Zimmer Wohnung mit Fantastischem Blick Nähe Gärten der Welt,195.000 €,"Hellersdorf, 12629 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,57 m²,3.421 €/m²,Etagenwohnung,nil,nil,1,1,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Bezugsfrei ab Juli 2025: Schöne 3-Zi-Altbau mit Balkon am Mauerpark,549.000 €,"Mitte (Ortsteil), 10435 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"75,45 m²",7.276 €/m²,nil,nil,01.07.2025,1,1,nil,"2,98 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Frisch sanierte 1-Zimmer-Wohnung in Altbau,319.823 €,"Utrechter Straße 31,
+Wedding, 13347 Berlin",1,"52,43 m²",6.100 €/m²,Erdgeschosswohnung,nil,sofort bezugsfertig,nil,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"""Bezugsfrei ab sofort: Charmante Altbauwohnung mit Balkon, Fernwärme und Keller in Top-Lage""",469.500 €,"Beusselstraße 36,
+Moabit, 10553 Berlin",3,88 m²,5.335 €/m²,Etagenwohnung,3 m²,Ab sofort bezugsfrei,3,1,nil,"16.761,15 inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Smart investiert: vermietete 2-Zimmerwohnung,220.000 €,"Loschmidtstraße 16,
+Charlottenburg, 10587 Berlin",2,"54,43 m²",4.042 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete 2-Zimmer-Altbau-Wohnung mit Balkon im Reuterkiez,311.000 €,"Neukölln (Ortsteil), 12043 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"78,85 m²",3.944 €/m²,Etagenwohnung,nil,nil,1,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gut geschnittene 2-Zimmer-Wohnung im Altbau,344.988 €,"Utrechter Straße 31,
+Wedding, 13347 Berlin",2,"54,76 m²",6.300 €/m²,Etagenwohnung,nil,sofort bezugsfertig,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Neubau und Bezugsfrei: Ihr Familienglück mit sonnigem Balkon?,739.500 €,"Friedrichshain, 10249 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,85 m²,8.700 €/m²,nil,nil,nil,nil,2,nil,3.57%,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+*Urbaner Wohnluxus unterm Dach: BEZUGSFREI – 1-Zimmer-Dachgeschosswohnung in City West!*,265.000 €,"Pestalozzistr 36,
+Charlottenburg, 10627 Berlin",1,"43,31 m²",6.119 €/m²,Dachgeschoss,nil,nil,nil,1,nil,"3,57% inkl. MwSt","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Vermietete Einzimmerwohnung unweit des Helmholtzplatzes,199.000 €,"Kanzowstraße 3,
+Prenzlauer Berg, 10439 Berlin",1,"33,93 m²",5.865 €/m²,Etagenwohnung,nil,nil,1,1,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Entdecken Sie Ihr Traumdomizil: Einzigartiges Dachgeschoss mit Exklusivität und Komfort!,549.000 €,"Wilhelmstadt, 13581 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"106,44 m²",5.158 €/m²,Dachgeschoss,nil,nil,3,2,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Attraktive 2-Zimmer-Wohnung in Marienfelde,224.000 €,"Marienfelde, 12279 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"65,7 m²",3.409 €/m²,Hochparterre,nil,nil,2,1,1 Parkhaus-Stellplatz,"3,57 % inkl. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': ''}"
+Pluspunkt Kapitalanlage: gute Vermietbarkeit,155.000 €,"Loschmidtstraße 16,
+Charlottenburg, 10587 Berlin",1,"30,28 m²",5.119 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Diese Wohnung hat Größe,850.000 €,"Gaudystraße 14,
+Prenzlauer Berg, 10437 Berlin",3,"104,09 m²",8.166 €/m²,Etagenwohnung,nil,nil,2,1,nil,"Courtage von 3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Wunderschöne, vermietete Altbauwohnung in der Flotowstraße als Kapitalanlage",310.000 €,"Flotowstr. 13,
+Lichterfelde, 12203 Berlin",3,86 m²,3.605 €/m²,Etagenwohnung,nil,nil,2,1,nil,"3,57% Käufer-Provision inkl. USt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Kapitalanlage gesucht? Hier gefunden!,140.000 €,"Loschmidtstraße 16,
+Charlottenburg, 10587 Berlin",1,"30,28 m²",4.624 €/m²,Etagenwohnung,nil,nil,nil,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"ETW mit eigenem Garten / Wärmepumpe und PV Anlage, ruhige und grüne Lage, 30% Sonder Afa!",379.000 €,"Uslarerstr 5,
+Kaulsdorf, 12623 Berlin",3,70 m²,5.414 €/m²,nil,nil,nil,2,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Vermietete Kapitalanlage mit Loggia,299.000 €,"Loschmidtstraße 16,
+Charlottenburg, 10587 Berlin",3,"74,72 m²",4.002 €/m²,Erdgeschosswohnung,nil,nil,2,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+DG mit Terrasse und Fahrstuhl im Herzen Berlin´s,370.000 €,"Adalbertstr. 42,
+Mitte (Ortsteil), 10179 Berlin",2,52 m²,7.115 €/m²,Dachgeschoss,52 m²,nil,1,1,nil,"3,57 %","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Hübsche Altbauwohnung im Gleimkiez,450.000 €,"Gaudystraße 14,
+Prenzlauer Berg, 10437 Berlin",2,"61,78 m²",7.284 €/m²,Erdgeschosswohnung,nil,nil,1,1,nil,"Courtage von 3,57 % inkl. ges. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"

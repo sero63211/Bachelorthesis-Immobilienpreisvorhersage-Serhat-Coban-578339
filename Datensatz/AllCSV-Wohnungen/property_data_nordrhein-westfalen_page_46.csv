@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+2 verbundene Wohnungen + provisionsfrei +,53.000 €,"Paulinenstraße XXXX,
+Schalke, 45881 Gelsenkirchen",3,71 m²,746 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Wohnung im 2. OG mit TG-Stellplatz,196.000 €,"Memelweg XXXX,
+Tannenbusch, 53119 Bonn",1,85 m²,2.306 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2 Wohnungen + provisionsfrei +,58.000 €,"Blumendelle XXXX,
+Schalke, 45881 Gelsenkirchen",7,114 m²,509 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"4-Zimmer-Wohnung, Terrasse, Garten, Garage",108.000 €,"Striegauer Straße XXXX,
+32312 Lübbecke, Minden-Lübbecke (Kreis)",4,"82,29 m²",1.312 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung nebst Laden,275.000 €,"Weißenburgstraße XXXX,
+Neustadt/Nord, 50670 Köln",2,44 m²,6.250 €/m²,nil,26 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit 2 Balkonen und Garage,120.000 €,"Eschweg XXXX,
+33775 Versmold, Gütersloh (Kreis)",3,78 m²,1.538 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
++ 4-Zimmer-Wohnung mit Loggia +,202.000 €,"Stefan-Zweig-Straße XXXX,
+Steinbüchel, 51377 Leverkusen",4,93 m²,2.172 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung mit 2 Balkonen,113.000 €,"Meigenstraße XXXX,
+52223 Stolberg (Rheinland), Aachen (Kreis)",4,90 m²,1.256 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Dachgeschoss-Wohnung mit Terrasse, Garage und Stellplatz",125.000 €,"Altenhöfener Straße XXXX,
+Herne-Mitte, 44623 Herne",3,104 m²,1.202 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung ++ provisionsfrei ++,48.000 €,"Plaschkestraße XXXX,
+59457 Werl, Soest (Kreis)",2,50 m²,960 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2 Wohnungen und 2 Garagen + provisionsfrei +,287.000 €,"Habichtweg XXXX,
+50189 Elsdorf, Rhein-Erft-Kreis",7,"153,85 m²",1.865 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+4-Zimmer-Wohnung + provisionsfrei +,56.000 €,"Oesterheidestr. XXXX,
+Langendreer, 44892 Bochum",4,103 m²,544 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 2-Zimmer-Wohnung +,5.580 €,"Kaiser-Wilhelm-Straße XXXX,
+Marxloh, 47169 Duisburg",2,"47,07 m²",119 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung + provisionsfrei +,50.000 €,"Blumenthalstraße XXXX,
+Altstadt-Süd, 46045 Oberhausen",3,64 m²,781 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ 3-Zimmer-Wohnung mit Balkon +,6.950 €,"Kaiser-Wilhelm-Straße XXXX,
+Marxloh, 47169 Duisburg",3,"64,44 m²",108 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung mit Balkon,96.000 €,"Theodor-Heuss-Straße XXXX,
+50170 Kerpen, Rhein-Erft-Kreis",2,"50,28 m²",1.909 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3-Zimmer-Wohnung mit Garage,121.000 €,"Schumannstraße XXXX,
+41517 Grevenbroich, Neuss (Rhein-Kreis)",3,"78,34 m²",1.545 €/m²,nil,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Balkon,14.600 €,"Ottostraße XXXX,
+Hochheide, 47198 Duisburg",3,84 m²,174 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+2-Zimmer-Wohnung + provisionsfrei +,29.000 €,"Münchener Straße XXXX,
+Schalke, 45881 Gelsenkirchen",2,44 m²,659 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+3-Zimmer-Wohnung mit Loggia,158.000 €,"Junggesellenstraße XXXX,
+City, 44135 Dortmund",3,81 m²,1.951 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"

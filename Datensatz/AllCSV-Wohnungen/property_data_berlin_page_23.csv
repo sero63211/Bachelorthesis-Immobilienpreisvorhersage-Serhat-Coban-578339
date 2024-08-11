@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Gut erhaltene 2-Zimmer-Wohnung mit Balkon - provisionsfrei,480.000 €,"Bergstraße xx,
+Mitte (Ortsteil), 10115 Berlin",2,"65,24 m²",7.357 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Luxuswohnung im YOO Berlin-Mitte inkl. Schwimmbad, Gym u.v.m.",1.200.000 €,"Bertolt-Brecht-Platz 2,
+Mitte (Ortsteil), 10117 Berlin",3,118 m²,10.169 €/m²,Etagenwohnung,nil,nil,2,2,1 Tiefgaragen-Stellplatz,"3,57% inkl. 19% MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-einbaukueche-label': ''}"
+Am Volkspark Prenzlauer Berg - Sofortbezug - Provisionsfrei,289.000 €,"Herbert-Tschäpe-Straße 22,
+Fennpfuhl, 10369 Berlin",2,"48,69 m²",5.936 €/m²,nil,nil,sofort,1,1,nil,Nein,"{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sehr gepflegte 2-Zimmer-Wohnung mit Loggia - provisionsfrei,300.000 €,"Düsseldorfer Straße xx,
+Wilmersdorf, 10707 Berlin",2,74 m²,4.054 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+5-Zimmer-Wohnung mit Terrasse ++ provisionsfrei ++,610.000 €,"Hobrechtstraße xx,
+Neukölln (Ortsteil), 12047 Berlin",5,165 m²,3.697 €/m²,nil,0 m²,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Bezugsfertig - freie Eigentumswohnung mit Potential,259.000 €,"Lankwitz, 12209 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,63 m²,4.111 €/m²,Hochparterre,66 m²,Sofort,2,1,1 Außenstellplatz,"3,57 % incl. 19% MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+***BEZUGSFREI: Exklusive 4-Zimmer-Dachgeschosswohnung mit Aufzug***,949.000 €,"Moabit, 10553 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,145 m²,6.545 €/m²,Dachgeschoss,166 m²,sofort,3,2,nil,"3,57%","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Ein besonderes Lebensgefühl verlangt nach einem außergewöhnlichen Zuhause!,1.850.000 €,"Charlottenburg, 10625 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,194 m²,9.536 €/m²,Etagenwohnung,nil,nach Vereinbarung,2,2,nil,2.38 %,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': ''}"
+Anlageobjekt - vermietete Wohnung - Altbaucharme am Boxhagener Platz,335.000 €,"Friedrichshain, 10245 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,69 m²,4.855 €/m²,Etagenwohnung,nil,vermietet,1,1,nil,"3,57 % inkl. 19 % MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Energieeffizientes Wohnen im Neubau,460.000 €,"Altglienicke, 12524 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"86,5 m²",5.318 €/m²,Etagenwohnung,nil,nil,3,2,1 Tiefgaragen-Stellplatz,"3,57 % inkl. gesetzlicher MwSt. bezogen auf den Kaufpreis","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Großzügiges Wohnen am Thielpark,Auf Anfrage,"Dahlem, 14195 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,193 m²,nil,Etagenwohnung,nil,nil,5,3,nil,"2,38 % des Kaufpreises inkl. Mwst., zahlbar vom Käufer an die GrundBauArt GmbH","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+3-Zimmer-Wohnung mit Balkon,208.000 €,"Juliusstraße xx,
+Neukölln (Ortsteil), 12051 Berlin",3,"76,54 m²",2.718 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sonnige und hochwertige 4-Zimmerwohnung mit Loggia und atemberaubendem Blick am Potsdamer Platz,1.199.000 €,"Gabriele-Tergit-Promenade 21,
+Tiergarten, 10963 Berlin",4,"119,1 m²",10.067 €/m²,Etagenwohnung,nil,nil,3,2,1 Tiefgaragen-Stellplatz,"2,975%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Luxuriöse City-Wohnung im Erdgeschoss am Ludwigkirchplatz!,995.000 €,"Sächsische Straße 3,
+Wilmersdorf, 10707 Berlin",2,"106,41 m²",9.351 €/m²,nil,nil,nil,1,2,1 Tiefgaragen-Stellplatz,"3,57% inkl. gesetzl. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+Loft-Wohnung der Extraklasse in Bestlage – Mit Ausblick ins Grüne,949.000 €,"Prenzlauer Berg, 10405 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,101 m²,9.396 €/m²,nil,nil,ab sofort,2,1,nil,"2,98%","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+IMMOBERLIN.DE - Toplage! Faszinierende Stuck-Altbauwohnung mit Südbalkon + -loggia beim Savignyplatz,998.000 €,"Charlottenburg, 10629 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,153 m²,6.523 €/m²,Etagenwohnung,nil,nil,nil,nil,nil,"3,57 % inklusive der gesetzlichen Mehrwertsteuer","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': ''}"
+"2-Zimmer-Wohnung, Balkon, Garage",210.000 €,"Kastanienallee xx,
+Westend, 14050 Berlin",2,"58,67 m²",3.579 €/m²,nil,nil,nil,nil,nil,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+5-Zimmer-Etagenwohnung mit zwei Balkonen nahe des Grunewalds,589.000 €,"Westend, 14055 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"125,75 m²",4.684 €/m²,Etagenwohnung,nil,nil,4,2,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+### TOP LAGE in Moabit - Dachgeschoss mit Weitblick ###,395.000 €,"Moabit, 10551 Berlin
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"93,36 m²",4.231 €/m²,Dachgeschoss,nil,nach Absprache,1,1,nil,"3,57 % v. Kaufpreis inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': '', 'is24qa-vermietet-label': ''}"
+1 Zimmer Apartment mit Balkon,198.900 €,"Wartburgstraße 49a,
+Schöneberg, 10823 Berlin",1,"29,9 m²",6.652 €/m²,Etagenwohnung,nil,sofort,nil,1,1 Garage,"3,57% inkl. 19% MwSt","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"

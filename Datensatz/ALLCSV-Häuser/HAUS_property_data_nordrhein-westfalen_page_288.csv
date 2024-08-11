@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+VR IMMO: Zweifamilienhaus mit Einliegerwohnung in ruhiger Waldrandlage,395.000 €,"58515 Lüdenscheid, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,239 m²,908 m²,1.653 €/m²,Mehrfamilienhaus,40 m²,nil,5,3,3 Garagen,"3,57% Käuferprovision (inkl. MwSt.)","{'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+VR IMMO: Reihenendhaus als Eigentumswohnung.,129.000 €,"58809 Neuenrade, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"94,67 m²",1.944 m²,1.363 €/m²,Reiheneckhaus,nil,nach Vereinbarung,2,2,nil,"+3,57% Käuferprovision (inkl. MwSt.)",{'is24qa-vermietet-label': ''}
+VR IMMO: Einzigartige Architektur in bester Lage,289.000 €,"58791 Werdohl, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",5,"157,95 m²",2.358 m²,1.830 €/m²,Einfamilienhaus (freistehend),nil,sofort,3,1,Garage,"+3,57% Käuferprovision (inkl. MwSt.)",{}
+VR IMMO: Bezauberndes Gartenhaus direkt am Wald.,75.000 €,"58840 Plettenberg, Märkischer Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"68,71 m²",411 m²,1.092 €/m²,Bungalow,nil,01.04.2024,nil,1,nil,"+3,57% Käuferprovision (inkl. MwSt.)","{'is24qa-keller-label': '', 'is24qa-als-ferienhaus-geeignet-label': ''}"
+Mehrgenerationen Wohnen in bester Lage von Bochum-Weitmar,680.000 €,"Weitmar-Mark, 44795 Bochum
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","8,5",188 m²,572 m²,3.617 €/m²,Mehrfamilienhaus,nil,nil,nil,3,nil,"Käuferprovision beträgt 4,76 % (inkl. MwSt.) des beurkundeten Kaufpreises",{}
+Seniorengerecht mit Aufzug ! Freistehendes Einfamilienhaus mit Wintergarten und Garage,399.000 €,"41751 Viersen, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",129 m²,298 m²,3.093 €/m²,Einfamilienhaus (freistehend),18 m²,sofort,2,1,1 Garage,"3,57 % (inkl. 19 % MwSt.) Käuferprovision","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-stufenloser-zugang-label': ''}"
+"Modernes Mehrfamilienhaus in Bestlage von Königsdorf, gute Wohnungsgrößen, stabile Mieterträge",1.980.000 €,"50226 Frechen, Rhein-Erft-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",16,524 m²,495 m²,3.779 €/m²,Mehrfamilienhaus,80 m²,sofort,8,nil,8 Tiefgaragen-Stellplätze,"Die Courtage beträgt 4,76 % auf den Kaufpreis inkl. 19 % gesetzlicher MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Exklusivität, Sicherheit und absolute Ruhiglage: Traumimmobilie ca. 15 Minuten von der KÖ entfernt",6.650.000 €,"41564 Kaarst, Neuss (Rhein-Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",15,600 m²,7.660 m²,11.083 €/m²,Villa,230 m²,nach Absprache,5,nil,4 Garagen,"Die Courtage beträgt 3,57 % auf den Kaufpreis inkl. 19 % gesetzlicher MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Lichtdurchflutetes Architektenhaus am Landschaftsschutzgebiet,1.530.000 €,"40764 Langenfeld (Rheinland), Mettmann (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,222 m²,580 m²,6.892 €/m²,Einfamilienhaus (freistehend),70 m²,nil,nil,3,nil,"Die Courtage beträgt 3,57 % inkl. 19 % gesetzlicher Mehrwertsteuer des beurkundeten Kaufpreises.",{}
+Einmaliges historisches Gestüt mit klassizistischem Herrenhaus und Nebengebäuden in Porta Westfalica,6.500.000 €,"32457 Porta Westfalica, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",27,1.400 m²,580.000 m²,4.643 €/m²,Villa,nil,nil,7,6,nil,"Die Courtage beträgt 3,57 % inkl. 19 % gesetzlicher Mehrwertsteuer des beurkundeten Kaufpreises.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"""Verwunschenes Refugium: Ein Haus in grüner Idylle von Münster""",1.149.000 €,"Handorf, 48157 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",11,262 m²,597 m²,4.385 €/m²,Einfamilienhaus (freistehend),80 m²,nil,7,3,3 Außenstellplätze,"3,57 % inkl. MwSt. vom notariell beurkundeten Kaufpreis","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-einliegerwohnung-label': ''}"
+Exklusive Stadtvilla der Extraklasse: High-End-Luxus auf höchstem Niveau,Auf Anfrage,"Buer, 45894 Gelsenkirchen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",13,1.085 m²,3.042 m²,nil,Villa,1.450 m²,nil,6,5,11 Tiefgaragen-Stellplätze,"3,57% der notariell beurkundeten Kaufsumme inkl. 19 % MwSt.","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Exklusive Villa mit traumhaftem Grundstück,4.800.000 €,"Resse, 45892 Gelsenkirchen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",14,978 m²,30.000 m²,4.908 €/m²,Villa,nil,nil,7,nil,nil,"Die Courtage beträgt 3,57 % auf den Kaufpreis inkl. 19 % gesetzlicher MwSt.",{'is24qa-keller-label': ''}
+Schönes Dreifenster-Reihenmittelhaus zur Eigennutzung in Bestlage Ehrenfelds,998.000 €,"Ehrenfeld (Ortsteil), 50823 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",12,170 m²,124 m²,5.871 €/m²,Mehrfamilienhaus,170 m²,nil,nil,nil,nil,"5,95 % inkl. 19 % MwSt. vom beurkundeten Kaufpreis.",{}
+"Mehrfamilienhaus-Renditeobjekt mit Baugrundstück Nähe Deutzer Freiheit/Lanxess-Arena, Messe, Rhein",2.100.000 €,"Deutz, 50679 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",21,545 m²,362 m²,3.853 €/m²,Mehrfamilienhaus,nil,sofort,nil,nil,3 Garagen,"4,76 % vom beurkundeten Kaufpreis",{}
+Stilvolles Wohnen in zentraler Lage,1.095.000 €,"Kernstadt, 33100 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,192 m²,488 m²,5.703 €/m²,Einfamilienhaus (freistehend),nil,nil,3,2,2 Carports,"Käuferprovision beträgt 3,00 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-gaeste-wc-label': ''}
+Idyllisches Landhaus: Vielfältige Nutzungsmöglichkeiten für Ihren persönlichen Rückzugsort,399.000 €,"33184 Altenbeken, Paderborn (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",10,432 m²,3.601 m²,924 €/m²,Einfamilienhaus (freistehend),nil,nil,4,3,2 Carports,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Ruheoase in einzigartiger Citylage,649.000 €,"Kernstadt, 33098 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,208 m²,411 m²,3.120 €/m²,Einfamilienhaus (freistehend),140 m²,nil,3,3,nil,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises","{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+Grünes Paradies in der Südstadt!,668.000 €,"Kernstadt, 33098 Paderborn
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"125,83 m²",667 m²,5.309 €/m²,Einfamilienhaus (freistehend),nil,nil,1,2,1 Garage,"Käuferprovision beträgt 3,57 % (inkl. MwSt.) des beurkundeten Kaufpreises",{'is24qa-keller-label': ''}
+**Reserviert** Gemütliches Reihenmittelhaus in gepflegter Lage von Schaffrath,195.000 €,"Wildroßstr. 73,
+Beckhausen, 45897 Gelsenkirchen",4,87 m²,413 m²,2.241 €/m²,Reihenmittelhaus,15 m²,nil,2,nil,nil,"3,57% inkl. gesetzl. MwSt. Käuferprovision",{}

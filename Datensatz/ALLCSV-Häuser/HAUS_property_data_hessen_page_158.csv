@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,property_area,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Freistehendes 2-Familienhaus + provisionsfrei +,340.181 €,"Friedensstraße XXX,
+61476 Kronberg im Taunus, Hochtaunuskreis",1,1 m²,760 m²,340.181 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
++ Doppelhaushälfte mit Terrasse und Garage in guter Wohnlage +,199.000 €,"Ernst-Reuter-Straße XXX,
+37287 Wehretal, Werra-Meißner-Kreis",5,119 m²,621 m²,1.672 €/m²,Wohnimmobilie (sonstige),33 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Gepflegtes freistehendes 5-Zimmer-Einfamilienhaus mit großem Grundstück,790.000 €,"Schlesienstraße 6,
+65824 Schwalbach am Taunus, Main-Taunus-Kreis",5,115 m²,652 m²,6.870 €/m²,Einfamilienhaus (freistehend),140 m²,18.3.2024,3,2,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Traumbungalow mit Rheinblick in Eltville,Auf Anfrage,"Rheinallee 20,
+65346 Eltville am Rhein, Rheingau-Taunus-Kreis",4,152 m²,887 m²,nil,Besondere Immobilie,152 m²,14.5.2024,3,1,2 Garagen,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+MFH in Wiesbaden-Hessloch - Leben und Arbeiten unter einem Dach oder Kapitalanlage,750.000 €,"Heßloch, 65189 Wiesbaden
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",7,242 m²,335 m²,3.099 €/m²,Mehrfamilienhaus,30 m²,31.3.2024,4,4,nil,Nein,"{'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schönes Wochenendhäuschen mit Gartengrundstück zu verkaufen,100.000 €,"63697 Hirzenhain, Wetteraukreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,35 m²,520 m²,2.857 €/m²,nil,nil,nil,1,1,1 Außenstellplatz,Nein,"{'is24qa-als-ferienhaus-geeignet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Sehr schönes Ein- bis 2-Familienhaus in Dreieich Offenthal von privat zu verkaufen!,589.000 €,"Am Alten Rathaus 13,
+63303 Dreieich, Offenbach (Kreis)",8,188 m²,320 m²,3.133 €/m²,Mehrfamilienhaus,nil,nil,nil,2,4 Carports,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Reihenendhaus mit 4 Zi. auf herrlichem Grundstück mit Erbbaurecht in F - Niederursel,249.000 €,"Niederursel, 60439 Frankfurt am Main
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,80 m²,252 m²,3.113 €/m²,Reiheneckhaus,80 m²,nil,3,1,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Attraktives 8-Zimmer-Mehrfamilienhaus, mit Gewerbefläche in Wetzlar, Naunheim",525.000 €,"35584 Wetzlar, Lahn-Dill-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,250 m²,200 m²,2.100 €/m²,Mehrfamilienhaus,100 m²,nil,nil,3,3 Stellplätze,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ruhig gelegenes 5-Zimmer-DHH mit schönem Ausblick in Lautertal (Odenwald),289.000 €,"Am Lustgarten 14,
+64686 Lautertal (Odenwald), Bergstraße (Kreis)",5,140 m²,678 m²,2.064 €/m²,Doppelhaushälfte,nil,nil,nil,2,1 Garage,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Freundliches 4-Zimmer-Reihenhaus zum Kauf in Großenlüder,390.000 €,"Im Kalbig 15,
+36137 Großenlüder, Fulda (Kreis)",4,123 m²,837 m²,3.171 €/m²,Reihenmittelhaus,nil,nil,3,2,1 Außenstellplatz,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ansprechendes Einfamilienhaus mit gehobener Innenausstattung zum Kauf in Neu-Anspach,Auf Anfrage,"61267 Neu-Anspach, Hochtaunuskreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",6,197 m²,509 m²,nil,Einfamilienhaus (freistehend),122 m²,9.5.2023,1,2,1 Garage,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Einfamilienhaus nebst Wirtschaftsgebäude,100.000 €,"Bahnhofstraße XXX,
+36280 Oberaula, Schwalm-Eder-Kreis",5,"140,8 m²",403 m²,710 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Platz für alle + Einfamilienhaus mit Einliegerwohnung +,930.000 €,"Bindweidring XXX,
+61184 Karben, Wetteraukreis",8,"298,62 m²",449 m²,3.114 €/m²,Wohnimmobilie (sonstige),0 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Doppelhaushälfte, Balkon, Terrasse, Garage",673.000 €,"Ostwaldstraße XXX,
+Biebrich, 65203 Wiesbaden",4,"135,11 m²",601 m²,4.981 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+2-Familienhaus mit ehem. Werkstatt - provisionsfrei,188.000 €,"Zum Stieg XXX,
+36282 Hauneck, Hersfeld-Rotenburg (Kreis)",1,176 m²,552 m²,1.068 €/m²,Wohnimmobilie (sonstige),91 m²,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"Freistehendes Einfamilienhaus, Garten, Garage, Stellplatz",428.000 €,"Rote Erde XXX,
+34270 Schauenburg, Kassel (Kreis)",5,"124,72 m²",562 m²,3.432 €/m²,Wohnimmobilie (sonstige),nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+"EFH, freistehend und mit luxuriöser Ausstattung mit Pool und allem, was das Herz begehrt in traumhaf",766.000 €,"35633 Lahnau, Lahn-Dill-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",8,250 m²,768 m²,3.064 €/m²,Einfamilienhaus (freistehend),324 m²,Sofort,nil,3,nil,"3,57 % Käuferprovision inkl. 19 % MwSt.",{}
+Kapitalanlage + Wohn-/Geschäftshaus +,600.000 €,"Hanauer Vorstadt XXX,
+Innenstadt, 63450 Hanau",1,"186,34 m²",190 m²,3.220 €/m²,Wohnimmobilie (sonstige),"49,88 m²",nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Ferienhaus in absoluter Idylle und Ruhe,145.000 €,"65385 Rüdesheim am Rhein, Rheingau-Taunus-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,40 m²,1.622 m²,3.625 €/m²,Bungalow,15 m²,Sofort,1,1,nil,"3,57 % Käuferprovision inkl. 19 % MwSt.",{'is24qa-als-ferienhaus-geeignet-label': ''}

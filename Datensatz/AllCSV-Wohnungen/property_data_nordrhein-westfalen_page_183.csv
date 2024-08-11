@@ -1,0 +1,55 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+Moderne Wohnung in Innenstadtlage. Stellplatz und Einbauküche inklusive.,292.500 €,"Mauritiuswall 14,
+Altstadt/Süd, 50674 Köln",2,"39,8 m²",7.349 €/m²,Etagenwohnung,nil,sofort,1,1,1 Parkhaus-Stellplatz,"2,38%","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+3-Zimmer-Dachgeschosswohnung in Citylage mit 2 Loggien,159.000 €,"Nordstadt, 42853 Remscheid
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,1.787 €/m²,Dachgeschoss,nil,sofort,2,1,nil,"3,57 % inkl. MwSt","{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Helle 3-Zimmer ETW mit offener Küche und 2 Balkonen,120.000 €,"45711 Datteln, Recklinghausen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,68 m²,1.765 €/m²,Etagenwohnung,nil,nil,2,1,nil,"4,76 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+"Whg. 4: Große Wohnung im 1. OG mit Balkon, 92 qm",389.900 €,"Peppmeierssiek 24,
+Jöllenbeck, 33739 Bielefeld",3,92 m²,4.238 €/m²,Etagenwohnung,nil,nil,2,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stilvolles Juwel auf zwei Ebenen mit atemberaubende Dachterrasse in Gievenbeck,385.000 €,"Gievenbeck, 48149 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"84,35 m²",4.564 €/m²,Maisonette,nil,nil,2,1,1 Tiefgaragen-Stellplatz,"2,98 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Lichtverwöhnte 3-Zi.-ETW in ruhiger und doch zentraler Lage,129.900 €,"Haddenbach, 42855 Remscheid
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,"55,13 m²",2.356 €/m²,Dachgeschoss,nil,nach Absprache,1,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Whg. 1: Erdgeschosswohnung mit viel Platz und Terrasse, 99 qm,",397.900 €,"Peppmeierssiek 24,
+Jöllenbeck, 33739 Bielefeld",3,99 m²,4.019 €/m²,Terrassenwohnung,nil,nil,2,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Stilvolle 6-Zimmer-Wohnung in Köln Altstadt & Neustadt-Süd,950.000 €,"Aggrippinaufer 2,
+Neustadt/Süd, 50678 Köln",6,144 m²,6.597 €/m²,Etagenwohnung,144 m²,1.7.2024,nil,2,nil,Nein,"{'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Tolle Erdgeschosswohnung,149.000 €,"47918 Tönisvorst, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,53 m²,2.811 €/m²,Erdgeschosswohnung,nil,nil,nil,nil,nil,Nein,{'is24qa-provisionsfrei-fuer-kaufende-label': ''}
+Attraktive vermietete 4-Zi.- ETW mit Balkon in ruhiger Lage von Münster-Coerde,210.000 €,"Coerde, 48157 Münster
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"86,07 m²",2.440 €/m²,nil,nil,nach Absprache,3,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': ''}"
+"Whg. 3: Neue Erdgeschosswohnung mit viel Platz für die Familie, Terrasse, 98 qm",397.900 €,"Peppmeierssiek 24,
+Jöllenbeck, 33739 Bielefeld",3,98 m²,4.060 €/m²,nil,nil,nil,2,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Whg. 2: Geräumige, neue Erdgeschoss-Wohnung, mit Terrasse, 82 qm",329.900 €,"Peppmeierssiek 24,
+Jöllenbeck, 33739 Bielefeld",2,82 m²,4.023 €/m²,Terrassenwohnung,nil,nil,1,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Attraktives Investment: Schöne Eigentumswohnung zentral in Köln-Lindenthal,189.000 €,"Lindenthal (Ortsteil), 50935 Köln
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,34 m²,5.559 €/m²,Dachgeschoss,nil,nach Vereinbarung,1,1,nil,"3,57 % inkl. ges. MwSt.",{'is24qa-keller-label': ''}
+Zur Eigennutzung oder als Kapitalanlage,125.000 €,"Mittelstadt, 58095 Hagen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,66 m²,1.894 €/m²,Dachgeschoss,10 m²,nach vereinbarung,2,1,nil,Nein,"{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Whg. 5: Geräumige Wohnung im 1. OG mit Balkon, 75qm",319.900 €,"Peppmeierssiek 24,
+Jöllenbeck, 33739 Bielefeld",2,75 m²,4.265 €/m²,Etagenwohnung,nil,nil,1,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Gemütliches Wohnen mit Weitblick,179.000 €,"32547 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,98 m²,1.827 €/m²,Terrassenwohnung,nil,nil,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': ''}"
+Düsseldorf-Gerresheim: 3-Zimmer-Wohnung zur Kapitalanlage,258.000 €,"Gerresheim, 40625 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,71 m²,3.634 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Stellplatz,"3,57% inklusive gesetzlicher MwSt.",{}
+Vermietete Dachgeschosswohnung als Kapitalanlage,79.000 €,"Lirich-Nord, 46049 Oberhausen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,52 m²,1.519 €/m²,Dachgeschoss,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Helle 3ZKDB Dachgeschosswohnung in modernem 3-Parteienhaus mit Sonnenbalkon in Walheim,249.000 €,"Im Winkel 6,
+Walheim, 52076 Aachen",3,"76,5 m²",3.255 €/m²,Dachgeschoss,nil,sofort,2,1,1 Außenstellplatz,"3,57","{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': '', 'is24qa-als-ferienwohnung-geeignet-label': ''}"
+Zentral und Ruhig! Sanierte & Barrierefreie 4-Zimmer-Wohnung mit Smart-Home-Anlage und Loggia!,365.000 €,"Wiesdorf, 51373 Leverkusen
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"114,01 m²",3.201 €/m²,nil,nil,nach Absprache,3,1,nil,"3,57 %","{'is24qa-online-besichtigung-moeglich-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Whg. 8 (Penthouse): Über den Dächern der Stadt, Exclusive Wohnung mit Dachloggia, 79 qm",349.900 €,"Peppmeierssiek 24,
+Jöllenbeck, 33739 Bielefeld",2,79 m²,4.429 €/m²,nil,nil,nil,1,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Whg. 6: Große Neubau-Wohnung für die Familie, inkl. Balkon, 92 qm",389.900 €,"Peppmeierssiek 24,
+Jöllenbeck, 33739 Bielefeld",3,92 m²,4.238 €/m²,nil,nil,nil,2,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Modernisierte Maisonette- Terrassen- Wohnung „Gut Brückerbach“,519.000 €,"Wersten, 40591 Düsseldorf
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,93 m²,5.581 €/m²,Maisonette,25 m²,nach Absprache,2,2,nil,"2,74 % inkl. MWST","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Einheit im Erdgeschoss,109.000 €,"47918 Tönisvorst, Viersen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",1,"34,7 m²",3.141 €/m²,nil,4 m²,nil,nil,1,nil,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Schöne 3 Zimmer Wohnung mit Fernblick,89.500 €,"Obergrünne 18,
+32584 Löhne, Herford (Kreis)",3,71 m²,1.261 €/m²,Etagenwohnung,nil,nil,2,1,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+"Whg. 7 (Penthouse): Hübsche Dachgeschoss-Wohnung mit großer Loggia, 79 qm",349.900 €,"Peppmeierssiek 24,
+Jöllenbeck, 33739 Bielefeld",2,79 m²,4.429 €/m²,nil,nil,nil,1,2,1 Außenstellplatz,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-stufenloser-zugang-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Darf es etwas Luxus sein? Eigentumswonung in begehrter Lage von Bad Münstereifel ...,479.000 €,"53902 Bad Münstereifel, Euskirchen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,129 m²,3.713 €/m²,Souterrain,nil,nach Absprache,nil,2,nil,"1,785","{'is24qa-balkon-terrasse-label': '', 'is24qa-vermietet-label': ''}"

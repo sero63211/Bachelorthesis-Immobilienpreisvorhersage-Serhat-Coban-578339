@@ -1,0 +1,41 @@
+title,price,address,rooms,living_space,price_per_m2,type,usable_area,available_from,bedrooms,bathrooms,garage_parking,buyer_commission,criteriagroup_boolean_listing
+"Maisonettewohnung mit Luxusbad, Keller und Stellplatz",216.000 €,"75015 Bretten, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,87 m²,2.483 €/m²,Maisonette,8 m²,nil,1,1,1 Außenstellplatz,"1,785 % inkl. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+"Helle, gepflegte Wohnung mit Keller und Stellplatz",284.000 €,"75015 Bretten, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,3.191 €/m²,nil,8 m²,sofort,2,1,1 Außenstellplatz,"1,785 % inkl. MwSt.","{'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"Gemütliche Wohnung mit Terrasse, Garten, Stellplatz",150.000 €,"73035 Göppingen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"58,8 m²",2.551 €/m²,Souterrain,2 m²,nil,1,1,1 Außenstellplatz,"3,57 % inkl. 19 % gesetzl. MwSt.",{'is24qa-einbaukueche-label': ''}
+"Sehr gepflegte, renovierte und zeitlose 4-Zimmer-Wohnung im 2. OG mit sonnigem Balkon!",289.000 €,"73035 Göppingen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,94 m²,3.074 €/m²,Etagenwohnung,nil,01.05.2024,nil,nil,1 Tiefgaragen-Stellplatz,"3,57 % inkl. ges. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+"Halbhöhenlage! 4-Zi.-Whg. mit Terrasse und Wintergarten, frei, Aufzug, ca. 169 m² Wfl., 3 TG-Stpl.",679.000 €,"Lemberg/Föhrich, 70469 Stuttgart
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,169 m²,4.018 €/m²,Terrassenwohnung,nil,sofort,nil,nil,3 Tiefgaragen-Stellplätze,"1,7 % inkl. ges. MwSt.","{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+Geräumige 4-Zimmer EG-Wohnung in 2FH mit Gartenanteil,189.000 €,"73540 Heubach, Ostalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,"89,26 m²",2.117 €/m²,Erdgeschosswohnung,nil,nach Absprache,2,1,1 Außenstellplatz,"3,57","{'is24qa-garten-mitbenutzung-label': '', 'is24qa-keller-label': ''}"
+4 Zimmer Wohnung 122qm mit TG und Stellplatz,330.000 €,"69181 Leimen, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,122 m²,2.705 €/m²,Etagenwohnung,nil,nach Absprache,nil,1,1 Tiefgaragen-Stellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+Entspanntes Wohnen: 2-Zimmer-Wohnung mit sonnigem Balkon!,85.000 €,"78112 Sankt Georgen im Schwarzwald, Schwarzwald-Baar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",2,"51,96 m²",1.636 €/m²,nil,nil,nil,1,1,nil,"3,57%",{'is24qa-balkon-terrasse-label': ''}
+Winnenden: Charmante Dachgeschosswohnung mit modernem Komfort und einzigartigem Ambiente!,349.000 €,"71364 Winnenden, Rems-Murr-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,109 m²,3.202 €/m²,Etagenwohnung,nil,nil,3,2,1 Tiefgaragen-Stellplatz,"3,927 % inkl. ges. MwSt.",{}
+"Freie, sofort beziehbare ETW mit Balkon + Garage!",235.000 €,"73035 Göppingen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5","104,97 m²",2.239 €/m²,Maisonette,nil,nil,3,1,1 Garage,"3,57 % inkl. ges. MwSt.",{}
+"Helle, gepflegte Wohnung mit Keller und Stellplatz",240.000 €,"75015 Bretten, Karlsruhe (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,89 m²,2.697 €/m²,Erdgeschosswohnung,8 m²,nil,2,1,1 Außenstellplatz,"1,785 % inkl. MwSt.","{'is24qa-keller-label': '', 'is24qa-vermietet-label': ''}"
+Moderne 3-Zimmer Wohnung zum Verkauf,399.000 €,"69412 Eberbach, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,103 m²,3.874 €/m²,Erdgeschosswohnung,nil,nach Absprache,1,1,1 Außenstellplatz,Nein,"{'is24qa-balkon-terrasse-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
+3 GUTE GRÜNDE: MODERN - GEPFLEGT - ZENTRUMSNAH,289.000 €,"79539 Lörrach, Lörrach (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,3.853 €/m²,Etagenwohnung,10 m²,nil,nil,nil,1 Tiefgaragen-Stellplatz,2.98% inkl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+FAMILIENFREUNDLICH UND BEZUGSFREI,309.000 €,"79232 March, Breisgau-Hochschwarzwald (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,82 m²,3.768 €/m²,Dachgeschoss,nil,nil,nil,nil,1 Außenstellplatz,3.57% inkl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-einbaukueche-label': '', 'is24qa-keller-label': ''}"
+"4,5 Zi.-Maisonette-Wohnung - großzügig - hell - komfortabel",325.000 €,"73108 Gammelshausen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","4,5",150 m²,2.167 €/m²,Maisonette,nil,frei,nil,nil,1 Außenstellplatz,"3,57 % inkl. ges. MwSt.",{}
+"Schmuckstück mit 6,5 Zimmern! Innen wie Außen stilvoll",409.000 €,"69412 Eberbach, Rhein-Neckar-Kreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","6,5",195 m²,2.097 €/m²,Maisonette,nil,nil,nil,nil,nil,"3,57 % inkl. ges. MwSt.","{'is24qa-balkon-terrasse-label': '', 'is24qa-garten-mitbenutzung-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': ''}"
+"3,5-Zimmer-Wohnung - gepflegt - sonniger Balkon",258.000 €,"73035 Göppingen, Göppingen (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",89 m²,2.899 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Garage,"3,57 % inkl. ges. MwSt.",{'is24qa-balkon-terrasse-label': ''}
+IDEALE EINSTEIGERIMMOBILIE IN ZENTRUMSNAHER LAGE,245.000 €,"71679 Asperg, Ludwigsburg (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",3,75 m²,3.267 €/m²,Etagenwohnung,nil,nil,nil,nil,1 Garage,3.57% inkl. MwSt.,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"""Eleganz trifft auf Raffinesse: Unsere Maisonettewohnung!",Auf Anfrage,"73479 Ellwangen (Jagst), Ostalbkreis
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.","3,5",85 m²,nil,nil,nil,nil,nil,1,2 Stellplätze,3.57%,"{'is24qa-balkon-terrasse-label': '', 'is24qa-keller-label': ''}"
+"4 Zi. EG mit Terrasse ca. 115 m² - Wohnung 1 - Werkstraße 3a, 79793 Wutöschingen - Neubau",449.000 €,"79793 Wutöschingen, Waldshut (Kreis)
+Die vollständige Adresse der Immobilie erhalten Sie vom Anbieter.",4,115 m²,3.904 €/m²,Erdgeschosswohnung,nil,nil,3,1,nil,Nein,"{'is24qa-personenaufzug-label': '', 'is24qa-balkon-terrasse-label': '', 'is24qa-gaeste-wc-label': '', 'is24qa-keller-label': '', 'is24qa-provisionsfrei-fuer-kaufende-label': ''}"
